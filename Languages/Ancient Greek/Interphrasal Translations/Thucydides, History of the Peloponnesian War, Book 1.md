@@ -419,3 +419,13 @@
 εἰ γὰρ ἀπαράσκευοι [For if unprepared] τοῖς τῶν ξυμμάχων ἐγκλήμασιν ἐπειχθέντες [having yielded to the accusations of the allies] τέμνομεν αὐτήν [we ravage it] ὁρᾶτε [beware] ὅπως μὴ αἴσχιον καὶ ἀπορώτερον τῇ Πελοποννήσῳ πράξομεν [how we will not act more basely and with more difficulty for the Peloponnese].
 
 ἐγκλήματα μὲν γὰρ [For accusations] καὶ πόλεων καὶ ἰδιωτῶν οἷόν τε καταλῦσαι [both of cities and of private individuals it is possible to settle] πόλεμον δὲ [but war] ξύμπαντας ἀραμένους [all having taken up] ἕνεκα τῶν ἰδίων [on account of private matters] ὃν οὐχ ὑπάρχει εἰδέναι καθ’ ὅτι χωρήσει [which it is not possible to know how it will proceed] οὐ ῥᾴδιον εὐπρεπῶς θέσθαι [it is not easy to undertake honorably].
+
+καὶ ἀνανδρία μηδενὶ [And let it not seem to anyone cowardice] πολλοὺς μιᾷ πόλει μὴ ταχὺ ἐπελθεῖν [for many not to attack one city quickly].
+
+εἰσὶ γὰρ καὶ ἐκείνοις [For there are also for them] οὐκ ἐλάσσους χρήματα φέροντες ξύμμαχοι [allies contributing no less money] καὶ ἔστιν ὁ πόλεμος [and war is] οὐχ ὅπλων τὸ πλέον [not of arms mostly] ἀλλὰ δαπάνης [but of expense] δι’ ἣν τὰ ὅπλα ὠφελεῖ [by means of which arms benefit] ἄλλως τε καὶ ἠπειρώταις πρὸς θαλασσίους [especially for land-dwellers against seafarers].
+
+πορισώμεθα οὖν πρῶτον αὐτήν [Therefore let us first provide it] καὶ μὴ τοῖς τῶν ξυμμάχων λόγοις πρότερον ἐπαιρώμεθα [and let us not be previously elated by the words of the allies]. οἵπερ δὲ καὶ τῶν ἀποβαινόντων τὸ πλέον ἐπ’ ἀμφότερα τῆς αἰτίας ἕξομεν [And those who will have most of the responsibility for the outcome in both directions] οὗτοι καὶ καθ’ ἡσυχίαν τι αὐτῶν προΐδωμεν [let these also quietly consider some of these things beforehand].
+
+καὶ τὸ βραδὺ καὶ μέλλον [And the slow and later thing] ὃ μέμφονται μάλιστα ἡμῶν [which they criticize most of us] μὴ αἰσχύνεσθε [do not be ashamed]. σπεύδοντές τε γὰρ [For both hastening] σχολαίτερον ἂν παύσαισθε [you would cease more slowly] διὰ τὸ ἀπαράσκευοι ἐγχειρεῖν [because of attacking unprepared] καὶ ἅμα [and at the same time] ἐλευθέραν καὶ εὐδοξοτάτην πόλιν διὰ παντὸς νεμόμεθα [we occupy a free and most glorious city through and through].
+
+καὶ δύναται [And it is most able] σωφροσύνη ἔμφρων τοῦτ’ εἶναι [wise prudence to be this]. μόνοι γὰρ δι’ αὐτὸ [For we alone, on account of it] εὐπραγίαις τε οὐκ ἐξυβρίζομεν [are not excessively insolent in prosperity] καὶ ξυμφοραῖς ἧσσον ἑτέρων εἴκομεν [and in misfortunes we yield less than others].
