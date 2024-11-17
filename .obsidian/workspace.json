@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
+                "file": "Languages/Ancient Greek/Interphrasal Translations/Thucydides, History of the Peloponnesian War, Book 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra, Permutations"
+              "title": "Thucydides, History of the Peloponnesian War, Book 1"
             }
           }
         ],
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "a44921645f7993c2",
@@ -209,6 +208,11 @@
   "active": "61301e5014a34f57",
   "lastOpenFiles": [
     "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
+    "Languages/Ancient Greek/Interphrasal Translations/Thucydides, History of the Peloponnesian War, Book 1.md",
+    "Languages/Ancient Greek/Interphrasal Translations",
+    "Languages/Ancient Greek/Untitled.md",
+    "Languages/Ancient Greek",
+    "Languages",
     "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
@@ -216,7 +220,6 @@
     "ReadMe.md",
     "Jot/Number Theory..md",
     "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
-    "Untitled",
     "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
     "Math/Elementary Number Theory/Elementary Number Theory, Chapter 4.md",
     "Jot",
