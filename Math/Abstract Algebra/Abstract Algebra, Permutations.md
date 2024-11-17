@@ -210,4 +210,8 @@ $$\begin{align*}
 **(2b)** We can start by verifying that 
 $$\sigma=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\text{,}$$
 and 
-$$\begin{align*}\tau^2&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\\&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\\&=\end{align*}$$
+$$\begin{align*}\tau^2&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\\&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\\&=\sigma\text{.}\end{align*}$$
+Then, we can show that 
+$$\mu=\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\text{,}$$
+and 
+$$\tau^$$
