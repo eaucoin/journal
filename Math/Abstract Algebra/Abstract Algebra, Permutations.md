@@ -166,8 +166,5 @@ $$\begin{align*}
 \begin{pmatrix}1&2&3&4&5\\1&4&2&3&5\end{pmatrix}
 
 \end{align*}$$
-$$\begin{align*}\end{align*}$$
-$$\begin{align*}\end{align*}$$
-$$\begin{align*}\end{align*}$$
-$$\begin{align*}\end{align*}$$
-$$\begin{align*}\end{align*}$$
+
+**(2)** sudo dnf install autokey-gtk
