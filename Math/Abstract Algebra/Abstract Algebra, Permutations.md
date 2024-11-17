@@ -262,6 +262,8 @@ $$\begin{align*}
 $$\begin{align*}
 
 &
-\tau\mu
+\tau\mu=\mu\tau
+\\\iff&
+\tau\tau^3=\tau^
 
 \end{align*}$$
