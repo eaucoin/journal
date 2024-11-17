@@ -8,3 +8,9 @@
 2024-11-17 14:35:06,072 - Unexpected error during sync: Command '['git', 'rebase', 'origin/HEAD']' returned non-zero exit status 128.
 2024-11-17 14:37:08,426 - Git operation failed: b"fatal: invalid upstream 'origin/HEAD'\n"
 2024-11-17 14:37:08,426 - Unexpected error during sync: Command '['git', 'rebase', 'origin/HEAD']' returned non-zero exit status 128.
+2024-11-17 14:38:28,874 - Git operation failed: b"fatal: invalid upstream 'origin/HEAD'\n"
+2024-11-17 14:38:28,874 - Unexpected error during sync: Command '['git', 'rebase', 'origin/HEAD']' returned non-zero exit status 128.
+2024-11-17 14:38:34,925 - Current branch: master
+2024-11-17 14:38:34,926 - Remote URL: git@github.com:eaucoin/journal.git
+2024-11-17 14:38:35,791 - Set up tracking for branch master
+2024-11-17 14:38:36,474 - Git repository successfully configured
