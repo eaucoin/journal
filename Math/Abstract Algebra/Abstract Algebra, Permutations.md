@@ -177,4 +177,5 @@ $$\begin{align*}
 \mu&=\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\text{.}
 
 \end{align*}$$
-We will verify that any two of them commute.
+We will verify that any two of them commute. The set of all possible two-pairs are
+$$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}$$
