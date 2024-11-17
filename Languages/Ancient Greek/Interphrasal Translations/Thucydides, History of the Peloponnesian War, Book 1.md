@@ -429,3 +429,4 @@
 καὶ τὸ βραδὺ καὶ μέλλον [And the slow and later thing] ὃ μέμφονται μάλιστα ἡμῶν [which they criticize most of us] μὴ αἰσχύνεσθε [do not be ashamed]. σπεύδοντές τε γὰρ [For both hastening] σχολαίτερον ἂν παύσαισθε [you would cease more slowly] διὰ τὸ ἀπαράσκευοι ἐγχειρεῖν [because of attacking unprepared] καὶ ἅμα [and at the same time] ἐλευθέραν καὶ εὐδοξοτάτην πόλιν διὰ παντὸς νεμόμεθα [we occupy a free and most glorious city through and through].
 
 καὶ δύναται [And it is most able] σωφροσύνη ἔμφρων τοῦτ’ εἶναι [wise prudence to be this]. μόνοι γὰρ δι’ αὐτὸ [For we alone, on account of it] εὐπραγίαις τε οὐκ ἐξυβρίζομεν [are not excessively insolent in prosperity] καὶ ξυμφοραῖς ἧσσον ἑτέρων εἴκομεν [and in misfortunes we yield less than others].
+
