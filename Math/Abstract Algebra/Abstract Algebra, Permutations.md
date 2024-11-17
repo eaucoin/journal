@@ -249,7 +249,11 @@ $$\begin{align*}
 &
 \sigma\mu=\mu\sigma
 \\\iff&
-\sigma\tau^3
+\sigma\tau^3=\tau^3\sigma
+\\\iff&
+\tau^2\tau^3=\tau^3\tau^2
+\\\iff&
+\tau^5=\tau
 
 \end{align*}$$
 
