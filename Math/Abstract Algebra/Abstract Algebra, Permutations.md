@@ -182,8 +182,16 @@ $$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}\text{.}$$
 We check each of the pairs:
 $$\begin{align*}
 
-\sigma\tau&=
+\sigma\tau&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}
 
-\t
+\\\tau\sigma&=
+
+\\\sigma\mu&=
+
+\\\mu\sigma&=
+
+\\\tau\mu&=
+
+\\\mu\tau&=
 
 \end{align*}$$
