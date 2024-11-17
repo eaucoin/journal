@@ -452,3 +452,16 @@
 
 ψηφίζεσθε οὖν [Vote therefore], ὦ Λακεδαιμόνιοι [Lacedaemonians], ἀξίως τῆς Σπάρτης τὸν πόλεμον [for war worthily of Sparta] καὶ μήτε τοὺς Ἀθηναίους ἐᾶτε μείζους γίγνεσθαι [and neither permit the Athenians to become greater] μήτε τοὺς ξυμμάχους καταπροδιδῶμεν [nor betray our allies] ἀλλὰ ξὺν τοῖς θεοῖς ἐπίωμεν ἐπὶ τοὺς ἀδικοῦντας [but with the gods let us go against those wronging us].
 
+τοιαῦτα λέξας [Having spoken such things] ἐπεψήφιζεν [he put to the vote] αὐτὸς ἔφορος ὢν [himself being ephor] ἐς τὴν ἐκκλησίαν τῶν Λακεδαιμονίων [to the assembly of the Lacedaemonians].
+
+ὁ δέ [And he] (κρίνουσι γὰρ βοῇ καὶ οὐ ψήφῳ [for they decide by shouting and not by ballot]) οὐκ ἔφη διαγιγνώσκειν τὴν βοὴν ὁποτέρα μείζων [said he did not distinguish the shout, which was louder] ἀλλὰ βουλόμενος αὐτούς [but wishing them] φανερῶς ἀποδεικνυμένους τὴν γνώμην [openly showing their opinion] ἐς τὸ πολεμεῖν μᾶλλον ὁρμῆσαι [to be more eager for war] ἔλεξεν [he said] ὅτῳ μὲν ὑμῶν [to whomever of you], ὦ Λακεδαιμόνιοι [Lacedaemonians], δοκοῦσι λελύσθαι αἱ σπονδαὶ καὶ οἱ Ἀθηναῖοι ἀδικεῖν [it seems that the treaty has been broken and the Athenians are wronging us] ἀναστήτω ἐς ἐκεῖνο τὸ χωρίον [let him stand up in that place] δείξας τι χωρίον αὐτοῖς [having pointed out a certain place to them] ὅτῳ δὲ μὴ δοκοῦσιν ἐς τὰ ἐπὶ θάτερα [but to whomever not, to the other side]. ἀναστάντες δὲ διέστησαν [And having stood up, they separated] καὶ πολλῷ πλείους ἐγένοντο [and those were much more numerous] οἷς ἐδόκουν αἱ σπονδαὶ λελύσθαι [to whom it seemed the treaty had been broken].
+
+προσκαλέσαντές τε τοὺς ξυμμάχους εἶπον [And having summoned the allies, they said] ὅτι σφίσι μὲν δοκοῖεν ἀδικεῖν οἱ Ἀθηναῖοι [that it seemed to them indeed that the Athenians were doing wrong] βούλεσθαι δὲ καὶ τοὺς πάντας ξυμμάχους παρακαλέσαντες ψῆφον ἐπαγαγεῖν [but they wanted, having also summoned all the allies, to put it to the vote] ὅπως κοινῇ βουλευσάμενοι τὸν πόλεμον ποιῶνται ἢν δοκῇ [so that, having deliberated in common, they might wage war if it seemed best].
+
+καὶ οἱ μὲν ἀπεχώρησαν ἐπ’ οἴκου διαπραξάμενοι ταῦτα [And they went home having accomplished these things] καὶ οἱ Ἀθηναίων πρέσβεις [and the Athenian ambassadors] ὕστερον ἐφ’ ἅπερ ἦλθον χρηματίσαντες [later having transacted the business for which they had come].
+
+ἡ δὲ διαγνώμη αὕτη τῆς ἐκκλησίας [This decision of the assembly] τοῦ τὰς σπονδὰς λελύσθαι [that the treaty had been broken] ἐγένετο [took place] ἐν τῷ τετάρτῳ καὶ δεκάτῳ ἔτει [in the fourteenth year] τῶν τριακοντουτίδων σπονδῶν προκεχωρηκυιῶν [of the thirty-year treaty having elapsed] αἳ ἐγένοντο μετὰ τὰ Εὐβοϊκά [which was made after the Euboean events].
+
+ἐψηφίσαντο δὲ οἱ Λακεδαιμόνιοι [And the Lacedaemonians voted] τὰς σπονδὰς λελύσθαι καὶ πολεμητέα εἶναι [that the treaty was broken and that it was necessary to wage war] οὐ τοσοῦτον τῶν ξυμμάχων πεισθέντες τοῖς λόγοις [not so much persuaded by the speeches of the allies] ὅσον φοβούμενοι τοὺς Ἀθηναίους [as much as fearing the Athenians] μὴ ἐπὶ μεῖζον δυνηθῶσιν [lest they become mightier] ὁρῶντες [seeing] αὐτοῖς τὰ πολλὰ τῆς Ἑλλάδος ὑποχείρια ἤδη ὄντα [that for them most of Greece was already subject].
+
+οἱ γὰρ Ἀθηναῖοι [For the Athenians] τρόπῳ τοιῷδε ἦλθον ἐπὶ τὰ πράγματα [came to the situation] ἐν οἷς ηὐξήθησαν [in which they became powerful].
