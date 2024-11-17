@@ -247,6 +247,9 @@ $$\begin{align*}
 $$\begin{align*}
 
 &
+\sigma\mu=\mu\sigma
+\\\iff&
+
 
 \end{align*}$$
 
