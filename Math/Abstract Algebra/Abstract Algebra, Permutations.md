@@ -170,8 +170,10 @@ $$\begin{align*}
 **(2)** Let
 $$\begin{align*}
 
-\sigma&=\begin{pmatrix}\end{pmatrix}\text{,}\\
+\sigma&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\text{,}\\
 
-\tau&=\begin{pmatrix}\end{pmatrix}\text{}
+\tau&=\begin{pmatrix}1&2&3&4\\\end{pmatrix}\text{, and}\\
+
+\mu&=\begin{pmatrix}1&2&3&4\end{pmatrix}
 
 \end{align*}$$
