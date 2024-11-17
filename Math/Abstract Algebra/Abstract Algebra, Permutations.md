@@ -207,7 +207,7 @@ $$\begin{align*}
 \begin{pmatrix}1&2&3&4\\1&2&3&4\end{pmatrix}
 
 \end{align*}$$
-**(2b)** We can verify that 
+**(2b)** We can starverify that 
 $$\sigma=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\text{,}$$
 and 
-$$\begin{align*}\tau^2&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\\&=\begin{pmatrix}1&2&3&4\\4&\end{pmatrix}\end{align*}$$
+$$\begin{align*}\tau^2&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\\&=\begin{pmatrix}1&2&3&4\\4&3&2&\end{pmatrix}\end{align*}$$
