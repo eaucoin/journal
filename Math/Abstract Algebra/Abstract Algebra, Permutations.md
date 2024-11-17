@@ -225,4 +225,6 @@ $$
 \begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\text{,}
 \end{align*}
 $$
-which completes our initial verification. Now, r
+which completes our initial verification. Now, recall that the pair sets whose commutativity we need to prove are
+$$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}\text{.}$$
+**(i
