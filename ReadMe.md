@@ -44,6 +44,49 @@ class ObsidianVaultHandler(FileSystemEventHandler):
             format='%(asctime)s - %(message)s'
         )
         
+        # Initialize git configuration
+        self.setup_git()
+        
+    def setup_git(self):
+        """Ensure git repository is properly configured"""
+        try:
+            os.chdir(self.vault_path)
+            
+            # Check if remote exists
+            try:
+                subprocess.run(['git', 'remote', 'get-url', 'origin'], 
+                             check=True, capture_output=True)
+            except subprocess.CalledProcessError:
+                logging.error("No remote 'origin' found. Please set up remote repository first")
+                raise ValueError("Git remote not configured")
+                
+            # Get current branch name
+            result = subprocess.run(['git', 'rev-parse', '--abbrev-ref', 'HEAD'],
+                                  check=True, capture_output=True, text=True)
+            current_branch = result.stdout.strip()
+            
+            # Setup tracking
+            try:
+                subprocess.run(['git', 'branch', f'--set-upstream-to=origin/{current_branch}', current_branch],
+                             check=True, capture_output=True)
+                logging.info(f"Set up tracking for branch {current_branch}")
+            except subprocess.CalledProcessError:
+                # If tracking already exists, this is fine
+                pass
+                
+            # Test push access
+            try:
+                subprocess.run(['git', 'push', '--dry-run'], check=True, capture_output=True)
+            except subprocess.CalledProcessError:
+                logging.error("Unable to push to remote. Please check your Git credentials")
+                raise ValueError("Git push access not configured")
+                
+            logging.info("Git repository successfully configured")
+            
+        except Exception as e:
+            logging.error(f"Git setup failed: {str(e)}")
+            raise
+        
     def on_modified(self, event):
         if event.is_directory:
             return
@@ -61,19 +104,46 @@ class ObsidianVaultHandler(FileSystemEventHandler):
         try:
             os.chdir(self.vault_path)
             
+            # Check if there are changes to commit
+            status = subprocess.run(['git', 'status', '--porcelain'], 
+                                 capture_output=True, text=True).stdout.strip()
+            
+            if not status:
+                logging.info("No changes to sync")
+                return
+                
             # Get current datetime for commit message
             commit_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             
-            # Run git commands
-            subprocess.run(['git', 'add', '.'], check=True)
-            subprocess.run(['git', 'commit', '-m', f'Auto-sync: {commit_date}'], check=True)
-            subprocess.run(['git', 'pull', '--rebase'], check=True)
-            subprocess.run(['git', 'push'], check=True)
-            
-            logging.info(f'Successfully synced vault at {commit_date}')
-            
-        except subprocess.CalledProcessError as e:
-            logging.error(f'Git operation failed: {str(e)}')
+            # Run git commands with proper error handling
+            try:
+                # Stage changes
+                subprocess.run(['git', 'add', '.'], check=True, capture_output=True)
+                
+                # Commit changes
+                subprocess.run(['git', 'commit', '-m', f'Auto-sync: {commit_date}'],
+                             check=True, capture_output=True)
+                
+                # Fetch latest changes
+                subprocess.run(['git', 'fetch'], check=True, capture_output=True)
+                
+                # Rebase instead of merge to maintain clean history
+                subprocess.run(['git', 'rebase', 'origin/HEAD'],
+                             check=True, capture_output=True)
+                
+                # Push changes
+                subprocess.run(['git', 'push'], check=True, capture_output=True)
+                
+                logging.info(f'Successfully synced vault at {commit_date}')
+                
+            except subprocess.CalledProcessError as e:
+                logging.error(f'Git operation failed: {e.stderr}')
+                # If rebase fails, abort it
+                if 'rebase' in str(e.stderr):
+                    subprocess.run(['git', 'rebase', '--abort'], 
+                                 capture_output=True)
+                raise
+                
         except Exception as e:
             logging.error(f'Unexpected error during sync: {str(e)}')
 
@@ -105,8 +175,7 @@ def start_vault_sync(vault_path):
     observer.join()
 
 if __name__ == "__main__":
-    # Replace with your vault path
-    VAULT_PATH = "/path/to/your/obsidian/vault"
+    VAULT_PATH = "/home/emile/myvault"  # Your vault path
     start_vault_sync(VAULT_PATH)
 ```
 
