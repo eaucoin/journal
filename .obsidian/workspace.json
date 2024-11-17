@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
+                "file": "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra, Subgroups"
+              "title": "Abstract Algebra, Permutations"
             }
           },
           {
@@ -207,15 +207,15 @@
   },
   "active": "61301e5014a34f57",
   "lastOpenFiles": [
-    "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
+    "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
+    "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
     "obsidian_sync.log",
     "ReadMe.md",
     "Jot/Number Theory..md",
     "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
     "Untitled",
-    "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
     "Math/Elementary Number Theory/Elementary Number Theory, Chapter 4.md",
     "Jot",
