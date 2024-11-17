@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,11 +206,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61301e5014a34f57",
+  "active": "6ea8b059e03d9b59",
   "lastOpenFiles": [
+    "ReadMe.md",
+    "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
     "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
-    "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Jot/Number Theory..md",
     "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
     "Untitled",
