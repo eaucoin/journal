@@ -178,4 +178,4 @@ $$\begin{align*}
 
 \end{align*}$$
 We will verify that any two of them commute. The set of all possible two-pairs are
-$$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}$$
+$$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}\text{}$$
