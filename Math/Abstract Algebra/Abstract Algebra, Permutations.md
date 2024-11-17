@@ -144,7 +144,9 @@ $$\begin{align*}
 \tau\sigma&=\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}\begin{pmatrix}1&2&3&4&5\\2&1&4&3&5\end{pmatrix}\\
 &=\begin{pmatrix}1&2&3&4&5\\4&1&2&5&3\end{pmatrix}\text{,}\\
 
-\sigma\tau&=\begin{pmatrix}1&2&3&4&5\\2&1&4&3&5\end{pmatrix}\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}\\&=\begin{pmatrix}1&2&3&4&5\\2&2&1&5&4\end{pmatrix}
+\sigma\tau&=\begin{pmatrix}1&2&3&4&5\\2&1&4&3&5\end{pmatrix}\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}\\&=\begin{pmatrix}1&2&3&4&5\\2&3&5&1&4\end{pmatrix}\text{,}\\
+
+\tau
 
 \end{align*}$$
 $$\begin{align*}\end{align*}$$
