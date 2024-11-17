@@ -184,26 +184,26 @@ $$\begin{align*}
 
 \sigma\tau&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 \\&=
-\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
+\begin{pmatrix}1&2&3&4\\3&1&1&3\end{pmatrix}
 
 \\\tau\sigma&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}
 \\&=
-
+\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 
 \\\sigma\mu&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}
 \\&=
-
+\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 
 \\\mu\sigma&=\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}
 \\&=
-
+\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 
 \\\tau\mu&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}
 \\&=
-
+\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 
 \\\mu\tau&=\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 \\&=
-
+\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 
 \end{align*}$$
