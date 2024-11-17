@@ -130,3 +130,6 @@ Let $A_n$ be the subset of $S_n$ that is comprised of the permutations in $S_n$ 
 **(2)** $(\sigma,\;\tau)\in A_n^2\implies (\sigma^{-1},\;\sigma\tau)\in A_n^2$
 **(3)** $|A_n|=\frac{1}{2}n!$
 
+## Exercises.
+
+**(1)**
