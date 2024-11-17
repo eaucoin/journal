@@ -139,6 +139,9 @@ $$\begin{align*}
 \mu&=\begin{pmatrix}1&2&3&4&5\\3&4&5&1&2\end{pmatrix}\text{.}\\
 \end{align*}$$
 Then
+$$\begin{align*}\tau\sigma&=\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}\begin{pmatrix}1&2&3&4&5\\2&1&4&3&5\end{pmatrix}\\&\begin{pmatrix}1&2&3&4&5\\2&1&4&3&5\end{pmatrix}\end{align*}$$
+$$\begin{align*}\end{align*}$$
+$$\begin{align*}\end{align*}$$
 $$\begin{align*}\end{align*}$$
 $$\begin{align*}\end{align*}$$
 $$\begin{align*}\end{align*}$$
