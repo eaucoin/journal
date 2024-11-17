@@ -1,6 +1,6 @@
-# Obsidian Git Auto-Sync
+# My Obsidian Journal, Synced With GitHub
 
-Automatically sync your Obsidian vault to GitHub every minute when changes are detected. This solution is designed for Linux systems and uses systemd for service management.
+This is my personal journal. Below, I've included some documentation for how I sync this journal with this repository, which anyone may use.
 
 ## Prerequisites
 
@@ -36,6 +36,7 @@ class ObsidianVaultHandler(FileSystemEventHandler):
         self.vault_path = vault_path
         self.last_sync = 0
         self.sync_cooldown = 60  # 1 minute cooldown
+        self.branch_name = None
         
         # Setup logging
         logging.basicConfig(
@@ -47,29 +48,38 @@ class ObsidianVaultHandler(FileSystemEventHandler):
         # Initialize git configuration
         self.setup_git()
         
+    def get_branch_name(self):
+        """Get current branch name"""
+        result = subprocess.run(['git', 'rev-parse', '--abbrev-ref', 'HEAD'],
+                              check=True, capture_output=True, text=True)
+        return result.stdout.strip()
+        
     def setup_git(self):
         """Ensure git repository is properly configured"""
         try:
             os.chdir(self.vault_path)
             
-            # Check if remote exists
+            # Get current branch name
+            self.branch_name = self.get_branch_name()
+            logging.info(f"Current branch: {self.branch_name}")
+            
+            # Check if remote exists and get its URL
             try:
-                subprocess.run(['git', 'remote', 'get-url', 'origin'], 
-                             check=True, capture_output=True)
+                remote_url = subprocess.run(['git', 'remote', 'get-url', 'origin'], 
+                                         check=True, capture_output=True, text=True)
+                logging.info(f"Remote URL: {remote_url.stdout.strip()}")
             except subprocess.CalledProcessError:
                 logging.error("No remote 'origin' found. Please set up remote repository first")
                 raise ValueError("Git remote not configured")
-                
-            # Get current branch name
-            result = subprocess.run(['git', 'rev-parse', '--abbrev-ref', 'HEAD'],
-                                  check=True, capture_output=True, text=True)
-            current_branch = result.stdout.strip()
+            
+            # Fetch from remote to ensure we have the latest refs
+            subprocess.run(['git', 'fetch', 'origin'], check=True, capture_output=True)
             
             # Setup tracking
             try:
-                subprocess.run(['git', 'branch', f'--set-upstream-to=origin/{current_branch}', current_branch],
+                subprocess.run(['git', 'branch', f'--set-upstream-to=origin/{self.branch_name}', self.branch_name],
                              check=True, capture_output=True)
-                logging.info(f"Set up tracking for branch {current_branch}")
+                logging.info(f"Set up tracking for branch {self.branch_name}")
             except subprocess.CalledProcessError:
                 # If tracking already exists, this is fine
                 pass
@@ -125,23 +135,26 @@ class ObsidianVaultHandler(FileSystemEventHandler):
                              check=True, capture_output=True)
                 
                 # Fetch latest changes
-                subprocess.run(['git', 'fetch'], check=True, capture_output=True)
+                subprocess.run(['git', 'fetch', 'origin'], check=True, capture_output=True)
                 
-                # Rebase instead of merge to maintain clean history
-                subprocess.run(['git', 'rebase', 'origin/HEAD'],
-                             check=True, capture_output=True)
+                # Rebase against the remote branch
+                try:
+                    subprocess.run(['git', 'rebase', f'origin/{self.branch_name}'],
+                                 check=True, capture_output=True)
+                except subprocess.CalledProcessError as e:
+                    logging.error(f"Rebase failed: {e.stderr}")
+                    subprocess.run(['git', 'rebase', '--abort'], capture_output=True)
+                    # Try a simple pull instead
+                    subprocess.run(['git', 'pull', '--ff-only'], check=True, capture_output=True)
                 
                 # Push changes
-                subprocess.run(['git', 'push'], check=True, capture_output=True)
+                subprocess.run(['git', 'push', 'origin', self.branch_name],
+                             check=True, capture_output=True)
                 
                 logging.info(f'Successfully synced vault at {commit_date}')
                 
             except subprocess.CalledProcessError as e:
                 logging.error(f'Git operation failed: {e.stderr}')
-                # If rebase fails, abort it
-                if 'rebase' in str(e.stderr):
-                    subprocess.run(['git', 'rebase', '--abort'], 
-                                 capture_output=True)
                 raise
                 
         except Exception as e:
@@ -175,7 +188,7 @@ def start_vault_sync(vault_path):
     observer.join()
 
 if __name__ == "__main__":
-    VAULT_PATH = "/home/emile/myvault"  # Your vault path
+    VAULT_PATH = "/your/vault/path"  # Your vault path
     start_vault_sync(VAULT_PATH)
 ```
 
