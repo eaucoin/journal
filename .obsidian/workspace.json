@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "5d39655fd13c1c34",
+    "type": "split",
+    "children": [
+      {
+        "id": "beb595c5abdee7a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e88145bf1b61f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abstract Algebra, Subgroups"
+            }
+          },
+          {
+            "id": "984620334a1a4cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abstract Algebra, Cyclic Groups and the Order of an Element"
+            }
+          },
+          {
+            "id": "6ea8b059e03d9b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abstract Algebra, Binary Operations"
+            }
+          },
+          {
+            "id": "61301e5014a34f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abstract Algebra, Cosets and Lagrange's Theorem"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "512bfaf221e84f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8cf134237e4cdfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c65025c657fa6d68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e4a35e27c38bcb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7f89128d32547f6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a44921645f7993c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5aebd416f0fccbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8836b56964377900",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Abstract Algebra, Permutations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abstract Algebra, Permutations"
+            }
+          },
+          {
+            "id": "7ad071cf942b1090",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Abstract Algebra, Permutations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Abstract Algebra, Permutations"
+            }
+          },
+          {
+            "id": "4589e23eb479ca23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "93c872a436616d3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Abstract Algebra, Permutations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Abstract Algebra, Permutations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "61301e5014a34f57",
+  "lastOpenFiles": [
+    "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
+    "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
+    "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
+    "Jot/Number Theory..md",
+    "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
+    "Untitled",
+    "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
+    "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
+    "Math/Elementary Number Theory/Elementary Number Theory, Chapter 4.md",
+    "Jot",
+    "Math/Elementary Number Theory",
+    "Math/Abstract Algebra",
+    "Math",
+    "Math/Abstract Algebra/Abstract Algebra, Introduction to Groups.md",
+    "4.2.3.md"
+  ]
+}
