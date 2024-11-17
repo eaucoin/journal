@@ -236,7 +236,7 @@ $$\begin{align*}
 
 &\sigma\tau=\tau\sigma
 \\\iff&
-(\tau^2)\tau=\tau(\tau^2)
+\tau^2\tau=\tau\tau^2
 \\\iff&
 \tau^3=\tau^3
 
@@ -249,7 +249,7 @@ $$\begin{align*}
 &
 \sigma\mu=\mu\sigma
 \\\iff&
-
+\sigma\tau^3
 
 \end{align*}$$
 
