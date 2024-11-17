@@ -133,4 +133,8 @@ Let $A_n$ be the subset of $S_n$ that is comprised of the permutations in $S_n$ 
 ## Exercises.
 
 **(1)** Let 
-$$\begin{align*}\sigma&=\begin{pmatrix}\end{pmatrix}\text{,}\\\end{align*}$$
+$$\begin{align*}
+\sigma&=\begin{pmatrix}1&2&3&4&5\\2&1&4&3&5\end{pmatrix}\text{,}\\
+\tau&=\begin{pmatrix}1&2&3&4&5\end{pmatrix}\text{,}\\
+\mu&=\begin{pmatrix}1&2&3&4&5\end{pmatrix}\text{,}\\
+\end{align*}$$
