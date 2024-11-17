@@ -163,7 +163,7 @@ $$\begin{align*}
 
 \mu^{-1}\sigma\tau&=\begin{pmatrix}1&2&3&4&5\\4&5&1&2&3\end{pmatrix}\begin{pmatrix}1&2&3&4&5\\2&3&5&1&4\end{pmatrix}
 \\&=
-
+\begin{pmatrix}1&2&3&4&5\\1&4&2&3&5\end{pmatrix}
 
 \end{align*}$$
 $$\begin{align*}\end{align*}$$
