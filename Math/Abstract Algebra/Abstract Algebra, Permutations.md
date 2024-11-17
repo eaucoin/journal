@@ -172,8 +172,9 @@ $$\begin{align*}
 
 \sigma&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\text{,}\\
 
-\tau&=\begin{pmatrix}1&2&3&4\\\end{pmatrix}\text{, and}\\
+\tau&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\text{, and}\\
 
-\mu&=\begin{pmatrix}1&2&3&4\end{pmatrix}
+\mu&=\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\text{.}
 
 \end{align*}$$
+We will verify that any two of them commute.
