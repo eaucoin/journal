@@ -148,7 +148,9 @@ $$\begin{align*}
 
 \tau^{-1}&=\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}^{-1}\\&=\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}\\
 
-\mu^{-1}&=\begin{pmatrix}1&2&3&4&5\\3&4&5&1&2\end{pmatrix}^{-1}\\&=\begin{pmatrix}1&2&3&4&5\\4&4&5&1&2\end{pmatrix}
+\mu^{-1}&=\begin{pmatrix}1&2&3&4&5\\3&4&5&1&2\end{pmatrix}^{-1}\\&=\begin{pmatrix}1&2&3&4&5\\4&5&1&2&3\end{pmatrix}\\
+
+\mu\tau\sigma^{-1}&=\begin{pmatrix}1&2&3&4&5\\3&4&5&1&2\end{pmatrix}
 
 \end{align*}$$
 $$\begin{align*}\end{align*}$$
