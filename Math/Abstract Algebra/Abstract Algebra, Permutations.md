@@ -227,7 +227,9 @@ $$
 \end{align*}
 $$
 which completes our initial verification. Now, recall that the pair sets whose commutativity we need to prove are
-$$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}\text{.}$$
+$$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}\text{,}$$
+using $\sigma=\tau^2$ and $\mu=\tau^3$.
+
 **(i)**
 
 $$\begin{align*}
@@ -236,13 +238,17 @@ $$\begin{align*}
 \\\iff&
 (\tau^2)\tau=\tau(\tau^2)
 \\\iff&
-\tau^3=\tau^2
+\tau^3=\tau^3
 
 \end{align*}$$
 
 **(ii)**
 
+$$\begin{align*}
 
+&
+
+\end{align*}$$
 
 **(iii)**
 
