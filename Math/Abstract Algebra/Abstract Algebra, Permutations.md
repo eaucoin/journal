@@ -146,7 +146,9 @@ $$\begin{align*}
 
 \sigma\tau&=\begin{pmatrix}1&2&3&4&5\\2&1&4&3&5\end{pmatrix}\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}\\&=\begin{pmatrix}1&2&3&4&5\\2&3&5&1&4\end{pmatrix}\text{,}\\
 
-\tau
+\tau^{-1}&=\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}^{-1}\\&=\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}
+
+$
 
 \end{align*}$$
 $$\begin{align*}\end{align*}$$
