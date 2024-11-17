@@ -167,4 +167,4 @@ $$\begin{align*}
 
 \end{align*}$$
 
-**(2)** sudo dnf install autokey-gtk
+**(2)** []()
