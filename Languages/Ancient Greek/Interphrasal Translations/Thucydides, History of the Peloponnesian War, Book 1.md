@@ -508,3 +508,17 @@
 
 Ἀθηναῖοι μὲν οὖν οὕτως ἐτειχίσθησαν καὶ τἆλλα κατεσκευάζοντο [The Athenians therefore were walled in this way and prepared their other things] εὐθὺς μετὰ τὴν Μήδων ἀναχώρησιν [immediately after the withdrawal of the Medes].
 
+Παυσανίας δὲ [But Pausanias] ὁ Κλεομβρότου [son of Cleombrotus] ἐκ Λακεδαίμονος στρατηγὸς τῶν Ἑλλήνων [from Lacedaemon, general of the Greeks] ἐξεπέμφθη [was sent out] μετὰ εἴκοσι νεῶν ἀπὸ Πελοποννήσου [with twenty ships from the Peloponnese]. ξυνέπλεον δὲ καὶ Ἀθηναῖοι [And Athenians also sailed along] τριάκοντα ναυσὶ [with thirty ships] καὶ τῶν ἄλλων ξυμμάχων πλῆθος [and a multitude of the other allies].
+
+καὶ ἐστράτευσαν ἐς Κύπρον [And they campaigned to Cyprus] καὶ αὐτῆς τὰ πολλὰ κατεστρέψαντο [and subdued most of it] καὶ ὕστερον ἐς Βυζάντιον [and later to Byzantium] Μήδων ἐχόντων [held by Medes] καὶ ἐξεπολιόρκησαν [and they captured it by siege] ἐν τῇδε τῇ ἡγεμονίᾳ [during this command].
+
+ἤδη δὲ βιαίου ὄντος αὐτοῦ [But with him already being violent] οἵ τε ἄλλοι Ἕλληνες ἤχθοντο [both the rest of the Greeks were vexed] καὶ οὐχ ἥκιστα οἱ Ἴωνες [and not least the Ionians] καὶ ὅσοι ἀπὸ βασιλέως νεωστὶ ἠλευθέρωντο [and as many as had recently been freed from the king]. φοιτῶντές τε πρὸς τοὺς Ἀθηναίους ἠξίουν [And resorting to the Athenians, they asked] αὐτοὺς ἡγεμόνας σφῶν γίγνεσθαι [them to become their leaders] κατὰ τὸ ξυγγενές [because of kinship] καὶ Παυσανίᾳ μὴ ἐπιτρέπειν [and not to entrust things to Pausanias] ἤν που βιάζηται [if he should act violently anywhere].
+
+οἱ δὲ Ἀθηναῖοι ἐδέξαντό τε τοὺς λόγους καὶ προσεῖχον τὴν γνώμην [And the Athenians both accepted their words and paid attention to the idea] ὡς οὐ περιοψόμενοι [that they would not overlook things] τἆλλά τε καταστησόμενοι ᾗ φαίνοιτο ἄριστα αὐτοῖς [and would arrange other matters as seemed best to them].
+
+ἐν τούτῳ δὲ οἱ Λακεδαιμόνιοι [But at this time the Lacedaemonians] μετεπέμποντο Παυσανίαν ἀνακρινοῦντες [summoned Pausanias to investigate] ὧν πέρι ἐπυνθάνοντο [the things about which they were inquiring]. καὶ γὰρ ἀδικία πολλὴ κατηγορεῖτο αὐτοῦ [For much injustice was charged against him] ὑπὸ τῶν Ἑλλήνων τῶν ἀφικνουμένων [by the Greeks who were arriving] καὶ τυραννίδος μᾶλλον ἐφαίνετο μίμησις ἢ στρατηγία [and it seemed more an imitation of tyranny than generalship].
+
+ξυνέβη τε αὐτῷ [And it happened to him] καλεῖσθαί τε ἅμα [both to be summoned at the same time] καὶ τοὺς ξυμμάχους τῷ ἐκείνου ἔχθει παρ᾽ Ἀθηναίους μετατάξασθαι [and for the allies, through hatred of him, to transfer their allegiance to the Athenians] πλὴν τῶν ἀπὸ Πελοποννήσου στρατιωτῶν [except for the soldiers from the Peloponnese].
+
+ἐλθὼν δὲ ἐς Λακεδαίμονα [And having come to Lacedaemon] τῶν μὲν ἰδίᾳ πρός τινα ἀδικημάτων ηὐθύνθη [he was brought to account for the private wrongdoings against someone] τὰ δὲ μέγιστα ἀπολύεται μὴ ἀδικεῖν [but he was acquitted of the greatest charges, of not doing wrong]. κατηγορεῖτο δὲ αὐτοῦ οὐχ ἥκιστα μηδισμός [And Medism was charged against him not least] καὶ ἐδόκει σαφέστατον εἶναι [and it seemed most clear].
+
