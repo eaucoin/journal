@@ -167,4 +167,5 @@ $$\begin{align*}
 
 \end{align*}$$
 
-**(2)** 
+**(2)** Let
+$$\begin{align*}\sigma&=\begin{pmatrix}\end{pmatrix}\text{,}\end{align*}$$
