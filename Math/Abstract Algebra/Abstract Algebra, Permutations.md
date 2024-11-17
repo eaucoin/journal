@@ -233,8 +233,10 @@ $$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}\text{.}$$
 $$\begin{align*}
 
 &\sigma\tau=\tau\sigma
-&\\\iff
-()
+\\\iff&
+(\tau^2)\tau=\tau(\tau^2)
+\\\iff&
+\tau^3=\tau^2
 
 \end{align*}$$
 
