@@ -182,16 +182,16 @@ $$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}\text{.}$$
 We check each of the pairs:
 $$\begin{align*}
 
-\sigma\tau&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}
+\sigma\tau&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 
-\\\tau\sigma&=
+\\\tau\sigma&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}
 
-\\\sigma\mu&=
+\\\sigma\mu&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}
 
-\\\mu\sigma&=
+\\\mu\sigma&=\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}
 
-\\\tau\mu&=
+\\\tau\mu&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}
 
-\\\mu\tau&=
+\\\mu\tau&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 
 \end{align*}$$
