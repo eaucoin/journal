@@ -222,6 +222,7 @@ $$
 \begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 \begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 \\&=
-\begin{pmatrix}1&2&3&4\\3&4&1&3\end{pmatrix}
+\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\text{,}
 \end{align*}
 $$
+which completes our initial verification. Now, r
