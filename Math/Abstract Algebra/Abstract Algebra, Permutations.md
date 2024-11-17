@@ -135,6 +135,10 @@ Let $A_n$ be the subset of $S_n$ that is comprised of the permutations in $S_n$ 
 **(1)** Let 
 $$\begin{align*}
 \sigma&=\begin{pmatrix}1&2&3&4&5\\2&1&4&3&5\end{pmatrix}\text{,}\\
-\tau&=\begin{pmatrix}1&2&3&4&5\end{pmatrix}\text{,}\\
-\mu&=\begin{pmatrix}1&2&3&4&5\end{pmatrix}\text{,}\\
+\tau&=\begin{pmatrix}1&2&3&4&5\\3&2&1&5&4\end{pmatrix}\text{,}\\
+\mu&=\begin{pmatrix}1&2&3&4&5\\3&4&5&1&2\end{pmatrix}\text{.}\\
 \end{align*}$$
+Then
+$$\begin{align*}\end{align*}$$
+$$\begin{align*}\end{align*}$$
+$$\begin{align*}\end{align*}$$
