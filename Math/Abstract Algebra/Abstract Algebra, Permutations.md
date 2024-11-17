@@ -168,4 +168,10 @@ $$\begin{align*}
 \end{align*}$$
 
 **(2)** Let
-$$\begin{align*}\sigma&=\begin{pmatrix}\end{pmatrix}\text{,}\end{align*}$$
+$$\begin{align*}
+
+\sigma&=\begin{pmatrix}\end{pmatrix}\text{,}\\
+
+\tau&=\begin{pmatrix}\end{pmatrix}\text{}
+
+\end{align*}$$
