@@ -167,7 +167,7 @@ $$\begin{align*}
 
 \end{align*}$$
 
-**(2)** Let
+**(2a)** Let
 $$\begin{align*}
 
 \sigma&=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}\text{,}\\
@@ -207,3 +207,5 @@ $$\begin{align*}
 \begin{pmatrix}1&2&3&4\\1&2&3&4\end{pmatrix}
 
 \end{align*}$$
+**(2b)** We can verify that 
+$$\sigma=\begin{pmatrix}1&2&3&4\\4&3&2&1\end{pmatrix}$$
