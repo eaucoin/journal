@@ -214,10 +214,14 @@ $$\begin{align*}\tau^2&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}\begin{pmatr
 Then, we can show that 
 $$\mu=\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\text{,}$$
 and 
-$$\tau^3=
-\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
-\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
-\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
-\
+$$
+\begin{align*}
 
+\tau^3&=
+\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
+\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
+\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
+\\&=
+\begin{pmatrix}1&2&3&4\\3&4&1&3\end{pmatrix}
+\end{align*}
 $$
