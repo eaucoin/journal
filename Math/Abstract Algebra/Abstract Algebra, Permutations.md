@@ -132,4 +132,5 @@ Let $A_n$ be the subset of $S_n$ that is comprised of the permutations in $S_n$ 
 
 ## Exercises.
 
-**(1)**
+**(1)** Let 
+$$\begin{align*}\sigma&=\begin{pmatrix}\end{pmatrix}\text{,}\\\end{align*}$$
