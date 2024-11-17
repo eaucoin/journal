@@ -222,9 +222,19 @@ $$
 \begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 \begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}
 \\&=
-\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}\text{,}
+\begin{pmatrix}1&2&3&4\\3&1&4&2\end{pmatrix}
+\\&=\mu
 \end{align*}
 $$
 which completes our initial verification. Now, recall that the pair sets whose commutativity we need to prove are
 $$\{\{\sigma,\tau\},\{\sigma,\mu\},\{\tau,\mu\}\}\text{.}$$
-**(i
+**(i)**
+
+$$\begin{align*}\sigma\end{align*}$$
+
+**(ii)**
+
+
+
+**(iii)**
+
