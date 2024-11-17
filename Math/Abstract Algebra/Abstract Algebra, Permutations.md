@@ -264,6 +264,10 @@ $$\begin{align*}
 &
 \tau\mu=\mu\tau
 \\\iff&
-\tau\tau^3=\tau^
+\tau\tau^3=\tau^3\tau
+\\\iff&
+\tau^4=\tau^4
 
 \end{align*}$$
+
+**()**
