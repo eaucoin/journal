@@ -253,9 +253,10 @@ $$\begin{align*}
 \\\iff&
 \tau^2\tau^3=\tau^3\tau^2
 \\\iff&
-\tau^5=\tau
+\tau^5=\tau^5
 
 \end{align*}$$
 
 **(iii)**
 
+$$$$
