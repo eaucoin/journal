@@ -10,4 +10,34 @@ If $\gcd(a,b) \neq 1$, the theorem doesn't hold. For example, let $a = 2$ and $b
 
 **(2)** Let $e>1$ be an integer divisor of $a^2+b^2$. Show that $e$ is a product of Gaussian prime divisors $q+ir$ up to units.
 
-[Would you like me to continue with this reformatting?]
+We can factor $a^2 + b^2$ in $\mathbb{Z}[i]$ as $(a + bi)(a - bi)$. Let $e$ be a divisor of $a^2 + b^2$ in $\mathbb{Z}$. Then $e$ is also a divisor of $(a + bi)(a - bi)$ in $\mathbb{Z}[i]$. By unique prime factorization in $\mathbb{Z}[i]$, $e$ can be written as a product of Gaussian primes: $e = \pi_1 \pi_2 \cdots \pi_n$.
+
+**(3)** Show that each of the Gaussian primes $q+ir$ divide either $a+ib$ or $a-ib$.
+
+Since $e | (a+bi)(a-bi)$, each Gaussian prime $\pi_k$ dividing $e$ must also divide $(a+bi)(a-bi)$. Because $\pi_k$ is a Gaussian prime, it must divide either $a+bi$ or $a-bi$.
+
+**(4)** Deduce from **(3)**: that none of the Gaussian primes $q+ir$ is an ordinary (in $\mathbb{Z}$) prime.
+
+Suppose, for contradiction, that a Gaussian prime $\pi = q + ir$ is also an ordinary prime $p$. Since $\pi | a+bi$ or $\pi | a-bi$, we have $p | a+bi$ or $p | a-bi$. This implies $p|a$ and $p|b$ in $\mathbb{Z}$, contradicting $\gcd(a, b) = 1$. Therefore, $\pi$ cannot be an ordinary prime.
+
+**(5)** Show that if $q+ir$ is a Gaussian prime dividing $e$, then its conjugate $q-ir$ is also a factor {distinct from $q+ir$}.
+
+Let $e$ be a divisor of $a^2+b^2$. If a Gaussian prime $\pi = q + ir$ divides $e$, then its conjugate $\overline{\pi} = q - ir$ must also divide $e$. This is because $e$ is a real integer, and the conjugate of any factor of $e$ must also be a factor of $e$. These factors are distinct. If they were not distinct, then $q + ir = u(q - ir)$ for some unit $u \in \{1, -1, i, -i\}$. This implies either $r=0$ (if $u=1$) or $q=0$ (if $u=-1$), making $\pi$ or its associate equal to an ordinary integer, which we ruled out in step 4. The case where $q + ir$ is an associate of $1+i$ is more subtle. If both $a+bi$ and $a-bi$ are divisible by $1+i$, then both $a$ and $b$ are odd or both are even which contradicts $\gcd(a,b)=1$. Thus the prime factors of $e$ come in distinct conjugate pairs, or are equal to $1+i$.
+
+**(6)** Deduce from **(5)**: that $e$ is of the form $c^2+d^2$ where $c+di$ divides $a+bi$.
+
+Since $e$ is a product of Gaussian primes and their conjugates, we can write $e$ as $(c+di)(c-di) = c^2+d^2$, where $c+di$ is a product of some of the Gaussian primes dividing $e$.
+
+**(7)** Deduce from **(6)**: that $\gcd(c,d)=1$.
+
+Suppose $\gcd(c, d) = g > 1$. Then $g^2 | c^2 + d^2 = e$, so $g | a+bi$ and $g | a-bi$. This implies $g|2a$ and $g|2b$, so $g | 2\gcd(a, b) = 2$. Therefore, $g=2$. This implies $2 | e$, and since $2=(1+i)(1-i)=-i(1+i)^2$, the prime $1+i$ divides $a+ib$ and $a-ib$ which again contradicts $\gcd(a,b)=1$ as shown above. Therefore, $\gcd(c, d) = 1$.
+
+### Problem 2. Recall that to show there are infinitely many primes $p \equiv 1 \pmod{4}$, we showed there are infinitely many primes $p$ that divide a value of the form $x^2+1$. We now generalize this.
+
+Let $f(x) = a_mx^m + ... + a_1x + a_0$, $a_0,...,a_m \in \mathbb{Z}$, $a_0\neq0$, $a_m\neq0$.
+
+**(1)** Show that $g$ is of degree $m$.
+
+Assume, for the sake of contradiction, that only finitely many primes $p_1, \dots, p_k$ divide values of $f(x)$ for $x \in \mathbb{Z}$. We can also assume that no prime dividing $a_m$ divides $f(x)$ for any integer $x$ (if this were the case, we could divide $f(x)$ by $a_m$ to obtain a new polynomial with the same set of prime divisors and a constant leading coefficient). Also, if $a_0 = 0$ then $f(p_1 \dots p_k)$ is composite, divisible by $p_1 \dots p_k$. Then $f(2p_1 \dots p_k)$ will be divisible by a prime not among $p_1, \dots, p_k$, contradicting the assumption. So we can assume $a_0 \neq 0$ and that $\gcd(a_0, a_m, p_1, \dots, p_k) = 1$.
+
+[Should I continue with the rest?]
