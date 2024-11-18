@@ -1,6 +1,6 @@
 ## Homework for the Week of November 11th.
 
-### Problem 1. The goal of this exercise is to show how $\mathbb{Z}[\sqrt{2}]$ sheds light on sum of two squares in other ways than what we've done so far.
+### Problem 1. The goal of this exercise is to show how $\mathbb{Z}[i]$ sheds light on sum of two squares in other ways than what we've done so far.
 
 Namely, we show the following theorem of Euler: If $a,b$ are integers with $\gcd(a,b)=1$, then any divisor of $a^2+b^2$ is of the form $c^2+d^2$ with $\gcd(c,d)=1$.
 
@@ -118,4 +118,29 @@ $$\begin{align*}
 
 ### Problem 4. The goal of this exercise is to give an alternative proof of $(\frac{p}{q}) = p^{\frac{q-1}{2}} \pmod{q}$.
 
-[Should I continue with Problem 4?]
+**(1)** If $a$ is a primitive root of $q$, then we know $1,a,...,a^{q-2}$ are distinct nonzero elements mod $q$.
+Show that the squares mod $q$ are $1,a^2,...,a^{q-3}$.
+
+Let $g$ be a primitive root modulo $q$. This means that the powers $g^1, g^2, \dots, g^{q-1} \equiv 1 \pmod{q}$ are all distinct modulo $q$ and represent the $q-1$ non-zero residues modulo $q$.
+
+**(2)** The squares modulo $q$ are precisely the even powers of $g$: $1, g^2, g^4, \dots, g^{q-3}$ (since $q-1$ is even, $q-3$ will be the largest even exponent less than $q-1$). There are $\frac{q-1}{2}$ such squares.
+
+**(3)** If $P$ is a square modulo $q$, then $P \equiv g^{2k} \pmod{q}$ for some integer $k$. Then
+$$\begin{align*}
+P^{\frac{q-1}{2}} &\equiv (g^{2k})^{\frac{q-1}{2}} \\
+&\equiv g^{k(q-1)} \\
+&\equiv (g^{q-1})^k \\
+&\equiv 1^k \\
+&\equiv 1 \pmod{q}\text{,}
+\end{align*}$$
+by Fermat's Little Theorem.
+
+**(4)** If $P$ is not a square modulo $q$, it must be congruent to an odd power of $g$: $P \equiv g^{2k+1} \pmod{q}$ for some integer $k$. Then
+$$\begin{align*}
+P^{\frac{q-1}{2}} &\equiv (g^{2k+1})^{\frac{q-1}{2}} \\
+&\equiv g^{k(q-1)+\frac{q-1}{2}} \\
+&\equiv (g^{q-1})^k g^{\frac{q-1}{2}} \\
+&\equiv g^{\frac{q-1}{2}} \pmod{q}\text{.}
+\end{align*}$$
+
+Since $g$ is a primitive root, $g^{\frac{q-1}{2}} \not\equiv 1 \pmod{q}$. However, we know that $(g^{\frac{q-1}{2}})^2 \equiv g^{q-1} \equiv 1 \pmod{q}$. Because $q$ is prime, the congruence $x^2 \equiv 1 \pmod{q}$ has only two solutions: $x \equiv \pm 1 \pmod{q}$. Since $g^{\frac{q-1}{2}} \not\equiv 1 \pmod{q}$, we must have $g^{\frac{q-1}{2}} \equiv -1 \pmod{q}$. Thus, if $P$ is not a square modulo $q$, $P^{\frac{q-1}{2}} \equiv -1 \pmod{q}$.
