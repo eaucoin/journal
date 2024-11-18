@@ -70,3 +70,19 @@ Step 5 asserts that $g(y) = \pm 1$ for all integers $y$, while step 6 states tha
 
 The contradiction arises from assuming that only finitely many primes divide values of $f(x)$. Therefore, infinitely many primes must divide values of $f(x)$.
 
+You're right - let me retype that with proper LaTeX formatting using dollar signs.
+
+### Problem 3. The goal of this exercise is to show that any prime $p$ can be written as $p = x^2 - 2y^2$ if and only if $p \equiv \pm1 \pmod{8}$.
+
+To this end, define:
+• $\mathbb{Z}[\sqrt{2}] := \{a+b\sqrt{2}; a,b\in\mathbb{Z}\}$
+• $\text{norm}(a+b\sqrt{2}) = a^2-2b^2$,
+• $\pi$ is a prime in $\mathbb{Z}[\sqrt{2}]$ if $\pi\neq\alpha\beta$ for $\alpha,\beta\in\mathbb{Z}[\sqrt{2}$ with $|\text{norm}(\alpha)|>1$, $|\text{norm}(\beta)|>1$.
+• If $\pi = a+b\sqrt{2}$, define the conjugate $\overline{\pi} = a-b\sqrt{2}$.
+• $\text{norm}(\pi_1\pi_2) = \text{norm}(\pi_1)\text{norm}(\pi_2)$.
+
+1. Show that $\text{norm}(\pi_1\pi_2) = \text{norm}(\pi_1)\text{norm}(\pi_2)$.
+
+The squares modulo 8 are 0, 1, and 4. Thus, $x^2$ can be congruent to 0, 1, or 4 modulo 8, and $2y^2$ can be congruent to 0 or 2 modulo 8. Therefore, $x^2 - 2y^2$ can be congruent to 0, 1, 2, 4, 6, or 7 modulo 8. If $p$ is an odd prime, then $p$ cannot be congruent to 0, 2, 4, or 6 modulo 8. Also, if $p \equiv 3, 5 \pmod{8}$, then $(\frac{2}{p})=-1$, so $p$ does not divide $x^2-2$, and hence $p$ is prime in $\mathbb{Z}[\sqrt{2}]$, thus $p$ is not of the form $x^2 - 2y^2$. Therefore if $p = x^2 - 2y^2$ for some integers $x$ and $y$, and $p$ is prime, $p$ must be congruent to $\pm 1 \pmod{8}$.
+
+[Would you like me to continue with the rest, ensuring proper LaTeX formatting throughout?]
