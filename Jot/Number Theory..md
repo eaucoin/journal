@@ -36,7 +36,7 @@ Suppose $\gcd(c, d) = g > 1$. Then $g^2 | c^2 + d^2 = e$, so $g | a+bi$ and $g |
 
 - Let $f(x) = a_mx^m + ... + a_1x + a_0$, $a_0,...,a_m \in \mathbb{Z}$, $a_0\neq0$, $a_m\neq0$.
 - We will show that there are infinitely many prime dividing values of $f(x)$ by contradiction. 
-- To this end, suppose that there are finitely many primes $
+- To this end, suppose that there are finitely many primes $p_1,p_2,\dots p_k$ that divide $f()x$
 
 **(1)** Show that $g$ is of degree $m$.
 
