@@ -34,8 +34,9 @@ Suppose $\gcd(c, d) = g > 1$. Then $g^2 | c^2 + d^2 = e$, so $g | a+bi$ and $g |
 
 ### Problem 2. Recall that to show there are infinitely many primes $p \equiv 1 \pmod{4}$, we showed there are infinitely many primes $p$ that divide a value of the form $x^2+1$. We now generalize this.
 
-Let $f(x) = a_mx^m + ... + a_1x + a_0$, $a_0,...,a_m \in \mathbb{Z}$, $a_0\neq0$, $a_m\neq0$.
-
+- Let $f(x) = a_mx^m + ... + a_1x + a_0$, $a_0,...,a_m \in \mathbb{Z}$, $a_0\neq0$, $a_m\neq0$.
+- We will show that there are infinitely many prime dividing values of $f(x)$ by contradiction. 
+- To this end, suppose that there are finitely many primes $
 
 **(1)** Show that $g$ is of degree $m$.
 
