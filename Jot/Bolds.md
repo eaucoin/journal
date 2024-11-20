@@ -84,3 +84,17 @@ At this stage, we have:
 This means $y^2 = 2k^2-1$, which we can use to reach a contradiction.
 
 Would you like me to explain why this leads to a contradiction?
+
+
+You mean these lines:
+> - The RHS is even minus 1 = odd
+> - The LHS is a square, which must be 0 or 1 mod 2
+
+Let me try to explain more clearly:
+
+The equation $y^2 = 2k^2-1$ gives us a contradiction because:
+- The RHS, $2k^2-1$, is always odd (because $2k^2$ is always even, and even minus 1 is odd)
+- But the LHS, $y^2$, is always 0 or 1 modulo 2 (since any square is congruent to either 0 or 1 modulo 2)
+- An odd number can't equal a square
+
+Actually, maybe that third point needs justification too. Would you like me to explain why an odd number (greater than 1) can't be a perfect square?
