@@ -322,7 +322,9 @@ This completes the proof that $p = x^2-2y^2$ if and only if $p \equiv \pm1 \pmod
 **Theorem to Prove:** For an odd prime $q$ and any integer $p$ not divisible by $q$:
 $$(\frac{p}{q}) \equiv p^{\frac{q-1}{2}} \pmod{q}$$
 
-**(1) Structure of Multiplicative Group Modulo q:**
+**(1) To characterize squares modulo q:** Prove that with a primitive root $a \bmod q$, the squares modulo $q$ are exactly $\{1, a^2, a^4, ..., a^{q-3}\}$ by:
+1. Using that every nonzero residue is some power of $a$
+2. Showing $x$ is a square if and only if its exponent as a power of $a$ is even
 
 Let $a$ be a primitive root modulo $q$. Then:
 $$\{a^k \bmod q: 0 \leq k \leq q-2\} = \{1, a, a^2, ..., a^{q-2}\}$$
@@ -340,7 +342,9 @@ To find squares modulo $q$:
 Therefore, squares modulo $q$ are:
 $$\{1, a^2, a^4, ..., a^{q-3}\}$$
 
-**(2) Count of Squares:**
+**(2) To count distinct squares:** Prove there are exactly $\frac{q-1}{2}$ squares modulo $q$ by:
+1. Showing the exponents of squares form arithmetic sequence $\{0,2,4,...,q-3\}$
+2. Computing the number of terms in this sequence
 
 The exponents in the squares are:
 $$\{0, 2, 4, ..., q-3\}$$
@@ -352,7 +356,9 @@ This is an arithmetic sequence with:
 
 Number of terms = $\frac{q-1}{2}$ squares modulo $q$
 
-**(3) Case of Quadratic Residues:**
+**(3) To evaluate powers of squares:** For any square $P \equiv a^{2k} \pmod{q}$, prove that $P^{\frac{q-1}{2}} \equiv 1 \pmod{q}$ by:
+1. Computing $(a^{2k})^{\frac{q-1}{2}}$
+2. Using Fermat's Little Theorem to simplify
 
 For $P$ a square modulo $q$:
 $$P \equiv a^{2k} \pmod{q} \text{ for some } k$$
@@ -366,7 +372,10 @@ P^{\frac{q-1}{2}} &\equiv (a^{2k})^{\frac{q-1}{2}} \pmod{q} \\
 &\equiv 1 \pmod{q}
 \end{align*}$$
 
-**(4) Case of Non-Squares:**
+**(4) To evaluate powers of non-squares:** For any non-square $P \equiv a^{2k+1} \pmod{q}$, prove that $P^{\frac{q-1}{2}} \equiv -1 \pmod{q}$ by:
+1. Computing $(a^{2k+1})^{\frac{q-1}{2}}$
+2. Showing $a^{\frac{q-1}{2}} \equiv -1 \pmod{q}$ using that $a$ is a primitive root
+3. Concluding that this establishes Euler's criterion $(\frac{p}{q}) \equiv p^{\frac{q-1}{2}} \pmod{q}$
 
 For $P$ not a square modulo $q$:
 $$P \equiv a^{2k+1} \pmod{q} \text{ for some } k$$
