@@ -214,51 +214,106 @@ We'll show 2 cannot be represented as $x^2 - 2y^2$.
 Suppose $2 = x^2-2y^2$. Then:
 $$x^2 \equiv 2 \pmod{2} \implies x \text{ is even} \implies x = 2k$$
 
-[Continue with rest of demonstration...]
+**(3) Prove quadratic residue property:**
+We'll show that for $p \equiv \pm1 \pmod{8}$, $2$ is a quadratic residue modulo $p$.
 
-Would you like me to continue with the remaining sections of Problem 3?
+By quadratic reciprocity:
+$$p \equiv \pm1 \pmod{8} \implies (\frac{2}{p}) = 1$$
+
+Therefore:
+$$\exists m \in \mathbb{Z}: m^2 \equiv 2 \pmod{p}$$
+
+**(4) Prove non-primality in $\mathbb{Z}[\sqrt{2}]$:**
+We'll show that primes $p \equiv \pm1 \pmod{8}$ are not prime in $\mathbb{Z}[\sqrt{2}]$.
+
+From (3):
+$$m^2 \equiv 2 \pmod{p}$$
+$$m^2 - 2 \equiv 0 \pmod{p}$$
+$$(m - \sqrt{2})(m + \sqrt{2}) \equiv 0 \pmod{p}$$
+
+If $p$ were prime in $\mathbb{Z}[\sqrt{2}]$:
+- $p$ would divide either $(m - \sqrt{2})$ or $(m + \sqrt{2})$
+- This implies $p \mid 2\sqrt{2}$
+- Therefore $p^2 \mid 8$
+- But this means $p = 2$, contradicting $p \equiv \pm1 \pmod{8}$
+
+**(5) Establish division property in $\mathbb{Z}[\sqrt{2}]$:**
+We'll prove $\mathbb{Z}[\sqrt{2}]$ has the division property.
+
+For $\alpha=a+b\sqrt{2}$ and $\beta=c+d\sqrt{2}$ with $\beta \neq 0$:
+$$\frac{\alpha}{\beta} = \frac{(a+b\sqrt{2})(c-d\sqrt{2})}{c^2-2d^2}$$
+$$= \frac{ac-2bd}{c^2-2d^2} + \frac{bc-ad}{c^2-2d^2}\sqrt{2}$$
+$$= r_1 + r_2\sqrt{2}$$
+
+Choose integers $m_1, m_2$ with:
+$$|r_1-m_1| \leq \frac{1}{2} \text{ and } |r_2-m_2| \leq \frac{1}{2}$$
+
+For $\gamma = m_1 + m_2\sqrt{2}$:
+$$|\text{norm}(\frac{\alpha}{\beta}-\gamma)| = |(r_1-m_1)^2-2(r_2-m_2)^2|$$
+$$\leq |(\frac{1}{2})^2 + 2(\frac{1}{2})^2| = \frac{3}{4} < 1$$
+
+For $\rho = \alpha-\gamma\beta$:
+$$|\text{norm}(\rho)| = |\text{norm}(\beta)| |\text{norm}(\frac{\alpha}{\beta}-\gamma)| < |\text{norm}(\beta)|$$
+
+**(6) Derive representation:**
+We'll show that since $p$ is not prime in $\mathbb{Z}[\sqrt{2}]$, it must be of form $x^2 - 2y^2$.
+
+Since $p$ is not prime in $\mathbb{Z}[\sqrt{2}]$:
+$$p = (x+y\sqrt{2})(u+v\sqrt{2})$$
+
+Taking norms:
+$$p^2 = (x^2-2y^2)(u^2-2v^2)$$
+
+By unique factorization in $\mathbb{Z}$:
+$$p = x^2-2y^2$$
+
+**Conclusion:** We have proven:
+1. If $p = x^2-2y^2$, then $p \equiv \pm1 \pmod{8}$ (from steps 1-2)
+2. If $p \equiv \pm1 \pmod{8}$, then $p = x^2-2y^2$ (from steps 3-6)
+
+Therefore, $p = x^2-2y^2$ if and only if $p \equiv \pm1 \pmod{8}$.
 
 ### Problem 4: Alternative Proof of Euler's Criterion
 
-**Theorem to Prove:** For an odd prime $q$ and any integer $p$ not divisible by $q$:
+**Main Theorem:** For an odd prime $q$ and integer $p$ not divisible by $q$:
 $$(\frac{p}{q}) \equiv p^{\frac{q-1}{2}} \pmod{q}$$
 
-**(1) Structure of Multiplicative Group Modulo q:**
+**Strategy:** We'll characterize squares modulo $q$ in terms of primitive roots and use their properties to prove the criterion.
+
+**(1) Characterize squares modulo $q$:**
+We'll prove that squares modulo $q$ are precisely the even powers of a primitive root.
 
 Let $a$ be a primitive root modulo $q$. Then:
 $$\{a^k \bmod q: 0 \leq k \leq q-2\} = \{1, a, a^2, ..., a^{q-2}\}$$
 
-This forms a complete set of nonzero residues modulo $q$.
-
-To find squares modulo $q$:
-- For any $x \not\equiv 0 \pmod{q}$, $x \equiv a^k \pmod{q}$ for some unique $k$
+For any nonzero $x \bmod q$:
+- $x \equiv a^k \pmod{q}$ for some unique $k$
 - $x$ is a square $\iff \exists y: y^2 \equiv x \pmod{q}$
-- $y \equiv a^m \pmod{q}$ for some $m$
-- Therefore: $a^{2m} \equiv x \equiv a^k \pmod{q}$
+- If $y \equiv a^m \pmod{q}$, then $a^{2m} \equiv x \equiv a^k \pmod{q}$
 - By primitive root properties: $2m \equiv k \pmod{q-1}$
 - Thus $k$ must be even
 
-Therefore, squares modulo $q$ are:
+Therefore squares modulo $q$ are:
 $$\{1, a^2, a^4, ..., a^{q-3}\}$$
 
-**(2) Count of Squares:**
+**(2) Count squares modulo $q$:**
+We'll establish the number of squares modulo $q$.
 
-The exponents in the squares are:
+The exponents of squares form arithmetic sequence:
 $$\{0, 2, 4, ..., q-3\}$$
-
-This is an arithmetic sequence with:
 - First term: 0
 - Last term: $q-3$
 - Common difference: 2
 
-Number of terms = $\frac{q-1}{2}$ squares modulo $q$
+Therefore there are exactly $\frac{q-1}{2}$ squares modulo $q$.
 
-**(3) Case of Quadratic Residues:**
+**(3) Evaluate power for quadratic residues:**
+We'll compute $P^{\frac{q-1}{2}}$ when $P$ is a square modulo $q$.
 
-For $P$ a square modulo $q$:
+If $P$ is a square:
 $$P \equiv a^{2k} \pmod{q} \text{ for some } k$$
 
-Computing the power:
+Computing:
 $$\begin{align*}
 P^{\frac{q-1}{2}} &\equiv (a^{2k})^{\frac{q-1}{2}} \pmod{q} \\
 &\equiv a^{k(q-1)} \pmod{q} \\
@@ -267,12 +322,13 @@ P^{\frac{q-1}{2}} &\equiv (a^{2k})^{\frac{q-1}{2}} \pmod{q} \\
 &\equiv 1 \pmod{q}
 \end{align*}$$
 
-**(4) Case of Non-Squares:**
+**(4) Evaluate power for non-residues:**
+We'll compute $P^{\frac{q-1}{2}}$ when $P$ is not a square modulo $q$.
 
-For $P$ not a square modulo $q$:
+If $P$ is not a square:
 $$P \equiv a^{2k+1} \pmod{q} \text{ for some } k$$
 
-Computing the power:
+Computing:
 $$\begin{align*}
 P^{\frac{q-1}{2}} &\equiv (a^{2k+1})^{\frac{q-1}{2}} \pmod{q} \\
 &\equiv a^{k(q-1)+\frac{q-1}{2}} \pmod{q} \\
@@ -287,11 +343,9 @@ Key observations:
 
 Therefore:
 $$a^{\frac{q-1}{2}} \equiv -1 \pmod{q}$$
-
-Thus for non-squares:
 $$P^{\frac{q-1}{2}} \equiv -1 \pmod{q}$$
 
-This proves:
+**Conclusion:** We have proven that:
 $$p^{\frac{q-1}{2}} \equiv \begin{cases}
 1 \pmod{q} & \text{if } p \text{ is a square mod } q \\
 -1 \pmod{q} & \text{if } p \text{ is not a square mod } q
