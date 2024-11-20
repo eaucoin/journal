@@ -314,8 +314,6 @@ Therefore:
 
 This completes the proof that $p = x^2-2y^2$ if and only if $p \equiv \pm1 \pmod{8}$.
 
-I'll rewrite this with detailed mathematical explanations:
-
 ### Problem 4: Alternative Proof of Euler's Criterion
 
 **Theorem to Prove:** For an odd prime $q$ and any integer $p$ not divisible by $q$:
@@ -397,3 +395,18 @@ $$p^{\frac{q-1}{2}} \equiv \begin{cases}
 
 Which is equivalent to:
 $$(\frac{p}{q}) \equiv p^{\frac{q-1}{2}} \pmod{q}$$
+
+
+
+
+Let me explain why $a_0$ divides $f(p_1p_2...p_ky)$:
+
+When we evaluate $f(p_1p_2...p_ky)$:
+$$f(p_1p_2...p_ky) = a_m(p_1p_2...p_ky)^m + ... + a_1(p_1p_2...p_ky) + a_0$$
+
+Every term except $a_0$ contains $(p_1p_2...p_k)$ as a factor. Therefore:
+$$f(p_1p_2...p_ky) \equiv a_0 \pmod{p_i}$$ for any $i$.
+
+Since $\gcd(a_0, p_i) = 1$ by our initial assumptions, this means that $p_i$ does not divide $f(p_1p_2...p_ky)$ for any $i$.
+
+Therefore, $\gcd(a_0, f(p_1p_2...p_ky)) = 1$, making $\frac{1}{a_0}f(p_1p_2...p_ky)$ well-defined with integer coefficients.
