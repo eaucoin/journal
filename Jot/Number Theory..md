@@ -4,7 +4,7 @@
 
 **Theorem (Euler):** If $a,b \in \mathbb{Z}$ with $\gcd(a,b)=1$, then any divisor of $a^2+b^2$ is of the form $c^2+d^2$ where $c,d \in \mathbb{Z}$ with $\gcd(c,d)=1$.
 
-**(1) Necessity of the $\gcd(a,b)=1$ condition:**
+**(1) To justify the coprime condition:** Show that when $\gcd(a,b)\neq 1$, the theorem can fail by finding specific integers $a,b$ where some divisor of $a^2+b^2$ cannot be written as $c^2+d^2$ with $\gcd(c,d)=1$.**
 
 Let's examine why this condition is crucial through a counterexample:
 
@@ -18,7 +18,7 @@ Now, 4 is a divisor of 20. If the theorem were true without the coprime conditio
 $$4 = 2^2 + 0^2 = 0^2 + 2^2$$
 In both cases, $\gcd(c,d) = 2 \neq 1$
 
-**(2) Prime factorization in $\mathbb{Z}[i]$:**
+**(2) To begin factorization:** Show that any divisor $e>1$ of $a^2+b^2$ can be written as $e = u\pi_1\pi_2...\pi_n$ where $u$ is a unit in $\mathbb{Z}[i]$ and each $\pi_k$ is a Gaussian prime, by using the factorization $a^2+b^2=(a+bi)(a-bi)$ in $\mathbb{Z}[i]$.**
 
 First, observe that in $\mathbb{Z}[i]$:
 $$a^2 + b^2 = (a+bi)(a-bi)$$
@@ -29,7 +29,7 @@ where:
 - $u$ is a unit in $\mathbb{Z}[i]$ (one of $\{1,-1,i,-i\}$)
 - Each $\pi_k$ is a Gaussian prime of the form $q_k+ir_k$
 
-**(3) Division properties:**
+**(3) To establish key division property:** Prove that for any Gaussian prime $\pi$ dividing $e$, either $\pi \mid (a+bi)$ or $\pi \mid (a-bi)$ but not both (as this would contradict $\gcd(a,b)=1$).
 
 Let $\pi = q+ir$ be any Gaussian prime dividing $e$. Then:
 $$\pi \mid e \text{ and } e \mid (a+bi)(a-bi)$$
