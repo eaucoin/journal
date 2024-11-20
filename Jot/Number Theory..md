@@ -134,7 +134,59 @@ $$a_j(p_1p_2...p_k)^j(a_0)^{j-1}$$
 
 Since $j \geq 1$ for all terms except the constant term (which is 1), all coefficients are integers.
 
-[Continue with the rest of the rewrite with this corrected definition? The key change impacts how we establish integrality and affects some subsequent calculations.]
+**(3) To connect prime factors:** Prove that if a prime $p$ divides $g(y)$ for some $y \in \mathbb{Z}$, then $p$ must divide $f(x)$ for some $x \in \mathbb{Z}$, by explicitly constructing such an $x$.
+
+Let $p$ be a prime dividing $g(y)$ for some $y \in \mathbb{Z}$. Then:
+$$p \mid g(y) = \frac{1}{a_0}f(a_0p_1p_2...p_ky)$$
+$$\therefore p \mid f(a_0p_1p_2...p_ky)$$
+
+Let $x = a_0p_1p_2...p_ky$. Then $x \in \mathbb{Z}$ and:
+$$p \mid f(x)$$
+
+**(4) To exclude original primes:** Show that none of the original primes $p_1,...,p_k$ can divide any value of $g(y)$ by proving $g(y) \equiv 1 \pmod{p_i}$ for all $y$ and all $i$.
+
+For any $p_i$ among our original primes:
+$$f(a_0p_1p_2...p_ky) \equiv a_0 \pmod{p_i}$$
+since every term except the constant term contains $p_i$ as a factor.
+
+Therefore:
+$$g(y) = \frac{1}{a_0}f(a_0p_1p_2...p_ky) \equiv \frac{1}{a_0}a_0 \equiv 1 \pmod{p_i}$$
+
+Thus, $p_i \nmid g(y)$ for any $y \in \mathbb{Z}$.
+
+**(5) To restrict possible values:** Use results from (3) and (4) to prove that $g(y)$ can only take values $\pm 1$ for all $y \in \mathbb{Z}$.
+
+From (3), if any prime $p$ divides $g(y)$, then $p$ must divide some value of $f(x)$, making $p$ one of the original primes $p_1,...,p_k$.
+
+However, from (4), none of $p_1,...,p_k$ can divide any value of $g(y)$.
+
+Therefore, no prime can divide $g(y)$, meaning:
+$$g(y) = \pm 1 \text{ for all } y \in \mathbb{Z}$$
+
+**(6) To bound solutions:** Show that the equations $g(y)=1$ and $g(y)=-1$ have at most $2m$ integer solutions combined, using the fact that $g$ has degree $m$.
+
+The polynomial $g(y)$ has degree $m$, so by the fundamental theorem of algebra:
+- The equation $g(y) = 1$ has at most $m$ complex roots
+- The equation $g(y) = -1$ has at most $m$ complex roots
+
+Therefore, the equations $g(y) = \pm 1$ have at most $2m$ integer solutions combined.
+
+**(7) To reach contradiction:** Show that the statements "$g(y)=\pm 1$ for all $y \in \mathbb{Z}$" and "$g(y)=\pm 1$ has at most $2m$ solutions" are mutually contradictory.
+
+We have proven:
+1. $g(y) = \pm 1$ for all $y \in \mathbb{Z}$ (from step 5)
+2. The equations $g(y) = \pm 1$ have at most $2m$ integer solutions combined (from step 6)
+
+Since $\mathbb{Z}$ is infinite and $2m$ is finite, these statements contradict each other.
+
+**(8) To complete the proof:** Conclude that the original assumption must be false, proving there are infinitely many primes dividing values of $f(x)$.
+
+The contradiction in (7) proves our initial assumption (that only finitely many primes divide values of $f(x)$) must be false.
+
+Therefore:
+$$\text{There are infinitely many primes } p \text{ that divide values of } f(x)$$
+
+This generalizes our earlier proof about primes $p \equiv 1 \pmod{4}$, where we used $f(x) = x^2 + 1$.
 
 ### Problem 3: Representation of Primes as $x^2 - 2y^2$
 
