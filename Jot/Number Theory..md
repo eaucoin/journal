@@ -119,7 +119,7 @@ where $a_0, a_m \neq 0$
 
 We'll prove by contradiction that infinitely many primes divide values of $f(x)$.
 
-**(1) Initial Setup and Degree Analysis:**
+**(1) To analyze the key auxiliary polynomial:** For the polynomial $g(y) = \frac{1}{a_0}f(p_1p_2...p_ky)$, prove it has the same degree $m$ as $f(x)$ by showing its leading coefficient $\frac{a_m}{a_0}(p_1p_2...p_k)^m$ is nonzero.
 
 Let's assume for contradiction that only finitely many primes $p_1, p_2, ..., p_k$ divide values of $f(x)$ for $x \in \mathbb{Z}$.
 
@@ -134,14 +134,14 @@ g(y) &= \frac{1}{a_0}[a_m(p_1p_2...p_ky)^m + ... + a_1(p_1p_2...p_ky) + a_0] \\
 
 The coefficient of $y^m$ is $\frac{a_m}{a_0}(p_1p_2...p_k)^m \neq 0$, so $g(y)$ has degree $m$.
 
-**(2) Integer Coefficients:**
+**(2) To establish well-definedness:** Prove that $g(y)$ has integer coefficients by showing that each coefficient $\frac{a_j}{a_0}(p_1p_2...p_k)^j$ is an integer.
 
 For each term in $g(y)$:
 $$\text{coefficient of }y^j = \frac{a_j}{a_0}(p_1p_2...p_k)^j$$
 
 Since $p_1p_2...p_k$ divides each term except the constant term, and $a_0$ divides $f(p_1p_2...p_k)$, all coefficients are integers.
 
-**(3) Prime Divisor Property:**
+**(3) To connect prime factors:** Prove that if a prime $p$ divides $g(y)$ for some $y \in \mathbb{Z}$, then $p$ must divide $f(x)$ for some $x \in \mathbb{Z}$, by explicitly constructing such an $x$.
 
 Let $p$ be a prime dividing $g(y)$ for some $y \in \mathbb{Z}$. Then:
 $$p \mid g(y) = \frac{1}{a_0}f(p_1p_2...p_ky)$$
@@ -150,7 +150,7 @@ $$\therefore p \mid f(p_1p_2...p_ky)$$
 Let $x = p_1p_2...p_ky$. Then $x \in \mathbb{Z}$ and:
 $$p \mid f(x)$$
 
-**(4) Original Primes Don't Divide $g(y)$:**
+**(4) To exclude original primes:** Show that none of the original primes $p_1,...,p_k$ can divide any value of $g(y)$ by proving $g(y) \equiv 1 \pmod{p_i}$ for all $y$ and all $i$.
 
 For any $p_i$ among our original primes:
 $$f(p_1p_2...p_ky) \equiv a_0 \pmod{p_i}$$
@@ -160,7 +160,7 @@ $$\frac{1}{a_0}f(p_1p_2...p_ky) \equiv \frac{1}{a_0}a_0 \equiv 1 \pmod{p_i}$$
 
 Therefore, $p_i \nmid g(y)$ for any $y \in \mathbb{Z}$.
 
-**(5) Value Restriction:**
+**(5) To restrict possible values:** Use results from (3) and (4) to prove that $g(y)$ can only take values $\pm 1$ for all $y \in \mathbb{Z}$.
 
 From (3), any prime dividing $g(y)$ must be among $p_1, ..., p_k$.
 From (4), none of $p_1, ..., p_k$ can divide $g(y)$.
@@ -168,7 +168,7 @@ From (4), none of $p_1, ..., p_k$ can divide $g(y)$.
 Therefore:
 $$g(y) \text{ must equal } \pm 1 \text{ for all } y \in \mathbb{Z}$$
 
-**(6) Finite Solutions:**
+**(6) To bound solutions:** Show that the equations $g(y)=1$ and $g(y)=-1$ have at most $2m$ integer solutions combined, using the fact that $g$ has degree $m$.
 
 Consider the equations:
 $$g(y) = 1 \text{ and } g(y) = -1$$
@@ -179,7 +179,7 @@ By the fundamental theorem of algebra:
 
 Therefore, these equations have at most $2m$ integer solutions combined.
 
-**(7) Contradiction:**
+**(7) To reach contradiction:** Show that the statements "$g(y)=\pm 1$ for all $y \in \mathbb{Z}$" and "$g(y)=\pm 1$ has at most $2m$ solutions" are mutually contradictory.
 
 We have shown:
 1. $g(y) = \pm 1$ for all $y \in \mathbb{Z}$ (from step 5)
