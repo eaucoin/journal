@@ -43,7 +43,7 @@ $$\text{If } \pi \mid xy \text{ then } \pi \mid x \text{ or } \pi \mid y$$
 Therefore:
 $$\pi \mid (a+bi) \text{ or } \pi \mid (a-bi)$$
 
-**(4) Showing Gaussian prime factors are not ordinary primes:**
+**(4) To restrict prime factors:** Prove that no Gaussian prime $\pi=q+ir$ dividing $e$ can be an ordinary prime $p$ in $\mathbb{Z}$, as this would force $p \mid \gcd(a,b)=1$.
 
 Let's proceed by contradiction. Suppose $\pi = q+ir$ is both a Gaussian prime and an ordinary prime $p$. Then:
 
@@ -63,7 +63,7 @@ $$p \mid \gcd(a,b)$$
 
 But this contradicts our assumption that $\gcd(a,b)=1$.
 
-**(5) Conjugate pairs of Gaussian primes:**
+**(5) To pair prime factors:** Show that if $\pi=q+ir$ divides $e$, then its conjugate $\overline{\pi}=q-ir$ also divides $e$, and prove these factors must be distinct when $\gcd(a,b)=1$.
 
 Let $\pi = q+ir$ be a Gaussian prime dividing $e$. Since $e \in \mathbb{Z}$:
 $$e = e\cdot 1 = e \cdot (1 \cdot \overline{1}) = e \cdot \frac{\overline{e}}{e} \cdot e = \overline{e}$$
@@ -82,7 +82,7 @@ $$\text{If } u = -i: \text{ then } q = -r$$
 
 Each case either makes $\pi$ an ordinary integer (contradicting part 4) or forces it to be an associate of $1+i$, which we can show contradicts $\gcd(a,b)=1$.
 
-**(6) Form of $e$ as sum of squares:**
+**(6) To obtain desired form:** Use the conjugate pairing of prime factors to prove $e=(c+di)(c-di)=c^2+d^2$ for some $c,d \in \mathbb{Z}$.
 
 Since all prime factors of $e$ come in conjugate pairs $(\pi_k, \overline{\pi_k})$, we can group them:
 $$e = \prod_{k=1}^n (\pi_k\overline{\pi_k})$$
@@ -93,7 +93,7 @@ Therefore:
 $$e = (c+di)(c-di) = c^2 + d^2$$
 where $c+di$ is the product of some subset of the Gaussian prime factors.
 
-**(7) Proving $\gcd(c,d)=1$:**
+**(7) To complete the theorem:** Prove that the integers $c,d$ in the representation $e=c^2+d^2$ must satisfy $\gcd(c,d)=1$ by showing any common factor would force a contradiction with $\gcd(a,b)=1$.
 
 Suppose $\gcd(c,d) = g > 1$. Then:
 $$g^2 \mid (c^2 + d^2) = e$$

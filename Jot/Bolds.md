@@ -1,16 +1,17 @@
+Here are the revised bold statements as specific mathematical problems:
 
-Let me rewrite those bold statements as specific mathematical problems showing their contribution to Euler's Theorem:
+**(1) To analyze the key auxiliary polynomial:** For the polynomial $g(y) = \frac{1}{a_0}f(p_1p_2...p_ky)$, prove it has the same degree $m$ as $f(x)$ by showing its leading coefficient $\frac{a_m}{a_0}(p_1p_2...p_k)^m$ is nonzero.
 
-**(1) To justify the coprime condition:** Show that when $\gcd(a,b)\neq 1$, the theorem can fail by finding specific integers $a,b$ where some divisor of $a^2+b^2$ cannot be written as $c^2+d^2$ with $\gcd(c,d)=1$.
+**(2) To establish well-definedness:** Prove that $g(y)$ has integer coefficients by showing that each coefficient $\frac{a_j}{a_0}(p_1p_2...p_k)^j$ is an integer.
 
-**(2) To begin factorization:** Show that any divisor $e>1$ of $a^2+b^2$ can be written as $e = u\pi_1\pi_2...\pi_n$ where $u$ is a unit in $\mathbb{Z}[i]$ and each $\pi_k$ is a Gaussian prime, by using the factorization $a^2+b^2=(a+bi)(a-bi)$ in $\mathbb{Z}[i]$.
+**(3) To connect prime factors:** Prove that if a prime $p$ divides $g(y)$ for some $y \in \mathbb{Z}$, then $p$ must divide $f(x)$ for some $x \in \mathbb{Z}$, by explicitly constructing such an $x$.
 
-**(3) To establish key division property:** Prove that for any Gaussian prime $\pi$ dividing $e$, either $\pi \mid (a+bi)$ or $\pi \mid (a-bi)$ but not both (as this would contradict $\gcd(a,b)=1$).
+**(4) To exclude original primes:** Show that none of the original primes $p_1,...,p_k$ can divide any value of $g(y)$ by proving $g(y) \equiv 1 \pmod{p_i}$ for all $y$ and all $i$.
 
-**(4) To restrict prime factors:** Prove that no Gaussian prime $\pi=q+ir$ dividing $e$ can be an ordinary prime $p$ in $\mathbb{Z}$, as this would force $p \mid \gcd(a,b)=1$.
+**(5) To restrict possible values:** Use results from (3) and (4) to prove that $g(y)$ can only take values $\pm 1$ for all $y \in \mathbb{Z}$.
 
-**(5) To pair prime factors:** Show that if $\pi=q+ir$ divides $e$, then its conjugate $\overline{\pi}=q-ir$ also divides $e$, and prove these factors must be distinct when $\gcd(a,b)=1$.
+**(6) To bound solutions:** Show that the equations $g(y)=1$ and $g(y)=-1$ have at most $2m$ integer solutions combined, using the fact that $g$ has degree $m$.
 
-**(6) To obtain desired form:** Use the conjugate pairing of prime factors to prove $e=(c+di)(c-di)=c^2+d^2$ for some $c,d \in \mathbb{Z}$.
+**(7) To reach contradiction:** Show that the statements "$g(y)=\pm 1$ for all $y \in \mathbb{Z}$" and "$g(y)=\pm 1$ has at most $2m$ solutions" are mutually contradictory.
 
-**(7) To complete the theorem:** Prove that the integers $c,d$ in the representation $e=c^2+d^2$ must satisfy $\gcd(c,d)=1$ by showing any common factor would force a contradiction with $\gcd(a,b)=1$.
+**(8) To complete the proof:** Conclude that the original assumption must be false, proving there are infinitely many primes dividing values of $f(x)$.
