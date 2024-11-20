@@ -194,8 +194,6 @@ $$\text{There are infinitely many primes } p \text{ that divide values of } f(x)
 
 This generalizes our earlier proof about primes $p \equiv 1 \pmod{4}$, where we used $f(x) = x^2 + 1$.
 
-I'll rewrite this with detailed mathematical explanations and demonstrations:
-
 ### Problem 3: Representation of Primes as $x^2 - 2y^2$
 
 **Theorem:** A prime $p$ can be written as $p = x^2 - 2y^2$ if and only if $p \equiv \pm1 \pmod{8}$.
@@ -255,33 +253,147 @@ $$1 = 2(k^2-2j^2)$$
 
 This is impossible as the RHS is even.
 
-[Continued in next part...]
+**(3) Quadratic Residues:**
 
-### Problem 4. The goal of this exercise is to give an alternative proof of $(\frac{p}{q}) = p^{\frac{q-1}{2}} \pmod{q}$.
+For primes $p \equiv \pm1 \pmod{8}$, quadratic reciprocity tells us:
+$$(\frac{2}{p}) = 1$$
 
-**(1)** If $a$ is a primitive root of $q$, then we know $1,a,...,a^{q-2}$ are distinct nonzero elements mod $q$.
-Show that the squares mod $q$ are $1,a^2,...,a^{q-3}$.
+This means:
+$$\exists m \in \mathbb{Z}: m^2 \equiv 2 \pmod{p}$$
 
-Let $g$ be a primitive root modulo $q$. This means that the powers $g^1, g^2, \dots, g^{q-1} \equiv 1 \pmod{q}$ are all distinct modulo $q$ and represent the $q-1$ non-zero residues modulo $q$.
+Key observation:
+$$p \equiv \pm1 \pmod{8} \implies 2 \text{ is a quadratic residue modulo } p$$
 
-**(2)** The squares modulo $q$ are precisely the even powers of $g$: $1, g^2, g^4, \dots, g^{q-3}$ (since $q-1$ is even, $q-3$ will be the largest even exponent less than $q-1$). There are $\frac{q-1}{2}$ such squares.
+**(4) Non-Primality in $\mathbb{Z}[\sqrt{2}]$:**
 
-**(3)** If $P$ is a square modulo $q$, then $P \equiv g^{2k} \pmod{q}$ for some integer $k$. Then
+From $m^2 \equiv 2 \pmod{p}$:
+$$m^2 - 2 \equiv 0 \pmod{p}$$
+$$(m - \sqrt{2})(m + \sqrt{2}) \equiv 0 \pmod{p}$$
+
+If $p$ were prime in $\mathbb{Z}[\sqrt{2}]$:
+- $p$ would divide either $(m - \sqrt{2})$ or $(m + \sqrt{2})$
+- This implies $p \mid 2\sqrt{2}$
+- Therefore $p^2 \mid 8$
+- But this means $p = 2$, contradicting $p \equiv \pm1 \pmod{8}$
+
+Therefore, $p$ is not prime in $\mathbb{Z}[\sqrt{2}]$.
+
+**(5) Division Property in $\mathbb{Z}[\sqrt{2}]$:**
+
+For $\alpha = a+b\sqrt{2}$ and $\beta = c+d\sqrt{2}$ with $\beta \neq 0$:
+
+$$\frac{\alpha}{\beta} = \frac{(a+b\sqrt{2})(c-d\sqrt{2})}{c^2-2d^2}$$
+$$= \frac{ac-2bd}{c^2-2d^2} + \frac{bc-ad}{c^2-2d^2}\sqrt{2}$$
+$$= r_1 + r_2\sqrt{2}$$
+
+Let $m_1, m_2$ be integers with:
+$$|r_1-m_1| \leq \frac{1}{2} \text{ and } |r_2-m_2| \leq \frac{1}{2}$$
+
+For $\gamma = m_1 + m_2\sqrt{2}$:
+
+$$|\text{norm}(\frac{\alpha}{\beta}-\gamma)| = |(r_1-m_1)^2-2(r_2-m_2)^2|$$
+$$\leq |(\frac{1}{2})^2 + 2(\frac{1}{2})^2| = \frac{3}{4} < 1$$
+
+For $\rho = \alpha-\gamma\beta$:
+$$|\text{norm}(\rho)| = |\text{norm}(\beta)| |\text{norm}(\frac{\alpha}{\beta}-\gamma)| < |\text{norm}(\beta)|$$
+
+**(6) Final Representation:**
+
+Since $p$ is not prime in $\mathbb{Z}[\sqrt{2}]$, it factors as:
+$$p = (x+y\sqrt{2})(u+v\sqrt{2})$$
+
+Taking norms:
+$$p^2 = (x^2-2y^2)(u^2-2v^2)$$
+
+By unique factorization in $\mathbb{Z}$:
+$$p = x^2-2y^2$$
+
+Therefore:
+1. If $p \equiv \pm1 \pmod{8}$, then $p = x^2-2y^2$ for some $x,y \in \mathbb{Z}$
+2. If $p = x^2-2y^2$, then by part (1), $p \equiv \pm1 \pmod{8}$
+
+This completes the proof that $p = x^2-2y^2$ if and only if $p \equiv \pm1 \pmod{8}$.
+
+I'll rewrite this with detailed mathematical explanations:
+
+### Problem 4: Alternative Proof of Euler's Criterion
+
+**Theorem to Prove:** For an odd prime $q$ and any integer $p$ not divisible by $q$:
+$$(\frac{p}{q}) \equiv p^{\frac{q-1}{2}} \pmod{q}$$
+
+**(1) Structure of Multiplicative Group Modulo q:**
+
+Let $a$ be a primitive root modulo $q$. Then:
+$$\{a^k \bmod q: 0 \leq k \leq q-2\} = \{1, a, a^2, ..., a^{q-2}\}$$
+
+This forms a complete set of nonzero residues modulo $q$.
+
+To find squares modulo $q$:
+- For any $x \not\equiv 0 \pmod{q}$, $x \equiv a^k \pmod{q}$ for some unique $k$
+- $x$ is a square $\iff \exists y: y^2 \equiv x \pmod{q}$
+- $y \equiv a^m \pmod{q}$ for some $m$
+- Therefore: $a^{2m} \equiv x \equiv a^k \pmod{q}$
+- By primitive root properties: $2m \equiv k \pmod{q-1}$
+- Thus $k$ must be even
+
+Therefore, squares modulo $q$ are:
+$$\{1, a^2, a^4, ..., a^{q-3}\}$$
+
+**(2) Count of Squares:**
+
+The exponents in the squares are:
+$$\{0, 2, 4, ..., q-3\}$$
+
+This is an arithmetic sequence with:
+- First term: 0
+- Last term: $q-3$
+- Common difference: 2
+
+Number of terms = $\frac{q-1}{2}$ squares modulo $q$
+
+**(3) Case of Quadratic Residues:**
+
+For $P$ a square modulo $q$:
+$$P \equiv a^{2k} \pmod{q} \text{ for some } k$$
+
+Computing the power:
 $$\begin{align*}
-P^{\frac{q-1}{2}} &\equiv (g^{2k})^{\frac{q-1}{2}} \\
-&\equiv g^{k(q-1)} \\
-&\equiv (g^{q-1})^k \\
-&\equiv 1^k \\
-&\equiv 1 \pmod{q}\text{,}
+P^{\frac{q-1}{2}} &\equiv (a^{2k})^{\frac{q-1}{2}} \pmod{q} \\
+&\equiv a^{k(q-1)} \pmod{q} \\
+&\equiv (a^{q-1})^k \pmod{q} \\
+&\equiv 1^k \pmod{q} \text{ (by Fermat's Little Theorem)} \\
+&\equiv 1 \pmod{q}
 \end{align*}$$
-by Fermat's Little Theorem.
 
-**(4)** If $P$ is not a square modulo $q$, it must be congruent to an odd power of $g$: $P \equiv g^{2k+1} \pmod{q}$ for some integer $k$. Then
+**(4) Case of Non-Squares:**
+
+For $P$ not a square modulo $q$:
+$$P \equiv a^{2k+1} \pmod{q} \text{ for some } k$$
+
+Computing the power:
 $$\begin{align*}
-P^{\frac{q-1}{2}} &\equiv (g^{2k+1})^{\frac{q-1}{2}} \\
-&\equiv g^{k(q-1)+\frac{q-1}{2}} \\
-&\equiv (g^{q-1})^k g^{\frac{q-1}{2}} \\
-&\equiv g^{\frac{q-1}{2}} \pmod{q}\text{.}
+P^{\frac{q-1}{2}} &\equiv (a^{2k+1})^{\frac{q-1}{2}} \pmod{q} \\
+&\equiv a^{k(q-1)+\frac{q-1}{2}} \pmod{q} \\
+&\equiv (a^{q-1})^k \cdot a^{\frac{q-1}{2}} \pmod{q} \\
+&\equiv a^{\frac{q-1}{2}} \pmod{q}
 \end{align*}$$
 
-Since $g$ is a primitive root, $g^{\frac{q-1}{2}} \not\equiv 1 \pmod{q}$. However, we know that $(g^{\frac{q-1}{2}})^2 \equiv g^{q-1} \equiv 1 \pmod{q}$. Because $q$ is prime, the congruence $x^2 \equiv 1 \pmod{q}$ has only two solutions: $x \equiv \pm 1 \pmod{q}$. Since $g^{\frac{q-1}{2}} \not\equiv 1 \pmod{q}$, we must have $g^{\frac{q-1}{2}} \equiv -1 \pmod{q}$. Thus, if $P$ is not a square modulo $q$, $P^{\frac{q-1}{2}} \equiv -1 \pmod{q}$.
+Key observations:
+1. $(a^{\frac{q-1}{2}})^2 \equiv a^{q-1} \equiv 1 \pmod{q}$
+2. $a^{\frac{q-1}{2}} \not\equiv 1 \pmod{q}$ (as $a$ is primitive root)
+3. In $\mathbb{F}_q$, $x^2 \equiv 1$ has only solutions $x \equiv \pm 1$
+
+Therefore:
+$$a^{\frac{q-1}{2}} \equiv -1 \pmod{q}$$
+
+Thus for non-squares:
+$$P^{\frac{q-1}{2}} \equiv -1 \pmod{q}$$
+
+This proves:
+$$p^{\frac{q-1}{2}} \equiv \begin{cases}
+1 \pmod{q} & \text{if } p \text{ is a square mod } q \\
+-1 \pmod{q} & \text{if } p \text{ is not a square mod } q
+\end{cases}$$
+
+Which is equivalent to:
+$$(\frac{p}{q}) \equiv p^{\frac{q-1}{2}} \pmod{q}$$
