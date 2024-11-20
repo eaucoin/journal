@@ -25,3 +25,31 @@ But this is impossible because:
 Therefore, 2 cannot be represented as $x^2-2y^2$.
 
 Does this proof make more sense?
+
+
+
+
+Let me break this down step by step:
+
+1. We start with $2 = x^2-2y^2$
+   
+2. In modulo 2 arithmetic, $2 \equiv 0 \pmod{2}$
+   So our equation becomes:
+   $0 \equiv x^2-2y^2 \pmod{2}$
+   
+3. Rearranging:
+   $x^2 \equiv 2y^2 \pmod{2}$
+
+4. Now, for ANY number $y$:
+   - $2y^2 \equiv 0 \pmod{2}$ (because anything multiplied by 2 is 0 mod 2)
+
+5. So our equation is:
+   $x^2 \equiv 0 \pmod{2}$
+
+6. For any integer $x$:
+   - If $x$ is even: $x^2 \equiv 0 \pmod{2}$
+   - If $x$ is odd: $x^2 \equiv 1 \pmod{2}$
+
+7. Since we found $x^2 \equiv 0 \pmod{2}$, $x$ must be even
+
+Would you like me to justify any of these steps further? In particular, would it help to see why $2y^2 \equiv 0 \pmod{2}$ for any $y$?
