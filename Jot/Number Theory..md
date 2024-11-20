@@ -187,7 +187,7 @@ We have shown:
 
 Since $\mathbb{Z}$ is infinite and $2m$ is finite, this is a contradiction.
 
-**(8) Conclusion:**
+**(8) To complete the proof:** Conclude that the original assumption must be false, proving there are infinitely many primes dividing values of $f(x)$.
 
 Our initial assumption must be false. Therefore:
 $$\text{There are infinitely many primes } p \text{ that divide values of } f(x)$$
@@ -206,7 +206,10 @@ In $\mathbb{Z}[\sqrt{2}]$:
 - For $\pi = a+b\sqrt{2}$, its conjugate is $\overline{\pi} = a-b\sqrt{2}$
 - The norm is multiplicative: $\text{norm}(\pi_1\pi_2) = \text{norm}(\pi_1)\text{norm}(\pi_2)$
 
-**(1) Modular Analysis:**
+**(1) To restrict possible prime values:** Prove that if a prime $p$ is of the form $x^2-2y^2$, then $p \equiv \pm1 \pmod{8}$ by:
+1. Analyzing all possible values of $x^2 \pmod{8}$
+2. Analyzing all possible values of $2y^2 \pmod{8}$
+3. Showing that for primes $p \equiv 3,5 \pmod{8}$, $p$ must be prime in $\mathbb{Z}[\sqrt{2}]$
 
 Let's analyze possible values modulo 8:
 
