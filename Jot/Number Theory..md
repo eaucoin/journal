@@ -239,7 +239,7 @@ For a prime $p$:
 - Therefore $p$ is prime in $\mathbb{Z}[\sqrt{2}]$
 - Hence $p \neq x^2 - 2y^2$
 
-**(2) Special Case of $p=2$:**
+**(2) To exclude $p=2$ case:** Prove that 2 cannot be represented as $x^2-2y^2$ by showing any such representation leads to a contradiction modulo 2.**
 
 Let's prove 2 cannot be represented as $x^2 - 2y^2$:
 
@@ -256,7 +256,7 @@ $$1 = 2(k^2-2j^2)$$
 
 This is impossible as the RHS is even.
 
-**(3) Quadratic Residues:**
+**(3) To begin reverse implication:** For primes $p \equiv \pm1 \pmod{8}$, prove that 2 is a quadratic residue modulo $p$ using quadratic reciprocity, yielding an integer $m$ where $m^2 \equiv 2 \pmod{p}$.
 
 For primes $p \equiv \pm1 \pmod{8}$, quadratic reciprocity tells us:
 $$(\frac{2}{p}) = 1$$
@@ -267,7 +267,7 @@ $$\exists m \in \mathbb{Z}: m^2 \equiv 2 \pmod{p}$$
 Key observation:
 $$p \equiv \pm1 \pmod{8} \implies 2 \text{ is a quadratic residue modulo } p$$
 
-**(4) Non-Primality in $\mathbb{Z}[\sqrt{2}]$:**
+**(4) To show factorization in $\mathbb{Z}[\sqrt{2}]$:** Use the quadratic residue from (3) to prove that $p$ cannot be prime in $\mathbb{Z}[\sqrt{2}]$ by showing it would lead to $p=2$, contradicting $p \equiv \pm1 \pmod{8}$.
 
 From $m^2 \equiv 2 \pmod{p}$:
 $$m^2 - 2 \equiv 0 \pmod{p}$$
@@ -281,7 +281,7 @@ If $p$ were prime in $\mathbb{Z}[\sqrt{2}]$:
 
 Therefore, $p$ is not prime in $\mathbb{Z}[\sqrt{2}]$.
 
-**(5) Division Property in $\mathbb{Z}[\sqrt{2}]$:**
+**(5) To establish division algorithm:** Prove that $\mathbb{Z}[\sqrt{2}]$ has the division property by explicitly constructing remainders with norm less than the divisor's norm.**
 
 For $\alpha = a+b\sqrt{2}$ and $\beta = c+d\sqrt{2}$ with $\beta \neq 0$:
 
@@ -300,7 +300,7 @@ $$\leq |(\frac{1}{2})^2 + 2(\frac{1}{2})^2| = \frac{3}{4} < 1$$
 For $\rho = \alpha-\gamma\beta$:
 $$|\text{norm}(\rho)| = |\text{norm}(\beta)| |\text{norm}(\frac{\alpha}{\beta}-\gamma)| < |\text{norm}(\beta)|$$
 
-**(6) Final Representation:**
+**(6) To complete representation:** Use the non-primality from (4) to factor $p$ in $\mathbb{Z}[\sqrt{2}]$ and prove this factorization yields a representation $p=x^2-2y^2$, completing the proof that $p \equiv \pm1 \pmod{8}$ implies $p=x^2-2y^2$.
 
 Since $p$ is not prime in $\mathbb{Z}[\sqrt{2}]$, it factors as:
 $$p = (x+y\sqrt{2})(u+v\sqrt{2})$$
