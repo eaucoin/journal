@@ -22,6 +22,8 @@ Let me break this down:
 
 Would you like me to clarify any of these steps further?
 
+
+
 Let me clarify:
 
 The statement should be about congruences modulo 8, not modulo p. Specifically:
@@ -40,3 +42,23 @@ So in both cases, $(\frac{2}{p}) = -1$
 This is crucial because we're trying to characterize which primes can be written as $x^2-2y^2$. The fact that primes congruent to 3 or 5 modulo 8 make 2 a non-quadratic residue tells us these primes cannot be represented in this form.
 
 Is this clearer? Would you like me to elaborate on any part?
+
+The law of quadratic reciprocity has a special case for 2 that's simpler than the general case. For an odd prime $p$, we have:
+
+$$(\frac{2}{p}) = (-1)^{\frac{p^2-1}{8}}$$
+
+This means whether 2 is a quadratic residue modulo $p$ depends only on what $p$ is modulo 8.
+
+We can verify this directly by checking what happens for each residue class modulo 8:
+- If $p \equiv 1 \pmod{8}$, then $p^2 \equiv 1 \pmod{8}$, so $\frac{p^2-1}{8}$ is even
+- If $p \equiv 3 \pmod{8}$, then $p^2 \equiv 9 \pmod{8}$, so $\frac{p^2-1}{8}$ is odd
+- If $p \equiv 5 \pmod{8}$, then $p^2 \equiv 25 \pmod{8}$, so $\frac{p^2-1}{8}$ is odd
+- If $p \equiv 7 \pmod{8}$, then $p^2 \equiv 49 \pmod{8}$, so $\frac{p^2-1}{8}$ is even
+
+Therefore:
+$$(\frac{2}{p}) = \begin{cases} 
+1 & \text{if } p \equiv \pm1 \pmod{8} \\
+-1 & \text{if } p \equiv \pm3 \pmod{8}
+\end{cases}$$
+
+This is considered one of the "supplementary laws" to quadratic reciprocity. Would you like me to explain why this formula is true?
