@@ -111,8 +111,6 @@ This means $1+i$ divides both $a+bi$ and $a-bi$, which contradicts $\gcd(a,b)=1$
 
 Therefore, $\gcd(c,d) = 1$, completing the proof of Euler's theorem.
 
-I'll rewrite this with detailed mathematical explanations and demonstrations:
-
 ### Problem 2: Infinitude of Primes Dividing Polynomial Values
 
 Let's begin with a polynomial $f(x)$ with integer coefficients:
@@ -196,51 +194,68 @@ $$\text{There are infinitely many primes } p \text{ that divide values of } f(x)
 
 This generalizes our earlier proof about primes $p \equiv 1 \pmod{4}$, where we used $f(x) = x^2 + 1$.
 
-### Problem 3. The goal of this exercise is to show that any prime $p$ can be written as $p = x^2 - 2y^2$ if and only if $p \equiv \pm1 \pmod{8}$.
+I'll rewrite this with detailed mathematical explanations and demonstrations:
 
-To this end, define:
-- $\mathbb{Z}[\sqrt{2}] := \{a+b\sqrt{2}; a,b\in\mathbb{Z}\}$
-- $\text{norm}(a+b\sqrt{2}) = a^2-2b^2$
-- $\pi$ is a prime in $\mathbb{Z}[\sqrt{2}]$ if $\pi\neq\alpha\beta$ for $\alpha,\beta\in\mathbb{Z}[\sqrt{2}]$ with $|\text{norm}(\alpha)|>1$, $|\text{norm}(\beta)|>1$
-- If $\pi = a+b\sqrt{2}$, define the conjugate $\overline{\pi} = a-b\sqrt{2}$
-- $\text{norm}(\pi_1\pi_2) = \text{norm}(\pi_1)\text{norm}(\pi_2)$
+### Problem 3: Representation of Primes as $x^2 - 2y^2$
 
-**(1)** The squares modulo 8 are 0, 1, and 4. Thus, $x^2$ can be congruent to 0, 1, or 4 modulo 8, and $2y^2$ can be congruent to 0 or 2 modulo 8. Therefore, $x^2 - 2y^2$ can be congruent to 0, 1, 2, 4, 6, or 7 modulo 8. If $p$ is an odd prime, then $p$ cannot be congruent to 0, 2, 4, or 6 modulo 8. Also, if $p \equiv 3, 5 \pmod{8}$, then $(\frac{2}{p})=-1$, so $p$ does not divide $x^2-2$, and hence $p$ is prime in $\mathbb{Z}[\sqrt{2}]$, thus $p$ is not of the form $x^2 - 2y^2$. Therefore if $p = x^2 - 2y^2$ for some integers $x$ and $y$, and $p$ is prime, $p$ must be congruent to $\pm 1 \pmod{8}$.
+**Theorem:** A prime $p$ can be written as $p = x^2 - 2y^2$ if and only if $p \equiv \pm1 \pmod{8}$.
 
-**(2)** If $2=x^2-2y^2$, then $x^2 \equiv 2 \pmod{2}$, which means $x^2$ is even, so $x$ is even. Let $x=2k$. Then $2 = 4k^2 - 2y^2$ implying $1 = 2k^2 - y^2$, so $y^2 \equiv -1 \equiv 1 \pmod{2}$, and $y$ is also even. Then let $y=2j$, which gives 
-$$\begin{align*}
-1&=2k^2-4j^2\\
-&=2(k^2-2j^2)\text{,}
-\end{align*}$$
-which is a contradiction because the right-hand side is even. Thus, $p$ cannot be 2.
+First, let's establish our working environment:
 
-**(3)** Since $p \equiv \pm 1 \pmod{8}$, we have $(\frac{2}{p}) = 1$ by quadratic reciprocity. This means that $2$ is a quadratic residue modulo $p$, so there exists an integer $m$ such that $m^2 \equiv 2 \pmod{p}$.
+In $\mathbb{Z}[\sqrt{2}]$:
+- Elements are of the form $a + b\sqrt{2}$ where $a,b \in \mathbb{Z}$
+- The norm is defined as: $\text{norm}(a+b\sqrt{2}) = a^2-2b^2$
+- For $\pi = a+b\sqrt{2}$, its conjugate is $\overline{\pi} = a-b\sqrt{2}$
+- The norm is multiplicative: $\text{norm}(\pi_1\pi_2) = \text{norm}(\pi_1)\text{norm}(\pi_2)$
 
-**(4)** We can write $m^2 \equiv 2 \pmod{p}$ as $m^2 - 2 \equiv 0 \pmod{p}$. This means $p | (m - \sqrt{2})(m + \sqrt{2})$ in $\mathbb{Z}[\sqrt{2}]$. If $p$ were prime in $\mathbb{Z}[\sqrt{2}]$, then it would divide either $m - \sqrt{2}$ or $m + \sqrt{2}$. This would imply that $p$ divides $2\sqrt{2}$ and hence $p^2 | 8$, so $p=2$, but this contradicts the initial condition that $p \equiv \pm 1 \pmod{8}$. Therefore $p$ is not a prime in $\mathbb{Z}[\sqrt{2}]$.
+**(1) Modular Analysis:**
 
-**(5)** $\mathbb{Z}[\sqrt{2}]$ has the division property. To see why, let $\alpha=a+b\sqrt{2}$ and $\beta = c+d\sqrt{2}$ be elements of $\mathbb{Z}[\sqrt{2}]$ where $\beta \neq 0$. Consider the quotient 
-$$\begin{align*}
-\frac{\alpha}{\beta} &= \frac{a+b\sqrt{2}}{c+d\sqrt{2}} \\
-&= \frac{(a+b\sqrt{2})(c-d\sqrt{2})}{c^2-2d^2} \\
-&= \frac{ac-2bd}{c^2-2d^2} + \frac{bc-ad}{c^2-2d^2}\sqrt{2} \\
-&= r_1+r_2\sqrt{2}\text{.}
-\end{align*}$$
+Let's analyze possible values modulo 8:
 
-Let $m_1$ and $m_2$ be integers such that $|r_1-m_1| \leq \frac{1}{2}$ and $|r_2-m_2| \leq \frac{1}{2}$, and let $\gamma = m_1 + m_2\sqrt{2}$. Then 
-$$\begin{align*}
-|\text{norm}(\frac{\alpha}{\beta}-\gamma)| &= |(r_1-m_1)^2-2(r_2-m_2)^2| \\
-&\leq |(\frac{1}{2})^2 + 2(\frac{1}{2})^2| \\
-&= \frac{3}{4} \\
-&< 1\text{.}
-\end{align*}$$
+For squares modulo 8:
+$$\begin{array}{c|c}
+x & x^2 \pmod{8} \\
+\hline
+0 & 0 \\
+1,7 & 1 \\
+2,6 & 4 \\
+3,5 & 1 \\
+4 & 0 \\
+\end{array}$$
 
-Then letting $\rho = \alpha-\gamma\beta$, we have  
-$$\begin{align*}
-|\text{norm}(\rho)| &= |\text{norm}(\beta)| |\text{norm}(\frac{\alpha}{\beta}-\gamma)| \\
-&< |\text{norm}(\beta)|\text{.}
-\end{align*}$$
+For $2y^2$ modulo 8:
+$$2y^2 \equiv \begin{cases}
+0 \pmod{8} & \text{if } y \text{ is even} \\
+2 \pmod{8} & \text{if } y \text{ is odd}
+\end{cases}$$
 
-**(6)** Since $p$ is not prime in $\mathbb{Z}[\sqrt{2}]$, it must be expressible as $p = x^2 - 2y^2$ for some integers $x$ and $y$. This is because if $p$ factors nontrivially as $(x+y\sqrt{2})(u+v\sqrt{2})$ then multiplying by the conjugate gives $p^2=(x^2-2y^2)(u^2-2v^2)$, and unique prime factorization in integers forces both factors to equal $p$.
+Therefore, $x^2 - 2y^2$ can be:
+$$x^2 - 2y^2 \equiv \{0, 1, 2, 4, 6, 7\} \pmod{8}$$
+
+For a prime $p$:
+- If $p \equiv 3,5 \pmod{8}$, then $(\frac{2}{p}) = -1$
+- Thus $p$ cannot divide $x^2-2$
+- Therefore $p$ is prime in $\mathbb{Z}[\sqrt{2}]$
+- Hence $p \neq x^2 - 2y^2$
+
+**(2) Special Case of $p=2$:**
+
+Let's prove 2 cannot be represented as $x^2 - 2y^2$:
+
+Suppose $2 = x^2-2y^2$. Then:
+$$x^2 \equiv 2 \pmod{2} \implies x \text{ is even} \implies x = 2k$$
+
+Substituting:
+$$2 = 4k^2 - 2y^2$$
+$$1 = 2k^2 - y^2$$
+$$y^2 \equiv 1 \pmod{2} \implies y \text{ is odd}$$
+
+But if $y = 2j$:
+$$1 = 2(k^2-2j^2)$$
+
+This is impossible as the RHS is even.
+
+[Continued in next part...]
 
 ### Problem 4. The goal of this exercise is to give an alternative proof of $(\frac{p}{q}) = p^{\frac{q-1}{2}} \pmod{q}$.
 
