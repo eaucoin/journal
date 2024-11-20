@@ -53,3 +53,34 @@ Let me break this down step by step:
 7. Since we found $x^2 \equiv 0 \pmod{2}$, $x$ must be even
 
 Would you like me to justify any of these steps further? In particular, would it help to see why $2y^2 \equiv 0 \pmod{2}$ for any $y$?
+
+
+
+Let me walk through what happens after we know $x$ is even (so $x=2k$):
+
+Starting with $2 = x^2-2y^2$
+1. Substitute $x=2k$:
+   $2 = (2k)^2-2y^2$
+   $2 = 4k^2-2y^2$
+
+2. Subtract $2y^2$ from both sides:
+   $2-2y^2 = 4k^2-2y^2-2y^2$
+   $2-2y^2 = 4k^2-4y^2$
+
+3. Add $4y^2$ to both sides:
+   $2-2y^2+4y^2 = 4k^2$
+   $2+2y^2 = 4k^2$
+
+4. Divide everything by 2:
+   $1+y^2 = 2k^2$
+
+5. Subtract $y^2$ from both sides:
+   $1 = 2k^2-y^2$
+
+At this stage, we have:
+- RHS is $2k^2-y^2$
+- LHS is 1
+
+This means $y^2 = 2k^2-1$, which we can use to reach a contradiction.
+
+Would you like me to explain why this leads to a contradiction?
