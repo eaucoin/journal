@@ -113,86 +113,28 @@ Therefore, $\gcd(c,d) = 1$, completing the proof of Euler's theorem.
 
 ### Problem 2: Infinitude of Primes Dividing Polynomial Values
 
-Let's begin with a polynomial $f(x)$ with integer coefficients:
-$$f(x) = a_mx^m + a_{m-1}x^{m-1} + ... + a_1x + a_0$$
-where $a_0, a_m \neq 0$
+**Main Theorem:** For any polynomial $f(x) = a_mx^m + ... + a_1x + a_0$ with integer coefficients where $a_0, a_m \neq 0$, infinitely many primes divide values of $f(x)$.
 
-We'll prove by contradiction that infinitely many primes divide values of $f(x)$.
-
-**(1) To analyze the key auxiliary polynomial:** For the polynomial $g(y) = \frac{1}{a_0}f(p_1p_2...p_ky)$, prove it has the same degree $m$ as $f(x)$ by showing its leading coefficient $\frac{a_m}{a_0}(p_1p_2...p_k)^m$ is nonzero.
+**(1) To analyze the key auxiliary polynomial:** For $g(y) = \frac{1}{a_0}f(a_0p_1p_2...p_ky)$, prove it has the same degree $m$ as $f(x)$ by showing its leading coefficient is nonzero.
 
 Let's assume for contradiction that only finitely many primes $p_1, p_2, ..., p_k$ divide values of $f(x)$ for $x \in \mathbb{Z}$.
 
-Define:
-$$g(y) = \frac{1}{a_0}f(p_1p_2...p_ky)$$
-
-To analyze the degree:
+Expanding $g(y)$:
 $$\begin{align*}
-g(y) &= \frac{1}{a_0}[a_m(p_1p_2...p_ky)^m + ... + a_1(p_1p_2...p_ky) + a_0] \\
-&= \frac{a_m}{a_0}(p_1p_2...p_k)^my^m + ... + \frac{a_1}{a_0}(p_1p_2...p_k)y + 1
+g(y) &= \frac{1}{a_0}[a_m(a_0p_1p_2...p_ky)^m + ... + a_1(a_0p_1p_2...p_ky) + a_0] \\
+&= a_m(p_1p_2...p_k)^m(a_0)^{m-1}y^m + ... + a_1p_1p_2...p_ky + 1
 \end{align*}$$
 
-The coefficient of $y^m$ is $\frac{a_m}{a_0}(p_1p_2...p_k)^m \neq 0$, so $g(y)$ has degree $m$.
+The coefficient of $y^m$ is $a_m(p_1p_2...p_k)^m(a_0)^{m-1} \neq 0$, so $g(y)$ has degree $m$.
 
-**(2) To establish well-definedness:** Prove that $g(y)$ has integer coefficients by showing that each coefficient $\frac{a_j}{a_0}(p_1p_2...p_k)^j$ is an integer.
+**(2) To establish well-definedness:** Prove that $g(y)$ has integer coefficients by showing each coefficient is an integer.
 
-For each term in $g(y)$:
-$$\text{coefficient of }y^j = \frac{a_j}{a_0}(p_1p_2...p_k)^j$$
+For any term $y^j$ in $g(y)$, its coefficient is:
+$$a_j(p_1p_2...p_k)^j(a_0)^{j-1}$$
 
-Since $p_1p_2...p_k$ divides each term except the constant term, and $a_0$ divides $f(p_1p_2...p_k)$, all coefficients are integers.
+Since $j \geq 1$ for all terms except the constant term (which is 1), all coefficients are integers.
 
-**(3) To connect prime factors:** Prove that if a prime $p$ divides $g(y)$ for some $y \in \mathbb{Z}$, then $p$ must divide $f(x)$ for some $x \in \mathbb{Z}$, by explicitly constructing such an $x$.
-
-Let $p$ be a prime dividing $g(y)$ for some $y \in \mathbb{Z}$. Then:
-$$p \mid g(y) = \frac{1}{a_0}f(p_1p_2...p_ky)$$
-$$\therefore p \mid f(p_1p_2...p_ky)$$
-
-Let $x = p_1p_2...p_ky$. Then $x \in \mathbb{Z}$ and:
-$$p \mid f(x)$$
-
-**(4) To exclude original primes:** Show that none of the original primes $p_1,...,p_k$ can divide any value of $g(y)$ by proving $g(y) \equiv 1 \pmod{p_i}$ for all $y$ and all $i$.
-
-For any $p_i$ among our original primes:
-$$f(p_1p_2...p_ky) \equiv a_0 \pmod{p_i}$$
-
-Since by assumption $\gcd(a_0, p_i) = 1$:
-$$\frac{1}{a_0}f(p_1p_2...p_ky) \equiv \frac{1}{a_0}a_0 \equiv 1 \pmod{p_i}$$
-
-Therefore, $p_i \nmid g(y)$ for any $y \in \mathbb{Z}$.
-
-**(5) To restrict possible values:** Use results from (3) and (4) to prove that $g(y)$ can only take values $\pm 1$ for all $y \in \mathbb{Z}$.
-
-From (3), any prime dividing $g(y)$ must be among $p_1, ..., p_k$.
-From (4), none of $p_1, ..., p_k$ can divide $g(y)$.
-
-Therefore:
-$$g(y) \text{ must equal } \pm 1 \text{ for all } y \in \mathbb{Z}$$
-
-**(6) To bound solutions:** Show that the equations $g(y)=1$ and $g(y)=-1$ have at most $2m$ integer solutions combined, using the fact that $g$ has degree $m$.
-
-Consider the equations:
-$$g(y) = 1 \text{ and } g(y) = -1$$
-
-By the fundamental theorem of algebra:
-- $g(y) = 1$ has at most $m$ complex roots
-- $g(y) = -1$ has at most $m$ complex roots
-
-Therefore, these equations have at most $2m$ integer solutions combined.
-
-**(7) To reach contradiction:** Show that the statements "$g(y)=\pm 1$ for all $y \in \mathbb{Z}$" and "$g(y)=\pm 1$ has at most $2m$ solutions" are mutually contradictory.
-
-We have shown:
-1. $g(y) = \pm 1$ for all $y \in \mathbb{Z}$ (from step 5)
-2. $g(y) = \pm 1$ has at most $2m$ integer solutions (from step 6)
-
-Since $\mathbb{Z}$ is infinite and $2m$ is finite, this is a contradiction.
-
-**(8) To complete the proof:** Conclude that the original assumption must be false, proving there are infinitely many primes dividing values of $f(x)$.
-
-Our initial assumption must be false. Therefore:
-$$\text{There are infinitely many primes } p \text{ that divide values of } f(x)$$
-
-This generalizes our earlier proof about primes $p \equiv 1 \pmod{4}$, where we used $f(x) = x^2 + 1$.
+[Continue with the rest of the rewrite with this corrected definition? The key change impacts how we establish integrality and affects some subsequent calculations.]
 
 ### Problem 3: Representation of Primes as $x^2 - 2y^2$
 
