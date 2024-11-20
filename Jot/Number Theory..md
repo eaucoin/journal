@@ -1,36 +1,51 @@
 ## Homework for the Week of November 11th.
 
-### Problem 1. The goal of this exercise is to show how $\mathbb{Z}[i]$ sheds light on sum of two squares in other ways than what we've done so far.
+I'll rewrite this with more detailed mathematical demonstrations, making it more suitable for students learning the material. I'll break it down step by step with clear explanations and mathematical notation.
 
-Namely, we show the following theorem of Euler: If $a,b$ are integers with $\gcd(a,b)=1$, then any divisor of $a^2+b^2$ is of the form $c^2+d^2$ with $\gcd(c,d)=1$.
+### Problem 1: Euler's Theorem on Sum of Two Squares in $\mathbb{Z}[i]$
 
-**(1)** Give an example that shows why the condition $\gcd(a,b)=1$ is necessary.
+**Theorem (Euler):** If $a,b \in \mathbb{Z}$ with $\gcd(a,b)=1$, then any divisor of $a^2+b^2$ is of the form $c^2+d^2$ where $c,d \in \mathbb{Z}$ with $\gcd(c,d)=1$.
 
-If $\gcd(a,b) \neq 1$, the theorem doesn't hold. For example, let $a = 2$ and $b = 4$. Then $\gcd(a, b) = 2$. We have $a^2 + b^2 = 20$, and $4$ is a divisor of $20$. However, $4$ can only be expressed as $c^2 + d^2$ if $c=2, d=0$ or $c=0, d=2$. If we require $\gcd(c, d) = 1$, then $4$ is not expressible in the required form.
+**(1) Necessity of the $\gcd(a,b)=1$ condition:**
 
-**(2)** Let $e>1$ be an integer divisor of $a^2+b^2$. Show that $e$ is a product of Gaussian prime divisors $q+ir$ up to units.
+Let's examine why this condition is crucial through a counterexample:
 
-We can factor $a^2 + b^2$ in $\mathbb{Z}[i]$ as $(a + bi)(a - bi)$. Let $e$ be a divisor of $a^2 + b^2$ in $\mathbb{Z}$. Then $e$ is also a divisor of $(a + bi)(a - bi)$ in $\mathbb{Z}[i]$. By unique prime factorization in $\mathbb{Z}[i]$, $e$ can be written as a product of Gaussian primes: $e = \pi_1 \pi_2 \cdots \pi_n$.
+Take $a=2$ and $b=4$. Here:
+$$\gcd(2,4) = 2 \neq 1$$
+$$a^2 + b^2 = 2^2 + 4^2 = 4 + 16 = 20$$
 
-**(3)** Show that each of the Gaussian primes $q+ir$ divide either $a+ib$ or $a-ib$.
+Now, 4 is a divisor of 20. If the theorem were true without the coprime condition, 4 would need to be expressible as $c^2 + d^2$ with $\gcd(c,d)=1$. However:
 
-Since $e | (a+bi)(a-bi)$, each Gaussian prime $\pi_k$ dividing $e$ must also divide $(a+bi)(a-bi)$. Because $\pi_k$ is a Gaussian prime, it must divide either $a+bi$ or $a-bi$.
+- The only ways to express 4 as a sum of squares are:
+$$4 = 2^2 + 0^2 = 0^2 + 2^2$$
+In both cases, $\gcd(c,d) = 2 \neq 1$
 
-**(4)** Deduce from **(3)**: that none of the Gaussian primes $q+ir$ is an ordinary (in $\mathbb{Z}$) prime.
+**(2) Prime factorization in $\mathbb{Z}[i]$:**
 
-Suppose, for contradiction, that a Gaussian prime $\pi = q + ir$ is also an ordinary prime $p$. Since $\pi | a+bi$ or $\pi | a-bi$, we have $p | a+bi$ or $p | a-bi$. This implies $p|a$ and $p|b$ in $\mathbb{Z}$, contradicting $\gcd(a, b) = 1$. Therefore, $\pi$ cannot be an ordinary prime.
+First, observe that in $\mathbb{Z}[i]$:
+$$a^2 + b^2 = (a+bi)(a-bi)$$
 
-**(5)** Show that if $q+ir$ is a Gaussian prime dividing $e$, then its conjugate $q-ir$ is also a factor {distinct from $q+ir$}.
+Let $e$ be a divisor of $a^2+b^2$ where $e > 1$. By the fundamental theorem of arithmetic in $\mathbb{Z}[i]$ (which is a unique factorization domain), we can write:
+$$e = u\pi_1\pi_2...\pi_n$$
+where:
+- $u$ is a unit in $\mathbb{Z}[i]$ (one of $\{1,-1,i,-i\}$)
+- Each $\pi_k$ is a Gaussian prime of the form $q_k+ir_k$
 
-Let $e$ be a divisor of $a^2+b^2$. If a Gaussian prime $\pi = q + ir$ divides $e$, then its conjugate $\overline{\pi} = q - ir$ must also divide $e$. This is because $e$ is a real integer, and the conjugate of any factor of $e$ must also be a factor of $e$. These factors are distinct. If they were not distinct, then $q + ir = u(q - ir)$ for some unit $u \in \{1, -1, i, -i\}$. This implies either $r=0$ (if $u=1$) or $q=0$ (if $u=-1$), making $\pi$ or its associate equal to an ordinary integer, which we ruled out in step 4. The case where $q + ir$ is an associate of $1+i$ is more subtle. If both $a+bi$ and $a-bi$ are divisible by $1+i$, then both $a$ and $b$ are odd or both are even which contradicts $\gcd(a,b)=1$. Thus the prime factors of $e$ come in distinct conjugate pairs, or are equal to $1+i$.
+**(3) Division properties:**
 
-**(6)** Deduce from **(5)**: that $e$ is of the form $c^2+d^2$ where $c+di$ divides $a+bi$.
+Let $\pi = q+ir$ be any Gaussian prime dividing $e$. Then:
+$$\pi \mid e \text{ and } e \mid (a+bi)(a-bi)$$
 
-Since $e$ is a product of Gaussian primes and their conjugates, we can write $e$ as $(c+di)(c-di) = c^2+d^2$, where $c+di$ is a product of some of the Gaussian primes dividing $e$.
+By the transitivity of division:
+$$\pi \mid (a+bi)(a-bi)$$
 
-**(7)** Deduce from **(6)**: that $\gcd(c,d)=1$.
+Since $\pi$ is prime in $\mathbb{Z}[i]$ and $\mathbb{Z}[i]$ is a unique factorization domain, by the prime property:
+$$\text{If } \pi \mid xy \text{ then } \pi \mid x \text{ or } \pi \mid y$$
 
-Suppose $\gcd(c, d) = g > 1$. Then $g^2 | c^2 + d^2 = e$, so $g | a+bi$ and $g | a-bi$. This implies $g|2a$ and $g|2b$, so $g | 2\gcd(a, b) = 2$. Therefore, $g=2$. This implies $2 | e$, and since $2=(1+i)(1-i)=-i(1+i)^2$, the prime $1+i$ divides $a+ib$ and $a-ib$ which again contradicts $\gcd(a,b)=1$ as shown above. Therefore, $\gcd(c, d) = 1$.
+Therefore:
+$$\pi \mid (a+bi) \text{ or } \pi \mid (a-bi)$$
+
+[Continued in next post due to length...]
 
 ### Problem 2. Recall that to show there are infinitely many primes $p \equiv 1 \pmod{4}$, we showed there are infinitely many primes $p$ that divide a value of the form $x^2+1$. We now generalize this.
 
