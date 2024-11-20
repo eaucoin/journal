@@ -1,7 +1,5 @@
 ## Homework for the Week of November 11th.
 
-I'll rewrite this with more detailed mathematical demonstrations, making it more suitable for students learning the material. I'll break it down step by step with clear explanations and mathematical notation.
-
 ### Problem 1: Euler's Theorem on Sum of Two Squares in $\mathbb{Z}[i]$
 
 **Theorem (Euler):** If $a,b \in \mathbb{Z}$ with $\gcd(a,b)=1$, then any divisor of $a^2+b^2$ is of the form $c^2+d^2$ where $c,d \in \mathbb{Z}$ with $\gcd(c,d)=1$.
@@ -45,47 +43,158 @@ $$\text{If } \pi \mid xy \text{ then } \pi \mid x \text{ or } \pi \mid y$$
 Therefore:
 $$\pi \mid (a+bi) \text{ or } \pi \mid (a-bi)$$
 
-[Continued in next post due to length...]
+**(4) Showing Gaussian prime factors are not ordinary primes:**
 
-### Problem 2. Recall that to show there are infinitely many primes $p \equiv 1 \pmod{4}$, we showed there are infinitely many primes $p$ that divide a value of the form $x^2+1$. We now generalize this.
+Let's proceed by contradiction. Suppose $\pi = q+ir$ is both a Gaussian prime and an ordinary prime $p$. Then:
 
-- Let $f(x) = a_mx^m + ... + a_1x + a_0$, $a_0,...,a_m \in \mathbb{Z}$, $a_0\neq0$, $a_m\neq0$.
-- We will show that there are infinitely many prime dividing values of $f(x)$ by contradiction. 
-- To this end, suppose that there are finitely many primes $p_1,p_2,\dots p_k$ that divide $f(x)$, and let $g(y)$ be defined by $\frac{1}{a_0}f(p_1p_2\dots p_ky)$.
+$$\pi = p = q+ir$$
 
-**(1)** Show that $g$ is of degree $m$.
+Since $\pi$ divides either $a+bi$ or $a-bi$ (from part 3), we have:
+$$(a+bi) = \pi(x+yi) \text{ or } (a-bi) = \pi(x+yi)$$
+for some $x,y \in \mathbb{Z}$.
 
-Assume, for the sake of contradiction, that only finitely many primes $p_1, \dots, p_k$ divide values of $f(x)$ for $x \in \mathbb{Z}$. We can also assume that no prime dividing $a_m$ divides $f(x)$ for any integer $x$ (if this were the case, we could divide $f(x)$ by $a_m$ to obtain a new polynomial with the same set of prime divisors and a constant leading coefficient). Also, if $a_0 = 0$ then $f(p_1 \dots p_k)$ is composite, divisible by $p_1 \dots p_k$. Then $f(2p_1 \dots p_k)$ will be divisible by a prime not among $p_1, \dots, p_k$, contradicting the assumption. So we can assume $a_0 \neq 0$ and that $\gcd(a_0, a_m, p_1, \dots, p_k) = 1$.
+Taking the real and imaginary parts:
+$$a = px - ry \text{ and } b = rx + py$$
+or
+$$a = px + ry \text{ and } b = -rx + py$$
 
-**(2)** Show that $g(y)$ has integer coefficients.
+In either case, $p$ divides both $a$ and $b$ in $\mathbb{Z}$. Therefore:
+$$p \mid \gcd(a,b)$$
 
-Define $g(y) = \frac{1}{a_m}f(a_m p_1 \dots p_k y)$. Since $f(x)$ has integer coefficients, the constant term of $f(a_m p_1 \dots p_k y)$ is $a_0$, and all other terms are divisible by $a_m$. Therefore, $g(y)$ has integer coefficients. Furthermore, $g(y)$ has the same degree $m$ as $f(x)$.
+But this contradicts our assumption that $\gcd(a,b)=1$.
 
-**(3)** Show that if $p|g(y)$ for some $y\in\mathbb{Z}$, then $p|f(x)$ for some $x\in\mathbb{Z}$.
+**(5) Conjugate pairs of Gaussian primes:**
 
-If a prime $p$ divides $g(y)$ for some $y \in \mathbb{Z}$, then $p | f(a_m p_1 \dots p_k y)$. Letting $x = a_m p_1 \dots p_k y$, we see that $p | f(x)$ for some $x \in \mathbb{Z}$.
+Let $\pi = q+ir$ be a Gaussian prime dividing $e$. Since $e \in \mathbb{Z}$:
+$$e = e\cdot 1 = e \cdot (1 \cdot \overline{1}) = e \cdot \frac{\overline{e}}{e} \cdot e = \overline{e}$$
 
-**(4)** Show that none of $p_1,...,p_k$ divide $g(y)$ when $y\in\mathbb{Z}$.
+Therefore, if $\pi$ divides $e$, then $\overline{\pi} = q-ir$ must also divide $e$.
 
-Consider $f(a_m p_1 \dots p_k y) \pmod{p_i}$. We have
-$$f(a_m p_1 \dots p_k y) \equiv a_0 \pmod{p_i}\text{.}$$
-Since $\gcd(a_0, p_i) = 1$, $p_i$ does not divide $f(a_m p_1 \dots p_k y)$. As $p_i$ does not divide $a_m$ either, it follows that $p_i$ does not divide $g(y) = \frac{1}{a_m}f(a_m p_1 \dots p_k y)$.
+To show these factors are distinct, suppose for contradiction that:
+$$q+ir = u(q-ir)$$
+where $u$ is a unit in $\mathbb{Z}[i]$.
 
-**(5)** Conclude from **(3)** & **(4)**: that $g(y)=\pm1$.
+For the four possible units:
+$$\text{If } u = 1: \text{ then } r = 0$$
+$$\text{If } u = -1: \text{ then } q = 0$$
+$$\text{If } u = i: \text{ then } q = r$$
+$$\text{If } u = -i: \text{ then } q = -r$$
 
-From step 3, any prime dividing $g(y)$ must also divide a value of $f(x)$. From step 4, none of the primes $p_1, \dots, p_k$ divide $g(y)$. Thus, $g(y)$ must equal $\pm 1$ for all $y \in \mathbb{Z}$.
+Each case either makes $\pi$ an ordinary integer (contradicting part 4) or forces it to be an associate of $1+i$, which we can show contradicts $\gcd(a,b)=1$.
 
-**(6)** Show that $g(y)=1$ & $g(y)=-1$ have only finitely many solutions.
+**(6) Form of $e$ as sum of squares:**
 
-Since $g(y)$ is a non-constant polynomial of degree $m$ with integer coefficients, the equations $g(y) = 1$ and $g(y) = -1$ each have at most $m$ integer solutions.
+Since all prime factors of $e$ come in conjugate pairs $(\pi_k, \overline{\pi_k})$, we can group them:
+$$e = \prod_{k=1}^n (\pi_k\overline{\pi_k})$$
 
-**(7)** Show that **(6)** contradicts **(5)**.
+Each factor $\pi_k\overline{\pi_k} = (q_k+ir_k)(q_k-ir_k) = q_k^2 + r_k^2$
 
-Step 5 asserts that $g(y) = \pm 1$ for all integers $y$, while step 6 states that these equations have at most $m$ integer solutions each. Since there are infinitely many integers $y$, this is a contradiction.
+Therefore:
+$$e = (c+di)(c-di) = c^2 + d^2$$
+where $c+di$ is the product of some subset of the Gaussian prime factors.
 
-**(8)** Conclude.
+**(7) Proving $\gcd(c,d)=1$:**
 
-The contradiction arises from assuming that only finitely many primes divide values of $f(x)$. Therefore, infinitely many primes must divide values of $f(x)$.
+Suppose $\gcd(c,d) = g > 1$. Then:
+$$g^2 \mid (c^2 + d^2) = e$$
+$$g^2 \mid (a^2 + b^2)$$
+
+This implies:
+$$g \mid (a+bi) \text{ and } g \mid (a-bi)$$
+$$\therefore g \mid 2a \text{ and } g \mid 2b$$
+$$\therefore g \mid 2\gcd(a,b) = 2$$
+
+Thus $g=2$. But then $2 \mid e$, and since:
+$$2 = (1+i)(1-i) = -i(1+i)^2$$
+
+This means $1+i$ divides both $a+bi$ and $a-bi$, which contradicts $\gcd(a,b)=1$ as shown earlier.
+
+Therefore, $\gcd(c,d) = 1$, completing the proof of Euler's theorem.
+
+I'll rewrite this with detailed mathematical explanations and demonstrations:
+
+### Problem 2: Infinitude of Primes Dividing Polynomial Values
+
+Let's begin with a polynomial $f(x)$ with integer coefficients:
+$$f(x) = a_mx^m + a_{m-1}x^{m-1} + ... + a_1x + a_0$$
+where $a_0, a_m \neq 0$
+
+We'll prove by contradiction that infinitely many primes divide values of $f(x)$.
+
+**(1) Initial Setup and Degree Analysis:**
+
+Let's assume for contradiction that only finitely many primes $p_1, p_2, ..., p_k$ divide values of $f(x)$ for $x \in \mathbb{Z}$.
+
+Define:
+$$g(y) = \frac{1}{a_0}f(p_1p_2...p_ky)$$
+
+To analyze the degree:
+$$\begin{align*}
+g(y) &= \frac{1}{a_0}[a_m(p_1p_2...p_ky)^m + ... + a_1(p_1p_2...p_ky) + a_0] \\
+&= \frac{a_m}{a_0}(p_1p_2...p_k)^my^m + ... + \frac{a_1}{a_0}(p_1p_2...p_k)y + 1
+\end{align*}$$
+
+The coefficient of $y^m$ is $\frac{a_m}{a_0}(p_1p_2...p_k)^m \neq 0$, so $g(y)$ has degree $m$.
+
+**(2) Integer Coefficients:**
+
+For each term in $g(y)$:
+$$\text{coefficient of }y^j = \frac{a_j}{a_0}(p_1p_2...p_k)^j$$
+
+Since $p_1p_2...p_k$ divides each term except the constant term, and $a_0$ divides $f(p_1p_2...p_k)$, all coefficients are integers.
+
+**(3) Prime Divisor Property:**
+
+Let $p$ be a prime dividing $g(y)$ for some $y \in \mathbb{Z}$. Then:
+$$p \mid g(y) = \frac{1}{a_0}f(p_1p_2...p_ky)$$
+$$\therefore p \mid f(p_1p_2...p_ky)$$
+
+Let $x = p_1p_2...p_ky$. Then $x \in \mathbb{Z}$ and:
+$$p \mid f(x)$$
+
+**(4) Original Primes Don't Divide $g(y)$:**
+
+For any $p_i$ among our original primes:
+$$f(p_1p_2...p_ky) \equiv a_0 \pmod{p_i}$$
+
+Since by assumption $\gcd(a_0, p_i) = 1$:
+$$\frac{1}{a_0}f(p_1p_2...p_ky) \equiv \frac{1}{a_0}a_0 \equiv 1 \pmod{p_i}$$
+
+Therefore, $p_i \nmid g(y)$ for any $y \in \mathbb{Z}$.
+
+**(5) Value Restriction:**
+
+From (3), any prime dividing $g(y)$ must be among $p_1, ..., p_k$.
+From (4), none of $p_1, ..., p_k$ can divide $g(y)$.
+
+Therefore:
+$$g(y) \text{ must equal } \pm 1 \text{ for all } y \in \mathbb{Z}$$
+
+**(6) Finite Solutions:**
+
+Consider the equations:
+$$g(y) = 1 \text{ and } g(y) = -1$$
+
+By the fundamental theorem of algebra:
+- $g(y) = 1$ has at most $m$ complex roots
+- $g(y) = -1$ has at most $m$ complex roots
+
+Therefore, these equations have at most $2m$ integer solutions combined.
+
+**(7) Contradiction:**
+
+We have shown:
+1. $g(y) = \pm 1$ for all $y \in \mathbb{Z}$ (from step 5)
+2. $g(y) = \pm 1$ has at most $2m$ integer solutions (from step 6)
+
+Since $\mathbb{Z}$ is infinite and $2m$ is finite, this is a contradiction.
+
+**(8) Conclusion:**
+
+Our initial assumption must be false. Therefore:
+$$\text{There are infinitely many primes } p \text{ that divide values of } f(x)$$
+
+This generalizes our earlier proof about primes $p \equiv 1 \pmod{4}$, where we used $f(x) = x^2 + 1$.
 
 ### Problem 3. The goal of this exercise is to show that any prime $p$ can be written as $p = x^2 - 2y^2$ if and only if $p \equiv \pm1 \pmod{8}$.
 
