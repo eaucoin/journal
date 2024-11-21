@@ -604,3 +604,19 @@
 
 ἔδοξε δ’ αὐτοῖς ἐν Βοιωτοῖς περιμείνασι σκέψασθαι [And it seemed best to them, having waited in Boeotia, to consider] ὅτῳ τρόπῳ ἀσφαλέστατα διαπορεύσονται [by what way they might most safely pass through]. τὸ δέ τι καὶ ἄνδρες τῶν Ἀθηναίων ἐπῆγον αὐτούς [But to some extent also Athenian men were leading them on] κρύφα [secretly] ἐλπίσαντες δῆμόν τε καταπαύσειν καὶ τὰ μακρὰ τείχη οἰκοδομούμενα [hoping both to put a stop to the populace and to the long walls being built].
 
+ἐβοήθησαν δὲ ἐπ’ αὐτοὺς οἱ Ἀθηναῖοι [And the Athenians went to aid them] πανδημεὶ [with all the people] καὶ Ἀργείων χίλιοι [and a thousand Argives] καὶ τῶν ἄλλων ξυμμάχων ὡς ἕκαστοι [and of the other allies each contingent]. ξύμπαντες δὲ ἐγένοντο [And all together were] τετρακισχίλιοι καὶ μύριοι [fourteen thousand].
+
+νομίσαντες δὲ ἀπορεῖν ὅπῃ διέλθωσιν [And having thought that they were at a loss how to pass through] ἐπεστράτευσαν αὐτοῖς [they campaigned against them] καί τι καὶ τοῦ δήμου καταλύσεως ὑποψίᾳ [also somewhat with suspicion of overthrowing the democracy].
+
+ἦλθον δὲ καὶ Θεσσαλῶν ἱππῆς [And Thessalian horsemen also came] τοῖς Ἀθηναίοις κατὰ τὸ ξυμμαχικόν [to the Athenians according to the alliance] οἳ μετέστησαν ἐν τῷ ἔργῳ [who changed sides in the action] παρὰ τοὺς Λακεδαιμονίους [to the Lacedaemonians].
+
+γενομένης δὲ μάχης ἐν Τανάγρᾳ τῆς Βοιωτίας [And a battle having occurred at Tanagra in Boeotia] ἐνίκων Λακεδαιμόνιοι καὶ οἱ ξύμμαχοι [the Lacedaemonians and their allies were victorious] καὶ φόνος ἐγένετο ἀμφοτέρων πολύς [and there was much slaughter on both sides].
+
+καὶ Λακεδαιμόνιοι μέν [And the Lacedaemonians indeed] ἐς τὴν Μεγαρίδα ἐλθόντες καὶ δενδροτομήσαντες [having come to Megaris and having cut down the trees] πάλιν ἀπῆλθον ἐπ’ οἴκου [returned home again] διὰ Γερανείας καὶ Ἰσθμοῦ [by way of Geraneia and the Isthmus]. Ἀθηναῖοι δὲ [But the Athenians] δευτέρᾳ καὶ ἑξηκοστῇ ἡμέρᾳ μετὰ τὴν μάχην [on the sixty-second day after the battle] ἐστράτευσαν ἐς Βοιωτούς [made a campaign into Boeotia] Μυρωνίδου στρατηγοῦντος [with Myronides commanding].
+
+καὶ μάχῃ ἐν Οἰνοφύτοις τοὺς Βοιωτοὺς νικήσαντες [And having conquered the Boeotians in battle at Oenophyta] τῆς τε χώρας ἐκράτησαν τῆς Βοιωτίας καὶ Φωκίδος [they gained control of the land of both Boeotia and Phocis] καὶ Ταναγραίων τὸ τεῖχος περιεῖλον [and they razed the wall of the Tanagraeans] καὶ Λοκρῶν τῶν Ὀπουντίων ἑκατὸν ἄνδρας ὁμήρους τοὺς πλουσιωτάτους ἔλαβον [and they took one hundred men of the Opuntian Locrians, the wealthiest, as hostages] τά τε τείχη ἑαυτῶν τὰ μακρὰ ἀπετέλεσαν [and they completed their own Long Walls].
+
+ὡμολόγησαν δὲ καὶ οἱ Αἰγινῆται μετὰ ταῦτα τοῖς Ἀθηναίοις [And the Aeginetans also came to terms after these things with the Athenians] τείχη τε περιελόντες καὶ ναῦς παραδόντες [both having razed their walls and surrendered their ships] φόρον τε ταξάμενοι ἐς τὸν ἔπειτα χρόνον [and having assessed tribute for the future].
+
+καὶ Πελοπόννησον περιέπλευσαν Ἀθηναῖοι [And the Athenians sailed around the Peloponnese] Τολμίδου τοῦ Τολμαίου στρατηγοῦντος [with Tolmides, son of Tolmaeus, commanding] καὶ τὸ νεώριον τῶν Λακεδαιμονίων ἐνέπρησαν [and burned the dockyard of the Lacedaemonians] καὶ Χαλκίδα Κορινθίων πόλιν εἷλον [and captured Chalcis, a city of the Corinthians] καὶ Σικυωνίους ἐν ἀποβάσει τῆς γῆς μάχῃ ἐκράτησαν [and conquered the Sicyonians in a battle after a landing].
+
