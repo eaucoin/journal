@@ -25,7 +25,7 @@ $$\begin{align*}
 &=\frac{16}{17}+\frac{38}{17}i\\
 &\implies \mu=1+2i\\
 &\implies \mu\beta=(1+2i)(3+5i)=11i-7\\
-&\implies \mu\beta + \rho=(1+2i)(2+14i)+(9-4i)
+&\implies \mu\beta + \rho=(1+2i)(2+14i)+(9-3i)
 \end{align*}$$
 
 ## Problem 2 (Units in $\mathbb{Z}[\sqrt{2}]$):
@@ -35,6 +35,7 @@ Recall that $\mathbb{Z}[\sqrt{2}] := \{a+b\sqrt{2} ; a,b\in \mathbb{Z}\}$ with t
 1. We define $\pi \in \mathbb{Z}[\sqrt{2}]$ to be a unit if there exists $\pi_2 \in \mathbb{Z}[\sqrt{2}]$ such that $\pi_1\pi_2 = 1$.
 
    Show that $3-2\sqrt{2}$ is a unit.
+
 
 2. Define $norm(a+b\sqrt{2}) = a^2-2b^2$.
    
