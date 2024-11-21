@@ -38,7 +38,7 @@ Recall that $\mathbb{Z}[\sqrt{2}] := \{a+b\sqrt{2} ; a,b\in \mathbb{Z}\}$ with t
 
 **Solution.**
 
-$$\begin{align*}(3-2\sqrt2)(a+b\sqrt2)&=3a+3b\sqrt2  \end{align*}$$
+$$\begin{align*}(3-2\sqrt2)(a+b\sqrt2)&=3a+3b\sqrt2 -2a\sqrt2-2b \end{align*}$$
 
 2. Define $norm(a+b\sqrt{2}) = a^2-2b^2$.
    
