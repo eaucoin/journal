@@ -17,6 +17,17 @@ $$\begin{align*}
 
 3. $\alpha = 2+14i$, $\beta = 3+5i$
 
+**Solution.**
+
+$$\begin{align*}
+\frac{2+14i}{3+5i}&=\frac{2+14i}{3+5i}\\
+&=\frac{14+8i}{10}\\
+&=\frac{7}{5}+\frac{4}{5}i\\
+&\implies \mu=1+i\\
+&\implies \mu\beta=(1+i)(3-i)=4+2i\\
+&\implies \mu\beta + \rho=(1+i)(3-i)+(1-i)
+\end{align*}$$
+
 ## Problem 2 (Units in $\mathbb{Z}[\sqrt{2}]$):
 
 Recall that $\mathbb{Z}[\sqrt{2}] := \{a+b\sqrt{2} ; a,b\in \mathbb{Z}\}$ with the usual addition and multiplication.
