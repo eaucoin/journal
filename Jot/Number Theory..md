@@ -46,7 +46,10 @@ $$\begin{align*}
 &=1\\
 &\iff3a-4b=1\\
 &\wedge\;\;\;\;\;\;3b-2a=0\\
-&\iff 6a
+&\iff 6a-8b=2\\
+&\wedge\;\;\;\;\;\;9b=6a\\
+&\iff 6a-8b=2\\
+&\wedge\;\;\;\;\;\;9b=6a\\
 
 \end{align*}$$
 
