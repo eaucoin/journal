@@ -658,3 +658,15 @@
 
 πορευομένοις δ’ αὐτοῖς ἐν Κορωνείᾳ ἐπιτίθενται [But as they were marching, at Coronea, there attacked them] οἵ τε ἐκ τῆς Ὀρχομενοῦ φυγάδες Βοιωτῶν καὶ Λοκροὶ μετ’ αὐτῶν [both the Boeotian exiles from Orchomenus and Locrians with them] καὶ Εὐβοέων φυγάδες καὶ ὅσοι τῆς αὐτῆς γνώμης ἦσαν [and Euboean exiles and as many as were of the same mind] καὶ μάχῃ κρατήσαντες [and having prevailed in battle] τοὺς μὲν διέφθειραν τῶν Ἀθηναίων [they killed some of the Athenians] τοὺς δὲ ζῶντας ἔλαβον [and captured the survivors].
 
+καὶ τὴν Βοιωτίαν ἐξέλιπον Ἀθηναῖοι πᾶσαν [And the Athenians abandoned all of Boeotia] σπονδὰς ποιησάμενοι [having made a truce] ἐφ’ ᾧ τοὺς ἄνδρας κομιοῦνται [on condition that they would get back their men].
+
+καὶ οἱ φεύγοντες Βοιωτῶν κατελθόντες [And the Boeotian exiles, having returned] καὶ οἱ ἄλλοι πάντες αὐτόνομοι πάλιν ἐγένοντο [and all the others became again autonomous].
+
+μετὰ δὲ ταῦτα οὐ πολλῷ ὕστερον [And after these things not much later] Εὔβοια ἀπέστη ἀπὸ Ἀθηναίων [Euboea revolted from the Athenians] καὶ ἐς αὐτὴν διαβεβηκότος ἤδη Περικλέους [and Pericles already having crossed over to it] στρατιᾷ Ἀθηναίων [with an Athenian army] ἠγγέλθη αὐτῷ [it was reported to him] ὅτι Μέγαρα ἀφέστηκε [that Megara had revolted] καὶ Πελοποννήσιοι μέλλουσιν ἐσβαλεῖν ἐς τὴν Ἀττικήν [and that the Peloponnesians were about to invade Attica] καὶ οἱ φρουροὶ Ἀθηναίων διεφθαρμένοι εἰσίν [and that the Athenian garrison had been destroyed] ὑπὸ Μεγαρέων [by the Megarians] πλὴν ὅσοι ἐς Νίσαιαν ἀπέφυγον [except for those who had escaped to Nisaea]. ἐπαγαγόμενοι δὲ [And having brought in] Κορινθίους καὶ Σικυωνίους καὶ Ἐπιδαυρίους [Corinthians and Sicyonians and Epidaurians] ἀπέστησαν οἱ Μεγαρῆς [the Megarians revolted]. ὁ δὲ Περικλῆς πάλιν κατὰ τάχος ἐκόμιζε τὴν στρατιὰν ἐκ τῆς Εὐβοίας [And Pericles quickly brought back the army again from Euboea].
+
+καὶ μετὰ τοῦτο οἱ Πελοποννήσιοι [And after this the Peloponnesians] τῆς Ἀττικῆς ἐς Ἐλευσῖνα καὶ Θριῶζε ἐσβαλόντες ἐδῄωσαν [having invaded Attica as far as Eleusis and Thria, ravaged it] Πλειστοάνακτος τοῦ Παυσανίου βασιλέως Λακεδαιμονίων ἡγουμένου [with Pleistoanax, the king of the Lacedaemonians, son of Pausanias, leading] καὶ τὸ πλέον οὐκέτι προελθόντες ἀπεχώρησαν ἐπ’ οἴκου [and having advanced no further they withdrew homeward].
+
+καὶ Ἀθηναῖοι πάλιν ἐς Εὔβοιαν διαβάντες [And the Athenians having crossed over again to Euboea] Περικλέους στρατηγοῦντος κατεστρέψαντο πᾶσαν [with Pericles commanding subdued all of it] καὶ τὴν μὲν ἄλλην ὁμολογίᾳ κατεστήσαντο [and settled the rest by agreement] Ἑστιαιᾶς δὲ ἐξοικίσαντες αὐτοὶ τὴν γῆν ἔσχον [but having driven out the Hestiaeans they themselves held the land].
+
+ἀναχωρήσαντες δὲ ἀπ’ Εὐβοίας [And having withdrawn from Euboea] οὐ πολλῷ ὕστερον σπονδὰς ἐποιήσαντο [not much later they made a truce] πρὸς Λακεδαιμονίους καὶ τοὺς ξυμμάχους τριακοντούτεις [with the Lacedaemonians and their allies, a thirty-year one] ἀποδόντες [having given back] Νίσαιαν καὶ Πηγὰς καὶ Τροιζῆνα καὶ Ἀχαΐαν [Nisaea and Pegae and Troezen and Achaea]. ταῦτα γὰρ εἶχον Ἀθηναῖοι Πελοποννησίων [For the Athenians held these things belonging to the Peloponnesians].
+
