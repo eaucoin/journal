@@ -61,8 +61,7 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-&\text{norm}(a+b\sqrt2)=\pm 1\\
-\iff&a^2-
+&
 
 \end{align*}$$
 
