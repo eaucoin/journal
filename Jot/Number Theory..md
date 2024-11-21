@@ -10,7 +10,8 @@ $$\begin{align*}
 \frac{5+i}{3-i}&=\frac{(5+i)(3+i)}{(3-i)(3+i)}\\
 &=\frac{14+8i}{10}\\
 &=\frac{7}{5}+\frac{4}{5}i\\
-&\implies \mu=
+&\implies \mu=1+i\\
+&\implies \mu\beta=(1+i)(3-i)=1+2i
 \end{align*}$$
 
 3. $\alpha = 2+14i$, $\beta = 3+5i$
