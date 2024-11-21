@@ -11,7 +11,8 @@ $$\begin{align*}
 &=\frac{14+8i}{10}\\
 &=\frac{7}{5}+\frac{4}{5}i\\
 &\implies \mu=1+i\\
-&\implies \mu\beta=(1+i)(3-i)=4+2i
+&\implies \mu\beta=(1+i)(3-i)=4+2i\\
+&
 \end{align*}$$
 
 3. $\alpha = 2+14i$, $\beta = 3+5i$
