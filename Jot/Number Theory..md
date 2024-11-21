@@ -59,7 +59,12 @@ $$\begin{align*}
 
 **Solution.**
 
-$$$$
+$$\begin{align*}
+
+&\text{norm}(a+b\sqrt2)=\pm 1\\
+\iff&a^2-
+
+\end{align*}$$
 
 3. Show that for all $n \geq 0$, $(3-2\sqrt{2})^n$ is a unit:
    
