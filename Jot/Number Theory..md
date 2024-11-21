@@ -49,7 +49,7 @@ $$\begin{align*}
 &\iff 6a-8b=2\\
 &\wedge\;\;\;\;\;\;9b=6a\\
 &\iff b=2\\
-&\wedge\;\;\;\;\;\;a=2\\
+&\wedge\;\;\;\;\;\;a=3\\
 
 \end{align*}$$
 
