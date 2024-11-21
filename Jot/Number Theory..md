@@ -24,8 +24,8 @@ $$\begin{align*}
 &=\frac{32i+76}{34}\\
 &=\frac{16}{17}+\frac{38}{17}i\\
 &\implies \mu=1+2i\\
-&\implies \mu\beta=2i(2+14i)=-28\\
-&\implies \mu\beta + \rho=(1+2i)(2+14i)+(28-4i)
+&\implies \mu\beta=(1+2i)(3+5i)=11i-7\\
+&\implies \mu\beta + \rho=(1+2i)(2+14i)+(9-4i)
 \end{align*}$$
 
 ## Problem 2 (Units in $\mathbb{Z}[\sqrt{2}]$):
