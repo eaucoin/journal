@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,11 +221,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9e88145bf1b61f08",
+  "active": "f68653d91d568f8c",
   "lastOpenFiles": [
+    "Jot/Number Theory..md",
     "Languages/Ancient Greek/Interphrasal Translations/Thucydides, History of the Peloponnesian War, Book 1.md",
     "Jot/Bolds.md",
-    "Jot/Number Theory..md",
     "Untitled.md",
     "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
     "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",

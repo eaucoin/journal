@@ -1,26 +1,17 @@
-You're on the right track! Using properties of the ring $\mathbb{Z}[\sqrt{2}]$ is the most elegant way to solve this.
+## Problem 1 Solution
 
-**Proof using $\mathbb{Z}[\sqrt{2}]$**
+**Problem 1.1:** Compute $\frac{\alpha}{\beta}$, where $\alpha = 5+i$ and $\beta = 3-i$.
 
-1. **The Ring $\mathbb{Z}[\sqrt{2}]$:** This ring consists of numbers of the form $x + y\sqrt{2}$, where $x$ and $y$ are integers.
-    
-2. **The Norm:** We define the norm function $N: \mathbb{Z}[\sqrt{2}] \to \mathbb{Z}$ as $N(x + y\sqrt{2}) = (x + y\sqrt{2})(x - y\sqrt{2}) = x^2 - 2y^2$. The crucial property of the norm is that it's multiplicative: $N(\alpha \beta) = N(\alpha)N(\beta)$ for any $\alpha, \beta \in \mathbb{Z}[\sqrt{2}]$.
-    
-3. **The Equation in $\mathbb{Z}[\sqrt{2}]$:** Our equation $a^2 - 2b^2 = 2$ can be rewritten as $N(a + b\sqrt{2}) = 2$.
-    
-4. **Units in $\mathbb{Z}[\sqrt{2}]$:** The units in $\mathbb{Z}[\sqrt{2}]$ are elements with norm $\pm 1$. It's known that all units are of the form $\pm(1 + \sqrt{2})^n$ for some integer $n$. (This can be proven using continued fractions or other methods.)
-    
-5. **Proof by Contradiction:** Suppose there is a solution $a + b\sqrt{2}$ with norm 2. Then, if we could find an element with norm 2, we could multiply it by a unit to get infinitely many solutions with norm 2.
-    
-    - Consider the smallest positive integer solution for a. Let's call this solution $a_0 + b_0\sqrt{2}$.
-        
-    - Now consider the element $(a_0 + b_0\sqrt{2})(1 - \sqrt{2}) = (a_0 - 2b_0) + (b_0 - a_0)\sqrt{2}$.
-        
-    - Calculate its norm: $N((a_0 - 2b_0) + (b_0 - a_0)\sqrt{2}) = (a_0 - 2b_0)^2 - 2(b_0 - a_0)^2 = a_0^2 - 4a_0b_0 + 4b_0^2 - 2b_0^2 + 4a_0b_0 - 2a_0^2 = -a_0^2 + 2b_0^2$.
-        
-    - Since $a_0^2 - 2b_0^2 = 2$, we have $-a_0^2 + 2b_0^2 = -2$, or $(a_0 - 2b_0)^2 - 2(a_0-b_0)^2 = -2$.
-        
+We multiply the numerator and denominator by the conjugate of the denominator:
 
-If $a_0$ and $b_0$ are positive, and $a_0^2 - 2b_0^2 = 2$, then $a_0 > \sqrt{2}b_0$. Let $a_1 = |a_0 - 2b_0|$ and $b_1 = |b_0-a_0|$. Then we have $a_1^2 - 2b_1^2 = 2$, and we also have $a_1 = |a_0 - 2b_0| < a_0$. This contradicts the minimality of $a_0$, proving that no solution exists.
+$$  
+\begin{align*} \frac{5+i}{3-i} &= \frac{5+i}{3-i} \times \frac{3+i}{3+i} \ &= \frac{(5+i)(3+i)}{(3-i)(3+i)} \ &= \frac{15 + 5i + 3i + i^2}{9 - i^2} \ &= \frac{15 + 8i - 1}{9 - (-1)} \ &= \frac{14 + 8i}{10} \ &= \frac{7}{5} + \frac{4}{5}i \end{align*}  
+$$
 
-Therefore, there are no integer solutions to $a^2 - 2b^2 = 2$.
+**Problem 1.2:** Compute $\frac{\alpha}{\beta}$, where $\alpha = 2+14i$ and $\beta = 3+5i$.
+
+We multiply by the conjugate $3-5i$:
+
+$$  
+\begin{align*} \frac{2+14i}{3+5i} &= \frac{2+14i}{3+5i} \times \frac{3-5i}{3-5i} \ &= \frac{(2+14i)(3-5i)}{(3+5i)(3-5i)} \ &= \frac{6 - 10i + 42i - 70i^2}{9 - 25i^2} \ &= \frac{6 + 32i + 70}{9 + 25} \ &= \frac{76 + 32i}{34} \ &= \frac{38}{17} + \frac{16}{17}i \end{align*}  
+$$
