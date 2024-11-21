@@ -48,8 +48,8 @@ $$\begin{align*}
 &\wedge\;\;\;\;\;\;3b-2a=0\\
 &\iff 6a-8b=2\\
 &\wedge\;\;\;\;\;\;9b=6a\\
-&\iff 6a-8b=2\\
-&\wedge\;\;\;\;\;\;9b=6a\\
+&\iff b=2\\
+&\wedge\;\;\;\;\;\;a=2\\
 
 \end{align*}$$
 
