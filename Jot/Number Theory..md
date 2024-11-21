@@ -21,9 +21,9 @@ $$\begin{align*}
 
 $$\begin{align*}
 \frac{2+14i}{3+5i}&=\frac{(2+14i)(3-5i)}{(3+5i)(3-5i)}\\
-&=\frac{}{34}\\
+&=\frac{32i+76}{34}\\
 &=\frac{16}{17}+\frac{38}{17}i\\
-&\implies \mu=2i\\
+&\implies \mu=1+2i\\
 &\implies \mu\beta=2i(2+14i)=-28\\
 &\implies \mu\beta + \rho=(1+2i)(2+14i)+(28-4i)
 \end{align*}$$
