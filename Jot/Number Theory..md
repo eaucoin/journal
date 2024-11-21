@@ -36,6 +36,9 @@ Recall that $\mathbb{Z}[\sqrt{2}] := \{a+b\sqrt{2} ; a,b\in \mathbb{Z}\}$ with t
 
    Show that $3-2\sqrt{2}$ is a unit.
 
+**Solution.**
+
+$$\begin{align*}(3-2\sqrt2)(a+b\sqrt2)&=3a+\end{align*}$$
 
 2. Define $norm(a+b\sqrt{2}) = a^2-2b^2$.
    
