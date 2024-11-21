@@ -61,7 +61,7 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-&(\exists \pi^{-1}\in\mathbb{Z}[\sqrt 2])(\pi\p)
+&(\exists \pi^{-1}\in\mathbb{Z}[\sqrt 2])(\pi\pi^{-1}=1)\\
 
 \end{align*}$$
 
