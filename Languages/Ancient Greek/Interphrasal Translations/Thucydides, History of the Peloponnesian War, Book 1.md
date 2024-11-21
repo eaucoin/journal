@@ -644,3 +644,11 @@
 
 καὶ εὐθὺς παραλαβόντες Ἀχαιοὺς [And immediately having taken along the Achaeans] καὶ διαπλεύσαντες πέραν [and having sailed across] τῆς Ἀκαρνανίας ἐς Οἰνιάδας ἐστράτευσαν καὶ ἐπολιόρκουν [to Acarnania to Oeniadae, they campaigned and besieged] οὐ μέντοι εἷλον γε [they did not capture it however] ἀλλ’ ἀπεχώρησαν ἐπ’ οἴκου [but returned home].
 
+ὕστερον δὲ διαλιπόντων ἐτῶν τριῶν [And after an interval of three years] σπονδαὶ γίγνονται [a truce was made] Πελοποννησίοις καὶ Ἀθηναίοις πεντέτεις [between Peloponnesians and Athenians, a five-year one].
+
+καὶ Ἑλληνικοῦ μὲν πολέμου ἔσχον οἱ Ἀθηναῖοι [And the Athenians ceased from Hellenic war] ἐς δὲ Κύπρον ἐστρατεύοντο [but campaigned against Cyprus] ναυσὶ διακοσίαις αὑτῶν τε καὶ τῶν ξυμμάχων [with two hundred ships of their own and of the allies] Κίμωνος στρατηγοῦντος [with Cimon commanding].
+
+καὶ ἑξήκοντα μὲν νῆες [And sixty ships] ἐς Αἴγυπτον ἀπ’ αὐτῶν ἔπλευσαν [sailed from them to Egypt] Ἀμυρταίου μεταπέμποντος [with Amyrtaeus summoning them] τοῦ ἐν τοῖς ἕλεσι βασιλέως [the king in the marshes]. αἱ δὲ ἄλλαι Κίτιον ἐπολιόρκουν [And the others besieged Citium].
+
+Κίμωνος δὲ ἀποθανόντος καὶ λιμοῦ γενομένου [With Cimon having died and a famine occurring] ἀπεχώρησαν ἀπὸ Κιτίου [they withdrew from Citium] καὶ πλεύσαντες ὑπὲρ Σαλαμῖνος τῆς ἐν Κύπρῳ [and having sailed past Salamis in Cyprus] Φοίνιξι καὶ Κυπρίοις καὶ Κίλιξιν ἐναυμάχησαν καὶ ἐπεζομάχησαν ἅμα [they fought a sea battle and land battle at the same time against Phoenicians and Cyprians and Cilicians] καὶ νικήσαντες ἀμφότερα ἀπεχώρησαν ἐπ’ οἴκου [and having been victorious in both they withdrew homeward] καὶ αἱ ἐξ Αἰγύπτου νῆες πάλιν ἐλθοῦσαι μετ’ αὐτῶν [and the ships from Egypt having also returned with them].
+
