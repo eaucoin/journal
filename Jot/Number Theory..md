@@ -57,6 +57,7 @@ $$\begin{align*}
    
    Prove that $a+b\sqrt{2}$ is a unit if and only if $norm(a+b\sqrt{2}) = \pm 1$.
 
+
 3. Show that for all $n \geq 0$, $(3-2\sqrt{2})^n$ is a unit:
    
    (i) using 1, 2 the definition of a unit
