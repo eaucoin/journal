@@ -45,8 +45,8 @@ $$\begin{align*}
 &=(3a-4b)+(3b-2a)\sqrt 2\\
 &=1\\
 &\iff3a-4b=1\\
-&\wedge\;\;\;\;\;\;3b-2a=0
-
+&\wedge\;\;\;\;\;\;3b-2a=0\\
+&\iff 6a
 
 \end{align*}$$
 
