@@ -20,8 +20,8 @@ $$\begin{align*}
 **Solution.**
 
 $$\begin{align*}
-\frac{2+14i}{3+5i}&=\frac{2+14i}{3+5i}\\
-&=\frac{14+8i}{10}\\
+\frac{2+14i}{3+5i}&=\frac{(2+14i)(3-5i)}{(3+5i)(3-5i)}\\
+&=\frac{6-10i}{34}\\
 &=\frac{7}{5}+\frac{4}{5}i\\
 &\implies \mu=1+i\\
 &\implies \mu\beta=(1+i)(3-i)=4+2i\\
