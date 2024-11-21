@@ -8,7 +8,9 @@ To compute the long division of $\alpha$ by $\beta$, where:
 
 $$\begin{align*}
 \frac{5+i}{3-i}&=\frac{(5+i)(3+i)}{(3-i)(3+i)}\\
-&=\end{align*}$$
+&=\frac{14+8i}{10}
+
+\end{align*}$$
 
 3. $\alpha = 2+14i$, $\beta = 3+5i$
 
