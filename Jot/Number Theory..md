@@ -44,8 +44,9 @@ $$\begin{align*}
 3a+3b\sqrt2 -2a\sqrt2-4b\\
 &=(3a-4b)+(3b-2a)\sqrt 2\\
 &=1\\
-&\iff3a=\\
-&\wedge\; 
+&\iff3a-4b=1\\
+&\wedge\;\;\;\;\;\;3b-2a=0
+
 
 \end{align*}$$
 
