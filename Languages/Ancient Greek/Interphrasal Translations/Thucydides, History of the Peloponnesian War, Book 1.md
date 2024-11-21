@@ -742,3 +742,17 @@
 
 ἐν τούτῳ δὲ [And in the meantime] ἐπρεσβεύοντο τῷ χρόνῳ [they were sending embassies during this time] πρὸς τοὺς Ἀθηναίους [to the Athenians] ἐγκλήματα ποιούμενοι [making complaints] ὅπως σφίσιν ὅτι μεγίστη πρόφασις εἴη τοῦ πολεμεῖν [so that there would be for them the greatest possible pretext for waging war] ἢν μή τι ἐσακούωσιν [if they should not listen to anything].
 
+καὶ πρῶτον μὲν πρέσβεις πέμψαντες οἱ Λακεδαιμόνιοι ἐκέλευον τοὺς Ἀθηναίους [And first, the Lacedaemonians, having sent ambassadors, ordered the Athenians] τὸ ἄγος ἐλαύνειν τῆς θεοῦ [to drive out the pollution of the goddess]. τὸ δὲ ἄγος ἦν τοιόνδε [And the pollution was like this].
+
+Κύλων ἦν Ἀθηναῖος ἀνήρ [Cylon was an Athenian man] Ὀλυμπιονίκης τῶν πάλαι [an Olympic victor of old] εὐγενής τε καὶ δυνατός [both noble and powerful]. ἐγεγαμήκει δὲ θυγατέρα Θεαγένους [And he had married the daughter of Theagenes] Μεγαρέως ἀνδρός [a Megarian man] ὃς κατ’ ἐκεῖνον τὸν χρόνον ἐτυράννει Μεγάρων [who at that time was tyrant of Megara].
+
+χρωμένῳ δὲ τῷ Κύλωνι ἐν Δελφοῖς [And to Cylon, consulting the oracle at Delphi] ἀνεῖλεν ὁ θεός [the god replied] ἐν τοῦ Διὸς τῇ μεγίστῃ ἑορτῇ καταλαβεῖν τὴν Ἀθηναίων ἀκρόπολιν [to seize the Athenian acropolis during the greatest festival of Zeus].
+
+ὁ δὲ [And he] παρά τε τοῦ Θεαγένους δύναμιν λαβών [having received a force from Theagenes] καὶ τοὺς φίλους ἀναπείσας [and having persuaded his friends] ἐπειδὴ ἐπῆλθεν [when there came] Ὀλύμπια τὰ ἐν Πελοποννήσῳ [the Olympic games in the Peloponnese] κατέλαβε τὴν ἀκρόπολιν [seized the acropolis] ὡς ἐπὶ τυραννίδι [with a view to tyranny] νομίσας [thinking] ἑορτήν τε τοῦ Διὸς μεγίστην εἶναι [both the festival of Zeus to be greatest] καὶ ἑαυτῷ τι προσήκειν [and that something was due to him] Ὀλύμπια νενικηκότι [having won at Olympia].
+
+εἰ δὲ ἐν τῇ Ἀττικῇ [But if in Attica] ἢ ἄλλοθί που [or somewhere else] ἡ μεγίστη ἑορτὴ εἴρητο [the greatest festival was meant] οὔτε ἐκεῖνος ἔτι κατενόησε [neither did he then understand] τό τε μαντεῖον οὐκ ἐδήλου [nor did the oracle indicate it]. (ἔστι γὰρ καὶ Ἀθηναίοις [For there is also for the Athenians] Διάσια [the Diasia] ἃ καλεῖται Διὸς ἑορτὴ Μειλιχίου μεγίστη [which is called, the greatest festival of Zeus Meilichios] ἔξω τῆς πόλεως [outside the city] ἐν ᾗ πανδημεὶ θύουσι [in which all the people sacrifice] πολλὰ οὐχ ἱερεῖα ἀλλὰ θύματα ἐπιχώρια [many, not sacrificial victims, but local offerings]) δοκῶν δὲ ὀρθῶς γιγνώσκειν ἐπεχείρησε τῷ ἔργῳ [but believing that he understood correctly, he attempted the deed].
+
+οἱ δὲ Ἀθηναῖοι αἰσθόμενοι [But the Athenians, having perceived it] ἐβοήθησάν τε πανδημεὶ ἐκ τῶν ἀγρῶν ἐπ’ αὐτούς [both came to aid from the fields against them with all the people] καὶ προσκαθεζόμενοι ἐπολιόρκουν [and having taken position were besieging].
+
+χρόνου δὲ ἐγγιγνομένου [And as time passed] οἱ Ἀθηναῖοι τρυχόμενοι τῇ προσεδρίᾳ [the Athenians, being worn down by the siege] ἀπῆλθον οἱ πολλοί [most departed] ἐπιτρέψαντες τοῖς ἐννέα ἄρχουσι [having entrusted to the nine archons] τήν τε φυλακὴν καὶ τὸ πᾶν [both the guard and everything] αὐτοκράτορσι διαθεῖναι [to manage with full authority] ᾗ ἂν ἄριστα διαγιγνώσκωσιν [in whatever way they should decide best]. τότε δὲ τὰ πολλὰ τῶν πολιτικῶν οἱ ἐννέα ἄρχοντες ἔπρασσον [And at that time the nine archons managed most political affairs].
+
