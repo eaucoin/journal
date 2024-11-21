@@ -620,3 +620,21 @@
 
 καὶ Πελοπόννησον περιέπλευσαν Ἀθηναῖοι [And the Athenians sailed around the Peloponnese] Τολμίδου τοῦ Τολμαίου στρατηγοῦντος [with Tolmides, son of Tolmaeus, commanding] καὶ τὸ νεώριον τῶν Λακεδαιμονίων ἐνέπρησαν [and burned the dockyard of the Lacedaemonians] καὶ Χαλκίδα Κορινθίων πόλιν εἷλον [and captured Chalcis, a city of the Corinthians] καὶ Σικυωνίους ἐν ἀποβάσει τῆς γῆς μάχῃ ἐκράτησαν [and conquered the Sicyonians in a battle after a landing].
 
+οἱ δ’ ἐν τῇ Αἰγύπτῳ Ἀθηναῖοι καὶ οἱ ξύμμαχοι ἐπέμενον [But the Athenians and the allies in Egypt remained] καὶ αὐτοῖς πολλαὶ ἰδέαι πολέμων κατέστησαν [and for them many forms of warfare arose].
+
+τὸ μὲν γὰρ πρῶτον ἐκράτουν τῆς Αἰγύπτου οἱ Ἀθηναῖοι [For at first the Athenians were masters of Egypt] καὶ βασιλεὺς πέμπει ἐς Λακεδαίμονα [and the king sends to Lacedaemon] Μεγάβαζον ἄνδρα Πέρσην [Megabazus, a Persian man] χρήματα ἔχοντα [having money] ὅπως ἐς τὴν Ἀττικὴν ἐσβαλεῖν πεισθέντων τῶν Πελοποννησίων [so that, with the Peloponnesians having been persuaded to invade Attica] ἀπ’ Αἰγύπτου ἀπαγάγοι Ἀθηναίους [he might draw the Athenians away from Egypt].
+
+ὡς δὲ αὐτῷ οὐ προυχώρει [But when it was not succeeding for him] καὶ τὰ χρήματα ἄλλως ἀνηλοῦτο [and the money was being spent in vain] ὁ μὲν Μεγάβαζος καὶ τὰ λοιπὰ τῶν χρημάτων [Megabazus and the rest of the money] πάλιν ἐς τὴν Ἀσίαν ἀνεκομίσθη [was conveyed back again to Asia]. Μεγάβυζον δὲ τὸν Ζωπύρου πέμπει [And he sends Megabyzus, son of Zopyrus] ἄνδρα Πέρσην μετὰ στρατιᾶς πολλῆς [a Persian man, with a large army].
+
+ὃς ἀφικόμενος κατὰ γῆν [Who, having arrived by land] τούς τε Αἰγυπτίους καὶ τοὺς ξυμμάχους μάχῃ ἐκράτησε [conquered both the Egyptians and their allies in battle] καὶ ἐκ τῆς Μέμφιδος ἐξήλασε τοὺς Ἕλληνας [and drove the Greeks out of Memphis] καὶ τέλος ἐς Προσωπίτιδα τὴν νῆσον κατέκλῃσε καὶ ἐπολιόρκει ἐν αὐτῇ [and finally shut them up in the island of Prosopitis and besieged them in it] ἐνιαυτὸν καὶ ἓξ μῆνας [for a year and six months] μέχρι οὗ [until] ξηράνας τὴν διώρυχα καὶ παρατρέψας ἄλλῃ τὸ ὕδωρ [having dried up the canal and having diverted the water elsewhere] τάς τε ναῦς ἐπὶ τοῦ ξηροῦ ἐποίησε [he made the ships be on dry land] καὶ τῆς νήσου τὰ πολλὰ ἤπειρον [and most of the island mainland] καὶ διαβάς [and having crossed over] εἷλε τὴν νῆσον πεζῇ [he captured the island on foot].
+
+οὕτω μὲν τὰ τῶν Ἑλλήνων πράγματα ἐφθάρη [Thus the Greek situation was ruined] ἓξ ἔτη πολεμήσαντα [having waged war for six years]. καὶ ὀλίγοι ἀπὸ πολλῶν [And a few out of many] πορευόμενοι διὰ τῆς Λιβύης ἐς Κυρήνην ἐσώθησαν [marching through Libya to Cyrene, were saved]. οἱ δὲ πλεῖστοι ἀπώλοντο [But most perished].
+
+Αἴγυπτος δὲ [And Egypt] πάλιν ὑπὸ βασιλέα ἐγένετο [came again under the king] πλὴν Ἀμυρταίου [except for Amyrtaeus] τοῦ ἐν τοῖς ἕλεσι βασιλέως [the king in the marshes]. τοῦτον δὲ [But him] διὰ μέγεθος τοῦ ἕλους οὐκ ἐδύναντο ἑλεῖν [because of the size of the marsh they were not able to capture] καὶ ἅμα μαχιμώτατοί εἰσι τῶν Αἰγυπτίων οἱ ἕλειοι [and at the same time the marsh-dwellers are the most warlike of the Egyptians].
+
+Ἰνάρως δὲ [And Inaros] ὁ Λιβύων βασιλεύς [the king of the Libyans] ὃς τὰ πάντα ἔπραξε περὶ τῆς Αἰγύπτου [who did everything concerning Egypt] προδοσίᾳ ληφθεὶς ἀνεσταυρώθη [having been captured by treachery, was crucified].
+
+ἐκ δὲ τῶν Ἀθηνῶν καὶ τῆς ἄλλης ξυμμαχίδος [And from Athens and the rest of the allied forces] πεντήκοντα τριήρεις διάδοχοι πλέουσαι ἐς Αἴγυπτον [fifty triremes sailing to Egypt as replacements] ἔσχον κατὰ τὸ Μενδήσιον κέρας [put in at the Mendesian mouth of the Nile] οὐκ εἰδότες τῶν γεγονότων οὐδέν [knowing nothing of what had happened]. καὶ αὐτοῖς ἔκ τε γῆς ἐπιπεσόντες πεζοὶ [And both foot soldiers having attacked them from land] καὶ ἐκ θαλάσσης Φοινίκων ναυτικόν [and a Phoenician fleet by sea] διέφθειραν τὰς πολλὰς τῶν νεῶν [destroyed most of the ships]. αἱ δὲ ἐλάσσους διέφυγον πάλιν [But the fewer escaped back again]. τὰ μὲν κατὰ τὴν μεγάλην στρατείαν Ἀθηναίων καὶ τῶν ξυμμάχων ἐς Αἴγυπτον οὕτως ἐτελεύτησεν [The events of the great expedition of the Athenians and their allies to Egypt ended in this way].
+
+τὰ μὲν κατὰ τὴν μεγάλην στρατείαν Ἀθηναίων καὶ τῶν ξυμμάχων ἐς Αἴγυπτον οὕτως ἐτελεύτησεν [The events of the great expedition of the Athenians and their allies to Egypt ended in this way].
+
