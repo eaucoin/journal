@@ -150,24 +150,42 @@ $$\begin{align*}
 
 \end{align*}$$
 
-## Problem 4 (Primes in $\mathbb{Z}[\sqrt{-3}]$):
+Ah, now I understand. Let me start again:
 
+## Problem 4 (Primes in $\mathbb{Z}[\sqrt{-3}]$):
 Recall that in $\mathbb{Z}[i]$, a prime $\pi|\alpha\beta$ implies that $\pi|\alpha$ or $\pi|\beta$. In $\mathbb{Z}[\sqrt{-3}]$, define a "prime" $\pi$ to be an element that cannot be written as $\pi = \alpha\beta$ with $\alpha$ & $\beta$ nonunits.
 
 1. Define $norm(a+b\sqrt{-3}) = a^2+3b^2$. Prove that 
    $norm(\pi_1\pi_2) = norm(\pi_1)norm(\pi_2)$.
 
+Let $\pi_1 = a_1 + b_1\sqrt{-3}$, $\pi_2 = a_2 + b_2\sqrt{-3}$.
+
+$\pi_1\pi_2 = (a_1a_2-3b_1b_2) + (a_1b_2+a_2b_1)\sqrt{-3}$
+
+$norm(\pi_1\pi_2) = (a_1a_2-3b_1b_2)^2 + 3(a_1b_2+a_2b_1)^2$
+
+$= (a_1a_2)^2 - 6a_1a_2b_1b_2 + 9(b_1b_2)^2$
+$+ 3(a_1b_2)^2 + 3(a_2b_1)^2 + 6a_1a_2b_1b_2$
+
+$norm(\pi_1)norm(\pi_2) = (a_1^2+3b_1^2)(a_2^2+3b_2^2)$
+
+$= (a_1a_2)^2 + 3(a_1b_2)^2 + 3(a_2b_1)^2 + 9(b_1b_2)^2$
+
+Therefore, $norm(\pi_1\pi_2) = norm(\pi_1)norm(\pi_2)$.
+
 2. Prove that $\pi \in \mathbb{Z}[\sqrt{-3}]$ is a unit if and only if $norm(\pi) = 1$.
 
-3. Prove that if $norm(\pi)$ is a prime in $\mathbb{N}$, then $\pi$ is "prime" in $\mathbb{Z}[\sqrt{-3}]$.
+If $\pi$ is a unit, there exists $\pi'$, $\pi\pi' = 1$. Taking norms on both sides,
 
-4. Prove that 2 is "prime" in $\mathbb{Z}[\sqrt{-3}]$.
+$norm(\pi\pi') = norm(1) = 1$.
 
-5. Show that $2|(1+\sqrt{-3})(1-\sqrt{-3})$.
+By 1., $norm(\pi)norm(\pi') = 1$. Since $norm(\pi) \geq 0$ and is an integer (similarly for $norm(\pi')$), then $norm(\pi) = 1$.
 
-6. Conclude that $\mathbb{Z}[\sqrt{-3}]$ does not have the property that for "primes", $\pi|\alpha\beta \Rightarrow \pi|\alpha$ or $\pi|\beta$.
+Now, assume $\pi = a+b\sqrt{-3}$ and $norm(\pi) = 1$. Then,
+$(a^2+3b^2) = 1 \Rightarrow (a+b\sqrt{-3})(a-b\sqrt{-3}) = 1$. Since
+$a-b\sqrt{-3} \in \mathbb{Z}[\sqrt{-3}]$, $\pi$ is a unit by definition.
 
-Remark: The reason I put "prime" in quotes is because when this property doesn't hold, we stop calling $\pi$ a prime, and we call it irreducible. This is just for your own benefit if you end up learning ring theory or algebraic number theory.
+[Should I continue with the rest of Problem 4?]
 
 ## Problem 5:
 
