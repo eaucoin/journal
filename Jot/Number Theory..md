@@ -62,7 +62,9 @@ $$\begin{align*}
 $$\begin{align*}
 
 &(\exists \pi^{-1}\in\mathbb{Z}[\sqrt 2])(\pi\pi^{-1}=1)\\
-\implies \text{norm}(\pi\pi^{-1})=1&
+\implies& \text{norm}(\pi\pi^{-1})=1\\
+\implies& \text{norm}(\pi)\text{norm}(\pi^{-1})=1\\
+\implies& 
 \end{align*}$$
 
 3. Show that for all $n \geq 0$, $(3-2\sqrt{2})^n$ is a unit:
