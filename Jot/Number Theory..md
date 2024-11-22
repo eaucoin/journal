@@ -100,7 +100,8 @@ $$\begin{align*}
 $$\begin{align*}
 
 \text{norm}(\pi_1\pi_2)&=\text{norm}((a_1+a_2\sqrt2)(b_1+b_2\sqrt2))\\
-&=\text{norm}((a_1^2-2a_2^{})(b_1+b_2\sqrt2))
+&=\text{norm}(a_1b_1+a_1b_2\sqrt2+)\\
+
 
 \end{align*}$$
 
