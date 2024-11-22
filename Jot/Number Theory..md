@@ -84,7 +84,9 @@ $$\begin{align*}
 $$(\exists\pi\in\mathbb{Z}[\sqrt2])(\pi(3-2\sqrt2)^{n}=1)\text{.}$$
 Now, let $\lambda=\pi(3+2\sqrt2)$. We have two facts:
 - $\lambda\in\mathbb{Z}[\sqrt2]$
-- By **(1)**, $\lambda(3-2\sqrt2)
+- By **(1)**, $\lambda(3-2\sqrt2)=\lambda$.
+
+From here, our $(n+1)^{\text{th}}$ case presents  
 
 4. Prove that $norm(\pi_1\pi_2) = norm(\pi_1)norm(\pi_2)$
 
