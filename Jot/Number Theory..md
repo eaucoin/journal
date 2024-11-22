@@ -287,12 +287,7 @@ $$\left(\frac{3}{q}\right) = \begin{cases}
 -\left(\frac{q}{3}\right); & q \equiv 3 \pmod{4}
 \end{cases}$$
 
-$$= \begin{align*}
-&1; & q \equiv 1 \pmod{4} \text{ & } q \equiv 1 \pmod{3} \\
-&-1; & q \equiv 1 \pmod{4} \text{ & } q \equiv 2 \pmod{3} \\
-&-1; & q \equiv 3 \pmod{4} \text{ & } q \equiv 1 \pmod{3} \\
-1; & q \equiv 3 \pmod{4} \text{ & } q \equiv 2 \pmod{3}
-\end{align*}$$
+$$= \begin{cases} 1; & q \equiv 1 \pmod{4} \text{ and } q \equiv 1 \pmod{3} \ -1; & q \equiv 1 \pmod{4} \text{ and } q \equiv 2 \pmod{3} \ -1; & q \equiv 3 \pmod{4} \text{ and } q \equiv 1 \pmod{3} \ 1; & q \equiv 3 \pmod{4} \text{ and } q \equiv 2 \pmod{3} \end{cases}$$
 
 Now, notice that odd primes (mod 12) are
 1, 5, 7, 11.
