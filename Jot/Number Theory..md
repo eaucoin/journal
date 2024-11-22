@@ -71,7 +71,8 @@ $$\begin{align*}
 and:
 $$\begin{align*}
 
-\text{norrm}
+\text{norm}(\pi)=\pm1\\
+
 
 \end{align*}$$
 
