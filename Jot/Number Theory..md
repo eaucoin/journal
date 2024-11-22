@@ -122,11 +122,16 @@ $$\begin{align*}
 
 1. 17
 
+$$\begin{align*}
 
+17=(4+i)(4-i)
+
+\end{align*}$$
 
 3. 53
-4. 39
-5. 57
+
+5. 39
+6. 57
 
 ## Problem 4 (Primes in $\mathbb{Z}[\sqrt{-3}]$):
 
