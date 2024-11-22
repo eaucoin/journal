@@ -1,0 +1,1 @@
+$$\bigg(\frac{3}{q}\bigg)=$$
