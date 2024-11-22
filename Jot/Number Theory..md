@@ -109,7 +109,8 @@ and:
 $$\begin{align*}
 
 \text{norm}(\pi_1)\text{norm}(\pi_2)&=\text{norm}(a_1+a_2\sqrt2)\text{norm}(b_1+b_2\sqrt2)\\
-&=(a_1^2-2a_2^2)(b_1^)
+&=(a_1^2-2a_2^2)(b_1^2-2b_2^2)\\
+&=a_1^2 b_1^2 - 2 a_2^2 b_1^2 - 2 a_1^2 b_2^2 + 4 a_2^2 b_2^2\text{.}
 
 \end{align*}$$
 
@@ -120,9 +121,12 @@ $$\begin{align*}
 ## Problem 3: Factorize the following in $\mathbb{Z}[\sqrt{2}]$ (into product of Gaussian primes)
 
 1. 17
-2. 53
-3. 39
-4. 57
+
+
+
+3. 53
+4. 39
+5. 57
 
 ## Problem 4 (Primes in $\mathbb{Z}[\sqrt{-3}]$):
 
