@@ -79,8 +79,7 @@ $$\begin{align*}
 \end{align*}$$
 
 3. Show that for all $n \geq 0$, $(3-2\sqrt{2})^n$ is a unit:
-   
-   (i) using 1, 2 the definition of a unit
+using **(1)** and the definition of a unit
    
    
 
