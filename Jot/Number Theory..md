@@ -73,7 +73,8 @@ $$\begin{align*}
 
 &\text{norm}(\pi)=\pm1\\
 \implies& \pi\bar{\pi}=\pm1\\
-
+\implies& \pi\;|\;1\\
+\implies& \pi\text{ is  invertible}
 
 \end{align*}$$
 
@@ -81,7 +82,7 @@ $$\begin{align*}
    
    (i) using 1, 2 the definition of a unit
    
-   (ii)
+   
 
 4. Prove that $norm(\pi_1\pi_2) = norm(\pi_1)norm(\pi_2)$
 
