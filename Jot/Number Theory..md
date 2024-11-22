@@ -80,7 +80,8 @@ $$\begin{align*}
 
 3. Show that for all $n \geq 0$, $(3-2\sqrt{2})^n$ is a unit, using **(1)** and the definition of a unit.
 
-**(1)** shows a base case. The $n$th case is that there
+**(1)** shows a base case. The $n$th case is that
+$$(\exists\pi\in)()$$
 
 4. Prove that $norm(\pi_1\pi_2) = norm(\pi_1)norm(\pi_2)$
 
