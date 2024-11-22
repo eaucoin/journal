@@ -301,7 +301,7 @@ $$5 \bmod 12 \leftrightarrow (2 \bmod 3, 1 \bmod 4)$$
 $$7 \bmod 12 \leftrightarrow (1 \bmod 3, 3 \bmod 4)$$
 $$11 \bmod 12 \leftrightarrow (2 \bmod 3, 3 \bmod 4)$$
  
-By the Chinese Remainder Theorem
+By the Chinese Remainder Theorem.
 
 Therefore,
 $$\left(\frac{3}{q}\right) = \begin{cases}

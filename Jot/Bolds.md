@@ -5,6 +5,6 @@ $$\begin{align*}
 
 &\frac{q-1}{2}=2k
 \\\iff& \frac{q-1}{4}\in\mathbb{Z}
-\\\iff& q\equ
+\\\iff& q\equiv1\pmod 4
 
 \end{align*}$$
