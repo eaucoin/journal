@@ -106,7 +106,11 @@ $$\begin{align*}
 
 \end{align*}$$
 and:
-$$\begin{align*}\text{norm}(\pi_1)\text{norm}(\pi_2)&=
+$$\begin{align*}
+
+\text{norm}(\pi_1)\text{norm}(\pi_2)&=\text{norm}(a_1+a_2\sqrt2)\text{norm}(b_1+b_2\sqrt2)
+
+
 \end{align*}$$
 
 6. Show that for all $n \geq 0$, $(3-2\sqrt{2})^n$ is a unit using 1., 2. & 4.
