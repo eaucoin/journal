@@ -89,8 +89,9 @@ Now, let $\lambda=\pi(3+2\sqrt2)$. We have two facts:
 From here, our $(n+1)^{\text{th}}$ case presents as
 $$\begin{align*}
 
-\lambda(3-2\sqrt2)^{n+1}&=\pi(3-2\sqrt2)^{n}\\
-
+\lambda(3-2\sqrt2)^{n+1}&=\pi(3-2\sqrt2)^{n}(3-2\sqrt2)(3+2\sqrt2)\\
+&=(1)(1)\\
+&=1
 
 \end{align*}$$
 
