@@ -4,6 +4,7 @@ So, the sign being even depends on:
 $$\begin{align*}
 
 &\frac{q-1}{2}=2k
-\\\iff \frac{q-1}{4}\in\mathbb{X}
+\\\iff& \frac{q-1}{4}\in\mathbb{Z}
+\\\iff& q\equ
 
 \end{align*}$$
