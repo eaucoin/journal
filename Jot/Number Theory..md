@@ -237,13 +237,16 @@ $$\left(\frac{p}{q}\right)\left(\frac{q}{p}\right) = (-1)^{\frac{p-1}{2}\frac{q-
 If $q$ is an odd prime, $P_1 \not\equiv 0$ (mod $q$), $P = P_1P_2$, then
 $$\left(\frac{P}{q}\right) = \left(\frac{P_1}{q}\right)\left(\frac{P_2}{q}\right)$$
 
-3. Write $(\frac{1}{q})$ & $(\frac{2}{q})$. (Evaluate and recall their values)
+3. Write $(\frac{-1}{q})$ & $(\frac{2}{q})$. (Evaluate and recall their values)
 
 $$\left(\frac{-1}{q}\right) = \begin{cases} 
 1; & q \equiv 1 \pmod{4} \\
 -1; & q \equiv 3 \pmod{4}
 \end{cases}$$
-
+$$\left(\frac{2}{q}\right) = \begin{cases} 
+1; & q \equiv 1,7 \pmod{4} \\
+-1; & q \equiv 3 \pmod{4}
+\end{cases}$$
 
 4. Compute $(\frac{55}{89})$, $(\frac{56}{89})$, $(\frac{23}{59})$
 
