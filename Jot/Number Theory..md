@@ -143,7 +143,7 @@ $$\begin{align*}
 
 7. 57
 
-	
+$$\begin{align*}57&=3(9)\end{align*}$$
 
 ## Problem 4 (Primes in $\mathbb{Z}[\sqrt{-3}]$):
 
