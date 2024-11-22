@@ -287,7 +287,7 @@ $$\left(\frac{3}{q}\right) = \begin{cases}
 -\left(\frac{q}{3}\right); & q \equiv 3 \pmod{4}
 \end{cases}$$
 
-$$= \begin{cases} 1; & q \equiv 1 \pmod{4} \text{ and } q \equiv 1 \pmod{3} \ -1; & q \equiv 1 \pmod{4} \text{ and } q \equiv 2 \pmod{3} \ -1; & q \equiv 3 \pmod{4} \text{ and } q \equiv 1 \pmod{3} \ 1; & q \equiv 3 \pmod{4} \text{ and } q \equiv 2 \pmod{3} \end{cases}$$
+$$= \begin{cases} 1; & q \equiv 1 \pmod{4} \text{ and } q \equiv 1 \pmod{3} \\ -1; & q \equiv 1 \pmod{4} \text{ and } q \equiv 2 \pmod{3} \\ -1; & q \equiv 3 \pmod{4} \text{ and } q \equiv 1 \pmod{3} \\ 1; & q \equiv 3 \pmod{4} \text{ and } q \equiv 2 \pmod{3} \end{cases}$$
 
 Now, notice that odd primes (mod 12) are
 1, 5, 7, 11.
@@ -307,10 +307,25 @@ $$\left(\frac{3}{q}\right) = \begin{cases}
 
 [Continue with Problem 7?]
 ## Problem 7: Alternative Proof to $(p-1)! \equiv -1 \pmod{p}$
-
 Let $p$ be an odd prime, $g$ is a primitive root of $p$.
 
 1. Show that $(p-1)! \equiv g^{\frac{p(p-1)}{2}} \pmod{p}$
+
+$(p-1)! = 1\times2\times3\times...\times(p-1)$.
+By the properties of primitive roots, for $k = 1$ to $p-1$,
+$g^k \pmod{p}$ are nonzero and distinct. Therefore,
+they cover each congruence class (mod $p$) exactly once.
+
+Thus, $(p-1)! = g^1 \cdot g^2 \cdot ... \cdot g^{p-1} = g^{1+2+...+(p-1)} = g^{\frac{p(p-1)}{2}} \pmod{p}$
+
 2. Show that $g^p \equiv g \pmod{p}$
+
+$g^p = g^{p-1}\cdot g \equiv 1 \cdot g = g \pmod{p}$
+
 3. Show that $g^{\frac{p-1}{2}} \equiv -1 \pmod{p}$
+
+Shown in previous HW.
+
 4. Conclude that $(p-1)! \equiv -1 \pmod{p}$
+
+$(p-1)! = g^{\frac{p(p-1)}{2}} = \left(g^p\right)^{\frac{p-1}{2}} \equiv g^{\frac{p-1}{2}} \equiv -1 \pmod{p}$
