@@ -86,7 +86,8 @@ Now, let $\lambda=\pi(3+2\sqrt2)$. We have two facts:
 - $\lambda\in\mathbb{Z}[\sqrt2]$
 - By **(1)**, $\lambda(3-2\sqrt2)=\lambda$.
 
-From here, our $(n+1)^{\text{th}}$ case presents  
+From here, our $(n+1)^{\text{th}}$ case presents as
+$$\begin{align*}(3-2\sqrt2)^{n+1}\end{align*}$$
 
 4. Prove that $norm(\pi_1\pi_2) = norm(\pi_1)norm(\pi_2)$
 
