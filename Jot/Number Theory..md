@@ -134,6 +134,13 @@ $$53=(7+2i)(7-2i)$$
 
 5. 39
 
+$$\begin{align*}
+
+39&=3(13)\\
+&=3(3+2i)(3-2i)
+
+\end{align*}$$
+
 7. 57
 
 ## Problem 4 (Primes in $\mathbb{Z}[\sqrt{-3}]$):
