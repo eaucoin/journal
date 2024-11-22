@@ -244,8 +244,8 @@ $$\left(\frac{-1}{q}\right) = \begin{cases}
 -1; & q \equiv 3 \pmod{4}
 \end{cases}$$
 $$\left(\frac{2}{q}\right) = \begin{cases} 
-1; & q \equiv 1,7 \pmod{4} \\
--1; & q \equiv 3 \pmod{4}
+1; & q \equiv 1,7 \pmod{8} \\
+-1; & q \equiv 3,5 \pmod{8}
 \end{cases}$$
 
 4. Compute $(\frac{55}{89})$, $(\frac{56}{89})$, $(\frac{23}{59})$
@@ -273,7 +273,7 @@ $$\left(\frac{3}{q}\right) = \begin{cases}
 Using quadratic reciprocity,
 
 $$\left(\frac{3}{q}\right) = \begin{cases} 
-\left(\frac{3}{q}\right); & q \equiv 1 \pmod{4} \\
+\left(\frac{q}{3}\right); & q \equiv 1 \pmod{4} \\
 -\left(\frac{3}{q}\right); & q \equiv 3 \pmod{4}
 \end{cases}$$
 
