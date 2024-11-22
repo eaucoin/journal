@@ -1,0 +1,1 @@
+$$\begin{align*}(\frac{q}{3})=(-1)^{\frac{()}{}}\end{align*}$$
