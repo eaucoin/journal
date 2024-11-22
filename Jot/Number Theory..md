@@ -244,6 +244,7 @@ $$\left(\frac{-1}{q}\right) = \begin{cases}
 -1; & q \equiv 3 \pmod{4}
 \end{cases}$$
 
+
 4. Compute $(\frac{55}{89})$, $(\frac{56}{89})$, $(\frac{23}{59})$
 
 $$\left(\frac{55}{89}\right) = \left(\frac{5}{89}\right)\cdot\left(\frac{11}{89}\right)$$
@@ -305,8 +306,8 @@ $$\left(\frac{3}{q}\right) = \begin{cases}
 -1; & q \equiv 5,7 \pmod{12}
 \end{cases}$$
 
-[Continue with Problem 7?]
 ## Problem 7: Alternative Proof to $(p-1)! \equiv -1 \pmod{p}$
+
 Let $p$ be an odd prime, $g$ is a primitive root of $p$.
 
 1. Show that $(p-1)! \equiv g^{\frac{p(p-1)}{2}} \pmod{p}$
