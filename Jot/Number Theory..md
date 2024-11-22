@@ -71,7 +71,8 @@ $$\begin{align*}
 and:
 $$\begin{align*}
 
-\text{norm}(\pi)=\pm1\\
+&\text{norm}(\pi)=\pm1\\
+\implies& \pi\bar{\pi}=\pm1\\
 
 
 \end{align*}$$
