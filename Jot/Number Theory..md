@@ -102,9 +102,11 @@ $$\begin{align*}
 \text{norm}(\pi_1\pi_2)&=\text{norm}((a_1+a_2\sqrt2)(b_1+b_2\sqrt2))\\
 &=\text{norm}(a_1b_1+2a_2b_2+(a_1b_2+a_2b_1)\sqrt2)\\
 &=(a_1b_1+2a_2b_2)^{2}-2(a_1b_2+a_2b_1)^{2}\\
-(a_1b_1+2a_2b_2)^{2}-2(a_1b_2+a_2b_1)^{2}
+&=a_1^2 b_1^2 - 2 a_2^2 b_1^2 - 2 a_1^2 b_2^2 + 4 a_2^2 b_2^2\text{,}
 
 \end{align*}$$
+
+
 
 6. Show that for all $n \geq 0$, $(3-2\sqrt{2})^n$ is a unit using 1., 2. & 4.
 
