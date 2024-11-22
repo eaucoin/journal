@@ -274,7 +274,7 @@ Using quadratic reciprocity,
 
 $$\left(\frac{3}{q}\right) = \begin{cases} 
 \left(\frac{q}{3}\right); & q \equiv 1 \pmod{4} \\
--\left(\frac{3}{q}\right); & q \equiv 3 \pmod{4}
+-\left(\frac{q}{3}\right); & q \equiv 3 \pmod{4}
 \end{cases}$$
 
 Now, notice that the squares (mod 3) are 0,1, and 2 is a nonsquare (mod 3).
