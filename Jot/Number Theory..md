@@ -130,10 +130,11 @@ $$\begin{align*}
 
 3. 53
 
-$$53=$$
+$$53=(7+2i)(7-2i)$$
 
 5. 39
-6. 57
+
+7. 57
 
 ## Problem 4 (Primes in $\mathbb{Z}[\sqrt{-3}]$):
 
