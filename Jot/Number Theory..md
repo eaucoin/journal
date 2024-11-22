@@ -143,6 +143,8 @@ $$\begin{align*}
 
 7. 57
 
+	
+
 ## Problem 4 (Primes in $\mathbb{Z}[\sqrt{-3}]$):
 
 Recall that in $\mathbb{Z}[i]$, a prime $\pi|\alpha\beta$ implies that $\pi|\alpha$ or $\pi|\beta$. In $\mathbb{Z}[\sqrt{-3}]$, define a "prime" $\pi$ to be an element that cannot be written as $\pi = \alpha\beta$ with $\alpha$ & $\beta$ nonunits.
