@@ -3,5 +3,9 @@
   <h2 style="margin: 0;">A Matrix-Oriented Perspective</h2>
 </div>
 
+## The Conjugate Transpose
+
+Let $$
+
 ## Defining an Inner Product Space on $\mathbb{C}^n$
 
