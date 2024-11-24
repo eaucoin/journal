@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jot/Finite Dimensional Vector Spaces..md",
+                "file": "Jot/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finite Dimensional Vector Spaces."
+              "title": "Linear Algebra"
             }
           },
           {
@@ -224,7 +224,7 @@
   "active": "9e88145bf1b61f08",
   "lastOpenFiles": [
     "Jot/Bolds.md",
-    "Jot/Finite Dimensional Vector Spaces..md",
+    "Jot/Linear Algebra.md",
     "Languages/Ancient Greek/Interphrasal Translations/Thucydides, History of the Peloponnesian War, Book 1.md",
     "Untitled.md",
     "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
