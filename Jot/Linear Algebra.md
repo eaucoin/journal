@@ -3,7 +3,5 @@
   <h2 style="margin: 0;">A Matrix-Oriented Perspective</h2>
 </div>
 
-
-## The  $\mathbb{C}^n$
-
+## Defining an Inner Product Space on $\mathbb{C}^n$
 
