@@ -15,4 +15,4 @@ For $A\in\mathbb{C}^{m\times n}$, we can write the conjugate transpose of $A$ as
 
 ## Defining an Inner Product Space on $\mathbb{C}^n$
 
-With the above objects and o
+With the above objects and operations described, we are ready to define an inner product space $(\mathbb{C}^n,\;)$
