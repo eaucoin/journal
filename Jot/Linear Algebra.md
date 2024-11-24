@@ -5,7 +5,7 @@
 
 ## The Conjugate Transpose
 
-Let $\mathbb{C}$ denote the complex numbers. For natural numbers $m,n\in\mathbb{N}$, we can discuss *complex matrices* as being the cartesian product of $\mathbb{C}$ and itself $m\times n$ times–written $C$
+Let $\mathbb{C}$ denote the complex numbers. For natural numbers $m,n\in\mathbb{N}$, we can discuss *complex matrices* as being the cartesian product of $\mathbb{C}$ and itself $m\times n$ times–written $\mathbb{C}^{m\times n}$ for short. 
 
 ## Defining an Inner Product Space on $\mathbb{C}^n$
 
