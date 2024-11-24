@@ -15,4 +15,5 @@ For $A\in\mathbb{C}^{m\times n}$, we can write the conjugate transpose of $A$ as
 
 ## Defining an Inner Product Space on $\mathbb{C}^n$
 
-With the above objects and operations described, we are ready to define an inner product space $(\mathbb{C}^n,\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$. First, we can assert that $(\mathbb{C}^n,\;+,\;\cdot$
+With the above objects and operations described, we are ready to define an inner product space $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$. 
+
