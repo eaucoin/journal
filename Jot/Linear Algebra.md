@@ -100,4 +100,4 @@ $$\begin{align*}\delta(i,\;j)&=\begin{cases}
 
 ## Hermitian Matrices
 
-For $n\in\mathbb{N}$, a Hermitian matrix of size $n$ is an element of $\mathbb{C}^{n\times n}$ that is equal to its conjugate transpose. 
+For $n\in\mathbb{N}$, a Hermitian matrix of size $n$ is an element of $\mathbb{C}^{n\times n}$ that is equal to its conjugate transpose. With our
