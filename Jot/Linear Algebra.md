@@ -78,7 +78,7 @@ With our inner product space defined, we can now describe length in $\mathbb{C}^
 
 ### Lemma 1.
 
-The *leng* a vector $x$ in an inner product space is given by the $L^2$ norm, $\langle x,\;x\rangle^{\frac{1}{2}}$. 
+The *length* of a vector $x$ in an inner product space is given by the $L^2$ norm, $\langle x,\;x\rangle^{\frac{1}{2}}$. 
 
 ### Proposition 3. 
 
