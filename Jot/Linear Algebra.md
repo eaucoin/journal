@@ -30,4 +30,4 @@ is an inner product space.
 **Proof.**
 
 Denote $a,b\in\mathbb{C}^n$ as $(a_{j}+b_{j}i)_{n\times 1}\in\mathbb{C}^n$ and $(c_{j}+d_{j}i)_{n\times 1}\in\mathbb{C}^n$, respectively. Then $a^H=(a_{j}-b_{j}i)_{1\times n}$. Now:
-- $$\begin{align*}\overline{\langle b,\;a\rangle}&=((a_j-b_ji)(c_j+d_ji))_{1\times 1}\\&=(a_jc_j+b_jd_j+i(a_jd_j-b_jc_j))_{1\time}\end{align*}$$
+- $$\begin{align*}\overline{\langle b,\;a\rangle}&=((a_j-b_ji)(c_j+d_ji))_{1\times 1}\end{align*}$$
