@@ -60,5 +60,4 @@ $$\begin{align*}
 
 &=\psi\langle a,\;c\rangle+\phi\langle b,\;c\rangle
 
-
 \end{align*}$$
