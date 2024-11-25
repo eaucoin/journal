@@ -74,4 +74,7 @@ With **Proposition 1** and these three properties shown, we have proven that $(\
 
 ## Length in $\mathbb{C}^n$
 
-With our inner product space defined, we can now describe length in $\mathbb{C}^n$. As with all other vec
+With our inner product space defined, we can now describe length in $\mathbb{C}^n$. 
+
+### Lemma 1.
+
