@@ -130,6 +130,6 @@ $$\begin{align*}
 \iff&(\sum_{j=1}^{n}\sum_{i=1}^{n}(e_j+f_ji)[a_{ji}c_i-b_{ji}d_i-i(a_{ji}d_i+b_{ji}c_i)])_{1\times 1}\\
 &=(\sum_{i=1}^{n}\sum_{j=1}^{n}(c_i-d_ii)[a_{ij}e_j-b_{ij}f_j+i(a_{ij}f_j+b_{ij}e_j)])_{1\times 1}\\\\
 
-
+\iff&(\sum_{j=1}^{n}\sum_{i=1}^{n}(e_j+f_ji)[a_{ji}c_i-b_{ji}d_i-i(a_{ji}d_i+b_{ji}c_i)])_{1\times 1}\\
 
 \end{align*}$$
