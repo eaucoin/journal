@@ -58,4 +58,6 @@ $$\begin{align*}
 
 &=\psi(\sum_{j=1}^{n}[(a_j+b_ji)(e_j+f_ji)])_{1\times 1}+\phi(\sum_{j=1}^{n}[(c_j+d_ji)(e_j+f_ji)])_{1\times 1}
 
+&=
+
 \end{align*}$$
