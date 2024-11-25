@@ -86,7 +86,7 @@ By **Proposition 2** and **Lemma 1**, the length of a vector $x$ in $\mathbb{C}^
 
 ## The Kronecker Delta Function
 
-$et $I=\{1,2,\dots,n\}$ be an *index set*. The Kronecker Delta function is a map $\delta:I^2\rightarrow\{0,1\}$ defined by
+For $n\in \mathbb{N}$, let $I=\{1,2,\dots,n\}$ be an *index set*. The Kronecker Delta function is a map $\delta:I^2\rightarrow\{0,1\}$ defined by
 $$\begin{align*}\delta(i,\;j)&=\begin{cases}
 
 1 & \text{if }i=j\\
@@ -103,9 +103,3 @@ $$\begin{align*}\delta(i,\;j)&=\begin{cases}
 For $n\in\mathbb{N}$, a Hermitian matrix of size $n$ is an element of $\mathbb{C}^{n\times n}$ that is equal to its conjugate transpose. In a conventional notation, a matrix $A\in\mathbb{C}^{n\times n}$ is Hermitian if and only if $A^H=A$, and in our index-minded notation, a matrix $(a_{ij}+b_{ij}i)_{n\times n}\in\mathbb{C}^{n\times n}$ is Hermitian if and only if
 $$(\forall(i,\;j)\in I^2)(a_{ij}+b_{ij}i=a_{ji}-b_{ji}i)\text{.}$$
 
-### Lemma 2.
-
-The conjugate transposition $A^H\in\mathbb{C}^{n\times n}$ of a matrix $A\in\mathbb{C}^{n\times n}$ has four fundamental properties:
-- $(A^H)^H=A$
-- $(A+B)^H=A^H+B^H$
-- 
