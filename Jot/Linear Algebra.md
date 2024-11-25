@@ -111,3 +111,4 @@ $$\begin{align*}\delta(i,\;j)&=\begin{cases}
 
 For $n\in\mathbb{N}$, a Hermitian matrix of size $n$ is an element of $\mathbb{C}^{n\times n}$ that is equal to its conjugate transpose. In a conventional notation, a matrix $A\in\mathbb{C}^{n\times n}$ is Hermitian if and only if $A^H=A$, and in our index-minded notation, a matrix $(a_{ij}+b_{ij}i)_{n\times n}\in\mathbb{C}^{n\times n}$ is Hermitian if and only if
 $$(\forall(i,\;j)\in I^2)(a_{ij}+b_{ij}i=a_{ji}-b_{ji}i)\text{.}$$
+Using the p
