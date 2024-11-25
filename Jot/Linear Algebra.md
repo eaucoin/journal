@@ -54,6 +54,8 @@ $$\begin{align*}
 
 &=(\sum_{j=1}^{n}[(\psi(a_j+b_ji)(e_j+f_ji)+\phi(c_j+d_ji)(e_j+f_ji))])_{1\times 1}\\
 
-&=(\sum_{j=1}^{n}[\psi(a_j+b_ji)(e_j+f_ji)]+\sum_{j=}[\phi(c_j+d_ji)(e_j+f_ji)])_{1\times 1}
+&=(\sum_{j=1}^{n}[\psi(a_j+b_ji)(e_j+f_ji)])_{1\times 1}+(\sum_{j=1}^{n}[\phi(c_j+d_ji)(e_j+f_ji)])_{1\times 1}
+
+&=
 
 \end{align*}$$
