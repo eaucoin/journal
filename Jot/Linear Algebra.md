@@ -126,7 +126,7 @@ $$\begin{align*}
 \iff&(Ab)^Hc=b^HAc\\
 \iff&b^HA^Hc=b^HAc\\
 \iff&bb^HA^Hcc^H=bb^HAcc^H\\
-\iff& \\
+\iff&||b||\cdot||a||A^H=||b||\cdot||a||A\\
 \iff& A^H=A\text{.}
 \end{align*}$$
-This proposition does the heavy lifting for a theorem on the eigenvalues of Hermitian Matrices.
+eavy lifting for a theorem on the eigenvalues of Hermitian Matrices.
