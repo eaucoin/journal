@@ -29,13 +29,13 @@ is an inner product space.
 
 **Proof.**
 
-Denote $a,b,c\in\mathbb{C}^n$ as $(a_{j}+b_{j}i)_{n\times 1}\in\mathbb{C}^n$, $(c_{j}+d_{j}i)_{n\times 1}\in\mathbb{C}^n$, and $(e_j+f_ji)_{n\times 1}$ respectively. Then $a^H=(a_{j}-b_{j}i)_{1\times n}$. Testing for conjugate symmetry, 
+Denote $a,b,c\in\mathbb{C}^n$ as $(a_{j}+b_{j}i)_{n\times 1}\in\mathbb{C}^n$, $(c_{j}+d_{j}i)_{n\times 1}\in\mathbb{C}^n$, and $(e_j+f_ji)_{n\times 1}$ respectively. Then $a^H=(a_{j}-b_{j}i)_{n\times n}$. Testing for conjugate symmetry, 
 $$\begin{align*}
 
 \overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\&
-=(\overline{\sum_{j=1}^{n}[(c_j-d_ji)(a_j+b_ji)})_{1\times 1}\\&
-=(\overline{\sum_{j=1}^{n}a_jc_j+b_jd_j+i(b_jc_j-a_jd_j)})_{1\times 1}\\&
-=(\sum_{j=1}^{n}a_jc_j+b_jd_j-i(b_jc_j-a_jd_j))_{1\times 1}\text{, and}
+=(\overline{\sum_{j=1}^{n}[(c_j-d_ji)(a_j+b_ji)}])_{1\times 1}\\&
+=(\overline{\sum_{j=1}^{n}[a_jc_j+b_jd_j+i(b_jc_j-a_jd_j)]})_{1\times 1}\\&
+=(\sum_{j=1}^{n}[a_jc_j+b_jd_j-i(b_jc_j-a_jd_j)])_{1\times 1}\text{, and}
 
 \end{align*}$$
 $$\begin{align*}
