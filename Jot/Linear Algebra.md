@@ -19,6 +19,5 @@ With the above objects and operations described, we are ready to define an inner
 
 ### Lemma 1.
 
-$(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot)$ is a vector space. 
-
+$(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot)$ is a vector space. We will not prove this; it can easily be shown by testin
 
