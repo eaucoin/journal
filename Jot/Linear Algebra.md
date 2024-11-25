@@ -123,6 +123,7 @@ $$\begin{align*}
 
 &\langle Ab,\;c\rangle=\langle b,\;Ac\rangle\\
 \iff&(Ab)^Hc=b^HAc\\
-\iff&b^HA^Hc=b^HAc
+\iff&b^HA^Hc=b^HAc\\
+\iff& b^H(A^Hc-A)=0
 
 \end{align*}$$
