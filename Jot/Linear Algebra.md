@@ -29,4 +29,4 @@ is an inner product space.
 
 **Proof.**
 
-For $$
+Denote $a,b\in\mathbb{C}^n$ as $(a_+bi)$
