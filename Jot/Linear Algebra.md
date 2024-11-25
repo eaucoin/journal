@@ -50,6 +50,6 @@ $$\begin{align*}
 Testing for first-argument linearity,
 $$\begin{align*}
 
-\langle\psi a+\phi b,\;c\rangle&=()
+\langle\psi a+\phi b,\;c\rangle&=(\sum_{j=1}^{n}()(e_j+))
 
 \end{align*}$$
