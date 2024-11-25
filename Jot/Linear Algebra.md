@@ -18,7 +18,8 @@ For $A\in\mathbb{C}^{m\times n}$, we can write the conjugate transpose of $A$ as
 The conjugate transposition $A^H\in\mathbb{C}^{n\times n}$ of a matrix $A\in\mathbb{C}^{n\times n}$ has four fundamental properties that hold for all $\lambda\in\mathbb{C}$:
 - $(A^H)^H=A$
 - $(A+B)^H=A^H+B^H$
-- $(\lambda A)^H=\overline{\lambda}$
+- $(\lambda A)^H=\overline{\lambda}A^H$
+- $(AB)^H=B^HA$
 
 ## Defining an Inner Product Space on $\mathbb{C}^n$
 
