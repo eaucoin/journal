@@ -62,3 +62,4 @@ $$\begin{align*}
 
 \end{align*}$$
 If for all $j\in J$, $a_j,b_j\neq 0$, then
+$$\begin{align*}\langle a,\;a\rangle&=(\sum_{j=1}^{n}()())_{1\times 1}\end{align*}$$
