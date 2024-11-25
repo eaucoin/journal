@@ -50,7 +50,7 @@ $$\begin{align*}
 Testing for first-argument linearity,
 $$\begin{align*}
 
-\langle\psi a+\phi b,\;c\rangle&=(\sum_{j=1}^{n}[(\psi(a_j+b_ji)+\phi(c_j+d_ji))(e_j+f_ji)])_{}\\
-
+\langle\psi a+\phi b,\;c\rangle&=(\sum_{j=1}^{n}[(\psi(a_j+b_ji)+\phi(c_j+d_ji))(e_j+f_ji)])_{1\times 1}\\
+&=(\sum_{j=1}^{n}[(\psi(a_j+b_ji)+\phi(c_j+d_ji))(e_j+f_ji)])_{1\times 1}
 
 \end{align*}$$
