@@ -70,7 +70,7 @@ $$\begin{align*}
 \end{align*}$$
 which implies that the imaginary part is never zero; therefore, we have positive-definiteness.
 
-With **Proposition 1** and these three properties shown, we have proven that $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$ is an inner product space.
+With **Proposition 1** and these three properties shown, we have proven that $(\mathbb{C}^n,\;\mathbb{F},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$ is an inner product space.
 
 ## Length in $\mathbb{C}^n$
 
@@ -86,7 +86,7 @@ By **Proposition 2** and **Lemma 1**, the length of a vector $x$ in $\mathbb{C}^
 
 ## The Kronecker Delta Function
 
-Let $I=\{1,2,\dots,n\}$ be an *index set*. The Kronecker Delta function is a map $\delta:I^2\rightarrow\{0,1\}$ defined by
+$et $I=\{1,2,\dots,n\}$ be an *index set*. The Kronecker Delta function is a map $\delta:I^2\rightarrow\{0,1\}$ defined by
 $$\begin{align*}\delta(i,\;j)&=\begin{cases}
 
 1 & \text{if }i=j\\
