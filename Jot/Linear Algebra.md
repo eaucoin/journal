@@ -124,6 +124,7 @@ $$\begin{align*}
 &\langle Ab,\;c\rangle=\langle b,\;Ac\rangle\\
 \iff&(Ab)^Hc=b^HAc\\
 \iff&b^HA^Hc=b^HAc\\
-\iff& b^H(A^Hc-A)=0
+\iff& b^H(A^H-A)c=0\\
+\iff
 
 \end{align*}$$
