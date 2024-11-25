@@ -123,6 +123,6 @@ $$\begin{align*}
 
 &\langle Ab,\;c\rangle=\langle b,\;Ac\rangle\\
 \iff&(Ab)^Hc=b^HAc\\
-\iff&((a_{ij}+b_{ij}i)_{n\times n}(c_))^Hc=b^HAc
+\iff&((a_{ij}+b_{ij}i)_{n\times n}(c_i+d_ii)_{n\times 1})^H(e_i)=b^HAc
 
 \end{align*}$$
