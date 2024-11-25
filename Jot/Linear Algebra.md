@@ -47,7 +47,7 @@ $$\begin{align*}
 =\overline{\langle b,\;a\rangle}\text{.}
 
 \end{align*}$$
-Testing for first-argument linearity,
+Testing for first-argument linearity, we have
 $$\begin{align*}
 
 \langle\psi a+\phi b,\;c\rangle&=(\sum_{j=1}^{n}[(\psi(a_j+b_ji)+\phi(c_j+d_ji))(e_j+f_ji)])_{1\times 1}\\
@@ -58,6 +58,7 @@ $$\begin{align*}
 
 &=\psi(\sum_{j=1}^{n}[(a_j+b_ji)(e_j+f_ji)])_{1\times 1}+\phi(\sum_{j=1}^{n}[(c_j+d_ji)(e_j+f_ji)])_{1\times 1}\\
 
-&=\psi \langle\rangle+\\langle \rangle
+&=\psi\langle a,\;c\rangle+\phi\langle b,\;c\rangle
+
 
 \end{align*}$$
