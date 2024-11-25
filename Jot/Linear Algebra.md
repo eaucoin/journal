@@ -20,7 +20,7 @@ For all $m,n\in\mathbb{N}$, the conjugate transposition $A^H\in\mathbb{C}^{n\tim
 - $(A+B)^H=A^H+B^H$,
 - $(\lambda A)^H=\overline{\lambda}A^H$,
 - $(AB)^H=B^HA^H$.
-These are proven though the properties of complex numbers and o
+These are proven though the properties of complex numbers and comparing the matrix entries of flipped indices.
 
 ## Defining an Inner Product Space on $\mathbb{C}^n$
 
