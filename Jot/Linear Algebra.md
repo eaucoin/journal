@@ -13,6 +13,13 @@ Now, we have a strong descriptive footing to describe complex vectors and matric
 $$(a_{ji}-ib_{ji})_{m\times n}\in \mathbb{C}^{m\times n}\text{.}$$
 For $A\in\mathbb{C}^{m\times n}$, we can write the conjugate transpose of $A$ as $A^H$; we use the letter $H$ for Charles Hermite, a french mathematician whose was concerned with such matrices.
 
+### Lemma 1.
+
+The conjugate transposition $A^H\in\mathbb{C}^{n\times n}$ of a matrix $A\in\mathbb{C}^{n\times n}$ has four fundamental properties tha
+- $(A^H)^H=A$
+- $(A+B)^H=A^H+B^H$
+- 
+
 ## Defining an Inner Product Space on $\mathbb{C}^n$
 
 With the above objects and operations described, we are ready to define an inner product space $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$. 
@@ -76,13 +83,13 @@ With **Proposition 1** and these three properties shown, we have proven that $(\
 
 With our inner product space defined, we can now describe length in $\mathbb{C}^n$. 
 
-### Lemma 1.
+### Lemma 2.
 
 The *length* of a vector $x$ in an inner product space is given by the $L^2$ norm, $\langle x,\;x\rangle^{\frac{1}{2}}$. 
 
 ### Proposition 3. 
 
-By **Proposition 2** and **Lemma 1**, the length of a vector $x$ in $\mathbb{C}^n$ is given by $(x^Hx)^{\frac{1}{2}}$.
+By **Proposition 2** and **Lemma 2**, the length of a vector $x$ in $\mathbb{C}^n$ is given by $(x^Hx)^{\frac{1}{2}}$.
 
 ## The Kronecker Delta Function
 
