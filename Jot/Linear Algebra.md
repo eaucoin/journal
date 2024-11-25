@@ -125,9 +125,7 @@ $$\begin{align*}
 &\langle Ab,\;c\rangle=\langle b,\;Ac\rangle\\
 \iff&(Ab)^Hc=b^HAc\\
 \iff&b^HA^Hc=b^HAc\\
-\iff& b^H(A^H-A)c=0\\
-\iff& bb^H(A^H-A)cc^H=b0c^H\\
-\iff& A^H-A=\frac{0}{||b||\cdot||c||}\\
+
 \iff& A^H=A\text{.}
 \end{align*}$$
-This proposition does the heavy lifting for a theorem on the eigenvalues of hermit
+This proposition does the heavy lifting for a theorem on the eigenvalues of Hermitian Matrices.
