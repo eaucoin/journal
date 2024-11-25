@@ -29,7 +29,7 @@ is an inner product space.
 
 **Proof.**
 
-Denote $a,b,c\in\mathbb{C}^n$ as $(a_{j}+b_{j}i)_{n\times 1}\in\mathbb{C}^n$, $(c_{j}+d_{j}i)_{n\times 1}\in\mathbb{C}^n$, and $(e_j+f_ji)_{n\times 1}$ respectively. Then $a^H=(a_{j}-b_{j}i)_{n\times n}$. Testing for conjugate symmetry, 
+Denote $a,b,c\in\mathbb{C}^n$ as $(a_{j}+b_{j}i)_{n\times 1}\in\mathbb{C}^n$, $(c_{j}+d_{j}i)_{n\times 1}\in\mathbb{C}^n$, and $(e_j+f_ji)_{n\times 1}$ respectively. Then $a^H=(a_{j}-b_{j}i)_{n\times 1}$. Testing for conjugate symmetry, 
 $$\begin{align*}
 
 \overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\&
@@ -48,3 +48,4 @@ $$\begin{align*}
 
 \end{align*}$$
 Testing for first-argument linearity,
+$$\langle ()\rangle$$
