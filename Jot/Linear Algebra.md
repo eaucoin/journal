@@ -130,6 +130,7 @@ $$\begin{align*}
 \iff&(\sum_{j=1}^{n}[(a_{ij}+b_{ij}i)(c_j+d_ji)])_{n\times 1}^H(e_j+f_ji)_{n\times 1}\\
 &=(c_i-d_ii)_{1\times n}(\sum_{j=1}^{n}[(a_{ij}+b_{ij}i)(e_j+f_ji)])_{n\times 1}\\\\
 
-\iff&(\sum_{j=1}^{n}[a_{ij}c_j-b_{ij}d_j-i(a_{ij}d_j+b_{ij}c_j)])_{n\times 1}(e_j+f_ji)_{n\times 1}
+\iff&(\sum_{i=1}^{n}[a_{ji}c_i-b_{ji}d_i-i(a_{ji}d_i+b_{ji}c_i)])_{n\times 1}(e_j+f_ji)_{1\times n}\\
+&-
 
 \end{align*}$$
