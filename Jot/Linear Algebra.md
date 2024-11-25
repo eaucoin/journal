@@ -86,4 +86,4 @@ By **Proposition 2** and **Lemma 1**, the length of a vector $x$ in $\mathbb{C}^
 
 ## Hermitian Matrices
 
-A He
+For $n$ Hermitian matrix of size $n$ is an element 
