@@ -64,7 +64,7 @@ $$\begin{align*}
 If for all $j\in J$, $a_j,b_j\neq 0$, then
 $$\begin{align*}
 
-\langle a,\;a\rangle&=(\sum_{j=1}^{n}[(a_j+b_ji)(a_j+b_ji)])_{1\times 1}\
-&=\langle a,\;a\rangle&=(\sum_{j=1}^{n}[(a_j+b_ji)(a_j+b_ji)])_{1\times 1}
+\langle a,\;a\rangle&=(\sum_{j=1}^{n}[(a_j+b_ji)(a_j+b_ji)])_{1\times 1}\\
+&=(\sum_{j=1}^{n}[a_j^2+a_jb_])_{1\times 1}
 
 \end{align*}$$
