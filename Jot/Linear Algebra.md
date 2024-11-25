@@ -68,3 +68,6 @@ $$\begin{align*}
 &=(\sum_{j=1}^{n}[a_j^2-b_j^2+2a_jb_ji])_{1\times 1}\text{,}
 
 \end{align*}$$
+which implies that the imaginary part is never zero; therefore, we have positive-definiteness.
+
+With these three properties proven
