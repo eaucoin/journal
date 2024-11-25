@@ -21,5 +21,4 @@ With the above objects and operations described, we are ready to define an inner
 
 $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot)$ is a vector space. 
 
-**Proof.**
 
