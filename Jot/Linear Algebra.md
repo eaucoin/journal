@@ -34,7 +34,7 @@ $$\begin{align*}
 
 \overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\&
 =(\overline{(c_j-d_ji)(a_j+b_ji)})_{1\times 1}\\&
-=(\overline{})_{1\times 1}\\&
+=(\overline{a_jc_j+b_jc_ji-a_jd_ji})_{1\times 1}\\&
 =(a_jc_j-b_jd_j-i(b_jc_j+a_jd_j))_{1\times 1}\text{,}
 
 \end{align*}$$
