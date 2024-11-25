@@ -76,7 +76,7 @@ With **Proposition 1** and these three properties shown, we have proven that $(\
 
 With our inner product space defined, we can now describe length in $\mathbb{C}^n$. 
 
-### Lemma 2.
+### Lemma 1.
 
 The *length* of a vector $x$ in an inner product space is given by the $L^2$ norm, $\langle x,\;x\rangle^{\frac{1}{2}}$. 
 
