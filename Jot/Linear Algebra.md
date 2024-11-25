@@ -125,6 +125,6 @@ $$\begin{align*}
 \iff&(Ab)^Hc=b^HAc\\
 \iff&((a_{ij}+b_{ij}i)_{n\times n}(c_j+d_ji)_{n\times 1})^H(e_i+f_ii)_{n\times 1}\\
 &=(e_i+f_ii)_{n\times 1}^H(a_{ij}+b_{ij}i)_{n\times n}(e_i+f_ii)_{n\times 1}\\
-\iff&(\sum)
+\iff&(\sum_{j=1}^{n}(a_{ij}+b_{ij}i)(c))
 
 \end{align*}$$
