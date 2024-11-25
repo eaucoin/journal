@@ -24,4 +24,5 @@ $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot)$ is a vector space. We will not prove t
 ### Proposition 2.
 
 The algebraic structure $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$, with an inner product defined by
-$$\langle a,\;b\rangle:(a,b)\mapsto a^Hb\text{, for all }a,b\in\mathbb{}$$
+$$\langle a,\;b\rangle:(a,b)\mapsto a^Hb\text{, for all }a,b\in\mathbb{C}^n\text{,}$$
+is an
