@@ -122,6 +122,7 @@ $$(\forall b,c\in\mathbb{C}^n)(\langle Ab,\;c\rangle=\langle b,\;Ac\rangle)\text
 $$\begin{align*}
 
 &\langle Ab,\;c\rangle=\langle b,\;Ac\rangle\\
-\iff&()
+\iff&(Ab)^Hc=b^HAc\\
+\iff&(Ab)^Hc=b^HAc
 
 \end{align*}$$
