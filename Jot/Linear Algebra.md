@@ -125,7 +125,8 @@ $$\begin{align*}
 &\langle Ab,\;c\rangle=\langle b,\;Ac\rangle\\
 \iff&(Ab)^Hc=b^HAc\\
 \iff&b^HA^Hc=b^HAc\\
-
+\iff&bb^HA^Hcc^H=bb^HAcc^H\\
+\iff& \\
 \iff& A^H=A\text{.}
 \end{align*}$$
 This proposition does the heavy lifting for a theorem on the eigenvalues of Hermitian Matrices.
