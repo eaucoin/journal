@@ -17,7 +17,9 @@ For $A\in\mathbb{C}^{m\times n}$, we can write the conjugate transpose of $A$ as
 
 With the above objects and operations described, we are ready to define an inner product space $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$. 
 
-### Lemma 1.
+### Pr 1.
 
-$(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot)$ is a vector space. We will not prove this; it can easily be shown by testin
+$(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot)$ is a vector space. We will not prove this; it can easily be shown by testing the vector space axioms on the $n\times 1$ dimensional matrices above.
+
+
 
