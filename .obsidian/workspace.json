@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,10 +221,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9e88145bf1b61f08",
+  "active": "d19758f030a362de",
   "lastOpenFiles": [
-    "Languages/Ancient Greek/Interphrasal Translations/Thucydides, History of the Peloponnesian War, Book 1.md",
     "Jot/Linear Algebra.md",
+    "Languages/Ancient Greek/Interphrasal Translations/Thucydides, History of the Peloponnesian War, Book 1.md",
     "Jot/Bolds.md",
     "Untitled.md",
     "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",

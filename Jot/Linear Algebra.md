@@ -82,4 +82,5 @@ The *length* of a vector $x$ in an inner product space is given by the $L^2$ nor
 
 ### Proposition 3. 
 
-The length of a vector $x$ in $\mathbb{C}^n$ is given by $(x^Hx)^{\frac{1}{2}}$.
+By **Proposition 2** and **Lemma 1**, the length of a vector $x$ in $\mathbb{C}^n$ is given by $(x^Hx)^{\frac{1}{2}}$.
+
