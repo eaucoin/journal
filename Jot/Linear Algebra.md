@@ -115,4 +115,4 @@ Using the properties of **Lemma 1**, we have an equivalence statement that conve
 
 ### Proposition 4. 
 
-A 
+For $n\in\mathbb{}$
