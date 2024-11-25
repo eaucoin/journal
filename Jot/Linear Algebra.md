@@ -78,4 +78,4 @@ With our inner product space defined, we can now describe length in $\mathbb{C}^
 
 ### Lemma 1.
 
-The distance 
+The distance between the origin to a vector $x$ in an inner product space is given by the $L^2$ norm, $\langle x,x\rangle^$
