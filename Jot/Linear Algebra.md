@@ -105,4 +105,6 @@ $$(\forall(i,\;j)\in I^2)(a_{ij}+b_{ij}i=a_{ji}-b_{ji}i)\text{.}$$
 
 ### Lemma 2.
 
-The conjugate transposition $A^H\in\mathbb{C}^{n\times n}$ of a matric
+The conjugate transposition $A^H\in\mathbb{C}^{n\times n}$ of a matrix $A\in\mathbb{C}^{n\times n}$ has four fundamental properties:
+- $(A^H)^H=A$
+- $(A+B)^H=A^H+$
