@@ -125,6 +125,6 @@ $$\begin{align*}
 \iff&(Ab)^Hc=b^HAc\\
 \iff&b^HA^Hc=b^HAc\\
 \iff& b^H(A^H-A)c=0\\
+\iff& bb^H(A^H-A)cc^H=b0c^H
 \iff
-
 \end{align*}$$
