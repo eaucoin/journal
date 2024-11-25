@@ -70,4 +70,4 @@ $$\begin{align*}
 \end{align*}$$
 which implies that the imaginary part is never zero; therefore, we have positive-definiteness.
 
-With these three properties proven
+With **Proposition 1** and these three properties shown, we have proven that $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$.
