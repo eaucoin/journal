@@ -84,6 +84,8 @@ The *length* of a vector $x$ in an inner product space is given by the $L^2$ nor
 
 By **Proposition 2** and **Lemma 1**, the length of a vector $x$ in $\mathbb{C}^n$ is given by $(x^Hx)^{\frac{1}{2}}$.
 
+## The Kronecker D
+
 ## Hermitian Matrices
 
-For $n$ Hermitian matrix of size $n$ is an element 
+For $n\in\mathbb{N}$, a Hermitian matrix of size $n$ is an element of $\mathbb{C}^{n\times n}$ that is equal to its conjugate transpose.
