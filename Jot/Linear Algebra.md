@@ -87,8 +87,16 @@ By **Proposition 2** and **Lemma 1**, the length of a vector $x$ in $\mathbb{C}^
 ## The Kronecker Delta Function
 
 Let $I=\{1,2,\dots,n\}$ be an *index set*. The Kronecker Delta function is a map $\delta:I^2\rightarrow\{0,1\}$ defined by
-$$$$
-and it is commonly written as $\delta_{ij}$. 
+$$\begin{align*}\delta(i,\;j)&=\begin{cases}
+
+1 & \text{if }i=j\\
+0 & \text{if }i\neq j
+
+\end{cases}
+
+\\\\&=\delta_{ij}\text{.}
+
+\end{align*}$$
 
 ## Hermitian Matrices
 
