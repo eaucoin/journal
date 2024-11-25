@@ -23,7 +23,7 @@ $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot)$ is a vector space. We will not prove t
 
 ### Proposition 2.
 
-The algebraic structure $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$, with an inner product defined by
+The algebraic structure $(\mathbb{C}^n,\;\mathbb{F},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$, with an inner product defined by
 $$\langle a,\;b\rangle:(a,b)\mapsto a^Hb\text{, for all }a,b\in\mathbb{C}^n\text{,}$$
 is an inner product space.
 
@@ -107,4 +107,5 @@ $$(\forall(i,\;j)\in I^2)(a_{ij}+b_{ij}i=a_{ji}-b_{ji}i)\text{.}$$
 
 The conjugate transposition $A^H\in\mathbb{C}^{n\times n}$ of a matrix $A\in\mathbb{C}^{n\times n}$ has four fundamental properties:
 - $(A^H)^H=A$
-- $(A+B)^H=A^H+$
+- $(A+B)^H=A^H+B^H$
+- 
