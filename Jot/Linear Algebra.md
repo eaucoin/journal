@@ -29,4 +29,4 @@ is an inner product space.
 
 **Proof.**
 
-Denote $a,b\in\mathbb{C}^n$ as $(a_{j}+b_{j}i)\in\mathbb{C}^n$ and $(a_{j}+b_{j}i)\in\mathbb{C}^n$, respectively. Then $a^H=(a_{j}-b_{j}i)$, and 
+Denote $a,b\in\mathbb{C}^n$ as $(a_{j}+b_{j}i)_{n\times 1}\in\mathbb{C}^n$ and $(a_{j}+b_{j}i)_{n\times 1}\in\mathbb{C}^n$, respectively. Then $a^H=(a_{j}-b_{j}i)_{1\times n}$
