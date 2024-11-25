@@ -119,7 +119,7 @@ For $n\in\mathbb{N}$, a matrix $A\in\mathbb{C}^{n\times n}$ has the property tha
 $$(\forall b,c\in\mathbb{C}^n)(\langle Ab,\;c\rangle=\langle b,\;Ac\rangle)\text{.}$$
 **Proof.**
 
-The algebraic properties of **Lemma 1**
+The algebraic properties of **Lemma 1** combined with the inner product dedeliver
 $$\begin{align*}
 
 &\langle Ab,\;c\rangle=\langle b,\;Ac\rangle\\
@@ -127,6 +127,6 @@ $$\begin{align*}
 \iff&b^HA^Hc=b^HAc\\
 \iff& b^H(A^H-A)c=0\\
 \iff& bb^H(A^H-A)cc^H=b0c^H\\
-\iff& A^H-A=\frac{0}{||b||\cdot||c|}\\
+\iff& A^H-A=\frac{0}{||b||\cdot||c||}\\
 \iff& A^H=A
 \end{align*}$$
