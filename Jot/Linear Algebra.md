@@ -33,7 +33,7 @@ Denote $a,b,c\in\mathbb{C}^n$ as $(a_{j}+b_{j}i)_{n\times 1}\in\mathbb{C}^n$, $(
 $$\begin{align*}
 
 \overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\&
-=(\overline{\sum_{j=1}^{n}(c_j-d_ji)(a_j+b_ji)})_{1\times 1}\\&
+=(\overline{\sum_{j=1}^{n}[(c_j-d_ji)(a_j+b_ji)})_{1\times 1}\\&
 =(\overline{\sum_{j=1}^{n}a_jc_j+b_jd_j+i(b_jc_j-a_jd_j)})_{1\times 1}\\&
 =(\sum_{j=1}^{n}a_jc_j+b_jd_j-i(b_jc_j-a_jd_j))_{1\times 1}\text{, and}
 
@@ -41,9 +41,9 @@ $$\begin{align*}
 $$\begin{align*}
 
 \langle a,\;b\rangle&=a^Hb\\&
-=(\sum_{j=1}^{n}(a_j-b_ji)(c_j+d_ji))_{1\times 1}\\&
-=(\sum_{j=1}^{n}a_jc_j+b_jd_j+i(a_jd_j-b_jc_j))_{1\times 1}\\&
-=(\sum_{j=1}^{n}a_jc_j+b_jd_j-i(b_jc_j-a_jd_j))_{1\times 1}\\&
+=(\sum_{j=1}^{n}[(a_j-b_ji)(c_j+d_ji)])_{1\times 1}\\&
+=(\sum_{j=1}^{n}[a_jc_j+b_jd_j+i(a_jd_j-b_jc_j)])_{1\times 1}\\&
+=(\sum_{j=1}^{n}[a_jc_j+b_jd_j-i(b_jc_j-a_jd_j)])_{1\times 1}\\&
 =\overline{\langle b,\;a\rangle}\text{.}
 
 \end{align*}$$
