@@ -50,6 +50,6 @@ $$\begin{align*}
 Testing for first-argument linearity,
 $$\begin{align*}
 
-\langle(a+(\beta_1+\beta_2i)b,\;c\rangle&=
+\langle\psi a+\phi b,\;c\rangle&=()
 
 \end{align*}$$
