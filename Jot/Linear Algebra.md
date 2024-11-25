@@ -78,3 +78,4 @@ With our inner product space defined, we can now describe length in $\mathbb{C}^
 
 ### Lemma 1.
 
+The distance 
