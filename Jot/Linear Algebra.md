@@ -116,4 +116,5 @@ Using the properties of **Lemma 1**, we have an equivalence statement that conve
 ### Proposition 4. 
 
 For $n\in\mathbb{N}$, a matrix $A\in\mathbb{C}^{n\times n}$ has the property that $A=A^H$ if and only if 
-$$(\forall b,c\in\mathbb{C}^n)(\langle A\rangle=\langle \rangle)$$
+$$(\forall b,c\in\mathbb{C}^n)(\langle Ab,\;c\rangle=\langle b,\;Ac\rangle)\text{.}$$
+**Proof.**
