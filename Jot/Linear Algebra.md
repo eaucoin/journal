@@ -48,4 +48,4 @@ $$\begin{align*}
 
 \end{align*}$$
 Testing for first-argument linearity,
-$$\langle ()\rangle$$
+$$\langle (\alpha_1+\alpha_2i)a+(\beta_1+\beta_2)\rangle$$
