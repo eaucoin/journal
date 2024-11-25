@@ -823,3 +823,11 @@
 
 τοῦ δὲ μηδισμοῦ τοῦ Παυσανίου [And concerning the Medism of Pausanias] οἱ Λακεδαιμόνιοι πρέσβεις πέμψαντες [the Lacedaemonians, having sent ambassadors] παρὰ τοὺς Ἀθηναίους [to the Athenians] ξυνεπῃτιῶντο καὶ τὸν Θεμιστοκλέα [were accusing Themistocles also along with him] ὡς ηὕρισκον ἐκ τῶν περὶ Παυσανίαν ἐλέγχων [as they were finding from the proofs concerning Pausanias] ἠξίουν τε [and they demanded] τοῖς αὐτοῖς κολάζεσθαι αὐτόν [that he be punished with the same things].
 
+οἱ δὲ πεισθέντες [And they, having been persuaded] (ἔτυχε γὰρ ὠστρακισμένος [for he happened to have been ostracized] καὶ ἔχων δίαιταν μὲν ἐν Ἄργει [and having a residence in Argos] ἐπιφοιτῶν δὲ καὶ ἐς τὴν ἄλλην Πελοπόννησον [but also visiting the rest of the Peloponnese]) πέμπουσι [they send] μετὰ τῶν Λακεδαιμονίων [with the Lacedaemonians] ἑτοίμων ὄντων ξυνδιώκειν [being ready to pursue him together] ἄνδρας [men] οἷς εἴρητο ἄγειν [to whom it had been told to bring him] ὅπου ἂν περιτύχωσιν [wherever they might find him].
+
+ὁ δὲ Θεμιστοκλῆς προαισθόμενος [But Themistocles, having perceived beforehand] φεύγει ἐκ Πελοποννήσου ἐς Κέρκυραν [flees from the Peloponnese to Corcyra] ὢν αὐτῶν εὐεργέτης [being their benefactor]. δεδιέναι δὲ φασκόντων Κερκυραίων [But with the Corcyraeans saying they were afraid] ἔχειν αὐτόν [to keep him] ὥστε [so as] Λακεδαιμονίοις καὶ Ἀθηναίοις ἀπεχθέσθαι [to be hateful to the Lacedaemonians and Athenians] διακομίζεται ὑπ’ αὐτῶν ἐς τὴν ἤπειρον τὴν καταντικρύ [he is conveyed by them to the mainland opposite].
+
+καὶ διωκόμενος [And being pursued] ὑπὸ τῶν προστεταγμένων [by those appointed] κατὰ πύστιν ᾗ χωροίη [according to inquiry where he was going] ἀναγκάζεται [he is compelled] κατά τι ἄπορον [by a certain difficult situation] παρὰ Ἄδμητον τὸν Μολοσσῶν βασιλέα [to Admetus, the king of the Molossians] ὄντα αὐτῷ οὐ φίλον καταλῦσαι [being not a friend to him, to take lodging].
+
+καὶ ὁ μὲν οὐκ ἔτυχεν ἐπιδημῶν [And he happened not to be at home]. ὁ δὲ [But he] τῆς γυναικὸς ἱκέτης γενόμενος [having become a suppliant of his wife] διδάσκεται ὑπ’ αὐτῆς [is instructed by her] τὸν παῖδα σφῶν λαβὼν καθέζεσθαι ἐπὶ τὴν ἑστίαν [having taken their child, to sit at the hearth].
+
