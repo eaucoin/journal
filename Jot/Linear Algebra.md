@@ -48,4 +48,8 @@ $$\begin{align*}
 
 \end{align*}$$
 Testing for first-argument linearity,
-$$\langle (\alpha_1+\alpha_2i)a+(\beta_1+\beta_2)\rangle$$
+$$\begin{align*}
+
+\langle(a+(\beta_1+\beta_2i)b,\;c\rangle&=
+
+\end{align*}$$
