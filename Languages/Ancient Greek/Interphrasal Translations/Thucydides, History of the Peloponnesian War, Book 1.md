@@ -817,3 +817,9 @@
 
 καὶ μέλλοντος αὐτοῦ ἀποψύχειν [And when he was about to die] ὥσπερ εἶχεν ἐν τῷ οἰκήματι [just as he was in the building] αἰσθόμενοι ἐξάγουσιν ἐκ τοῦ ἱεροῦ [having perceived it, they took him out of the sanctuary] ἔτι ἔμπνουν ὄντα [still being alive] καὶ ἐξαχθεὶς ἀπέθανε παραχρῆμα [and having been led out he died immediately].
 
+καὶ αὐτὸν ἐμέλλησαν μέν [And they were about indeed] ἐς τὸν Καιάδαν ἐσβάλλειν [to throw him into the Caeadas] ἔπειτα ἔδοξε [then it seemed best] πλησίον που κατορύξαι [to bury him somewhere nearby]. ὁ δὲ θεὸς ὁ ἐν Δελφοῖς [But the god in Delphi] τόν τε τάφον ὕστερον ἔχρησε [later gave an oracle concerning the tomb] τοῖς Λακεδαιμονίοις μετενεγκεῖν [for the Lacedaemonians to move it] οὗπερ ἀπέθανε [where he died] (καὶ νῦν κεῖται ἐν τῷ προτεμενίσματι [and now it lies in the precinct] ὃ γραφῇ στῆλαι δηλοῦσι [which inscribed stones indicate]) καὶ [and] ὡς ἄγος αὐτοῖς ὄν [as being a pollution for them] τὸ πεπραγμένον [what had been done] δύο σώματα ἀνθ’ ἑνὸς τῇ Χαλκιοίκῳ ἀποδοῦναι [to give back two bodies for one to Athena Chalcioecus]. οἱ δὲ ποιησάμενοι χαλκοῦς ἀνδριάντας δύο [And they, having made two bronze statues] ὡς ἀντὶ Παυσανίου ἀνέθεσαν [dedicated them as if for Pausanias].
+
+οἱ δὲ Ἀθηναῖοι [And the Athenians] ὡς καὶ τοῦ θεοῦ ἄγος κρίναντος [since the god also judged it a pollution] ἀντεπέταξαν τοῖς Λακεδαιμονίοις ἐλαύνειν αὐτό [ordered the Lacedaemonians in turn to drive it out].
+
+τοῦ δὲ μηδισμοῦ τοῦ Παυσανίου [And concerning the Medism of Pausanias] οἱ Λακεδαιμόνιοι πρέσβεις πέμψαντες [the Lacedaemonians, having sent ambassadors] παρὰ τοὺς Ἀθηναίους [to the Athenians] ξυνεπῃτιῶντο καὶ τὸν Θεμιστοκλέα [were accusing Themistocles also along with him] ὡς ηὕρισκον ἐκ τῶν περὶ Παυσανίαν ἐλέγχων [as they were finding from the proofs concerning Pausanias] ἠξίουν τε [and they demanded] τοῖς αὐτοῖς κολάζεσθαι αὐτόν [that he be punished with the same things].
+
