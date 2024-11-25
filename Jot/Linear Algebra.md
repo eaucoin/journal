@@ -44,7 +44,7 @@ $$\begin{align*}
 
 \langle a,\;b\rangle&=a^Hb\\&
 =((a_j-b_ji)(c_j+d_ji))_{1\times 1}\\&
-=(a_jc_j+a_jd_ji-)_{1\times 1}\\&
-=(a_jc_j+b_jd_j-i(b_jc_j-a_jd_j))_{1\times 1}\text{,}
+=(a_jc_j+b_jd_j+i(a_jd_j-b_jc_j))_{1\times 1}\\&
+=(a_jc_j+b_jd_j-i(b_jc_j-a_jd_j))_{1\times 1}\\
 
 \end{align*}$$
