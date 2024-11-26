@@ -137,4 +137,10 @@ $$\begin{align*}
 \implies&\lambda\in\mathbb{R}\text{.}\\
 
 \end{align*}$$
-2. Suppose that $\lambda$ and $\mu$ are eigenvalues of $A$ whose eigenvectors are $v$ and $w$, respectively. Working as 
+2. Suppose that $\lambda$ and $\mu$ are eigenvalues of $A$ whose eigenvectors are $v$ and $w$, respectively. Working as in **(1)**, we can show that
+$$\begin{align*}
+
+&Av=\lambda v\;\wedge\;Aw=\lambda w\\
+
+
+\end{align*}$$
