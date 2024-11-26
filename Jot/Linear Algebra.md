@@ -120,3 +120,4 @@ This completes the heavy lifting that is required to prove a special property on
 
 ### Proposition 5.
 
+Let a 
