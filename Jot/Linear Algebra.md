@@ -113,9 +113,10 @@ $$\begin{align*}
 \iff&(Ab)^Hc=b^HAc\\
 \iff&b^HA^Hc=b^HAc\\
 \iff&bb^HA^Hcc^H=bb^HAcc^H\\
-\iff&||b||^2\cdot||a||A^H=||b||\cdot||a||A\\
+\iff&||b||^2\cdot||a||^2A^H=||b||^2\cdot||a||^2A\\
 \iff& A^H=A\text{.}
 \end{align*}$$
 This completes the heavy lifting that is required to prove a special property on the eigenvalues of Hermitian matrices.
 
+### Proposition 5.
 
