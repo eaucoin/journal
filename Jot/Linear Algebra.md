@@ -60,9 +60,9 @@ Testing, for positive-definiteness,
 $$\begin{align*}
 
 \langle a,\;a\rangle&=a^Ha\\\\
-&=\bigg(\sum_{j=1}^{n}[(a_j-b_ji)(a_j+b_ji)])_{1\times 1}\\\\
+&=\bigg(\sum_{j=1}^{n}[(a_j-b_ji)(a_j+b_ji)]\bigg)_{1\times 1}\\\\
 &=\bigg(\sum_{j=1}^{n}[a_j^2+b_j^2]\bigg)_{1\times 1}\\\\
-&\geq0\text{ for all }j\in J\\\wedge&=0\iff (\forall j\in J)(a_j=0)\\\\
+&>0\text{ for all }j\in J\\\wedge&=0\iff (\forall j\in J)(a_j=0)\\\\
 &\implies(\forall a,b\in \mathbb{C}^n)(\langle a,\;a\rangle>0)\text{, and:}\\&\;\;\;\;\;\;\;\;\;\langle a,\;a\rangle=0\iff a=0\text{.}
 
 \end{align*}$$
@@ -113,7 +113,7 @@ $$\begin{align*}
 \iff&(Ab)^Hc=b^HAc\\
 \iff&b^HA^Hc=b^HAc\\
 \iff&bb^HA^Hcc^H=bb^HAcc^H\\
-\iff&||b||\cdot||a||A^H=||b||\cdot||a||A\\
+\iff&||b||^2\cdot||a||A^H=||b||\cdot||a||A\\
 \iff& A^H=A\text{.}
 \end{align*}$$
 This completes the heavy lifting that is required to prove a special property on the eigenvalues of Hermitian matrices.
