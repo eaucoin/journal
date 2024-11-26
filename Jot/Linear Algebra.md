@@ -38,7 +38,7 @@ is an inner product space.
 
 **Proof.**
 
-Denote $a,b,c\in\mathbb{C}^n$ as $(a_{j}+b_{j}i)_{n\times 1}\in\mathbb{C}^n$, $(c_{j}+d_{j}i)_{n\times 1}\in\mathbb{C}^n$, and $(e_j+f_ji)_{n\times 1}$ respectively. Then $a^H=(a_{j}-b_{j}i)_{n\times 1}$. Testing for conjugate symmetry, 
+Testing for conjugate symmetry, 
 $$\begin{align*}
 
 \overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\&
@@ -129,4 +129,6 @@ $$\begin{align*}
 \iff&||b||\cdot||a||A^H=||b||\cdot||a||A\\
 \iff& A^H=A\text{.}
 \end{align*}$$
-eavy lifting for a theorem on the eigenvalues of Hermitian Matrices.
+This completes the heavy lifting that is required to prove a special property on the eigenvalues of Hermitian matrices.
+
+
