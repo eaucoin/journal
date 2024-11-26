@@ -44,7 +44,8 @@ $$\begin{align*}
 \overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\
 &=b^T\overline{a}\\
 &=(a^Hb)^{T}\\
-&=
+&=a^Hb\\
+&=\langle a,\;b\rangle\text{.}
 
 \end{align*}$$
 $$\begin{align*}
