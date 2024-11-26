@@ -56,14 +56,14 @@ $$\begin{align*}
 &=\overline{\lambda}\langle a,\;b\rangle\text{.}
 
 \end{align*}$$
-Testing $a\n$for positive-definiteness,
+Testing $a\neq 0$ for positive-definiteness,
 $$\begin{align*}
 
 \langle a,\;a\rangle&=a^Ha\\\\
 &=(\sum_{j=1}^{n}[(a_j-b_ji)(a_j+b_ji)])_{1\times 1}\\\\
 &=(\sum_{j=1}^{n}[a_j^2+b_j^2])_{1\times 1}\\\\
 &\geq0\text{ for all }j\in J\\\\
-&\implies(\forall a,b\in \mathbb{C}^n)(\langle a,\;a\rangle>)
+&\implies(\forall a,b\in \mathbb{C}^n)(\langle a,\;a\rangle>0)\text{ and }\langle\rangle
 
 \end{align*}$$
 Assuming that for all $j\in J$, $a_j,b_j\neq 0$, 
