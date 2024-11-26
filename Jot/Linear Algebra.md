@@ -56,11 +56,11 @@ $$\begin{align*}
 &=\overline{\lambda}\langle a,\;b\rangle\text{.}
 
 \end{align*}$$
-Testing for positive-definiteness,
+Testing $a\n$for positive-definiteness,
 $$\begin{align*}
 
-\langle a,\;a\rangle&=a^Ha\\
-&=(\sum_{j=1}^{n}[(a_j-b_ji)(a_j+b_ji)])_{1\times 1}\\
+\langle a,\;a\rangle&=a^Ha\\\\
+&=(\sum_{j=1}^{n}[(a_j-b_ji)(a_j+b_ji)])_{1\times 1}\\\\
 &=(\sum_{j=1}^{n}[a_j^2+b_j^2])_{1\times 1}\\\\
 &\geq0\text{ for all }j\in J\\\\
 &\implies(\forall a,b\in \mathbb{C}^n)(\langle a,\;a\rangle>)
