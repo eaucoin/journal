@@ -51,7 +51,7 @@ $$\begin{align*}
 Testing for first-argument linearity, we have
 $$\begin{align*}
 
-\langle \lambda a,\;b\rangle&=(\lambda a)^Hb\\
+\langle \lambda a+\mu,\;b\rangle&=(\lambda a)^Hb\\
 &=a^H\overline{\lambda}b\\
 &=\overline{\lambda}\langle a,\;b\rangle\text{.}
 
@@ -145,6 +145,6 @@ $$\begin{align*}
 \wedge\;&\langle Aw,\;\mu w\rangle=\langle w,\;A(\mu w)\rangle\\\\
 
 \iff&Av=\lambda v\;\wedge\;Aw=\lambda w\\
-
+\wedge\;&\lambda^2
 
 \end{align*}$$
