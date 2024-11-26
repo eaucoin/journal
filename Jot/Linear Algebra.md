@@ -52,8 +52,8 @@ Testing for first-argument linearity, we have
 $$\begin{align*}
 
 \langle \lambda a+\mu b,\;c\rangle&=(\lambda a+\mu b)^Hc\\
-&=\overline{\lambda}a+\\
-&=\overline{\lambda}\langle a,\;b\rangle\text{.}
+&=\overline{\lambda}a^Hc+\overline{\mu}b^Hc\\
+&=\overline{\lambda}\langle a,\;b\rangle+\overline{\lambda}\langle a,\;b\rangle\text{.}
 
 \end{align*}$$
 Testing, for positive-definiteness,
