@@ -126,4 +126,9 @@ Let $A$ be a Hermitian matrix. Then:
 
 **Proof.**
 
-1. Suppose that $A$ had a complex eigenvalue $\lambda$ whose eigenvector is $w$. Then $Aw=zw$. /
+1. Suppose that $A$ had a complex eigenvalue $\lambda$ whose eigenvector is $w$. Then $Aw=zw$. Working through this and using **Proposition 4**,
+$$\begin{align*}
+
+
+
+\end{align*}$$
