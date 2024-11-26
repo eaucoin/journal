@@ -38,7 +38,13 @@ is an inner product space.
 
 **Proof.**
 
-Testing for conjugate symmetry, 
+Using the properties from **Lemma 1** and testing for conjugate symmetry, 
+$$\begin{align*}
+
+\overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\&
+=
+
+\end{align*}$$
 $$\begin{align*}
 
 \overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\&
