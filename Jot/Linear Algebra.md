@@ -38,7 +38,7 @@ is an inner product space.
 
 **Proof.**
 
-For allesting for conjugate symmetry, 
+In testing all of the requirements, we'll employ the properties from **Lemma 1**. Testing for conjugate symmetry, 
 $$\begin{align*}
 
 \overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\
@@ -59,7 +59,7 @@ $$\begin{align*}
 Testing for positive-definiteness,
 $$\begin{align*}
 
-\langle a,\;a\rangle&=(\sum_{j=1}^{n}[(a_j+b_ji)(a_j+b_ji)])_{1\times 1}\\
+\langle a,\;a\rangle&=\\(\sum_{j=1}^{n}[(a_j+b_ji)(a_j+b_ji)])_{1\times 1}\\
 &=(\sum_{j=1}^{n}[a_j^2-b_j^2+2a_jb_ji])_{1\times 1}\text{.}
 
 \end{align*}$$
