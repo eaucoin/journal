@@ -130,6 +130,6 @@ Let $A$ be a Hermitian matrix. Then:
 $$\begin{align*}
 
 &Av=\lambda v
-\\\implies \langle\rangle
+\\\implies& \langle Av,\;\lambda v\rangle=\langle \lambda v,\;\lambda v\rangle
 
 \end{align*}$$
