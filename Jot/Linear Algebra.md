@@ -141,6 +141,8 @@ $$\begin{align*}
 $$\begin{align*}
 
 &Av=\lambda v\;\wedge\;Aw=\lambda w\\
-\wedge\;&\langle Av,\;\lambda v\rangle=\langle\rangle
+\wedge\;&\langle Av,\;\lambda v\rangle=\langle v,\;A(\lambda v)\rangle\\
+\wedge\;&\langle Av,\;\lambda v\rangle=\langle v,\;A(\lambda v)\rangle
+
 
 \end{align*}$$
