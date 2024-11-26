@@ -120,4 +120,4 @@ This completes the heavy lifting that is required to prove a special property on
 
 ### Proposition 5.
 
-Let a 
+Let $A$ be a Hermitian matrix. Then all eigenvalues of $A$ ar
