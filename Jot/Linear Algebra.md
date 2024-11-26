@@ -129,7 +129,8 @@ Let $A$ be a Hermitian matrix. Then:
 1. Suppose that $A$ had a complex eigenvalue $\lambda$ whose eigenvector is $v$. Then $Av=\lambda v$. Working through this and using **Proposition 4**,
 $$\begin{align*}
 
-&Av=\lambda v
-\\\implies& \langle Av,\;\lambda v\rangle=\langle \lambda v,\;\lambda v\rangle
+Av&=\lambda v
+\\\implies \langle Av,\;\lambda v\rangle&=\langle \lambda v,\;\lambda v\rangle\;\wedf
+\\\iff
 
 \end{align*}$$
