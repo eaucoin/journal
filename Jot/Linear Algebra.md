@@ -145,4 +145,6 @@ $$\begin{align*}
 \wedge\;&\langle Aw,\;\mu w\rangle=\langle w,\;A(\mu w)\rangle\\\\
 
 \iff&Av=\lambda v\;\wedge\;Aw=\lambda w\\
+
+
 \end{align*}$$
