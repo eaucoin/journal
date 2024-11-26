@@ -56,24 +56,10 @@ $$\begin{align*}
 &=\overline{\lambda}\langle a,\;b\rangle\text{.}
 
 \end{align*}$$
-$$\begin{align*}
-
-\langle\psi a+\phi b,\;c\rangle&=(\sum_{j=1}^{n}[(\psi(a_j+b_ji)+\phi(c_j+d_ji))(e_j+f_ji)])_{1\times 1}\\
-
-&=(\sum_{j=1}^{n}[(\psi(a_j+b_ji)(e_j+f_ji)+\phi(c_j+d_ji)(e_j+f_ji))])_{1\times 1}\\
-
-&=(\sum_{j=1}^{n}[\psi(a_j+b_ji)(e_j+f_ji)])_{1\times 1}+(\sum_{j=1}^{n}[\phi(c_j+d_ji)(e_j+f_ji)])_{1\times 1}\\
-
-&=\psi(\sum_{j=1}^{n}[(a_j+b_ji)(e_j+f_ji)])_{1\times 1}+\phi(\sum_{j=1}^{n}[(c_j+d_ji)(e_j+f_ji)])_{1\times 1}\\
-
-&=\psi\langle a,\;c\rangle+\phi\langle b,\;c\rangle\text{.}
-
-\end{align*}$$
 If for all $j\in J$, $a_j,b_j\neq 0$, then
 $$\begin{align*}
 
-\langle a,\;a\rangle&=(\sum_{j=1}^{n}[(a_j+b_ji)(a_j+b_ji)])_{1\times 1}\\
-&=(\sum_{j=1}^{n}[a_j^2-b_j^2+2a_jb_ji])_{1\times 1}\text{,}
+\langle a,\;a\rangle&=
 
 \end{align*}$$
 which implies that the imaginary part is never zero; therefore, we have positive-definiteness.
