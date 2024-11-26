@@ -126,4 +126,10 @@ Let $A$ be a Hermitian matrix. Then:
 
 **Proof.**
 
-1. Suppose that $A$ had a complex eigenvalue $z$ whose eigenvector is $w$. Then $$
+1. Suppose that $A$ had a complex eigenvalue $z$ whose eigenvector is $w$.
+$$\begin{align*}
+
+&Aw=\lambda w\\
+
+
+\end{align*}$$
