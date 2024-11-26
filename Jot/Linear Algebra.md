@@ -24,11 +24,11 @@ These are proven though the properties of complex numbers and comparing the matr
 
 ## Defining an Inner Product Space on $\mathbb{C}^n$
 
-With the above objects and operations described, we are ready to define an inner product space $(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$. 
+With the above objects and operations described, we are ready to define an inner product space on the com
 
 ### Proposition 1.
 
-$(\mathbb{C}^n,\;\mathbb{C},\;+,\;\cdot)$ is a vector space. We will not prove this; it can easily be shown by testing the vector space axioms on the $n\times 1$ dimensional matrices above.
+$(\mathbb{C}^n,\;\mathbb{F},\;+,\;\cdot)$ is a vector space. We will not prove this; it can easily be shown by testing the vector space axioms on the $n\times 1$ dimensional matrices above.
 
 ### Proposition 2.
 
@@ -62,13 +62,10 @@ $$\begin{align*}
 \langle a,\;a\rangle&=a^Ha\\\\
 &=(\sum_{j=1}^{n}[(a_j-b_ji)(a_j+b_ji)])_{1\times 1}\\\\
 &=(\sum_{j=1}^{n}[a_j^2+b_j^2])_{1\times 1}\\\\
-&\geq0\text{ for all }j\in J\\&=0\iff (\forall j\in J)(a_j=0)\\\\
+&\geq0\text{ for all }j\in J\\\wedge&=0\iff (\forall j\in J)(a_j=0)\\\\
 &\implies(\forall a,b\in \mathbb{C}^n)(\langle a,\;a\rangle>0)\text{, and:}\\&\;\;\;\;\;\;\;\;\;\langle a,\;a\rangle=0\iff a=0
 
 \end{align*}$$
-Assuming that for all $j\in J$, $a_j,b_j\neq 0$, 
-$$(\forall)()$$
-
 With **Proposition 1** and these three properties shown, we have proven that $(\mathbb{C}^n,\;\mathbb{F},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$ is an inner product space.
 
 ## Length in $\mathbb{C}^n$
