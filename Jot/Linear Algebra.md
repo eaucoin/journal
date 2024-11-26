@@ -51,8 +51,8 @@ $$\begin{align*}
 Testing for first-argument linearity, we have
 $$\begin{align*}
 
-\langle \lambda a+\mu,\;b\rangle&=(\lambda a)^Hb\\
-&=a^H\overline{\lambda}b\\
+\langle \lambda a+\mu b,\;c\rangle&=(\lambda a+\mu b)^Hc\\
+&=\overline{\lambda}a+\\
 &=\overline{\lambda}\langle a,\;b\rangle\text{.}
 
 \end{align*}$$
