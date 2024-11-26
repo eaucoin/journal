@@ -137,4 +137,4 @@ $$\begin{align*}
 \implies&\lambda\in\mathbb{R}\text{.}\\
 
 \end{align*}$$
-2. 
+2. Suppose that $\lambda$ and $\mu$ are eigenvalues of $A$ with 
