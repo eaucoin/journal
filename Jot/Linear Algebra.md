@@ -49,7 +49,12 @@ $$\begin{align*}
 
 \end{align*}$$
 Testing for first-argument linearity, we have
-$$\langle \psi a+b,\;c\rangle$$
+$$\begin{align*}
+
+\langle \psi a,\;b\rangle&=(\psi a)^Hb\\
+&=a^H
+
+\end{align*}$$
 $$\begin{align*}
 
 \langle\psi a+\phi b,\;c\rangle&=(\sum_{j=1}^{n}[(\psi(a_j+b_ji)+\phi(c_j+d_ji))(e_j+f_ji)])_{1\times 1}\\
