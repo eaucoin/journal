@@ -51,8 +51,9 @@ $$\begin{align*}
 Testing for first-argument linearity, we have
 $$\begin{align*}
 
-\langle \psi a,\;b\rangle&=(\psi a)^Hb\\
-&=a^H
+\langle \lambda a,\;b\rangle&=(\lambda a)^Hb\\
+&=a^H\overline{\lambda}b\\
+&=\overline{\lambda}\langle a,\;b\rangle\text{.}
 
 \end{align*}$$
 $$\begin{align*}
