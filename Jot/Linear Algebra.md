@@ -121,9 +121,9 @@ This completes the heavy lifting that is required to prove a special property on
 ### Proposition 5.
 
 Let $A$ be a Hermitian matrix. Then:
-Eigenvalues of $A$ are real,
-- Eigenvectors of $A$ are pairwise orthogonal.
+1. Eigenvalues of $A$ are real,
+2. Eigenvectors of $A$ are pairwise orthogonal.
 
 **Proof.**
 
-*E* that $A$ had a complex eigenvalue $z$ with an eigenvector $w$. 
+1. Suppose that $A$ had a complex eigenvalue $z$ whose eigenvector is $w$. Then $$
