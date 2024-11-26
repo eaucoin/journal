@@ -41,8 +41,10 @@ is an inner product space.
 Using the properties from **Lemma 1** and testing for conjugate symmetry, 
 $$\begin{align*}
 
-\overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\&
-=
+\overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\
+&=b^T\overline{a}\\
+&=(a^Hb)^{T}\\
+&=
 
 \end{align*}$$
 $$\begin{align*}
