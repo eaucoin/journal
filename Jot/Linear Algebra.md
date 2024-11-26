@@ -142,7 +142,7 @@ $$\begin{align*}
 
 &Av=\lambda v\;\wedge\;Aw=\lambda w\\
 \wedge\;&\langle Av,\;\lambda v\rangle=\langle v,\;A(\lambda v)\rangle\\
-\wedge\;&\langle Av,\;\lambda v\rangle=\langle v,\;A(\lambda v)\rangle
+\wedge\;&\langle Aw,\;\mu w\rangle=\langle w,\;A(\mu w)\rangle\\\\
 
-
+\iff&Av=\lambda v\;\wedge\;Aw=\lambda w\\
 \end{align*}$$
