@@ -120,4 +120,4 @@ This completes the heavy lifting that is required to prove a special property on
 
 ### Proposition 5.
 
-Let $A$ be a Hermitian matrix. Then all eigenvalues of $A$ ar
+Let $A$ be a Hermitian matrix. Then eigenvalues of $A$ are real, and the eigenvectors of $A$ are pairwise orthogonal.
