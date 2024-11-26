@@ -137,4 +137,4 @@ $$\begin{align*}
 \implies&\lambda\in\mathbb{R}\text{.}\\
 
 \end{align*}$$
-2. Suppose that $\lambda$ and $\mu$ are eigenvalues of $A$ with 
+2. Suppose that $\lambda$ and $\mu$ are eigenvalues of $A$ whose eigenvectors are $v$ and $w$, respectively. Working as 
