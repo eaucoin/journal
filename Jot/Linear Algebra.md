@@ -131,6 +131,7 @@ $$\begin{align*}
 
 &Av=\lambda v\;\wedge\;\langle Av,\;\lambda v\rangle=\langle v,\;A(\lambda v)\rangle\\
 \iff&Av=\lambda v\;\wedge\;(Av)^H(\lambda v)=v^HA(\lambda v)\\
-\iff& Av=\lambda v\;\wedge\;(Av)^H(\lambda v)=v^HA(\lambda v)\\
+\iff& (\lambda v)^H(\lambda v)=\lambda v^H(\lambda v)\\
+\iff& (\lambda v)^H(\lambda v)=\lambda v^H(\lambda v)\\
 
 \end{align*}$$
