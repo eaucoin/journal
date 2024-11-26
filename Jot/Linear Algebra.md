@@ -38,7 +38,7 @@ is an inner product space.
 
 **Proof.**
 
-Using the properties from **Lemma 1** and testing for conjugate symmetry, 
+For allesting for conjugate symmetry, 
 $$\begin{align*}
 
 \overline{\langle b,\;a\rangle}&=\overline{b^Ha}\\
@@ -63,7 +63,8 @@ $$\begin{align*}
 &=(\sum_{j=1}^{n}[a_j^2-b_j^2+2a_jb_ji])_{1\times 1}\text{.}
 
 \end{align*}$$
-Assuming that for all $j\in J$, $a_j,b_j\neq 0$, we hav  imaginary part is never zero; therefore, we have positive-definiteness.
+Assuming that for all $j\in J$, $a_j,b_j\neq 0$, 
+$$(\forall)()$$
 
 With **Proposition 1** and these three properties shown, we have proven that $(\mathbb{C}^n,\;\mathbb{F},\;+,\;\cdot,\;\langle\cdot,\;\cdot\rangle)$ is an inner product space.
 
