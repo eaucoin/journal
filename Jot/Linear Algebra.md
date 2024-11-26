@@ -130,7 +130,7 @@ Let $A$ be a Hermitian matrix. Then:
 $$\begin{align*}
 
 Av&=\lambda v
-\\\implies \langle Av,\;\lambda v\rangle&=\langle \lambda v,\;\lambda v\rangle\;\wedge\langle v,\; \rangle
+\\\implies \langle Av,\;\lambda v\rangle&=\langle \lambdabb v,\;\lambda v\rangle\;\wedge\langle v,\;A(\lambda v)\rangle
 \\\iff
 
 \end{align*}$$
