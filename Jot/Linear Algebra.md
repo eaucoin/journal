@@ -199,7 +199,7 @@ $$\begin{align*}
 \text{,}
 
 \end{align*}$$
-where the $i$ index accounts for the sequential columns of $F^H$. If $i=j$, then $j-i=0$, and that entry in the matrix is $\omega^0=1$
+where the $i$ index accounts for the sequential columns of $F^H$. If $i=j$, then $j-i=0$, and each term of the sum is $\omega^0=1$, so the sum is $n$.
 
 If $i\neq j$, then $\alpha=\omega^{k(j-i)}$ is in the set of $n$th roots of unity; taking into account the cyclic nature, we could replace the sum with a static $\alpha$, giving
 $$\sum_{j=0}^{n-1}\alpha^k\text{.}$$
@@ -216,4 +216,4 @@ $$\begin{align*}
 \end{align*}$$
 But $n$ steps past the first step in our circle leads us to the beginning, at $1$. Therefore, $\alpha^n=1$, so $\frac{1-\alpha^n}{(1-\alpha)}=0$, so $\sum_{j=0}^{n-1}\alpha^k=0$, so $\bigg(\sum_{k=0}^{n-1}\omega^{k(j-i)}\bigg)=0$, for $i\neq j$. 
 
-By **Lemma 3**, we now have that $F_nF_n^H=I_n$. 
+By **Lemma 3**, we now have that $F_nF_n^H=nI_n$. 
