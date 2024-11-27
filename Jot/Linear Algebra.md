@@ -238,4 +238,5 @@ If the size of a Fourier matrix is a power of $2$, then we can define a simple i
 $$F_{2}=\frac{1}{\sqrt{2}}\begin{bmatrix}1&1\\1&i^2\end{bmatrix}\text{,}$$
 and let $D_n=\text{diag}(\omega,\;\omega^2,\dots,\;\omega^{n-1})$. Then for $n\in\mathbb{N}$,
 $$F_{2n}=\begin{bmatrix}I_n&D_n\\I_n&-D_n\end{bmatrix}\begin{bmatrix}F_n&0\\0&F_n\end{bmatrix}\begin{bmatrix}\text{even rows}\\\uparrow\;\;\;\;\;\;\;\downarrow\\\text{odd rows}\end{bmatrix}\text{,}$$
-where the right hand side matrix 
+where the right hand side matrix is an elementary matrix with indicwhose:
+- Rows that have a non-zero entry in an even index 
