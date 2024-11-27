@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <h1 style="margin: 0;">The Fast Fourier Transform:</h1>
+  <h2 style="margin: 0;">A Matrix-Oriented Perspective</h2>
+</div>
 
 ## The Conjugate Transpose
 
@@ -179,7 +183,7 @@ and removing the index after solving for $c_k$; this suggests that we will need 
 $$(\omega^{jk})_{n\times n}(c_j)_{n\times 1}=(f(t_j))_{n\times 1}\text{,}$$
 where we may call $(\omega^{(j-1)(k-1)})_{n\times n}$ the *Fourier Matrix*, also written $F_n$, and with all indices starting at $0$. Immediately, we can observe that $F_n$ is symmetric. 
 
-Stated another way, our Fourier matrix is taking an equal number of independent variable samples and number of frequencies, which is based on the roots of unity being adjusted to 
+Stated another way, our Fourier matrix is taking an equal number of independent variable samples and number of frequencies, which is based on the roots of unity being adjusted to our number of measurement samples. Indexed properly, this leads to desirable properties of our matrix.
 
 ### Lemma 4.
 
