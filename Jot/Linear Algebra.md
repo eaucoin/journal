@@ -179,7 +179,7 @@ and removing the index after solving for $c_k$; this suggests that we will need 
 $$(\omega^{jk})_{n\times n}(c_j)_{n\times 1}=(f(t_j))_{n\times 1}\text{,}$$
 where we may call $(\omega^{(j-1)(k-1)})_{n\times n}$ the *Fourier Matrix*, also written $F_n$, and with all indices starting at $0$. Immediately, we can observe that $F_n$ is symmetric. 
 
-Stated another way, our fo
+Stated another way, our Fourier matrix is taking an equal number of independent variable samples and number of frequencies, which is based on the roots of unity being adjusted to 
 
 ### Lemma 4.
 
