@@ -185,9 +185,14 @@ $\frac{1}{\sqrt{n}}F_n$ is unitary.
 
 **Proof.**
 
+We make use of element-wise production of matrices.
 $$\begin{align*}
 
 &F_n=(\omega^{jk})_{n\times n}\;\wedge\;F_n^H=(\omega^{-jk})_{n\times n}\\\\
-\iff&F_nF_n^H=F_n^HF_n=\bigg(\sum_{k=0}^{n-1}\omega^{jk}\omega^{-ik}\bigg)\text{,}
+\iff&F_nF_n^H=F_n^HF_n=\bigg(\sum_{k=0}^{n-1}\omega^{jk}\omega^{-ik}\bigg)\\\\
+
+
+\text{,}
 
 \end{align*}$$
+where the $i$ index accounts for sequential columns.
