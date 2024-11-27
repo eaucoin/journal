@@ -173,4 +173,4 @@ $$\begin{align*}
 \end{align*}$$
 The Discrete Fourier Transform employs the idea of approximating a nice, continuous version of $f(t)$ from the information that we have, by assuming that for some $c_0,c_1,\dots,c_{n-1}\in\mathbb{C}$,
 $$f(t_i)=\sum_{k=0}^{n-1}c_ke^{t_i\frac{2\pi ki}{n}}\text{,}$$
-and Let $\omega=e^{\frac{2\pi i}{n}}$. 
+and removing the index after solving for $c_k$; this suggests that we will need to set up a linear system. Let $\omega=e^{\frac{2\pi i}{n}}$. Then our li
