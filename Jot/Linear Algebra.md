@@ -234,5 +234,5 @@ Both of those computations, however, require $n^2$ multiplications, which can be
 
 ## The Fast Fourier Transform
 
-If the size of a Fourier matrix is a power of $2$, then we can define a simple iterative process by which such a matrix can be decomposed until we have reached a decomposition in terms of $F_2$. Let It is the case that
-$$F_{2n}=\begin{bmatrix}I_n&D_n\\I\end{bmatrix}$$
+If the size of a Fourier matrix is a power of $2$, then we can define a simple iterative process by which such a matrix can be decomposed until we have reached a decomposition in terms of $F_2$. It is the case that
+$$F_{2n}=\begin{bmatrix}I_n&D_n\\I_n&D_n\end{bmatrix}$$
