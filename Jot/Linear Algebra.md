@@ -1,5 +1,4 @@
 
-
 ## The Conjugate Transpose
 
 Let $\mathbb{C}$ denote the complex numbers. For natural numbers $m,n\in\mathbb{N}$, we can discuss *complex matrices* as being elements of the cartesian product of $\mathbb{C}$ and itself $m\times n$ times–written $\mathbb{C}^{m\times n}$ for short. For a natural number $n\in\mathbb{N}$, we can discuss *complex vectors* as being the cartesian product of $\mathbb{C}$ and itself $n\times 1$ times–written $\mathbb{C}^{n\times 1}$ or $\mathbb{C}^{n}$ for short. 
@@ -239,3 +238,4 @@ where the right hand side matrix is an $n$-elementary matrix with indices starti
 - Rows that have a non-zero entry in an even index are in the top half of the matrix,
 - Rows that have a non-zero entry in an odd index are in the bottom half of the matrix.
 
+For a ma
