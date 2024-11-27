@@ -162,3 +162,4 @@ Said another way, $U$ is unitary if and only if it is inverted by its Hermitian 
 
 Suppose that we have an instrument that measures some kind of time-periodic phenomena. The instrument takes $n$ measurements at evenly-spaced time steps, say $t_0$, then $t_1$, up to the last step of a period at $t_{n-1}$. At each of these time steps, the instrument reads $f(t_0)$, then $f(t_1)$, up to the last step of the period at $f(t_{n-1})$.
 
+Reframe 
