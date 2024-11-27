@@ -171,5 +171,5 @@ $$\begin{align*}
 &=\bigg\{e^{\frac{2\pi(0)}{n}},e^{\frac{2\pi(1)}{n}},\dots,e^{\frac{2\pi(n-1)}{n}}\bigg\}
 
 \end{align*}$$
-The Discrete Fourier Transform employs the idea of approximating a nice, continuous version of $f(t)$ from the information that we have, by assuming that
+The Discrete Fourier Transform employs the idea of approximating a nice, continuous version of $f(t)$ from the information that we have, by assuming that for some $c_0,c_1,\dots,c_{n-1}
 $$f(t_i)=\sum_{k=0}^{n-1}c_ke^{t_i\frac{2\pi ki}{n}}\text{.}$$
