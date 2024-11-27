@@ -234,4 +234,4 @@ Both of those computations, however, require $n^2$ multiplications, which can be
 
 ## The Fast Fourier Transform
 
-We can defi
+If the size of a Fourier matri is a power of $2$
