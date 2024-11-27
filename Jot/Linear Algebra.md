@@ -238,4 +238,5 @@ where the right hand side matrix is an $n$-elementary matrix with indices starti
 - Rows that have a non-zero entry in an even index are in the top half of the matrix,
 - Rows that have a non-zero entry in an odd index are in the bottom half of the matrix.
 
-For a ma
+
+For a Fourier matrix of size $n=2^k$, simply transforming by previous methods would take $n^2$
