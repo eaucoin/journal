@@ -219,7 +219,9 @@ But $n$ steps past the first step in our circle leads us to the beginning, at $1
 By **Lemma 3**, we now have that $F_nF_n^H=nI_n$. Then 
 $$\begin{align*}
 
-\bigg(\frac{1}{\sqrt{n}}F_n\bigg)\bigg(\frac{1}{\sqrt{n}}F_N\bigg)^H&=\frac{1}{n}F_nF^H_n\\
-&=
+\bigg(\frac{1}{\sqrt{n}}F_n\bigg)\bigg(\frac{1}{\sqrt{n}}F_N\bigg)^H&=\frac{1}{n}F_nF^H_n\\\\
+&=\frac{1}{n}\cdot n\cdot I_n\\\\
+&=I_n\text{,}
 
 \end{align*}$$
+and
