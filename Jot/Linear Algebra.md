@@ -181,7 +181,7 @@ The Discrete Fourier Transform employs the idea of approximating a nice, continu
 $$f(t_i)=\sum_{k=0}^{n-1}c_ke^{t_i\frac{2\pi ki}{n}}\text{,}$$
 and removing the index after solving for $c_k$; this suggests that we will need to set up a linear system. Let $\omega=e^{\frac{2\pi i}{n}}$. Then our linear system presents as
 $$(\omega^{jk})_{n\times n}(c_j)_{n\times 1}=(f(t_j))_{n\times 1}\text{,}$$
-where we may call $(\omega^{(j-1)(k-1)})_{n\times n}$ the *Fourier Matrix*, also written $F_n$, and with all indices starting at $0$.
+where we may call $(\omega^{(j-1)(k-1)})_{n\times n}$ the *Fourier Matrix*, also written $F_n$, and with all indices starting at $0$. Immediately, we can observe that $F_n$ is symmetric.
 
 ### Lemma 4.
 
@@ -228,3 +228,4 @@ and our fact is proven.
 
 ---------
 
+We've the
