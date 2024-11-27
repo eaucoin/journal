@@ -160,4 +160,4 @@ Said another way, $U$ is unitary if and only if it is inverted by its Hermitian 
 
 ## The Discrete Fourier Transform
 
-Suppose th
+Suppose that we have an instrument that measures some kind of time-periodic phenomena. 
