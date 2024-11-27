@@ -228,4 +228,8 @@ and our fact is proven.
 
 ---------
 
-We've therefore found a method for solving a linear system of complex exponentials with $n$ steps per period, spread over the roots of unity, which allow us to approximate $f(t)$. To compute either $(c_j)_{n\times 1}$ or $(f(t_j))_{n\times 1}$, we simply compute $F_n^H(f(t_j))_{n\times 1}$ or $F_n(c_j)_{n\times 1}$, respectively
+We've therefore found a method for solving a linear system of complex exponentials with $n$ steps per period, spread over the roots of unity, which allow us to approximate $f(t)$. To compute either $(c_j)_{n\times 1}$ or $(f(t_j))_{n\times 1}$, we simply compute $F_n^H(f(t_j))_{n\times 1}$ or $F_n(c_j)_{n\times 1}$, respectively. 
+
+Both of those computations, however, require $n^2$ multiplications, which can be improved upon.
+
+## 
