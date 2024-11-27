@@ -224,4 +224,7 @@ $$\begin{align*}
 &=I_n\text{,}
 
 \end{align*}$$
-and
+and our fact is proven.
+
+---------
+
