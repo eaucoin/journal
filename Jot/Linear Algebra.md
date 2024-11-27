@@ -150,4 +150,5 @@ A&v=\lambda v\;\wedge\;Aw=\mu w\;\\
 
 ## Unitary Matrices
 
-For $n\in\mathbb{N}$, there exists an equivalent set of concepts for a matrix $A\in\mathbb{C}^{n\times n}$ related to the orthogonality of its rows and columns 
+For $n\in\mathbb{N}$, there exists an equivalent set of statements for a matrix $A\in\mathbb{C}^{n\times n}$ related to the orthogonality of its rows and columns:
+- $(\foral)()$
