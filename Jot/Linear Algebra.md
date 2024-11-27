@@ -140,7 +140,7 @@ $$\begin{align*}
 2. Suppose that $\lambda$ and $\mu$ are distinct eigenvalues of $A$ whose eigenvectors are $v$ and $w$, respectively. Using **Proposition 4**, we can show that
 $$\begin{align*}
 
-A&v=\lambda v\;\wedge\;Aw=\mu \mu w\;\\
+A&v=\lambda v\;\wedge\;Aw=\mu w\;\\
 \wedge\;\langle A&v,\;w\rangle=\langle v,\;Aw\rangle\\
 \iff\langle \lambda &v,\;w\rangle=\langle v,\;\mu w\rangle\\
 \iff\lambda\langle &v,\;w\rangle=\mu \langle v,\;w\rangle\\
@@ -148,4 +148,5 @@ A&v=\lambda v\;\wedge\;Aw=\mu \mu w\;\\
 
 \end{align*}$$
 
-## Uni
+## Unitary Matrices
+
