@@ -187,7 +187,7 @@ $\frac{1}{\sqrt{n}}F_n$ is unitary.
 
 $$\begin{align*}
 
-&F_n=(\omega^{jk})_{n\times n}\\
-\iff&
+&F_n=(\omega^{jk})_{n\times n}\;\wedge\;F_n^H=(\omega^{-jk})_{n\times n}\\
+\iff&F_n
 
 \end{align*}$$
