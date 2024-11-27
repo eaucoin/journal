@@ -162,4 +162,6 @@ Said another way, $U$ is unitary if and only if it is inverted by its Hermitian 
 
 Suppose that we have an instrument that measures some kind of time-periodic phenomena. The instrument takes $n$ measurements at evenly-spaced time steps, say $t_0$, then $t_1$, up to the last step of a period at $t_{n-1}$. At each of these time steps, the instrument reads $f(t_0)$, then $f(t_1)$, up to the last step of the period at $f(t_{n-1})$.
 
-Reframe these time steps in terms of the period of a trigonometric function: starting at $0$ radians, take evenly-spaced steps, $n-1$ times, toward $2\pi$: we start with $\frac{0}{n}(2\pi)$ radians, then $\frac{1}{n}(2\pi)$ radians, up to the last step of the period at $\frac{}{}$
+Reframe these time steps in terms of the period of a trigonometric function: starting at $0$ radians, take evenly-spaced steps, $n-1$ times, toward $2\pi$: we start with $\frac{0}{n}(2\pi)$ radians, then $\frac{1}{n}(2\pi)$ radians, up to the last step of the period at $\frac{n-1}{n}(2\pi)$ radians. If we took another step, we'd be in a redundant position in the unit circle, one already covered by previous steps. 
+
+The discre
