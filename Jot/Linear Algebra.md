@@ -152,4 +152,4 @@ A&v=\lambda v\;\wedge\;Aw=\mu w\;\\
 
 For $n\in\mathbb{N}$, there exists an equivalent set of statements for a matrix $A\in\mathbb{C}^{n\times n}$ related to the orthogonality of its rows and columns:
 - $(\exists A\in\mathbb{C}^{n\times n})(AA^{-1}=I_n)$
-- $(\forall(i,\;j)\in I^)()$
+- $(\forall(i,\;j)\in I^2_{i\neq j})(\langle \rangle)$
