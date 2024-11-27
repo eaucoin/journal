@@ -228,4 +228,4 @@ and our fact is proven.
 
 ---------
 
-We've therefore found a method for solving a linear system of complex exponentials with $n$ steps per period, spread over the roots of unity, which allow us to approximate $f(t)$. To compute either $(\omega^{jk})_{n\times n}$ or $(f(t_j))_{n\times 1}$, we simply need to multiply by $F$
+We've therefore found a method for solving a linear system of complex exponentials with $n$ steps per period, spread over the roots of unity, which allow us to approximate $f(t)$. To compute either $(\omega^{jk})_{n\times n}$ or $(f(t_j))_{n\times 1}$, we simply compute $F_n^H(f(t_j))_{n\times 1}$ or 
