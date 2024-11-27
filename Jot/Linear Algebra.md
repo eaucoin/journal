@@ -228,4 +228,4 @@ and our fact is proven.
 
 ---------
 
-We've therefore found a method for solving a linear system of complex exponentials by setting our time and 
+We've therefore found a method for solving a linear system of complex exponentials, which allow us to approximate $f(t)$. However, this requir
