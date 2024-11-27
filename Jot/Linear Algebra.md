@@ -94,8 +94,9 @@ $$\begin{align*}\delta(i,\;j)&=\begin{cases}
 
 \end{align*}$$
 
+### Lemma 3.
 
-Kronecker Delta function illustrates precisely the entries of 
+For $n\in\mathbb{N}$, the Kronecker Delta function maps
 
 ## Hermitian Matrices
 
