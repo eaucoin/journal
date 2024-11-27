@@ -96,7 +96,7 @@ $$\begin{align*}\delta(i,\;j)&=\begin{cases}
 
 ### Lemma 3.
 
-For $n\in\mathbb{N}$, the Kronecker Delta function maps
+For $n\in\mathbb{N}$, the Kronecker Delta function maps precisely the indices of the entries of the iden $I_n$ to their values.
 
 ## Hermitian Matrices
 
