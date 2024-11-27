@@ -96,7 +96,7 @@ $$\begin{align*}\delta(i,\;j)&=\begin{cases}
 
 ### Lemma 3.
 
-For $n\in\mathbb{N}$, the Kronecker Delta function maps precisely the indices of the entries of the iden $I_n$ to their values.
+For $n\in\mathbb{N}$, the Kronecker Delta function maps precisely the indices of the entries of the identity matrix, $I_n$, to their values.
 
 ## Hermitian Matrices
 
@@ -215,3 +215,5 @@ $$\begin{align*}
 
 \end{align*}$$
 But $n$ steps past the first step in our circle leads us to the beginning, at $1$. Therefore, $\alpha^n=1$, so $\frac{1-\alpha^n}{(1-\alpha)}=0$, so $\sum_{j=0}^{n-1}\alpha^k=0$, so $\bigg(\sum_{k=0}^{n-1}\omega^{k(j-i)}\bigg)=0$, for $i\neq j$. 
+
+By lem
