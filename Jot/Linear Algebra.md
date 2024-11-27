@@ -210,4 +210,4 @@ $$\begin{align*}
 \iff&\;\frac{1-\alpha^n}{(1-\alpha)}=\sum_{j=0}^{n-1}\alpha^k
 
 \end{align*}$$
-But $n$ steps past the first step in our circle leads us to the beginning, at $1$. Therefore, $\alpha^n=1$, so 
+But $n$ steps past the first step in our circle leads us to the beginning, at $1$. Therefore, $\alpha^n=1$, so $\frac{1-\alpha^n}{(1-\alpha)}=0$, so $\sum_{j=0}^{n-1}\alpha^k=0$, so $\bigg(\sum_{k=0}^{n-1}\omega^{k(j-i)}\bigg)=0$
