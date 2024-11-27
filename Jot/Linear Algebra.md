@@ -240,4 +240,4 @@ where the right hand side matrix is an $n$-elementary matrix with indices starti
 
 With this decomposition established, we can continue from any power of $2$ all the way down to $2$; then, we can compute the product of the three matrices to get our result. 
 
-For a Fourier matrix of size $n=2^k$, simply transforming by previous methods would take $n^2$ mul
+For a Fourier matrix of size $n=2^k$, simply transforming by previous methods would take $n^2$ multiplications. For this method, however, it is reduced to $$
