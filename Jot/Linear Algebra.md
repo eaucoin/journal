@@ -137,9 +137,9 @@ $$\begin{align*}
 \implies&\lambda\in\mathbb{R}\text{.}\\
 
 \end{align*}$$
-2. Suppose that $\lambda$ and $\mu$ are eigenvalues of $A$ whose eigenvectors are $v$ and $w$, respectively. Working as in **(1)**, we can show that
+2. Suppose that $\lambda$ and $\mu$ are eigenvalues of $A$ whose eigenvectors are $v$ and $w$, respectively. 
 $$\begin{align*}
 
-&
+&\langle \rangle
 
 \end{align*}$$
