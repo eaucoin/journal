@@ -160,4 +160,4 @@ Said another way, $U$ is unitary if and only if it is inverted by its Hermitian 
 
 ## The Discrete Fourier Transform
 
-It is oftenti
+It is oftentimes of interest to examine the behavior of a periodic function $f(t)$ on an interval, such as 
