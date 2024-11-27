@@ -193,13 +193,13 @@ We make use of element-wise production of matrices.
 $$\begin{align*}
 
 &F_n=(\omega^{jk})_{n\times n}\;\wedge\;F_n^H=(\omega^{-jk})_{n\times n}\\\\
-\implies&(F_nF_n^H=F_n^HF_n=\bigg(\sum_{k=0}^{n-1}\omega^{jk}\omega^{-ik}\bigg)\\\\
+\implies&F_nF_n^H=F_n^HF_n=\bigg(\sum_{k=0}^{n-1}\omega^{jk}\omega^{-ik}\bigg)\\\\
 &=\bigg(\sum_{k=0}^{n-1}\omega^{k(j-i)}\bigg)
 
 \text{,}
 
 \end{align*}$$
-where the $i$ index accounts for the sequential columns of $F^H$. If $i=j$, then $j-i=0$, and that entry in the matrix is $\omega^0=1$. 
+where the $i$ index accounts for the sequential columns of $F^H$. If $i=j$, then $j-i=0$, and that entry in the matrix is $\omega^0=1$
 
 If $i\neq j$, then $\alpha=\omega^{k(j-i)}$ is in the set of $n$th roots of unity; taking into account the cyclic nature, we could replace the sum with a static $\alpha$, giving
 $$\sum_{j=0}^{n-1}\alpha^k\text{.}$$
