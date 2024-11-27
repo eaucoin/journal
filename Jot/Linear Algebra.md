@@ -53,7 +53,7 @@ $$\begin{align*}
 
 \langle \lambda a+\mu b,\;c\rangle&=(\lambda a+\mu b)^Hc\\
 &=\overline{\lambda}a^Hc+\overline{\mu}b^Hc\\
-&=\overline{\lambda}\langle a,\;b\rangle+\overline{\lambda}\langle a,\;b\rangle\text{.}
+&=\overline{\lambda}\langle a,\;c\rangle+\overline{\mu}\langle a,\;c\rangle\text{.}
 
 \end{align*}$$
 Testing, for positive-definiteness,
@@ -140,11 +140,6 @@ $$\begin{align*}
 2. Suppose that $\lambda$ and $\mu$ are eigenvalues of $A$ whose eigenvectors are $v$ and $w$, respectively. Working as in **(1)**, we can show that
 $$\begin{align*}
 
-&Av=\lambda v\;\wedge\;Aw=\lambda w\\
-\wedge\;&\langle Av,\;\lambda v\rangle=\langle v,\;A(\lambda v)\rangle\\
-\wedge\;&\langle Aw,\;\mu w\rangle=\langle w,\;A(\mu w)\rangle\\\\
-
-\iff&Av=\lambda v\;\wedge\;Aw=\lambda w\\
-\wedge\;&\lambda^2
+&
 
 \end{align*}$$
