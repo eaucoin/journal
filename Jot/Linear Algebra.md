@@ -144,6 +144,6 @@ A&v=\lambda v\;\wedge\;Aw=\mu \mu w\;\\
 \wedge\;\langle A&v,\;w\rangle=\langle v,\;Aw\rangle\\
 \iff\langle \lambda &v,\;w\rangle=\langle v,\;\mu w\rangle\\
 \iff\lambda\langle &v,\;w\rangle=\mu \langle v,\;w\rangle\\
-\iff
+\implies\langle&v,\;w\rangle=0\text{.}
 
 \end{align*}$$
