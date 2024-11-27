@@ -216,4 +216,5 @@ $$\begin{align*}
 \end{align*}$$
 But $n$ steps past the first step in our circle leads us to the beginning, at $1$. Therefore, $\alpha^n=1$, so $\frac{1-\alpha^n}{(1-\alpha)}=0$, so $\sum_{j=0}^{n-1}\alpha^k=0$, so $\bigg(\sum_{k=0}^{n-1}\omega^{k(j-i)}\bigg)=0$, for $i\neq j$. 
 
-By **Lemma 3**, we now have that $F_nF_n^H=nI_n$. 
+By **Lemma 3**, we now have that $F_nF_n^H=nI_n$. Then 
+$$(\frac{1}{\sqrt{n}}F_n)(\frac{1}{\sqrt{n}}F_N)^H=$$
