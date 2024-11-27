@@ -190,9 +190,9 @@ $$\begin{align*}
 
 &F_n=(\omega^{jk})_{n\times n}\;\wedge\;F_n^H=(\omega^{-jk})_{n\times n}\\\\
 \iff&F_nF_n^H=F_n^HF_n=\bigg(\sum_{k=0}^{n-1}\omega^{jk}\omega^{-ik}\bigg)\\\\
-
+&=\bigg(\sum_{k=0}^{n-1}\omega^{k(j-i)}\bigg)
 
 \text{,}
 
 \end{align*}$$
-where the $i$ index accounts for sequential columns.
+where the $i$ index accounts for the sequential columns 
