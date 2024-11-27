@@ -228,4 +228,4 @@ and our fact is proven.
 
 ---------
 
-We've therefore found a method for solving a linear system of complex exponentials with , which allow us to approximate $f(t)$. However
+We've therefore found a method for solving a linear system of complex exponentials with $n$ steps per period, spread over the roots of unity, which allow us to approximate $f(t)$. We can si
