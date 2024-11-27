@@ -93,7 +93,7 @@ $$\begin{align*}\delta(i,\;j)&=\begin{cases}
 \\\\&=\delta_{ij}\text{.}
 
 \end{align*}$$
-On a
+Notably, the Kronecker Delta functi
 
 ## Hermitian Matrices
 
