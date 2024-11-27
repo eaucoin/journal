@@ -210,4 +210,4 @@ $$\begin{align*}
 \iff&\;\frac{1-\alpha^n}{(1-\alpha)}=\sum_{j=0}^{n-1}\alpha^k
 
 \end{align*}$$
-But $n$ steps past the first step in our circle leads us to the beginning, 
+But $n$ steps past the first step in our circle leads us to the beginning, at $1$. Therefore, $\alpha^n=1$, so 
