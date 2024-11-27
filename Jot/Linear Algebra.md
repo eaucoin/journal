@@ -205,8 +205,9 @@ $$\begin{align*}
 (1-\alpha)(1+\alpha+\alpha^2+\dots+\alpha^{n-1})=&(1+\alpha+\alpha^2+\dots+\alpha^{n-1})\\
 &-(\alpha+\alpha^2+\dots+\alpha^n)\\\\
 
-=&\;\;\;1-\alpha^n\\\\
+=&\;\;1-\alpha^n\\\\
 
 \iff&\;\frac{1-\alpha^n}{(1-\alpha)}=\sum_{j=0}^{n-1}\alpha^k
 
 \end{align*}$$
+But $n$ steps past the first step in our circle leads us to the beginning, 
