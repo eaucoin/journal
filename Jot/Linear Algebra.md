@@ -234,4 +234,4 @@ Both of those computations, however, require $n^2$ multiplications, which can be
 
 ## The Fast Fourier Transform
 
-If the size of a Fourier matri is a power of $2$
+If the size of a Fourier matrix is a power of $2$, then we can define a simple iterative process by which such a mati
