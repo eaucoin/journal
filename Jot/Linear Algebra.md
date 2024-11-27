@@ -156,3 +156,4 @@ For $n\in\mathbb{N}$, there exists an equivalent set of statements for a matrix 
 
 We can encapsulate this notion through the definition of a unitary matrix: for $n\in\mathbb{N}$, an element in $U\in\mathbb{C}^{n\times n}$ is called *unitary* if and only if 
 $$UU^H=U^HU=I\text{.}$$
+Said another way, $U$ is unitary 
