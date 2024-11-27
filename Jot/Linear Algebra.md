@@ -171,4 +171,5 @@ $$\begin{align*}
 &=\{e^{\frac{2\pi(0)}{n}},e^{\frac{2\pi(1)}{n}},\dots,e^{\frac{2\pi(n-1)}{n}}\}
 
 \end{align*}$$
-The Discrete Fourier Transform employs the idea of approximating a nice, continuous function $s(t)$ from the information that we have by assuming that it can be appr
+The Discrete Fourier Transform employs the idea of approximating a nice, continuous function $s(t)$ from the information that we have by assuming that
+$$f(t_i)=\sum_{k=0}^{n-1}c_n$$
