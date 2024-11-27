@@ -139,6 +139,7 @@ $$\begin{align*}
 
 \end{align*}$$
 2. Suppose that $\lambda$ and $\mu$ are distinct eigenvalues of $A$ whose eigenvectors are $v$ and $w$, respectively. Using **Proposition 4**, we can show that
+
 $$\begin{align*}
 
 A&v=\lambda v\;\wedge\;Aw=\mu w\;\\
