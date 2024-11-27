@@ -179,10 +179,10 @@ and removing the index after solving for $c_k$; this suggests that we will need 
 $$(\omega^{(j-1)(k-1)})_{n\times n}(c_j)_{n\times 1}=(f(t_j))_{n\times 1}\text{,}$$
 where we may call $(\omega^{(j-1)(k-1)})_{n\times n}$ the *Fourier Matrix*, also written $F_n$.
 
-### Lemma 3
+### Lemma 3.
 
 $\frac{1}{\sqrt{n}}F_n$ is unitary.
 
 **Proof.**
 
-$$F_n=(\omega^{(j-1)(k-1)})_{n\times n}$$
+$$\begin{align*}\end{align*}$$
