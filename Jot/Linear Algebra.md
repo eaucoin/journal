@@ -172,4 +172,4 @@ $$\begin{align*}
 
 \end{align*}$$
 The Discrete Fourier Transform employs the idea of approximating a nice, continuous version of $f(t)$ from the information that we have, by assuming that
-$$f(t_i)=\sum_{k=0}^{n-1}c_ke$$
+$$f(t_i)=\sum_{k=0}^{n-1}c_ke^{\frac{2\pi ki}{n}}$$
