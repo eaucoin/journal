@@ -140,6 +140,6 @@ $$\begin{align*}
 2. Suppose that $\lambda$ and $\mu$ are eigenvalues of $A$ whose eigenvectors are $v$ and $w$, respectively. Using **Proposition 4**, we can show that
 $$\begin{align*}
 
-&Av\langle Av,\;w\rangle=\langle v,\;Aw\rangle
+Av=\lambda v\;\wedge\;Aw=\mu \mu w\;\wedge\;\langle Av,\;w\rangle=\langle v,\;Aw\rangle
 
 \end{align*}$$
