@@ -202,7 +202,9 @@ $$\sum_{j=0}^{n-1}\alpha^k\text{.}$$
 This is a finite geometric series. On this subject, we can note that 
 $$\begin{align*}
 
-(1-\alpha)(1+\alpha+\alpha^2+\dots+\alpha^{n-1})=(1+\alpha+\alpha^2+\dots+\alpha^{n-1})\\
--()
+(1-\alpha)(1+\alpha+\alpha^2+\dots+\alpha^{n-1})=&(1+\alpha+\alpha^2+\dots+\alpha^{n-1})\\
+&-(\alpha+\alpha^2+\dots+\alpha^n)\\\\
+
+=&1-
 
 \end{align*}$$
