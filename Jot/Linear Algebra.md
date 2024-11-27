@@ -197,5 +197,4 @@ $$\begin{align*}
 \end{align*}$$
 where the $i$ index accounts for the sequential columns of $F^H$. If $i=j$, then $j-i=0$, and that entry in the matrix is $\omega^0=1$. 
 
-If $i\neq j$, then $\al\omega^{k(j-i)}$ is in the set of $n$th roots of unity; taking into account the cyclic nature, we would then have that 
-$$\sum_{j=0}^{}$$
+If $i\neq j$, then $\alpha=\omega^{k(j-i)}$ is in the set of $n$th roots of unity
