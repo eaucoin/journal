@@ -1,7 +1,4 @@
-<div style="text-align: center;">
-  <h1 style="margin: 0; font-weight: bold;">The Fast Fourier Transform:</h1>
-  <h2 style="margin: 0;">A Matrix-Oriented Perspective</h2>
-</div>
+
 
 ## The Conjugate Transpose
 
@@ -228,7 +225,7 @@ and our fact is proven.
 
 ---------
 
-We've therefore found a method for solving a linear system of complex exponentials with $n$ steps per period, spread over the roots of unity, which allow us to approximate $f(t)$. To compute either $(c_j)_{n\times 1}$ or $(f(t_j))_{n\times 1}$, we simply compute $F_n^H(f(t_j))_{n\times 1}$ or $F_n(c_j)_{n\times 1}$, respectively. 
+We've therefore found a method for solving a linear system of complex exponentials with $n$ steps per period, spread over the $n$ roots of unity, which allow us to approximate $f(t)$. To compute either $(c_j)_{n\times 1}$ or $(f(t_j))_{n\times 1}$, we simply compute $F_n^H(f(t_j))_{n\times 1}$ or $F_n(c_j)_{n\times 1}$, respectively. 
 
 Both of those computations, however, require $n^2$ multiplications, which can be improved upon.
 
@@ -241,3 +238,4 @@ $$F_{2n}=\begin{bmatrix}I_n&D_n\\I_n&-D_n\end{bmatrix}\begin{bmatrix}F_n&0\\0&F_
 where the right hand side matrix is an $n$-elementary matrix with indices starting at $1$, whose:
 - Rows that have a non-zero entry in an even index are in the top half of the matrix,
 - Rows that have a non-zero entry in an odd index are in the bottom half of the matrix.
+
