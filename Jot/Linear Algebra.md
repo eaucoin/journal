@@ -205,6 +205,8 @@ $$\begin{align*}
 (1-\alpha)(1+\alpha+\alpha^2+\dots+\alpha^{n-1})=&(1+\alpha+\alpha^2+\dots+\alpha^{n-1})\\
 &-(\alpha+\alpha^2+\dots+\alpha^n)\\\\
 
-=&1-
+=&\;1-\alpha^n\\\\
+
+\iff&\;=$$\sum_{j=0}^{n-1}\alpha^k\text{.}$$
 
 \end{align*}$$
