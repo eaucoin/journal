@@ -167,9 +167,8 @@ Reframe these time steps in terms of the period of a trigonometric function: sta
 This is the idea of a root of unity: when multiplied by the imaginary unit $i$ and then exponentiated, these positions on the unit circle are the set of the $n$th *roots of unity*, written
 $$\begin{align*}
 
-\{z\in\mathbb{C}\;|\;z^n=1\}&=\{e^{\frac{2\pi k}{n}}\in\mathbb{C}\;|\;k<n\}\\
-&=\{e^{\frac{2\pi k}{n}},e^{\frac{2\pi()}{n}},\dots,e^{\frac{2\pi k}{n}}\}
+\{z\in\mathbb{C}\;|\;z^n=1\}&=\{e^{\frac{2\pi k}{n}}\in\mathbb{C}\;|\;k<n\}\\\\
+&=\{e^{\frac{2\pi(0)}{n}},e^{\frac{2\pi(1)}{n}},\dots,e^{\frac{2\pi(n-1)}{n}}\}
 
 \end{align*}$$
-
-The discrete fourier transform.
+The Discrete Fourier Transform.
