@@ -127,6 +127,7 @@ Let $A$ be a Hermitian matrix. Then:
 **Proof.**
 
 1. Suppose that $A$ has an eigenvalue $\lambda$ whose eigenvector is $v$. Then $Av=\lambda v$. Working through this and using **Proposition 4** under the tools of **Lemma 1**, we have that
+
 $$\begin{align*}
 
 &Av=\lambda v\;\wedge\;\langle Av,\;\lambda v\rangle=\langle v,\;A(\lambda v)\rangle\\
@@ -183,4 +184,4 @@ $\frac{1}{\sqrt{n}}F_n$ is unitary.
 
 **Proof.**
 
-$$F_n(\omega^{(j-1)(k-1)})_{n\times n}$$
+$$F_n=(\omega^{(j-1)(k-1)})_{n\times n}$$
