@@ -238,5 +238,6 @@ where the right hand side matrix is an $n$-elementary matrix with indices starti
 - Rows that have a non-zero entry in an even index are in the top half of the matrix,
 - Rows that have a non-zero entry in an odd index are in the bottom half of the matrix.
 
+With this decomposition established, we can continue from any power of $2$ all the way down to $2$; then, we can compute the product of the three matrices to get our result. 
 
 For a Fourier matrix of size $n=2^k$, simply transforming by previous methods would take $n^2$
