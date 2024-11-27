@@ -199,3 +199,5 @@ where the $i$ index accounts for the sequential columns of $F^H$. If $i=j$, then
 
 If $i\neq j$, then $\alpha=\omega^{k(j-i)}$ is in the set of $n$th roots of unity; taking into account the cyclic nature, we could replace the sum with a static $\alpha$, giving
 $$\sum_{j=0}^{n-1}\alpha^k\text{.}$$
+This is a finite geometric series. On this subject, we can note that 
+$$(1-\alpha)$$
