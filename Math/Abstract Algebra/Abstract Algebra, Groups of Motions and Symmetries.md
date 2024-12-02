@@ -1,4 +1,4 @@
 
 ## Theorem 1.
 
-A polygon with $n$ vertices 
+A polygon with $n$ vertices is a su
