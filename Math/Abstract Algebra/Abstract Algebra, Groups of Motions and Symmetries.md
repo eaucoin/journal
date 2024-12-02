@@ -26,4 +26,7 @@ The *set of symmetries* of a figure with $n$ vertices is a subgroup of $S_n$.
 
 ## Definition.
 
-A *regular* $n$-*gon* is an $n$-gon that 
+A *regular* $n$-*gon* is an $n$-gon that is equiangular and equilateral.
+
+### Example 1. 
+
