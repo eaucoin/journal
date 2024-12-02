@@ -22,5 +22,6 @@ $$(\forall(x,\;y)\in X^2_n)(d(\sigma x,\;\sigma y)=d(x,\;y))\text{.}$$
 
 ## Theorem 2.
 
-The set of symmetries of a figure with $n$ vertices is a subgroup of $S_n$.
+The *set of symmetries* of a figure with $n$ vertices is a subgroup of $S_n$.
 
+## Definitio
