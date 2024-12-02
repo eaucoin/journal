@@ -11,5 +11,6 @@ A polygon with $n$ vertices is a subgroup of $S_n$.
 ## Definition.
 
 Let:
-- $X_{n}=\{1,2,\dots n\}$ be an index set 
-- . Then, let $d(x,\;y)$ be the distance between any two vertices with pair labels in $X_n^2$. Let $\sigma$ be a motion actin
+- $X_{n}=\{1,2,\dots n\}$ be an index set that is the label of the vertices of a figure. 
+- $d(x,\;y)$ be the distance between any two vertices with pair labels in 
+- $X_n^2$ $\sigma$ be a motion actin
