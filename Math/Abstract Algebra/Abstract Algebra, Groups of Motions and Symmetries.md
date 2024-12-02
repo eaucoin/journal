@@ -10,4 +10,4 @@ A polygon with $n$ vertices is a subgroup of $S_n$.
 
 ## Definition.
 
-Let $\Chi_n=\{1,2,\dots n\}$. 
+Let $X_{n}=\{1,2,\dots n\}$.  
