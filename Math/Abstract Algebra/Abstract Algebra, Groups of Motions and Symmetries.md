@@ -13,7 +13,9 @@ A polygon with $n$ vertices is a subgroup of $S_n$.
 Let:
 - $X_{n}=\{1,2,\dots n\}$ be an index set that is the label of the vertices of a figure,
 - $d(x,\;y)$ be the distance between any two vertices with pair labels in $X_n^2$,
-- $\sigma$ be a motion acting on the figure.
+- $\sigma$ be a motion acting on the figure,
+-
 
 Then $\sigma$ is a **permutation** of the figure iff
-$$(\forall(x,\;y)\in X^2_n)(d())$$
+$$(\forall(x,\;y)\in X^2_n)(d(\sigma x,\;\sigma y)=d(x,\;y))\text{.}$$
+
