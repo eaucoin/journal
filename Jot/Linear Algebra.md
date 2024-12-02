@@ -1,6 +1,6 @@
 <div style="text-align: center;">
-  <h1 style="margin: 0;">The Fast Fourier Transform:</h1>
-  <h2 style="margin: 0;">A Matrix-Oriented Perspective</h2>
+  <h1 style="margin: 0;">Complex Matrices and the Discrete Fourier Transform</h1>
+  <h5 style="margin: 0;">Emile Aucoin</h2>
 </div>
 
 ## The Conjugate Transpose
