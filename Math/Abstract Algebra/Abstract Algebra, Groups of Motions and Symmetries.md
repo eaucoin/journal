@@ -8,4 +8,6 @@
 
 A polygon with $n$ vertices is a subgroup of $S_n$. 
 
-## Definition
+## Definition.
+
+Let $\Chi_n=\{1,2,\dots n\}$. 
