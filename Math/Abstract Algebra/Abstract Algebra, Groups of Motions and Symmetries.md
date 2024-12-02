@@ -10,4 +10,4 @@ A polygon with $n$ vertices is a subgroup of $S_n$.
 
 ## Definition.
 
-Let $X_{n}=\{1,2,\dots n\}$ and $d(x,\;y)$
+Let $X_{n}=\{1,2,\dots n\}$, and suppose that there exists a figure whose vertices are la$d(x,\;y)$
