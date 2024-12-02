@@ -6,7 +6,7 @@
 
 ## Theorem 1.
 
-A polygon with $n$ vertices is a subgroup of $S_n$. 
+The *set of motions* of a figure with $n$ vertices is a subgroup of $S_n$. 
 
 ## Definition.
 
@@ -22,4 +22,5 @@ $$(\forall(x,\;y)\in X^2_n)(d(\sigma x,\;\sigma y)=d(x,\;y))\text{.}$$
 
 ## Theorem 2.
 
-The symmetries of a figure with $n$ vertices is a sub
+The set of symmetries of a figure with $n$ vertices is a subgroup of $S_n$.
+
