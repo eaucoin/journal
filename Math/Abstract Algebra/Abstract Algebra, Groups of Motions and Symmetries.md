@@ -1,5 +1,7 @@
 
-## Defi
+## Definition.
+
+- **Figure**: a finite set 
 
 ## Theorem 1.
 
