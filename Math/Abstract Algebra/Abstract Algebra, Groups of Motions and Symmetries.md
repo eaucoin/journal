@@ -24,4 +24,6 @@ $$(\forall(x,\;y)\in X^2_n)(d(\sigma x,\;\sigma y)=d(x,\;y))\text{.}$$
 
 The *set of symmetries* of a figure with $n$ vertices is a subgroup of $S_n$.
 
-## Definitio
+## Definition.
+
+A *regular* $n$-*gon* is an $n$-gon
