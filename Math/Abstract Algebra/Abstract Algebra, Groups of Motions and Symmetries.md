@@ -15,4 +15,5 @@ Let:
 - $d(x,\;y)$ be the distance between any two vertices with pair labels in $X_n^2$,
 - $\sigma$ be a motion acting on the figure.
 
-Then $\sigma$ is a 
+Then $\sigma$ is a **permutation** of the figure iff
+$$(\forall(x,\;y)\in X^2_n)(d())$$
