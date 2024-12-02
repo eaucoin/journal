@@ -30,3 +30,10 @@ A *regular* $n$-*gon* is an $n$-gon that is equiangular and equilateral.
 
 ### Example 1. 
 
+A regular $3$-gon is an equilateral triangle.
+
+### Example 2.
+
+A regular $4$-gon is a square.
+
+## Theorem 
