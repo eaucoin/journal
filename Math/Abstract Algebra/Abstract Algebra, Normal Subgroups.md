@@ -78,4 +78,8 @@ $$\begin{align*}
 
 ## Definition.
 
-Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of $(G,\;\star)$. Then the *product* of 
+Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of $(G,\;\star)$. Then the *product* of $H$ and $K$, written $HK$, is
+$$HK=\{hk\;|\;(h,\;k)\in H\times K\}\text{.}$$
+
+## Lemma 2.
+
