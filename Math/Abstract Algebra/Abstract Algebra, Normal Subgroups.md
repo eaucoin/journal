@@ -29,15 +29,15 @@ $$\begin{align*}
 $$\begin{align*}
 
 &H\triangleleft G\\\\
-\iff &(\forall g\in G)(gHg^{-1}\subseteq H)\\\\
-\iff &(\forall g\in G)(gHg^{-1}=H)\text{.}
+\iff &(\forall g\in G)(g\star H\star g^{-1}\subseteq H)\\\\
+\iff &(\forall g\in G)(g\star H\star g^{-1}=H)\text{.}
 
 \end{align*}$$
 
 ## Corollary 1.
 
 If $G=\langle X \rangle$,
-$$(H,\;\star)<(G,\;\star)\;\wedge\;H\triangleleft G\iff(\forall x\in X)(xHx^{-1}\subseteq H)\text{.}$$
+$$(H,\;\star)<(G,\;\star)\;\wedge\;H\triangleleft G\iff(\forall x\in X)(x\star H\star x^{-1}\subseteq H)\text{.}$$
 
 ## Corollary 2.
 
@@ -72,7 +72,7 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-&H\triangleleft G\;\wedge\; K\triangleleft G\;\wedge\;H\cap K=\{1\}\\\\\implies &(\forall(h,\;k)\in H\times K)(hk=kh)
+&H\triangleleft G\;\wedge\; K\triangleleft G\;\wedge\;H\cap K=\{1\}\\\\\implies &(\forall(h,\;k)\in H\times K)(h\star k=k\star h)
 
 \end{align*}$$
 
@@ -88,3 +88,4 @@ Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of 
 - $(KH,\;\star)<(G,\;\star)$
 - $HK=KH$.
 
+## Theorem 
