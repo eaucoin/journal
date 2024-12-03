@@ -10,4 +10,5 @@ H\text{ is a normal subgroup of }G\iff&(\forall g\in H)(aH=Ha)\\\\
 
 ## Theorem 1.
 
-For all gr
+For all groups $(G,\;\star)$, 
+$$(H,\;\star)<(Z(G),\;\star)\implies $$
