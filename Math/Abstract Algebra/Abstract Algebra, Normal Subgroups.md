@@ -15,4 +15,10 @@ $$(H,\;\star)<(Z(G),\;\star)\implies H\triangleleft G\text{.}$$
 
 ## Theorem 2.
 
-$$
+$$\begin{align*}
+
+(G,\;\star)\text{ is abelian}\;\wedge\;(H,\;\star)<(G,\;\star)\\\\
+
+\implies
+
+\end{align*}$$
