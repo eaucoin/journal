@@ -72,6 +72,10 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-&H\triangleleft G\;\wedge\; K\triangleleft G\;\wedge\;H\cap K=\{1\}\\\\\implies (\forall(h,\;k)\in H\times K)(hk=kh)
+&H\triangleleft G\;\wedge\; K\triangleleft G\;\wedge\;H\cap K=\{1\}\\\\\implies &(\forall(h,\;k)\in H\times K)(hk=kh)
 
 \end{align*}$$
+
+## Definition.
+
+The *product*
