@@ -85,4 +85,5 @@ $$HK=\{hk\;|\;(h,\;k)\in H\times K\}\text{.}$$
 
 Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of $(G,\;\star)$. Then, the following statements are equivalent:
 - $(HK,\;\star)<(G,\;\star)$,
-- $$
+- $(KH,\;\star)<(G,\;\star)$
+- $HK=KH$.
