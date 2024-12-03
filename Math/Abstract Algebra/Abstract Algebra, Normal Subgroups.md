@@ -70,4 +70,4 @@ $$\begin{align*}
 
 ## Lemma 1.
 
-$$$$
+$$H\triangleleft G\;\wedge\; K\triangleleft G\;\wedge\;H\cap K=\{1\}\\\\\implies (\forall(h,\;k))()$$
