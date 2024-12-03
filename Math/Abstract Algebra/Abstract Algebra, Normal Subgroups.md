@@ -3,6 +3,7 @@
 
 $$\begin{align*}
 
-H\text{ is a normal subgroup of }(G,\;\star)\iff&(\forall g\in H)(aH=)
+H\text{ is a normal subgroup of }G\iff&(\forall g\in H)(aH=Ha)\\
+\iff&H\t
 
 \end{align*}$$
