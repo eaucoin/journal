@@ -24,4 +24,11 @@ $$\begin{align*}
 \end{align*}$$
 
 ## Theorem 3. 
-*The Normality Test.*
+*Normality Test.*
+
+$$\begin{align*}
+
+&H\triangleleft G\\
+\iff &(\forall )()
+
+\end{align*}$$
