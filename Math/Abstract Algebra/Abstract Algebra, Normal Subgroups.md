@@ -17,8 +17,11 @@ $$(H,\;\star)<(Z(G),\;\star)\implies H\triangleleft G\text{.}$$
 
 $$\begin{align*}
 
-(G,\;\star)\text{ is abelian}\;\wedge\;(H,\;\star)<(G,\;\star)\\\\
+(G,\;\star)\text{ is abelian}\;\wedge\;&(H,\;\star)<(G,\;\star)\\\\
 
-\implies
+\implies&H\triangleleft G\text{.}
 
 \end{align*}$$
+
+## Theorem 3. 
+*The *
