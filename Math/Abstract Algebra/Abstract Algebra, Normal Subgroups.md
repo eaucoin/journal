@@ -51,5 +51,11 @@ $$\alpha(H)=H\text{.}$$
 We can also write this relationship $\text{CharIn}(H,\;G)$.
 ## Corollary 3.
 
-$K\triangleleft G\;\wedge\;H\subseteq K$K$, then $H\triangleleft G$.
+$$\begin{align*}
+
+K\triangleleft G\;\wedge\;H\subseteq K\;\wedge\;\text{CharIn}(H,\;G)
+
+\implies H\triangleleft G
+
+\end{align*}$$
 
