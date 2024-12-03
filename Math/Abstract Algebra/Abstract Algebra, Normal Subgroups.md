@@ -46,4 +46,5 @@ $$(\exists !H\in \mathcal{P}(G))(H<G\;\wedge\;H\cong G)\implies H\triangleleft G
 
 ## Definition.
 
-Suppose that $(H,\;\star)<(G,\;\star)$. Then $H$ is called a *characteristic subgroup* of $G$ iff for all automorphisms $\alp$
+Suppose that $(H,\;\star)<(G,\;\star)$. Then $H$ is called a *characteristic subgroup* of $G$ iff for all automorphisms $\alpha:G\rightarrow G$,
+$$\alpha(H)=H$$
