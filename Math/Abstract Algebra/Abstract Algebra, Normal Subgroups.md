@@ -53,7 +53,7 @@ We can also write this relationship $\text{CharIn}(H,\;G)$.
 
 $$\begin{align*}
 
-&K\triangleleft G\;\wedge\;H\subseteq K\;\wedge\;\text{CharIn}(H,\;G)\\\\
+&K\triangleleft G\;\wedge\;H\subseteq K\;\wedge\;\text{CharIn}(H,\;K)\\\\
 
 \implies& H\triangleleft G\text{.}
 
@@ -63,6 +63,10 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-&(H,\;\star)<(G,\;\star)\;\wedge\;|G:H|=2
+&(H,\;\star)<(G,\;\star)\;\wedge\;|G:H|=2\\\\
+\implies &H\triangleleft G\text{.}
 
 \end{align*}$$
+
+## Lemma 1.
+
