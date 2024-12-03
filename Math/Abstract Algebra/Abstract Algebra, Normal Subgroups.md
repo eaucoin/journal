@@ -42,4 +42,7 @@ $$(H,\;\star)<(G,\;\star)\;\wedge\;H\triangleleft G\iff(\forall x\in X)(xHx^{-1}
 ## Corollary 2.
 
 Let $G$ be a group. Then
-$$(\exists !H\in \mathcal{P}(G))(H<G\;\wedge\;H\cong G)\implies H\t$$
+$$(\exists !H\in \mathcal{P}(G))(H<G\;\wedge\;H\cong G)\implies H\triangleleft G\text{.}$$
+
+## Definition.
+

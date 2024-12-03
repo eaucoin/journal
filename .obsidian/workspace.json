@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
+                "file": "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra, Cyclic Groups and the Order of an Element"
+              "title": "Abstract Algebra, Normal Subgroups"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
+                "file": "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra, Normal Subgroups"
+              "title": "Abstract Algebra, Homomorphisms and Isomorphisms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,16 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ea8b059e03d9b59",
+  "active": "984620334a1a4cb8",
   "lastOpenFiles": [
+    "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
+    "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
+    "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Introduction to Groups.md",
     "Try.md",
     "W. Keith Nicholson - Introduction to Abstract Algebra-Wiley (2012).pdf",
-    "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Groups of Motions and Symmetries.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
-    "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
     "Jot/Linear Algebra.md",
     "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
     "Languages/Ancient Greek/Interphrasal Translations/Thucydides, History of the Peloponnesian War, Book 1.md",
@@ -201,7 +201,6 @@
     "Languages",
     "obsidian_sync.log",
     "ReadMe.md",
-    "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
     "Jot",
     "Math/Elementary Number Theory",
     "Math/Abstract Algebra",
