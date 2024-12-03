@@ -10,8 +10,9 @@ H\text{ is a normal subgroup of }G\iff&(\forall g\in H)(aH=Ha)\\\\
 
 ## Theorem 1.
 
-For all groups $(G,\;\star)$
+For all groups $(G,\;\star)$,
 $$(H,\;\star)<(Z(G),\;\star)\implies H\triangleleft G\text{.}$$
 
 ## Theorem 2.
 
+$$
