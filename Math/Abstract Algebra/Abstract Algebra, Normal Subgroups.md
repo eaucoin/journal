@@ -30,6 +30,9 @@ $$\begin{align*}
 
 &H\triangleleft G\\\\
 \iff &(\forall g\in G)(gHg^{-1}\subseteq H)\\\\
-\iff &(\forall g\in G)(gHg^{-1}=H)
+\iff &(\forall g\in G)(gHg^{-1}=H)\text{.}
 
-\end{align*}\text{.}$$
+\end{align*}$$
+
+## Corollary 1.
+
