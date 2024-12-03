@@ -27,36 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, Introduction to Groups.md",
+                "file": "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra, Introduction to Groups"
+              "title": "Abstract Algebra, Normal Subgroups"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "c6a64946a27abf4b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "021d041f1919facd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Try.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Try"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -198,11 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "021d041f1919facd",
+  "active": "6ea8b059e03d9b59",
   "lastOpenFiles": [
-    "W. Keith Nicholson - Introduction to Abstract Algebra-Wiley (2012).pdf",
-    "Try.md",
+    "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Introduction to Groups.md",
+    "Try.md",
+    "W. Keith Nicholson - Introduction to Abstract Algebra-Wiley (2012).pdf",
     "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Groups of Motions and Symmetries.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
@@ -218,7 +199,6 @@
     "Languages/Ancient Greek/Untitled.md",
     "Languages/Ancient Greek",
     "Languages",
-    "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
     "obsidian_sync.log",
     "ReadMe.md",
     "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
