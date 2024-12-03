@@ -28,7 +28,8 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-&H\triangleleft G\\
-\iff &(\forall )()
+&H\triangleleft G\\\\
+\iff &(\forall g\in G)(gHg^{-1}\subseteq H)\\\\
+\iff &(\forall g\inG)()
 
 \end{align*}$$
