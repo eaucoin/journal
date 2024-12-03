@@ -38,3 +38,5 @@ $$\begin{align*}
 
 If $G=\langle X \rangle$,
 $$(H,\;\star)<(G,\;\star)\;\wedge\;H\triangleleft G\iff(\forall x\in X)(xHx^{-1}\subseteq H)\text{.}$$
+
+##
