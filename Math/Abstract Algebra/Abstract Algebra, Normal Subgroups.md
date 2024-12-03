@@ -46,4 +46,4 @@ $$(\exists !H\in \mathcal{P}(G))(H<G\;\wedge\;H\cong G)\implies H\triangleleft G
 
 ## Definition.
 
-Suppose that 
+Suppose that $(H,\;\star)<(G,\;\star)$
