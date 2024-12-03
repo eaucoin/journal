@@ -61,4 +61,8 @@ $$\begin{align*}
 
 ## Theorem 4.
 
-If 
+$$\begin{align*}
+
+&(H,\;\star)<(G,\;\star)\;\wedge\;|G:H|=2
+
+\end{align*}$$
