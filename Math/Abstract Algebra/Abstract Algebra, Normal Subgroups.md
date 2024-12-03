@@ -36,4 +36,4 @@ $$\begin{align*}
 
 ## Corollary 1.
 
-If
+If $G=\langle X \rangle$,
