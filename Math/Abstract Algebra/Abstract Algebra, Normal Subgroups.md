@@ -78,4 +78,4 @@ $$\begin{align*}
 
 ## Definition.
 
-The *product*
+Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of $(G,\;\star)$. Then the *product* of 
