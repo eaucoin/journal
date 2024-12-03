@@ -38,3 +38,4 @@ A regular $4$-gon is a square.
 
 ## Theorem 3.
 
+The group of motions of a regular $n$-gon is isomorphic to $D_n$.
