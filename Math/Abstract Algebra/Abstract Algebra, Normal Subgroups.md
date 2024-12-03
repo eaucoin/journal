@@ -53,9 +53,10 @@ We can also write this relationship $\text{CharIn}(H,\;G)$.
 
 $$\begin{align*}
 
-K\triangleleft G\;\wedge\;H\subseteq K\;\wedge\;\text{CharIn}(H,\;G)
+&K\triangleleft G\;\wedge\;H\subseteq K\;\wedge\;\text{CharIn}(H,\;G)\\\\
 
-\implies H\triangleleft G
+\implies& H\triangleleft G\text{.}
 
 \end{align*}$$
 
+## Theorem
