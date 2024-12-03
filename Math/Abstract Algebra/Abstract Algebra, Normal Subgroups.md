@@ -24,4 +24,4 @@ $$\begin{align*}
 \end{align*}$$
 
 ## Theorem 3. 
-*The *
+*The Normality Test.*
