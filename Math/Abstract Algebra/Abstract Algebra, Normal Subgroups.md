@@ -88,4 +88,7 @@ Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of 
 - $(KH,\;\star)<(G,\;\star)$
 - $HK=KH$.
 
-## Theorem 
+## Theorem 5.
+
+Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of $(G,\;\star)$.
+- 
