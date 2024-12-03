@@ -37,4 +37,4 @@ $$\begin{align*}
 ## Corollary 1.
 
 If $G=\langle X \rangle$,
-$$(H,\;\star)<(G,\;\star)\;\wedge\;H\triangleleft G\iff()()$$
+$$(H,\;\star)<(G,\;\star)\;\wedge\;H\triangleleft G\iff(\forall x\in X)(xHx^{-1}\subseteq H)\text{.}$$
