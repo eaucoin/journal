@@ -36,4 +36,5 @@ A regular $3$-gon is an equilateral triangle.
 
 A regular $4$-gon is a square.
 
-## Theorem 
+## Theorem 3.
+
