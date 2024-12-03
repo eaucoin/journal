@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
+                "file": "Math/Abstract Algebra/Abstract Algebra, Introduction to Groups.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra, Normal Subgroups"
+              "title": "Abstract Algebra, Introduction to Groups"
             }
           }
         ],
@@ -179,8 +179,9 @@
   },
   "active": "6ea8b059e03d9b59",
   "lastOpenFiles": [
-    "Math/Abstract Algebra/Abstract Algebra, Groups of Motions and Symmetries.md",
     "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
+    "Math/Abstract Algebra/Abstract Algebra, Introduction to Groups.md",
+    "Math/Abstract Algebra/Abstract Algebra, Groups of Motions and Symmetries.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
     "Jot/Linear Algebra.md",
@@ -202,7 +203,6 @@
     "Math/Elementary Number Theory",
     "Math/Abstract Algebra",
     "Math",
-    "Math/Abstract Algebra/Abstract Algebra, Introduction to Groups.md",
     "4.2.3.md"
   ]
 }

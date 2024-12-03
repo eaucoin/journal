@@ -1,4 +1,3 @@
-[[Abstract Algebra, Subgroups|subgroup]]
 
 ## Definition 1.
 
