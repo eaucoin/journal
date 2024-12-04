@@ -116,8 +116,9 @@ $$\begin{align*}
 Let $(G,\;\star)$ be a finite group. Then
 $$\begin{align*}
 
-&H\triangleleft G\;\wedge\;K\triangleleft G\;\wedge\;H\cap K=\{1\}\\\\
+&H\triangleleft G\;\wedge\;K\triangleleft G\;\wedge\;H\cap K=\{1\}\;\wedge\;\\\\
 \implies &|HK|=|H||K|\text{.}
 
 \end{align*}$$
 
+## 
