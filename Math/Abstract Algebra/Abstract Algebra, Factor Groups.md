@@ -25,6 +25,9 @@ Suppose that $K\triangleleft G$, and write $G/K=\{Ka\;|\;a\in G\}$ for the set o
 - $\phi:G\rightarrow G/K$, where $\phi(a)=Ka$ is an onto homomorphism,
 - $G$ is abelian $\implies G/K$ is abelian,
 - $G=\langle a\rangle$ is cyclic $\implies G/K=\langle Ka\rangle$ is cyclic,
-- $|G:K|$ is finite $\implies |G/K|=|G:K|$
-- $|$ is finite $\implies |G/K|=\frac{|G|}{|K|}$
+- $|G:K|$ is finite $\implies |G/K|=|G:K|$,
+- $G$ is finite $\implies |G/K|=\frac{|G|}{|K|}$.
 
+## Theorem 2.
+
+Let $$
