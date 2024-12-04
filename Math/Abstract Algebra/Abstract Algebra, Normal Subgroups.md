@@ -138,6 +138,6 @@ which is to say iff it is cyclic of order $p$, where $p$ is a prime.
 
 $$\begin{align*}
 
-\sigma\in S_n\;\wedge\;\gamma=
+\sigma\in S_n\;\wedge\;\gamma=\begin{pmatrix}k_1&k_2&\cdots&\end{pmatrix}
 
 \end{align*}$$
