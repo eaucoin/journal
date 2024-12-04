@@ -24,4 +24,5 @@ Suppose that $K\triangleleft G$, and write $G/K=\{Ka\;|\;a\in G\}$ for the set o
 - $G/K$ is a group under the operation $KaKb=Kab$,
 -  $\phi:G\rightarrow G/K$, where $\phi(a)=Ka$ is an onto homomorphism,
 - $G$ is abelian $\implies G/K$ is abelian,
-- $G=\langle\rangle$
+- $G=\langle a\rangle$ is cyclic $\implies G/K=\langle Ka\rangle$ is cyclic,
+- $||$
