@@ -145,4 +145,4 @@ $$\begin{align*}
 
 ## Lemma 4.
 
-If $$
+If $n\geq 2$, then $A_n$ is either $\epsilon$ or a product of $3$-cycles.
