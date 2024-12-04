@@ -92,4 +92,4 @@ Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of 
 
 Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of $(G,\;\star)$.
 - $H\triangleleft G\;\veebar\;K\triangleleft G\implies HK=KH< G$
-- $H\t$
+- $H\triangleleft G\;\wedge\;K\triangleleft G\implies HK\triangleleft\implies $
