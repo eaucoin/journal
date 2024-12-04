@@ -103,4 +103,10 @@ $$\begin{align*}
 
 ## Corollary 1.
 
-Let $(G,\;\star)$ be a finite group.
+Let $(G,\;\star)$ be a finite group. Then
+$$\begin{align*}
+
+&H\triangleleft G\;\wedge\;K\triangleleft G\;\wedge\;H\cap K=\{1\}\\\\\\
+\implies &|H|\text{.}
+
+\end{align*}$$
