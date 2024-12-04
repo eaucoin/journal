@@ -91,4 +91,5 @@ Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of 
 ## Theorem 5.
 
 Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of $(G,\;\star)$.
-- $$H\triangleleft G\;\vee\;K\triangleleft G\implies HK=KH\tria$$
+- $H\triangleleft G\;\vee\;K\triangleleft G\implies HK=KH\triangleleft G$
+- rrrrrrrrrrrrrr
