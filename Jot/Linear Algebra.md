@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+div style="text-align: center;">
   <h1 style="margin: 0;">Complex Matrices and the Discrete Fourier Transform</h1>
   <h5 style="margin: 0;">Emile Aucoin</h2>
 </div>
