@@ -101,4 +101,6 @@ $$\begin{align*}
 
 \end{align*}$$
 
-#
+## Corollary 1.
+
+Let $(G,\;\star)$ be a finite group.
