@@ -121,4 +121,6 @@ $$\begin{align*}
 
 \end{align*}$$
 
-## Definition
+## Definition.
+
+Let $(G,\;\star)$ be a group. Then $G$ is called a *simple* group iff the f
