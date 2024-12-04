@@ -116,9 +116,9 @@ $$\begin{align*}
 Let $(G,\;\star)$ be a finite group. Then
 $$\begin{align*}
 
-&H\triangleleft G\;\wedge\;K\triangleleft G\;\wedge\;H\cap K=\{1\}\;\wedge\;\\\\
-\implies &|HK|=|H||K|\text{.}
+&H\triangleleft G\;\wedge\;K\triangleleft G\;\wedge\;H\cap K=\{1\}\;\wedge\;|HK|=|H||K|\\\\
+\implies &HK\cong H\times K\text{.}
 
 \end{align*}$$
 
-## 
+## Definition
