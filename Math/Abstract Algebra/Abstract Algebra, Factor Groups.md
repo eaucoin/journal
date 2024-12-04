@@ -22,8 +22,9 @@ are equivalent.
 
 Suppose that $K\triangleleft G$, and write $G/K=\{Ka\;|\;a\in G\}$ for the set of right cosets of $K$ in $G$. Then all of the following statements are true:
 - $G/K$ is a group under the operation $KaKb=Kab$,
--  $\phi:G\rightarrow G/K$, where $\phi(a)=Ka$ is an onto homomorphism,
+- $\phi:G\rightarrow G/K$, where $\phi(a)=Ka$ is an onto homomorphism,
 - $G$ is abelian $\implies G/K$ is abelian,
 - $G=\langle a\rangle$ is cyclic $\implies G/K=\langle Ka\rangle$ is cyclic,
 - $|G:K|$ is finite $\implies |G/K|=|G:K|$
-- $|G:K|$ is finite $\implies |G/K|=|G:$
+- $|$ is finite $\implies |G/K|=\frac{|G|}{|K|}$
+
