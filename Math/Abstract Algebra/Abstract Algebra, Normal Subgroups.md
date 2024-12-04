@@ -131,4 +131,4 @@ are satisfied.
 ## Theorem 7.
 
 Let $(G,\;\star)$ be an *abelian* group, and suppose that $G\neq \{1\}$. Then
-$$G$$
+$$G\text{ is simple }\iff G$$
