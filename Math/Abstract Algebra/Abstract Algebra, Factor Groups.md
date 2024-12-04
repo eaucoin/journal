@@ -22,4 +22,5 @@ are equivalent.
 
 Suppose that $K\triangleleft G$, and write $G/K=\{Ka\;|\;a\in G\}$ for the set of right cosets of $K$ in $G$. Then the statements
 - $G/K$ is a group under the operation $KaKb=Kab$,
-- The map $\phi:G\rightarowG/K$
+-  $\phi:G\rightarrow G/K$, where $\phi(a)=Ka$ is an onto homomorphism,
+- $G$
