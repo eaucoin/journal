@@ -11,4 +11,9 @@ $$\begin{align*}
 \end{align*}$$
 then it is the case that this multiplication is *well-defined*.
 
-## Lem
+## Lemma.
+
+Suppose that $K<G$; then the statements that
+- $K\triangleleft G$,
+- $KaKb=Kab$ is a well defined multiplication of right cosets,
+are equivale
