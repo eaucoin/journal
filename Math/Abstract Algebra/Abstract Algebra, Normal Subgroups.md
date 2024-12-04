@@ -131,4 +131,7 @@ are satisfied.
 ## Theorem 7.
 
 Let $(G,\;\star)$ be an *abelian* group, and suppose that $G\neq \{1\}$. Then
-$$G\text{ is simple }\iff G$$
+$$G\text{ is simple }\iff G\cong\mathbb{Z}_p\text{,}$$
+which is to say iff it is cyclic of order $p$, where $p$ is a prime.
+
+## Lem
