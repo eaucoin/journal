@@ -9,4 +9,6 @@ $$\begin{align*}
 &(\forall(a,\;a_1,\;b,\;b_1)\in G^4)\\&(Ka=Ka_1\;\wedge\;Kb=Kb_1\implies Kab=Ka_1b_1)\text{,}
 
 \end{align*}$$
-then, multiplication
+then it is the case that this multiplication is *well-defined*.
+
+## Lem
