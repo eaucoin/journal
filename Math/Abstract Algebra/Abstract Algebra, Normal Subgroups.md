@@ -136,4 +136,8 @@ which is to say iff it is cyclic of order $p$, where $p$ is a prime.
 
 ## Lemma 3.
 
-$$\sig$$
+$$\begin{align*}
+
+\sigma\in S_n\;\wedge\;\gamma=
+
+\end{align*}$$
