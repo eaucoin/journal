@@ -16,4 +16,8 @@ then it is the case that this multiplication is *well-defined*.
 Suppose that $K<G$; then the statements that
 - $K\triangleleft G$,
 - $KaKb=Kab$ is a well defined multiplication of right cosets,
-are equivale
+are equivalent.
+
+## Theorem 1.
+
+Suppose
