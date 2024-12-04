@@ -146,3 +146,12 @@ $$\begin{align*}
 ## Lemma 4.
 
 If $n\geq 2$, then $A_n$ is either $\epsilon$ or a product of $3$-cycles.
+
+## Lemma 5.
+
+If $n\geq 5$, then
+$$\begin{align*}
+
+H\triangleleft A_n\;\wedge\;(\exists)
+
+\end{align*}$$
