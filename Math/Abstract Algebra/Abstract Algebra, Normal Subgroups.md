@@ -91,5 +91,5 @@ Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of 
 ## Theorem 5.
 
 Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of $(G,\;\star)$.
-- $H\triangleleft G\;\veebar\;K\triangleleft G\implies HK=KH\triangleleft G$
-- 
+- $H\triangleleft G\;\veebar\;K\triangleleft G\implies HK=KH< G$
+- $H\t$
