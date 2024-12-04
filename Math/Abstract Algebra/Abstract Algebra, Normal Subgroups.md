@@ -139,6 +139,6 @@ which is to say iff it is cyclic of order $p$, where $p$ is a prime.
 $$\begin{align*}
 
 &\sigma\in S_n\;\wedge\;\gamma=\begin{pmatrix}k_1&k_2&\cdots&k_r\end{pmatrix}\text{ is a cycle of length }r\\\\
-
+\implies &\sigma\gamma\sigma^{-1}\text{ is a cycle of length }r\\\;\wedge\;
 
 \end{align*}$$
