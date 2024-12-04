@@ -123,11 +123,11 @@ $$\begin{align*}
 
 ## Definition.
 
-Let $(G,\;\star)$ be a group. Then $G$ is called a *simple * iff the properties
+Let $(G,\;\star)$ be a group. Then $G$ is called a *simple group* iff the properties
 - $G\neq\{1\}$,
 - $\{1\}$ and $G$ are the only normal subgroups of $G$,
 are satisfied.
 
 ## Theorem 7.
 
-Let $(G,\;\star)$ be an *abelian* group. 
+Let $(G,\;\star)$ be an *abelian* group, and suppo
