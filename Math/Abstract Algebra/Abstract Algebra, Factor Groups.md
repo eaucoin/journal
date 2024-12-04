@@ -20,4 +20,4 @@ are equivalent.
 
 ## Theorem 1.
 
-Suppose
+Suppose that $K\triangleleft G$, and write $G/K=\{Ka\;|\;a\in G\}$ fo the set of
