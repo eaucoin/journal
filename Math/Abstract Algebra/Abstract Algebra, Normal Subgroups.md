@@ -88,9 +88,15 @@ Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of 
 - $(KH,\;\star)<(G,\;\star)$
 - $HK=KH$.
 
-## Theorem 5.
+## Theorems 5&6.
 
 Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of $(G,\;\star)$.
 - $H\triangleleft G\;\vee\;K\triangleleft G\implies HK=KH< G$,
-- $H\triangleleft G\;\wedge\;K\triangleleft G\implies HK\triangleleft G$.
+- $H\triangleleft G\;\wedge\;K\triangleleft G\implies HK\triangleleft G$,
+and:
+$$\begin{align*}
+
+&H\triangleleft G\;\wedge\;K\triangleleft \\\\
+
+\end{align*}$$
 
