@@ -96,7 +96,9 @@ Let $(G,\;\star)$ be a group, with $(H,\;\star)$ and $(K,\;\star)$ subgroups of 
 and:
 $$\begin{align*}
 
-&H\triangleleft G\;\wedge\;K\triangleleft \\\\
+&H\triangleleft G\;\wedge\;K\triangleleft G\;\wedge\;H\cap K=\{1\}\\\\
+\implies &HK\cong H\times K\text{.}
 
 \end{align*}$$
 
+#
