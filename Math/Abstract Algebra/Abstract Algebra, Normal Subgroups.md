@@ -123,4 +123,6 @@ $$\begin{align*}
 
 ## Definition.
 
-Let $(G,\;\star)$ be a group. Then $G$ is called a *simple* group iff the f
+Let $(G,\;\star)$ be a group. Then $G$ is called a *simple* group iff the properties
+- $G\neq\{1\}$,
+- $$\{1\}\text{ and }G\text{ a}$$
