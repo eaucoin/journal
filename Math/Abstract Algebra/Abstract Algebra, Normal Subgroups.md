@@ -152,6 +152,6 @@ If $n\geq 2$, then $A_n$ is either $\epsilon$ or a product of $3$-cycles.
 If $n\geq 5$, then
 $$\begin{align*}
 
-H\triangleleft A_n\;\wedge\;(\exists \sigma\in H)(\sigma=\begin{pmatrix}k_1&k_2&k_3\end{pmatrix})\;\wedge\;
-
+&H\triangleleft A_n\;\wedge\;(\exists \sigma\in H)(\sigma=\begin{pmatrix}k_1&k_2&k_3\end{pmatrix})
+\\\\\implies &H=A
 \end{align*}$$
