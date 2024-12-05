@@ -30,4 +30,6 @@ Suppose that $K\triangleleft G$, and write $G/K=\{Ka\;|\;a\in G\}$ for the set o
 
 ## Theorem 2.
 
-Let $G$ be a group. If there exists a subgroup $K\subseteq Z(G)$ such that $G/K$ is cyclic, then $G$ is
+Let $G$ be a group. If there exists a subgroup $K\subseteq Z(G)$ such that $G/K$ is cyclic, then $G$ is abelian.
+
+## 
