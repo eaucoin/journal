@@ -58,4 +58,6 @@ with:
 ## Theorem 3.
 
 Let $G$ be a group and $H<G$. Then 
-- $G'\triangleleft G\;\wedge\;G/$
+- $G'\triangleleft G\;\wedge\;G/G'\text{ is abelian}$
+- $G'\subseteq H\iff H\triangleleft G\;\wedge\;G/H\text{ is abelian}$
+
