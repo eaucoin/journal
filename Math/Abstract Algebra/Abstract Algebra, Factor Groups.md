@@ -53,6 +53,6 @@ Let $G$ be a group, and let $A$ and $B$ be nonempty subsets of $G$. We define
 with:
 - $(\forall(x,\;y)\in G^2)([x,\;y]=x^{-1}y^{-1}xy)$,
 - $[A,\;B]=\{[a,\;b]\;|\;(a,\;b)\in A\times B\}$,
-- $G'=\{[x,\;y]\;|\;(x,\;y)\in G^2\}$.
+- $G'=\langle\{[x,\;y]\;|\;(x,\;y)\in G^2\}$.
 
 ## 
