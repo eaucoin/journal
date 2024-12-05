@@ -55,4 +55,6 @@ with:
 - $[A,\;B]=\big\langle\{[a,\;b]\;|\;(a,\;b)\in A\times B\}\big\rangle$,
 - $G'=[G,\;G]=\big\langle\{[x,\;y]\;|\;(x,\;y)\in G^2\}\big\rangle$.
 
-## Theor
+## Theorem 3.
+
+Theor
