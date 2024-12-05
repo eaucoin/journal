@@ -46,5 +46,6 @@ $$\begin{align*}
 
 ## Definition.
 
-Let $G$ be a group. 
+Let $G$ be a group, and let $A$ and $B$ be nonempty subsets of $G$.
+- 
 
