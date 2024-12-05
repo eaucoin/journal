@@ -52,7 +52,7 @@ Let $G$ be a group, and let $A$ and $B$ be nonempty subsets of $G$. We define
 - the *commutator subgroup of $G$*: $G'$,
 with:
 - $(\forall(x,\;y)\in G^2)([x,\;y]=x^{-1}y^{-1}xy)$,
-- $[A,\;B]=\{[a,\;b]\;|\;(a,\;b)\in A\times B\}$,
-- $G'=[G,]\big\langle\{[x,\;y]\;|\;(x,\;y)\in G^2\}\big\rangle$.
+- $[A,\;B]=\big\langle\{[a,\;b]\;|\;(a,\;b)\in A\times B\}\big\rangle$,
+- $G'=[G,\;G]=\big\langle\{[x,\;y]\;|\;(x,\;y)\in G^2\}\big\rangle$.
 
-## 
+## Theor
