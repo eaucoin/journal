@@ -46,10 +46,5 @@ $$\begin{align*}
 
 ## Definition.
 
-Let $G$ be a group. A *commutator*, written $[a,\;b]$ in $G$, is defined by 
-$$\begin{align*}
-
-(\forall(a,\;b)\in G^2)([a,\;b]=aba^{-1}b^{-1})
-
-\end{align*}$$
+Let $G$ be a group. 
 
