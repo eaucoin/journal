@@ -37,6 +37,9 @@ Let $G$ be a group. If there exists a subgroup $K\subseteq Z(G)$ such that $G/K$
 Suppose that $H\triangleleft G$. Then the factor group $G/H$ is abelian iff
 $$\begin{align*}
 
-
+&HaHb=HbHa\\
+\iff &Hab=Hba\\
+\iff &ab(ba)^{-1}\in H\\
+\iff &aba^{-1}b^{}
 
 \end{align*}$$
