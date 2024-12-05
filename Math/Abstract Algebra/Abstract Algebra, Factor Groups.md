@@ -40,6 +40,10 @@ $$\begin{align*}
 &HaHb=HbHa\\
 \iff &Hab=Hba\\
 \iff &ab(ba)^{-1}\in H\\
-\iff &aba^{-1}b^{}
+\iff &aba^{-1}b^{-1}\in H\text{.}
 
 \end{align*}$$
+
+## Definition.
+
+Let $G$ be a group. The **
