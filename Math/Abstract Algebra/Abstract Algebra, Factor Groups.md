@@ -57,4 +57,5 @@ with:
 
 ## Theorem 3.
 
-Theor
+Let $G$ be a group and $H<G$. Then 
+- $G'\triangleleft G\;\wedge\;G/$
