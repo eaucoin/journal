@@ -39,3 +39,5 @@ Let $G$ and $H$ be groups and $\alpha$ a homomorphism between them. Then
 $$\text{im}(\alpha)\cong G/\text{ker}(\alpha)\text{.}$$
 
 ## Reminder.
+
+Let $$
