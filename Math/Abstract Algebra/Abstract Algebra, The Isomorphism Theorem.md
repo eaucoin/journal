@@ -41,4 +41,5 @@ $$\text{im}(\alpha)\cong G/\text{ker}(\alpha)\text{.}$$
 ## Reminder.
 
 Let $G$ be a group and $a\in G$. Then the map
-$$\sigma_{a}:G\rightarrow G;$$
+$$\sigma_{a}:G\rightarrow G;\;\sigma(g)=aga^{-1}$$
+is cal
