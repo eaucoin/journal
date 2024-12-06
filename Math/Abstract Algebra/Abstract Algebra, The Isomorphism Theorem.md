@@ -42,4 +42,4 @@ $$\text{im}(\alpha)\cong G/\text{ker}(\alpha)\text{.}$$
 
 Let $G$ be a group and $a\in G$. Then the map
 $$\sigma_{a}:G\rightarrow G;\;\sigma(g)=aga^{-1}$$
-is cal
+is called the *inner automorphism of $G$ about $a$*. Then  
