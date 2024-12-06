@@ -20,4 +20,12 @@ Let $G$ and $H$ be groups, and $\alpha$ a homomorphism between them. Then
 
 ## Theorem 2.
 
-$$K\triangleleft G\;\wedge\;\implies K=\text{ker}(\phi)$$
+$$\begin{align*}
+
+&K\triangleleft G\;\wedge\;\phi:G\rightarrow G/K\\\\
+
+\implies &K=\text{ker}(\phi)\text{.}
+
+\end{align*}$$
+
+## 
