@@ -10,7 +10,7 @@
 **01.04**: [Groups of Motions and Symmetries]
 **01.04**: [Normal Subgroups]
 **01.04**: [Factor Groups]
-**01.04**: []
+**01.04**: [T]
 **01.04**:
 **01.04**:
 **01.04**:
