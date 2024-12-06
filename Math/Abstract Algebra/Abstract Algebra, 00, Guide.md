@@ -1,6 +1,6 @@
 ## Nicholson Notes
 
-**01.04**: [Permutations][[Abstract Algebra, Permutations]
+**01.04**: [Permutations](Abstract Algebra, Permutations]
 **02.01**: [Binary Operations][[Abstract Algebra, Binary Operations]
 **02.02**: [Groups][[Abstract Algebra, Introduction to Groups]
 **02.03**: [Subgroups][[Abstract Algebra, Subgroups]
@@ -10,4 +10,4 @@
 **02.07**: [Groups of Motions and Symmetries][[Abstract Algebra, Groups of Motions and Symmetries]
 **02.08**: [Normal Subgroups][[Abstract Algebra, Normal Subgroups]
 **02.09**: [Factor Groups][[Abstract Algebra, Factor Groups]
-**02.10**: (Isomorphism Theorem][[Abstract Algebra, The Isomorphism Theorem]]
+**02.10**: [Isomorphism Theorem][Abstract Algebra, The Isomorphism Theorem]

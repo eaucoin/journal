@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "beb595c5abdee7a7",
+        "id": "2e640350a4d36b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "984620334a1a4cb8",
+            "id": "6572ce5da0daf667",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "984620334a1a4cb8",
+  "active": "6572ce5da0daf667",
   "lastOpenFiles": [
-    "[[.md",
     "[.md",
     "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
+    "[[.md",
     "Math/Abstract Algebra/Abstract Algebra, The Isomorphism Theorem.md",
     "Jot/Bolds.md",
     "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
