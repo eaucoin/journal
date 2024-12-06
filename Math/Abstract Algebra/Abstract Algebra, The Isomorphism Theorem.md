@@ -40,4 +40,5 @@ $$\text{im}(\alpha)\cong G/\text{ker}(\alpha)\text{.}$$
 
 ## Reminder.
 
-Let $$
+Let $G$ be a group and $a\in G$. Then the map
+$$\sigma_{a}:G\rightarrow G;$$
