@@ -1,7 +1,7 @@
 
 ## Definition.
 
-Let $G$ and $H$ be groups, and $\alpha$ a homomorphism between them. The *image* of $\alpha$, written $\text{im}(\alpha)$, is defined by
+Let $G$ and $H$ be groups and $\alpha$ a homomorphism between them. The *image* of $\alpha$, written $\text{im}(\alpha)$, is defined by
 $$\begin{align*}
 
 \text{im}(\alpha)&=\alpha(G)\\\\
@@ -14,7 +14,7 @@ $$\text{ker}(\alpha)=\{k\in G\;|\;\alpha(G)=1\}\text{.}$$
 
 ## Theorem 1.
 
-Let $G$ and $H$ be groups, and $\alpha$ a homomorphism between them. Then
+Let $G$ and $H$ be groups and $\alpha$ a homomorphism between them. Then
 - $\alpha(G)$ is a subgroup of $H$, and
 - $\text{ker}(\alpha)$ is a normal subgroup of $G$.
 
@@ -30,4 +30,4 @@ $$\begin{align*}
 
 ## Theorem 3.
 
-Let $G$ and $H$ be groups, and $\alpha$ a homomorphism between them. Then
+Let $G$ and $H$ be groups and $\alpha$ a homomorphism between them. Then $\alp$
