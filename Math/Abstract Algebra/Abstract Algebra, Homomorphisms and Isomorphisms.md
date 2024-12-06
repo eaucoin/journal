@@ -61,3 +61,4 @@ $$\sigma:G\xrightarrow{\sim}G\implies(\forall g\in G)(o(\sigma(g))=o(g))$$
 
 Let $G$ be a group. Then
 $$o(G)=n\implies G\cong S_n\text{.}$$
+
