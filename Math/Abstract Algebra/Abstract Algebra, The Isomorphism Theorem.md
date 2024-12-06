@@ -20,4 +20,4 @@ Let $G$ and $H$ be groups, and $\alpha$ a homomorphism between them. Then
 
 ## Theorem 2.
 
-If $K$
+$$K\triangleleft G\;\wedge\;\implies K=\text{ker}(\phi)$$
