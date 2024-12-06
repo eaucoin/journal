@@ -2,16 +2,12 @@
 
 **01.04**: [Permutations][[Abstract Algebra, Permutations]
 **02.01**: [Binary Operations][[]]
-**01.04**: [Groups]
-**01.04**: [Subgroups]
-**01.04**: [Cyclic Groups]
-**01.04**: [Morphisms]
-**01.04**: [Cosets]
-**01.04**: [Groups of Motions and Symmetries]
-**01.04**: [Normal Subgroups]
-**01.04**: [Factor Groups]
-**01.04**: [T]
-**01.04**:
-**01.04**:
-**01.04**:
-**01.04**:
+**02.02**: [Groups]
+**02.03**: [Subgroups]
+**02.04**: [Cyclic Groups]
+**02.05**: [Morphisms]
+**02.06**: [Cosets]
+**02.07**: [Groups of Motions and Symmetries]
+**02.08**: [Normal Subgroups]
+**02.09**: [Factor Groups]
+**01.04**: [Isomorphism Theorem]
