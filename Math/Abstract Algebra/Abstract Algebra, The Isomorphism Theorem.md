@@ -28,4 +28,6 @@ $$\begin{align*}
 
 \end{align*}$$
 
-## 
+## Theorem 3.
+
+Let $G$ and $H$ be groups, and $\alpha$ a homomorphism between them. Then
