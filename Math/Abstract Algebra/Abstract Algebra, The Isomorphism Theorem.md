@@ -42,4 +42,4 @@ $$\text{im}(\alpha)\cong G/\text{ker}(\alpha)\text{.}$$
 
 Let $G$ be a group and $a\in G$. Then the map
 $$\sigma_{a}:G\rightarrow G;\;\sigma(g)=aga^{-1}$$
-is called the *inner automorphism of $G$ about $a$*. Then the set $\text{inn}(G)$ is a set, each element being a set of $2$-tuples that defi. 
+is called the *inner automorphism of $G$ about $a$*. Then the set $\text{inn}(G)$ is another set , each element being a set of $2$-tuples that model the inputs and outputs of $\sigma_a$. 
