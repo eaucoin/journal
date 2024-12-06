@@ -59,5 +59,5 @@ $$\sigma:G\xrightarrow{\sim}G\implies(\forall g\in G)(o(\sigma(g))=o(g))$$
 ## Theorem 5.
 *Cayley's Theorem*
 
-
-$$(o(G)=n\implies G\cong S_n)$$
+Let $G$ be a group. Then
+$$o(G)=n\implies G\cong S_n\text{.}$$
