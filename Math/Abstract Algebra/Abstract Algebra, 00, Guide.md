@@ -1,6 +1,6 @@
 ## Nicholson Notes
 
-**01.04**: [Permutations](Abstract Algebra, Permutations]
+**01.04**: [[PerAbstract Algebra, Permutations]]
 **02.01**: [Binary Operations][[Abstract Algebra, Binary Operations]
 **02.02**: [Groups][[Abstract Algebra, Introduction to Groups]
 **02.03**: [Subgroups][[Abstract Algebra, Subgroups]
