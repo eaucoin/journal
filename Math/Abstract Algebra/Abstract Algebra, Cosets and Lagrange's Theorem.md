@@ -29,7 +29,7 @@ Suppose that $(H,\;\star)\leq(G,\;\star)$.
 $$\begin{align*}(H,\;\star)\leq(G,\;\star)\implies|G:H|&=|\{aH\;|\;a\in G\}|\\&=|\{Ha\;|\;a\in G\}|\\&=\text{the index of }H\text{ in }G\end{align*}$$
 
 ## Theorem 2.
-*Legrange's Theorem*
+*Lagrange's Theorem*
 
 Suppose that $(H,\;\star)\leq(G,\;\star)$ and $(G,\;\star)$ is finite.
 - $|H|$ divides $|G|$

@@ -46,4 +46,4 @@ is called the *inner automorphism of $G$ about $a$*. Then the set $\text{inn}(G)
 
 ## Theorem 5.
 
-If $G$ is a group, then 
+$$G\text{ is a group }\implies G/Z(G)\cong\text{inn}(G)\text{.}$$
