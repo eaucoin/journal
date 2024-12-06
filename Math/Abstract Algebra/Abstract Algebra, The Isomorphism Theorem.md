@@ -30,4 +30,6 @@ $$\begin{align*}
 
 ## Theorem 3.
 
-Let $G$ and $H$ be groups and $\alpha$ a homomorphism between them. Then $\alp$
+Let $G$ and $H$ be groups and $\alpha$ a homomorphism between them. Then $\alpha$ is one-to-one iff $\text{ker}(\alpha)=\{1\}$.
+
+## Theore
