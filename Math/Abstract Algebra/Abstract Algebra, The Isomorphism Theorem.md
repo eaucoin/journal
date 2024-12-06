@@ -9,3 +9,5 @@ $$\begin{align*}
 
 \end{align*}$$
 
+The *kernel* of $\alpha$, written $\text{ker}(\alpha)$, is defined by
+$$\text{ker}(\alpha)=\{\a\}$$
