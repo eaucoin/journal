@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "a44921645f7993c2",
@@ -162,10 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c65025c657fa6d68",
+  "active": "6572ce5da0daf667",
   "lastOpenFiles": [
-    "Abstract.md",
+    "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
     "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
+    "Abstract.md",
     "[.md",
     "[[.md",
     "Math/Abstract Algebra/Abstract Algebra, The Isomorphism Theorem.md",
@@ -185,7 +187,6 @@
     "Math/Abstract Algebra/Abstract Algebra, Groups of Motions and Symmetries.md",
     "Languages/Ancient Greek/Interphrasal Translations/Thucydides, History of the Peloponnesian War, Book 1.md",
     "Math/Elementary Number Theory/Elementary Number Theory, Chapter 4.md",
-    "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
     "Languages/Ancient Greek/Interphrasal Translations",
     "Languages/Ancient Greek/Untitled.md",
     "Languages/Ancient Greek",
