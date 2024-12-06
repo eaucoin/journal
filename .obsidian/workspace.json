@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "a44921645f7993c2",
@@ -193,8 +194,9 @@
   },
   "active": "1ebae0ec9fec0346",
   "lastOpenFiles": [
-    "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
+    "[.md",
     "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
+    "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Introduction to Groups.md",
