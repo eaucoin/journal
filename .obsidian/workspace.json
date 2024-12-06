@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, The Isomorphism Theorem.md",
+                "file": "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra, The Isomorphism Theorem"
+              "title": "Abstract Algebra, Homomorphisms and Isomorphisms"
             }
           }
         ],
@@ -180,8 +180,8 @@
   },
   "active": "e2372edb81721532",
   "lastOpenFiles": [
-    "Math/Abstract Algebra/Abstract Algebra, Factor Groups.md",
     "Math/Abstract Algebra/Abstract Algebra, The Isomorphism Theorem.md",
+    "Math/Abstract Algebra/Abstract Algebra, Factor Groups.md",
     "Jot/Bolds.md",
     "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
     "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
