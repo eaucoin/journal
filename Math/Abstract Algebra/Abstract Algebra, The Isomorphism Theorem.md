@@ -15,3 +15,9 @@ $$\text{ker}(\alpha)=\{k\in G\;|\;\alpha(G)=1\}\text{.}$$
 ## Theorem 1.
 
 Let $G$ and $H$ be groups, and $\alpha$ a homomorphism between them. Then
+- $\alpha(G)$ is a subgroup of $H$, and
+- $\text{ker}(\alpha)$ is a normal subgroup of $G$.
+
+## Theorem 2.
+
+If $K$
