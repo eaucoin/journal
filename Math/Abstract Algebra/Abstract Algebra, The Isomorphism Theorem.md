@@ -1,1 +1,4 @@
 
+## Definition.
+
+Let $G$ and $H$ be groups, and $\alpha$ a homomorphism between them. The
