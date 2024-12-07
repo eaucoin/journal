@@ -1,4 +1,3 @@
-**  
 
 ## Question 1.
 
@@ -12,54 +11,35 @@
 
 (b). Let $G$ be a group. When is a non-empty subset $H$ of $G$ a subgroup? How many different subgroups $S_3$ has? Please enumerate them.
 
-  
-  
-  
+
 
 (c). When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
-  
-  
-  
+
 
 (d). Write down a group $G$, a normal subgroup $K$ of $G$ and a subgroup $H$ of $G$ which is not normal.
 
-  
-  
-  
+
 
 (e). If $H\triangleleft G$ and $|H|=2$. Show that $H\subseteq Z(G)$.
 
-  
-  
-  
+
 
 ## Question 2.
 
-  
-
 (a). What is a cyclic group? Give one example of finite cyclic group. Give one example of infinite cyclic group. Give one example of a group which is not cyclic.
 
-  
-  
-  
+
 
 (b). State the fundamental theorem of finite cyclic group.
 
-  
-  
-  
+
 
 (c). Let $G$ be a finite cyclic group and $H$ be a subgroup of $G$. Show that $H$ is cyclic. [Hint: using well-ordering principle]
 
-  
-  
-  
+
 
 (d). Write down the subgroup lattice of $\mathbb{Z}/12\mathbb{Z}$.
-
-  
-  
 
 ## Question 3.
 
