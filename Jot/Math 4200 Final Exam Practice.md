@@ -1,7 +1,7 @@
 
 ## Question 1.
-### Part (a).
-When is a non-empty set a group? List three different groups (one cyclic, one abelian but not cyclic, one non-abelian) that you know please specify the binary operator for each case.
+
+()When is a non-empty set a group? List three different groups (one cyclic, one abelian but not cyclic, one non-abelian) that you know please specify the binary operator for each case.
 
 
 
@@ -148,5 +148,8 @@ Let $R = \mathbb{Q}(\sqrt{2})$. Is it a field (namely a commutative division rin
 ### Part (d).
 Let $R = \mathbb{Q}\times\mathbb{Q}$ with addition and multiplication component wise. What is $R^\times$? Give two different idempotents of $R$.
 
+
+
 ### Part (e).
 Let $\mathbb{H} = \{a+bi+cj+dk \mid a,b,c,d \in \mathbb{R}, i^2 = j^2 = k^2 = ijk = -1\}$. Is $\mathbb{H}$ a ring, a division ring, an integral domain? Give two different idempotents of $\mathbb{H}$. Compute $(1+i+j+k)^2$, $(1-3i+k)(2+j)$, and $(2+j)(1-3i+k)$. What is the inverse of $1+2i-2k$?
+
