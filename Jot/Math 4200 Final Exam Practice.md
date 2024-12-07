@@ -1,35 +1,32 @@
-You're right. Let me OCR the document following the strict LaTeX style you demonstrated with equations properly formatted:
-
 ## Mathematics 4200 Final Examination Practice Questions
 
 ## Question 1.
 ### Part (a).
-$$\text{When is a non-empty set a group? List three different groups (one cyclic, one abelian}$$
-$$\text{but not cyclic, one non-abelian) that you know please specify the binary operator for each case.}$$
+When is a non-empty set a group? List three different groups (one cyclic, one abelian but not cyclic, one non-abelian) that you know please specify the binary operator for each case.
 
 ### Part (b).
-$$\begin{align*}
-\text{Let }G\text{ be a group. When is a non-empty subset }H\text{ of }G\text{ a subgroup?}\\\\
-\text{How many different subgroups }S_3\text{ has? Please enumerate them.}
-\end{align*}$$
+Let $G$ be a group. When is a non-empty subset $H$ of $G$ a subgroup? How many different subgroups $S_3$ has? Please enumerate them.
 
 ### Part (c).
-$$\begin{align*}
-\text{When }H\text{ is a normal subgroup?}\\\\
-\text{How many normal subgroups of }S_3\text{ and }S_4\text{ respectively?}
-\end{align*}$$
+When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
 ### Part (d).
-$$\text{Write down a group }G\text{, a normal subgroup }K\text{ of }G\text{ and a subgroup }H\text{ of }G\text{ which is not normal.}$$
+Write down a group $G$, a normal subgroup $K$ of $G$ and a subgroup $H$ of $G$ which is not normal.
 
 ### Part (e).
-$$\text{If }H\triangleleft G\text{ and }|H|=2\text{. Show that }H\subseteq Z(G)\text{.}$$
+If $H\triangleleft G$ and $|H|=2$. Show that $H\subseteq Z(G)$.
 
 ## Question 2.
 ### Part (a).
-$$\begin{align*}
-\text{What is a cyclic group? Give one example of finite cyclic group.}\\\\
-\text{Give one example of infinite cyclic group. Give one example of a group which is not cyclic.}
-\end{align*}$$
+What is a cyclic group? Give one example of finite cyclic group. Give one example of infinite cyclic group. Give one example of a group which is not cyclic.
 
-Would you like me to continue with the rest of the questions, ensuring proper equation formatting throughout?
+### Part (b).
+State the fundamental theorem of finite cyclic group.
+
+### Part (c).
+Let $G$ be a finite cyclic group and $H$ be a subgroup of $G$. Show that $H$ is cyclic. [Hint: using well-ordering principle]
+
+### Part (d).
+Write down the subgroup lattice of $\mathbb{Z}/12\mathbb{Z}$.
+
+Should I continue with Questions 3-6 in this format, where regular text is written normally and only mathematical expressions are in LaTeX?
