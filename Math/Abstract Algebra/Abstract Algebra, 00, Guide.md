@@ -11,4 +11,4 @@
 **02.07**: [[Abstract Algebra, Groups of Motions and Symmetries|Groups of Motions and Symmetries]]
 **02.08**: [[Abstract Algebra, Normal Subgroups|Normal Subgroups]]
 **02.09**: [[Abstract Algebra, Factor Groups|Factor Groups]]
-**02.10**: [[Abstract Algebra, The Isomorphism Theorem^|Isomorphism Theorem]]
+**02.10**: [[Abstract Algebra, The Isomorphism Theorem|Isomorphism Theorem]]
