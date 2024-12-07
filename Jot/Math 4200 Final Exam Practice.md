@@ -10,7 +10,7 @@ and for all $(a,\;b,\;c)\in G^3$,
 - $ab\in G$
 - $(\exists a^{-1}\in G)(aa^{-1}=1)$.
 
-
+For $n\in\mathbb{N}$, $\mathbb{Z}_{n}$ is cyclic with order $n$. The group $$
 
 (b). Let $G$ be a group. When is a non-empty subset $H$ of $G$ a subgroup? How many different subgroups $S_3$ has? Please enumerate them.
 
