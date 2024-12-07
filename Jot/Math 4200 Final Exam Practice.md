@@ -1,13 +1,9 @@
 
 ## Question 1.
 
-  
-
 (a). When is a non-empty set a group? List three different groups (one cyclic, one abelian but not cyclic, one non-abelian) that you know please specify the binary operator for each case.
 
-  
-  
-  
+A nonemptyu 
 
 (b). Let $G$ be a group. When is a non-empty subset $H$ of $G$ a subgroup? How many different subgroups $S_3$ has? Please enumerate them.
 
@@ -115,42 +111,22 @@
 
 ## Question 6.
 
-(a).
+(a). What is a ring, a commutative ring, a division ring, an integral domain, or a field? Give an example of a division ring which is not commutative. Give an example of an integral domain which is not a field.
 
-What is a ring, a commutative ring, a division ring, an integral domain, or a field? Give an example of a division ring which is not commutative. Give an example of an integral domain which is not a field.
 
-  
-  
-  
 
-(b).
+(b). Let $R = \mathbb{Z}/12\mathbb{Z}$, find the characteristic and unit group of $R$. Find all idempotents $(e^2 = e)$ of $R$. Is it an integral domain?
 
-Let $R = \mathbb{Z}/12\mathbb{Z}$, find the characteristic and unit group of $R$. Find all idempotents $(e^2 = e)$ of $R$. Is it an integral domain?
 
-  
-  
-  
 
-(c).
+(c). Let $R = \mathbb{Q}(\sqrt{2})$. Is it a field (namely a commutative division ring)? Find the inverse of $1 + \sqrt{2}$ in $R$.
 
-Let $R = \mathbb{Q}(\sqrt{2})$. Is it a field (namely a commutative division ring)? Find the inverse of $1 + \sqrt{2}$ in $R$.
 
-  
-  
-  
 
-(d).
+(d). Let $R = \mathbb{Q}\times\mathbb{Q}$ with addition and multiplication component wise. What is $R^\times$? Give two different idempotents of $R$.
 
-Let $R = \mathbb{Q}\times\mathbb{Q}$ with addition and multiplication component wise. What is $R^\times$? Give two different idempotents of $R$.
 
-  
-  
-  
 
-(e).
+(e). Let $\mathbb{H} = \{a+bi+cj+dk \mid a,b,c,d \in \mathbb{R}, i^2 = j^2 = k^2 = ijk = -1\}$. Is $\mathbb{H}$ a ring, a division ring, an integral domain? Give two different idempotents of $\mathbb{H}$. Compute $(1+i+j+k)^2$, $(1-3i+k)(2+j)$, and $(2+j)(1-3i+k)$. What is the inverse of $1+2i-2k$?
 
-Let $\mathbb{H} = \{a+bi+cj+dk \mid a,b,c,d \in \mathbb{R}, i^2 = j^2 = k^2 = ijk = -1\}$. Is $\mathbb{H}$ a ring, a division ring, an integral domain? Give two different idempotents of $\mathbb{H}$. Compute $(1+i+j+k)^2$, $(1-3i+k)(2+j)$, and $(2+j)(1-3i+k)$. What is the inverse of $1+2i-2k$?
 
-  
-  
-**
