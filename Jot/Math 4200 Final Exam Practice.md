@@ -41,65 +41,39 @@
 
 (d). Write down the subgroup lattice of $\mathbb{Z}/12\mathbb{Z}$.
 
+
+
 ## Question 3.
 
-(a).
+(a). What is a permutation group $S_n$? What is the parity of $\tau \in S_n$? $|S_n| =$ ?
 
-What is a permutation group $S_n$? What is the parity of $\tau \in S_n$? $|S_n| =$ ?
 
-  
-  
-  
 
-(b).
+(b). What is $A_n$? $|A_n| =$ ?
 
-What is $A_n$? $|A_n| =$ ?
 
-  
-  
-  
 
-(c).
+(c). How to write a permutation in terms of a product of distinct cycles? Write $\tau = (123)(3516)$ as a product of disjoint cycles. What is the inverse of $\tau$? What is its order? Is it in $A_6$?
 
-How to write a permutation in terms of a product of distinct cycles? Write $\tau = (123)(3516)$ as a product of disjoint cycles. What is the inverse of $\tau$? What is its order? Is it in $A_6$?
 
-  
-  
-  
 
 ## Question 4.
 
-(a).
+(a). Let $G$ and $H$ be groups and $\alpha : G \rightarrow H$ a map. Under what condition is $\alpha$ a homomorphism?
 
-Let $G$ and $H$ be groups and $\alpha : G \rightarrow H$ a map. Under what condition is $\alpha$ a homomorphism?
 
-  
-  
-  
 
-(b).
+(b). What is the kernel of a homomorphism?
 
-What is the kernel of a homomorphism?
 
-  
-  
-  
 
-(c).
+(c). Describe one onto homomorphism from $S_3$ to $C_3$ and compute the kernel of this homomorphism.
 
-Describe one onto homomorphism from $S_3$ to $C_3$ and compute the kernel of this homomorphism.
 
-  
-  
-  
 
-(d).
+(d). What is an isomorphism?
 
-What is an isomorphism?
 
-  
-  
-  
 
 (e).
 
