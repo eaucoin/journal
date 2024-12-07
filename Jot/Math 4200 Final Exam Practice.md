@@ -75,79 +75,43 @@
 
 
 
-(e).
+(e). Is $S_3$ isomorphic to the Dihedral group $D_3 = \langle a, b \mid a^3 = b^2 = 1, aba = b\rangle$? Why? If yes, please specify such an isomorphism.
 
-Is $S_3$ isomorphic to the Dihedral group $D_3 = \langle a, b \mid a^3 = b^2 = 1, aba = b\rangle$? Why? If yes, please specify such an isomorphism.
 
-  
-  
-  
 
-(f).
+(f). Decide whether the map $\alpha : \mathbb{R} \rightarrow GL_2(\mathbb{R})$ given by $\alpha(r) = \begin{pmatrix} 1 & r \\ 0 & 1 \end{pmatrix}$ is a group isomorphism.
 
-Decide whether the map $\alpha : \mathbb{R} \rightarrow GL_2(\mathbb{R})$ given by $\alpha(r) = \begin{pmatrix} 1 & r \\ 0 & 1 \end{pmatrix}$ is a group isomorphism.
 
-  
-  
-  
 
-(g).
+(g). What is an automorphism of $G$? Given one non-trivial automorphism of $S_3$.
 
-What is an automorphism of $G$? Given one non-trivial automorphism of $S_3$.
 
-  
-  
-  
 
-(h).
+(h). State the isomorphism theorem for groups.
 
-State the isomorphism theorem for groups.
 
-  
-  
-  
 
 ## Question 5.
 
-(a).
+(a). State Lagrange's Theorem.
 
-State Lagrange's Theorem.
 
-  
-  
-  
 
-(b).
+(b). Let $G = D_6 = \langle r, s \mid r^6 = s^2 = 1, rsr = s\rangle$ and $H = \langle r^2\rangle$. Write down all right cosets of $H$ in $G$.
 
-Let $G = D_6 = \langle r, s \mid r^6 = s^2 = 1, rsr = s\rangle$ and $H = \langle r^2\rangle$. Write down all right cosets of $H$ in $G$.
 
-  
-  
-  
 
-(c).
+(c). Show that $H$ is normal in $G$. Compute the Cayley table of the factor group $G/H$ using the cosets.
 
-Show that $H$ is normal in $G$. Compute the Cayley table of the factor group $G/H$ using the cosets.
 
-  
-  
-  
 
-(d).
+(d). Suppose that $G$ has subgroups of orders 40 and 100. If $|G| \leq 300$, determine $|G|$. Please justify your answer.
 
-Suppose that $G$ has subgroups of orders 40 and 100. If $|G| \leq 300$, determine $|G|$. Please justify your answer.
 
-  
-  
-  
 
-(e).
+(e). Show that $K = \{e,(12)(34),(13)(24),(14)(23)\}$ is normal in $S_4$. Determine the structure of $S_4/K$ using the Cayley table of $S_4/K$.
 
-Show that $K = \{e,(12)(34),(13)(24),(14)(23)\}$ is normal in $S_4$. Determine the structure of $S_4/K$ using the Cayley table of $S_4/K$.
 
-  
-  
-  
 
 ## Question 6.
 
