@@ -3,8 +3,12 @@
 ### Part (a).
 When is a non-empty set a group? List three different groups (one cyclic, one abelian but not cyclic, one non-abelian) that you know please specify the binary operator for each case.
 
+
+
 ### Part (b).
 Let $G$ be a group. When is a non-empty subset $H$ of $G$ a subgroup? How many different subgroups $S_3$ has? Please enumerate them.
+
+
 
 ### Part (c).
 When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
