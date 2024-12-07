@@ -3,10 +3,12 @@
 
 (a). When is a non-empty set a group? List three different groups (one cyclic, one abelian but not cyclic, one non-abelian) that you know please specify the binary operator for each case.
 
-A nonempty set $G$ is a group is an only if for all $(a,\;b,\;c)\in G^3$,
+A nonempty set $G$ is a group is an only if
+$$(\exists 1\in G)(\forall)$$
+and for all $(a,\;b,\;c)\in G^3$,
 - $(ab)c=a(bc)$
 - $ab\in G$
-- $(\exists a^{-1})$
+- $(\exists a^{-1}\in G)(aa^{-1}=1)$
 
 (b). Let $G$ be a group. When is a non-empty subset $H$ of $G$ a subgroup? How many different subgroups $S_3$ has? Please enumerate them.
 
