@@ -33,9 +33,13 @@ $$S_3=\{\epsilon, \begin{pmatrix}1&2\end{pmatrix},\begin{pmatrix}1&3\end{pmatrix
 From here, we can hash out some obvious groups:
 $$\begin{align*}
 
-H_1=\{\epsilon\}\\
-\{\begin{pmatrix}1&2\end{pmatrix}\\
-\begin{pmatrix}1&3\end{pmatrix},\begin{pmatrix}2&3\end{pmatrix},\begin{pmatrix}1&2&3\end{pmatrix},\begin{pmatrix}1&3&2\end{pmatrix}\}\text{.}
+H_1=&\{\epsilon\}\\
+H_2=&\{\begin{pmatrix}1&2\end{pmatrix}\\
+H_3=&\{\begin{pmatrix}1&3\end{pmatrix}\\
+H_4=\begin{pmatrix}2&3\end{pmatrix}\\
+\begin{pmatrix}1&2&3\end{pmatrix}\\
+\begin{pmatrix}1&3&2\end{pmatrix}\}
+\text{.}
 
 \end{align*}$$
 
