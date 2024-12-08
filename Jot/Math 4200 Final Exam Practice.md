@@ -28,7 +28,7 @@ Then:
 - $(\forall (a,\;b)\in H^2)(a\star b\in H)$
 - $(\forall a\in H)(\exists a^{-1}\in H)(aa^{-1}=1_G)$
 
-(ii). Let's find the subgroups of $S_3$. $S_3$, has $3!=6$ elements, and th
+(ii). Let's find the subgroups of $S_3$. $S_3$, has $3!=6$ elements, and therefore subgroups can be of order $1$, $2$, or $3$. Now
 
 (c). When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
