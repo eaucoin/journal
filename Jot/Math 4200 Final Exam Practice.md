@@ -24,7 +24,8 @@ If $H\subseteq G$, then $(H,\;\star)<(G,\;\star)$ iff
 
 (c). When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
-
+$H\triangleleft G$ iff 
+$$\text{.}$$
 
 (d). Write down a group $G$, a normal subgroup $K$ of $G$ and a subgroup $H$ of $G$ which is not normal.
 
