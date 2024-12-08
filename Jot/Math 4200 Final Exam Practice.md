@@ -30,7 +30,14 @@ Then:
 
 (ii). Let's find the subgroups of $S_3$. $S_3$, has $3!=6$ elements, and therefore subgroups can be of order $1$, $2$, or $3$. Now, 
 $$S_3=\{\epsilon, \begin{pmatrix}1&2\end{pmatrix},\begin{pmatrix}1&3\end{pmatrix},\begin{pmatrix}2&3\end{pmatrix},\begin{pmatrix}1&2&3\end{pmatrix},\begin{pmatrix}1&3&2\end{pmatrix}\}\text{.}$$
-Fr
+From here, we can hash out some obvious groups:
+$$\begin{align*}
+
+H_1=\{\epsilon\}\\
+\{\begin{pmatrix}1&2\end{pmatrix}\\
+\begin{pmatrix}1&3\end{pmatrix},\begin{pmatrix}2&3\end{pmatrix},\begin{pmatrix}1&2&3\end{pmatrix},\begin{pmatrix}1&3&2\end{pmatrix}\}\text{.}
+
+\end{align*}$$
 
 (c). When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
