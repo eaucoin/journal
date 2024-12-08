@@ -3,6 +3,7 @@
 
 (a). When is a non-empty set a group? List three different groups (one cyclic, one abelian but not cyclic, one non-abelian) that you know please specify the binary operator for each case.
 
+
 A nonempty set $G$ is a group is an only if
 $$(\exists 1\in G)(\forall a\in G)(a1=1a=a)\text{,}$$
 and for all $(a,\;b,\;c)\in G^3$,
@@ -25,7 +26,7 @@ If $H\subseteq G$, then $(H,\;\star)<(G,\;\star)$ iff
 (c). When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
 $H\triangleleft G$ iff 
-$$\text{.}$$
+$$(\forall a\in G)(aH=Ha)\text{.}$$
 
 (d). Write down a group $G$, a normal subgroup $K$ of $G$ and a subgroup $H$ of $G$ which is not normal.
 
