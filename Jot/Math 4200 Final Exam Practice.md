@@ -13,11 +13,11 @@ and for all $(a,\;b,\;c)\in G^3$,
 Then:
 - For $n\in\mathbb{N}$, $(\mathbb{Z}_{n},\;+)$ is cyclic with order $n$. 
 - The group $(\mathbb{R},+)$ is obviously abelian, but obviously not cyclic.
-- For $n\geq 3$
+- For $n\geq 3$, the symmetric group $S_n$ is not abelian.
 
 (b). Let $G$ be a group. When is a non-empty subset $H$ of $G$ a subgroup? How many different subgroups $S_3$ has? Please enumerate them.
 
-
+If H
 
 (c). When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
