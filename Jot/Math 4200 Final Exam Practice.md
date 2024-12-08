@@ -18,7 +18,9 @@ Then:
 (b). Let $G$ be a group. When is a non-empty subset $H$ of $G$ a subgroup? How many different subgroups $S_3$ has? Please enumerate them.
 
 If $H\subseteq G$, then $(H,\;\star)<(G,\;\star)$ iff 
-- $1_G\$
+- $1_G\in H$
+- $(\forall (a,\;b)\in H^2)(a\star b\in H)$
+- $(\forall a\in H)(\exists a^{-1}\in H)(aa^{-1}=1_G)$
 
 (c). When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
