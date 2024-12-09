@@ -392,7 +392,7 @@ $$\begin{align*}
 g(p^\alpha) =& \sum_{d\mid p^\alpha}F(d)\mu(\frac{p^\alpha}{d})\\
 =& \sum_{0\leq\beta\leq\alpha}F(p^\beta)\mu(p^{\alpha-\beta})
 \end{align*}$$
-
+rrrrrrrrrrr
 By the definition of the Von Mangoldt function, $\mu(p^{\alpha-\beta})=0$ when $\alpha-\beta\geq2$ by definition, that is, when $\beta\leq\alpha-2$. Therefore:
 
 $$\begin{align*}
