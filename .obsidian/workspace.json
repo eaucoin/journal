@@ -36,35 +36,21 @@
             }
           },
           {
-            "id": "7e6c6619f1b5f12b",
+            "id": "0f1f2a969c0873dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
+                "file": "Jot/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra, Subgroups"
-            }
-          },
-          {
-            "id": "9e62fb1bf694eeca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abstract Algebra, Cosets and Lagrange's Theorem"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "a44921645f7993c2",
@@ -206,14 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb9e8fff51934d02",
+  "active": "0f1f2a969c0873dd",
   "lastOpenFiles": [
-    "Jot/Abstract Algebra Final Exam Practice.md",
     "Jot/Number Theory Final Exam Practice.md",
+    "Jot/Untitled.md",
+    "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
+    "Jot/Abstract Algebra Final Exam Practice.md",
     "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
     "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
-    "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
     "Math/Abstract Algebra/Abstract Algebra, Binary Operations.md",
     "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
