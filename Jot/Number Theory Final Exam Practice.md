@@ -359,12 +359,12 @@ Now,
 $$\begin{align*}
 F(p^{\alpha}) =& \sum_{0\leq b_i\leq\alpha}\mu(p^{\beta_i})\\\\
 =&\bigg(\sum_{0\leq b_{i}\leq 1}\mu(p^{\beta_i})\bigg)+\bigg(\sum_{2\leq\beta_i\leq\alpha}\mu(p^2p^{\beta_i-2})\bigg)\\\\\
-=&\big[\mu(1) + \mu(p)\mu(p^2)\big]+\big[\dots +\mu(p^{\alpha})\big]\\\\
+=&\big[\mu(1) + \mu(p)\big]+\big[\mu(p^2)+\dots +\mu(p^{\alpha})\big]\\\\
 =&1-(-1)^{1}+0\\\\
 =&\;0\text{,}
 \end{align*}$$
 
-Therefore, $F(n) = 0$. ■
+so the Therefore, $F(n) = 0$. ■
 
 (3). Let:
 $$g(n) = \sum_{d\mid mn}F(d)\mu(\frac{n}{d})$$
