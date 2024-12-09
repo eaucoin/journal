@@ -373,18 +373,16 @@ F(n) &= F(p_1^{\alpha_1})F(p_2^{\alpha_2})\dots F(p_k^{\alpha_k})\\
 
 \end{align*}$$
 
-Ah, I understand. Here's part (3) correctly interposed with the solution:
-
 (3). Let $g(n) = \sum_{d\mid n}F(d)\mu(\frac{n}{d})$. Using the fact that if $m,n\geq1$, $\gcd(m,n)=1$, each divisor $d\mid mn$ can be written as $d=d_1d_2$, $d_1\mid m$, $d_2\mid n$, in a unique fashion, show that $g$ is multiplicative.
 
 Solution:
 Let $m,n\geq1$ and $\gcd(m,n)=1$. Then:
 $$\begin{align*}
-g(mn) =& \sum_{d\mid mn}F(d)\mu(\frac{mn}{d})\\
-=& \sum_{d_1\mid m\\d_2\mid n}F(d_1d_2)\mu(\frac{mn}{d_1d_2})\\
-\text{Remark and part 1:}&\\
-=& \sum_{d_1\mid m\\d_2\mid n}F(d_1)F(d_2)\mu(\frac{m}{d_1})\mu(\frac{n}{d_2})\\
-=& \left[\sum_{d_1\mid m}F(d_1)\mu(\frac{m}{d_1})\right]\left[\sum_{d_2\mid n}F(d_2)\mu(\frac{n}{d_2})\right]\\
+g(mn) =& \sum_{d\mid mn}F(d)\mu(\frac{mn}{d})\\\\
+=& \sum_{d_1\mid m\\d_2\mid n}F(d_1d_2)\mu(\frac{mn}{d_1d_2})\\\\
+\text{Remark and part 1:}&\\\\
+=& \sum_{d_1d_2\mid n}F(d_1)F(d_2)\mu(\frac{m}{d_1})\mu(\frac{n}{d_2})\\\\
+=& \left[\sum_{d_1\mid m}F(d_1)\mu(\frac{m}{d_1})\right]\left[\sum_{d_2\mid n}F(d_2)\mu(\frac{n}{d_2})\right]\\\\
 =& g(m)g(n)\text{. }■
 \end{align*}$$
 
