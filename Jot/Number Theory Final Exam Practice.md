@@ -367,8 +367,8 @@ F(p^{\alpha}) =& \sum_{0\leq b_i\leq\alpha}\mu(p^{\beta_i})\\\\
 and so the right hand summand is $0$, even if $\alpha < 2$. Therefore, 
 $$\begin{align*}
 
-F(n) &= \\
-0
+F(n) &= F(p_1^{\alpha_1})F(p_2^{\alpha_2})\dots F(p_k^{\alpha_k})\\
+&=0\cdot 0
 
 \end{align*}$$
 
