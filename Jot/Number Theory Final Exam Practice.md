@@ -364,7 +364,8 @@ F(p^{\alpha}) =& \sum_{0\leq b_i\leq\alpha}\mu(p^{\beta_i})\\\\
 =&\;0\text{,}
 \end{align*}$$
 
-so the Therefore, $F(n) = 0$. ■
+and so the right hand summand is $0$, even if $\alpha < 2$. Therefore, 
+$F(n) = 0$.
 
 (3). Let:
 $$g(n) = \sum_{d\mid mn}F(d)\mu(\frac{n}{d})$$
