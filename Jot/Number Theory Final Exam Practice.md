@@ -358,9 +358,10 @@ $$\begin{align*}
 Now, 
 $$\begin{align*}
 F(p^{\alpha}) =& \sum_{0\leq b_i\leq\alpha}\mu(p^{\beta_i})\\\\
-=&\bigg(\sum_{0\leq b_{i}\leq 2}\mu(p^{\beta_i})\bigg)+\bigg(\sum_{2<\beta_i\leq\alpha}\mu(p^2p^{\beta_i-2}\bigg)\\\\\
+=&\bigg(\sum_{0\leq b_{i}\leq 2}\mu(p^{\beta_i})\bigg)+\bigg(\sum_{2<\beta_i\leq\alpha}\mu(p^2p^{\beta_i-2})\bigg)\\\\\
 =&\big[\mu(1) + \mu(p) + \mu(p^2)\big]+\big[\dots +\mu(p^{\alpha})\big]\\\\
-\text{,}
+=&1-(-1)^{1}+0\\\\
+=&\;0\text{,}
 \end{align*}$$
 
 Therefore, $F(n) = 0$. ■
