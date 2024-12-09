@@ -336,4 +336,54 @@ $$n = p_1^{\alpha_1}\cdots p_k^{\alpha_k}\text{, where }p_1,\cdots,p_k\text{ are
 
 Let $F(n) = \sum_{d\mid n}\mu(d)$
 
-[Continue with the rest of Problem 7 and Problem 8?]
+By part 1, $\mu$ is multiplicative. Then, $F$ is multiplicative. Therefore:
+
+$$\begin{align*}
+\sum_{d\mid n}\mu(d) =& F(n) = F(p_1^{\alpha_1})\cdots F(p_k^{\alpha_k})\\\\
+F(p^{\alpha}) =& \mu(1) + \mu(p) + \mu(p^2)\\
+=& 1 + (-1) + 0 = 0\text{ when }\beta_1\geq2
+\end{align*}$$
+
+Therefore, $F(n) = 0$. ■
+
+(3). Let:
+$$g(n) = \sum_{d\mid mn}F(d)\mu(\frac{n}{d})$$
+
+Using Remark and part 1:
+$$\begin{align*}
+=& \sum_{d_1\mid m\\d_2\mid n}F(d_1)F(d_2)\mu(\frac{m}{d_1})\mu(\frac{n}{d_2})\\\\
+=& [\sum_{d_1\mid m}F(d_1)\mu(\frac{m}{d_1})][\sum_{d_2\mid n}F(d_2)\mu(\frac{n}{d_2})]\\\\
+=& g(m)g(n)\text{. }■
+\end{align*}$$
+
+(4). If $F(n) := \sum_{d\mid n}f(d)$, using the definition of $\mu$, show that $g(p^\alpha) = f(p^\alpha)$:
+
+$$\begin{align*}
+g(p^\alpha) =& \sum_{d\mid p^\alpha}F(d)\mu(\frac{p^\alpha}{d})\\
+=& \sum_{0\leq\beta\leq\alpha}F(p^\beta)\mu(p^{\alpha-\beta})
+\end{align*}$$
+
+By the definition of the Von Mangoldt function, $\mu(p^{\alpha-\beta})=0$ when $\alpha-\beta\geq2$ by definition, that is, when $\beta\leq\alpha-2$. Therefore:
+
+$$\begin{align*}
+g(p^\alpha) =& F(p^{\alpha-1})\mu(p) + F(p^\alpha)\mu(1)\\
+=& F(p^\alpha) - F(p^{\alpha-1})\\
+=& f(p^\alpha)\text{. }■
+\end{align*}$$
+
+(5). Use (4) & (3) to show that (Möbius inversion):
+$$\sum_{d\mid n}F(d)\mu(\frac{n}{d}) = f(n)$$
+
+Write:
+$$n=p_1^{\alpha_1}\cdots p_k^{\alpha_k}\text{, }p_1,\cdots,p_k\text{ are distinct primes,}$$
+$$\alpha_1\geq1,\cdots,\alpha_k\geq1$$
+
+Then:
+$$\begin{align*}
+\sum_{d\mid n}F(d)\mu(\frac{n}{d}) =& g(n)\\
+\stackrel{3.}{=}& g(p_1^{\alpha_1})\cdots g(p_k^{\alpha_k})\\
+\stackrel{4.}{=}& f(p_1^{\alpha_1})\cdots f(p_k^{\alpha_k})\\
+=& f(n)\text{ by multiplicativity of }f
+\end{align*}$$
+
+[Continue with part (6) and Problem 8?]
