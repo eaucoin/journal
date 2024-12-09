@@ -224,6 +224,7 @@ Since $a\mid mra^2$, $msac$ & $nrab$ obviously, and since we assume that $a\mid 
 we have $a\mid\gcd(a,b)\gcd(a,c)$. ■
 
 ## Problem 5.
+
 Suppose $x^2-5y^2=3$ has integer solutions $x,y$.
 
 Taking the equation modulo 5:
