@@ -315,7 +315,7 @@ mn=&k^2m_1n\text{ which is also divisible by }k^2\text{, so }\mu(mn)=0\\
 
 Case 3:
 $$\begin{align*}
-&m>1, n>1\text{ and }m\text{ & }n\text{ are not divisible by a square,}\\
+&m>1, n>1\text{ and }m\text{ and }n\text{ are not divisible by a square,}\\
 &\text{that is, they are both a product of distinct primes, say:}\\\\
 m=&p_1\cdots p_k\text{, where }p_1,\cdots,p_k\text{ are distinct primes}\\
 n=&q_1\cdots q_s\text{, where }q_1,\cdots,q_s\text{ are distinct primes}\\\\
