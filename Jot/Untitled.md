@@ -5,6 +5,6 @@ Then what sends $g$ to $1$ is obviously $g^{p-1}$, since $gg^{p-1}=g^{p}=1$. Now
 $$\begin{align*}
 
 (g^{p-1})^{n}&=(g^{p})^{n}(g^n)^{-1}\\
-&=
+&=g^{n}
 
 \end{align*}$$
