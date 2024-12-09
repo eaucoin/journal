@@ -379,9 +379,9 @@ Solution:
 Let $m,n\geq1$ and $\gcd(m,n)=1$. Then:
 $$\begin{align*}
 g(mn) =& \sum_{d\mid mn}F(d)\mu(\frac{mn}{d})\\\\
-=& \sum_{d_1\mid m\\d_2\mid n}F(d_1d_2)\mu(\frac{mn}{d_1d_2})\\\\
+=& \sum_{d_1d_2|mn}F(d_1d_2)\mu(\frac{mn}{d_1d_2})\\\\
 \text{Remark and part 1:}&\\\\
-=& \sum_{d_1d_2\mid n}F(d_1)F(d_2)\mu(\frac{m}{d_1})\mu(\frac{n}{d_2})\\\\
+=& \sum_{d_1\mid m,\;d_2\mid n}F(d_1)F(d_2)\mu(\frac{m}{d_1})\mu(\frac{n}{d_2})\\\\
 =& \left[\sum_{d_1\mid m}F(d_1)\mu(\frac{m}{d_1})\right]\left[\sum_{d_2\mid n}F(d_2)\mu(\frac{n}{d_2})\right]\\\\
 =& g(m)g(n)\text{. }■
 \end{align*}$$
