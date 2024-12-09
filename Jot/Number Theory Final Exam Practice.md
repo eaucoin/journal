@@ -284,8 +284,8 @@ unless $1\leq\beta_i\leq\alpha_i$ for some $1\leq i\leq k$ and $\beta_j=0$ for $
 $$\begin{align*}
 \sum_{d\mid n}\Lambda(d) =& 0 + \sum_{1\leq\beta_1\leq\alpha_1}\Lambda(p_1^{\beta_1}) +\cdots+ \sum_{1\leq\beta_k\leq\alpha_k}\Lambda(p_k^{\beta_k})\\\\
 =& \sum_{1\leq\beta_1\leq\alpha_1}\log(p_1) +\cdots+ \sum_{1\leq\beta_k\leq\alpha_k}\log(p_k)\\\\
-=& \alpha_1\log(p_1)+\cdots+\alpha_k\log(p_k)\\
-=& \log(p_1^{\alpha_1}\cdots p_k^{\alpha_k})\\
+=& \alpha_1\log(p_1)+\cdots+\alpha_k\log(p_k)\\\\
+=& \log(p_1^{\alpha_1}\cdots p_k^{\alpha_k})\\\\
 =& \log(n)\text{. }■
 \end{align*}$$
 
@@ -355,7 +355,7 @@ By part 1, $\mu$ is multiplicative. Then, $F$ is multiplicative. Therefore:
 
 $$\begin{align*}
 \sum_{d\mid n}\mu(d) =& F(n) = F(p_1^{\alpha_1})\cdots F(p_k^{\alpha_k})\\\\
-F(p^{\alpha}) =& \mu(1) + \mu(p) + \mu(p^2)\\
+F(p^{\alpha}) =& \mu(1) + \mu(p) + \mu(p^2)+\dpt\\
 =& 1 + (-1) + 0 = 0\text{ when }\beta_1\geq2
 \end{align*}$$
 
