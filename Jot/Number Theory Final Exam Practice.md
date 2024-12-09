@@ -351,10 +351,12 @@ $$n = p_1^{\alpha_1}\cdots p_k^{\alpha_k}\text{, where }p_1,\cdots,p_k\text{ are
 
 Let $F(n) = \sum_{d\mid n}\mu(d)$
 
-By part 1, $\mu$ is multiplicative. Then, $F$ is multiplicative. Therefore:
+By part 1, $\mu$ is multiplicative. Then, $F$ is multiplicative. Therefore,
 
 $$\begin{align*}
-\sum_{d\mid n}\mu(d) =& F(n) \\\\=& F(p_1^{\alpha_1})\cdots F(p_k^{\alpha_k})
+\sum_{d\mid n}\mu(d) =& F(n) \\=& F(p_1^{\alpha_1})\cdots F(p_k^{\alpha_k})\text{.}\end{align*}$$
+Now, 
+$$\begin{align*}
 F(p^{\alpha}) =& \mu(1) + \mu(p) + \mu(p^2)+\dots +\mu(p^{\alpha})\\\\
 =& 1 + (-1) + 0 \\\\=& 0\text{ when }\beta_1\geq2
 \end{align*}$$
