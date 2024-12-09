@@ -364,11 +364,12 @@ F(p^{\alpha}) =& \sum_{0\leq b_i\leq\alpha}\mu(p^{\beta_i})\\\\
 =&\;0\text{,}
 \end{align*}$$
 
-and so the right hand summand is $0$, even if $\alpha < 2$. Therefore, 
+and so the right hand summation is $0$, even if $\alpha < 2$. Therefore, 
 $$\begin{align*}
 
 F(n) &= F(p_1^{\alpha_1})F(p_2^{\alpha_2})\dots F(p_k^{\alpha_k})\\
-&=0\cdot 0
+&=0\cdot 0\cdots 0\\
+&=0\text{.}
 
 \end{align*}$$
 
