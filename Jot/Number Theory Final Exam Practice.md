@@ -386,4 +386,39 @@ $$\begin{align*}
 =& f(n)\text{ by multiplicativity of }f
 \end{align*}$$
 
-[Continue with part (6) and Problem 8?]
+(6). Show that multiplicativity of $f$ is NOT needed for Möbius inversion:
+
+Let $F(n) := \sum_{e\mid n}f(e)$
+
+Then:
+$$\begin{align*}
+\sum_{d\mid n}F(d)\mu(\frac{n}{d}) =& \sum_{d\mid n}[\sum_{e\mid d}f(e)]\mu(\frac{n}{d})\\
+=& \sum_{n=dd_1}[\sum_{e\mid d}f(e)]\mu(d_1)\\
+=& \sum_{d\mid n}[\sum_{e\mid\frac{n}{d_1}}f(e)]\mu(d_1)\\
+=& \sum_{e\mid n}f(e)\sum_{d_1\mid\frac{n}{e}}\mu(d_1)\\
+=& f(n)\text{. }■
+\end{align*}$$
+
+## Problem 8.
+Let $p$ be an odd prime and $g$ a primitive root of $p$. Show using the definition that $g^{-1} \pmod{p}$ is also a primitive root.
+
+First:
+$$\begin{align*}
+(g^{-1})^{p-1} =& g^{(-1)(p-1)}\\
+=& (g^{p-1})^{(-1)}\\
+\equiv& 1 \pmod{p}
+\end{align*}$$
+
+Now, suppose that $(g^{-1})^n \equiv 1 \pmod{p}$ for $1\leq n\leq p-1$
+
+Then:
+$$\begin{align*}
+1\equiv& g^{-n}\\
+\equiv& g^{(p-1)-n}\\
+\Rightarrow& g^{(p-1)-n} \equiv 1 \pmod{p}\\
+\text{and }& 1\leq(p-1)-n < p-1
+\end{align*}$$
+
+contradicting the definition of primitive root of $p$.
+
+By contradiction, $g^{-1}$ is a primitive root of $p$. ■
