@@ -226,7 +226,7 @@ we have $a\mid\gcd(a,b)\gcd(a,c)$. ■
 ## Problem 5.
 Using an appropriate congruence, show that the equation $x^2-6y^2=3$ has no integer solutions.
 
-Solution. Suppose $x^2-5y^2=3$ has integer solutions $x,y$.
+**Solution.** Suppose $x^2-5y^2=3$ has integer solutions $x,y$.
 
 Taking the equation modulo 5:
 $$x^2 \equiv 3 \pmod{5}$$
@@ -282,8 +282,8 @@ $$\begin{align*}
 unless $1\leq\beta_i\leq\alpha_i$ for some $1\leq i\leq k$ and $\beta_j=0$ for $j\neq i$. In other words:
 
 $$\begin{align*}
-\sum_{d\mid n}\Lambda(d) =& 0 + \sum_{1\leq\beta_1\leq\alpha_1}\Lambda(p_1^{\beta_1}) +\cdots+ \sum_{1\leq\beta_k\leq\alpha_k}\Lambda(p_k^{\beta_k})\\
-=& \sum_{1\leq\beta_1\leq\alpha_1}\log(p_1) +\cdots+ \sum_{1\leq\beta_k\leq\alpha_k}\log(p_k)\\
+\sum_{d\mid n}\Lambda(d) =& 0 + \sum_{1\leq\beta_1\leq\alpha_1}\Lambda(p_1^{\beta_1}) +\cdots+ \sum_{1\leq\beta_k\leq\alpha_k}\Lambda(p_k^{\beta_k})\\\\
+=& \sum_{1\leq\beta_1\leq\alpha_1}\log(p_1) +\cdots+ \sum_{1\leq\beta_k\leq\alpha_k}\log(p_k)\\\\
 =& \alpha_1\log(p_1)+\cdots+\alpha_k\log(p_k)\\
 =& \log(p_1^{\alpha_1}\cdots p_k^{\alpha_k})\\
 =& \log(n)\text{. }■
