@@ -8,4 +8,4 @@ $$\begin{align*}
 &=(g^{n})^{-1}
 
 \end{align*}$$
-But $\{g^n\;|\;0\leq n\leq p-1\}$
+But $\{g^n\;|\;0\leq n\leq p-1\}=\{(g^n)^{-1}\;|\;0\leq n\leq p-1\}$; they just enumerate in opposite directions. Therefore, $g^{p-1}=g^{-1}$ is a primitive root of $p$.
