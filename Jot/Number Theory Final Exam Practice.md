@@ -224,8 +224,9 @@ Since $a\mid mra^2$, $msac$ & $nrab$ obviously, and since we assume that $a\mid 
 we have $a\mid\gcd(a,b)\gcd(a,c)$. ■
 
 ## Problem 5.
+Using an appropriate congruence, show that the equation $x^2-6y^2=3$ has no integer solutions.
 
-Suppose $x^2-5y^2=3$ has integer solutions $x,y$.
+Solution. Suppose $x^2-5y^2=3$ has integer solutions $x,y$.
 
 Taking the equation modulo 5:
 $$x^2 \equiv 3 \pmod{5}$$
