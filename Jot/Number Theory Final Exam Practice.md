@@ -255,4 +255,85 @@ Now, note that all divisors $d\mid n$ correspond to:
 $$d = p_1^{\beta_1}\cdots p_k^{\beta_k}$$ 
 with $0\leq\beta_1\leq\alpha_1,\cdots,0\leq\beta_k\leq\alpha_k$.
 
-[Should I continue with the rest of this problem and Problems 7-8?]
+Then:
+$$\begin{align*}
+\sum_{d\mid n}\Lambda(d) =& \sum_{0\leq\beta_1\leq\alpha_1,\cdots,0\leq\beta_k\leq\alpha_k}\Lambda(p_1^{\beta_1}\cdots p_k^{\beta_k})
+\end{align*}$$
+
+By the definition of the Von Mangoldt function:
+$$\begin{align*}
+\Lambda(p_1^{\beta_1}\cdots p_k^{\beta_k}) = 0
+\end{align*}$$
+unless $1\leq\beta_i\leq\alpha_i$ for some $1\leq i\leq k$ and $\beta_j=0$ for $j\neq i$. In other words:
+
+$$\begin{align*}
+\sum_{d\mid n}\Lambda(d) =& 0 + \sum_{1\leq\beta_1\leq\alpha_1}\Lambda(p_1^{\beta_1}) +\cdots+ \sum_{1\leq\beta_k\leq\alpha_k}\Lambda(p_k^{\beta_k})\\
+=& \sum_{1\leq\beta_1\leq\alpha_1}\log(p_1) +\cdots+ \sum_{1\leq\beta_k\leq\alpha_k}\log(p_k)\\
+=& \alpha_1\log(p_1)+\cdots+\alpha_k\log(p_k)\\
+=& \log(p_1^{\alpha_1}\cdots p_k^{\alpha_k})\\
+=& \log(n)\text{. }■
+\end{align*}$$
+
+(3). Is $\Lambda$ multiplicative? Why or why not?
+
+$$\begin{align*}
+\Lambda(6) =& 0\\
+\Lambda(2)\Lambda(3) =& (\log 2)(\log 3) \neq 0\\
+\text{and }& 6=2\times3\text{ with }\gcd(2,3)=1
+\end{align*}$$
+
+Therefore, $\Lambda$ is not multiplicative.
+
+## Problem 7.
+Define the Möbius function:
+$$\mu(n) := \begin{cases}
+1, & n=1\\
+(-1)^k, & n\text{ is the product of }k\text{ distinct primes}\\
+0, & n\text{ is divisible by a square}>1
+\end{cases}$$
+
+(1). Show that if $m,n \geq 1$, $\gcd(m,n)=1$, then $\mu(mn) = \mu(m)\mu(n)$
+
+We consider three Cases:
+
+Case 1:
+$$\begin{align*}
+\text{a) }m=1:&\\
+\text{Then, }&\mu(m)=1\text{ by definition}\\
+\mu(mn)=&\mu(1\times n)=\mu(n)=1\times\mu(n)=\mu(m)\mu(n)\\\\
+\text{b) }n=1:&\\
+&\mu(mn)=\mu(m)\mu(n)\text{ Similarly to (a)}
+\end{align*}$$
+
+Case 2:
+$$\begin{align*}
+\text{a) }m\text{ is divisible}&\text{ by a square, say }k^2m_1\text{, }k^2>1\\
+\text{Then, }&\text{by definition, }\mu(m)=0\\
+mn=&k^2m_1n\text{ which is also divisible by }k^2\text{, so }\mu(mn)=0\\
+\text{Therefore, }&\mu(mn)=\mu(m)\mu(n)
+\end{align*}$$
+
+Case 3:
+$$\begin{align*}
+&m>1, n>1\text{ and }m\text{ & }n\text{ are not divisible by a square,}\\
+&\text{that is, they are both a product of distinct primes, say:}\\\\
+m=&p_1\cdots p_k\text{, where }p_1,\cdots,p_k\text{ are distinct primes}\\
+n=&q_1\cdots q_s\text{, where }q_1,\cdots,q_s\text{ are distinct primes}\\\\
+\text{Then, }&mn=p_1\cdots p_kq_1\cdots q_s\\
+&\text{Since }\gcd(m,n)=1\text{, the primes }p_1,\cdots,p_k,q_1,\cdots,q_s\text{ are all distinct,}\\
+&\text{and thus, by definition:}\\\\
+\mu(mn)=&(-1)^{k+s}=(-1)^k(-1)^s=\mu(m)\mu(n)
+\end{align*}$$
+
+(2). If $n\geq1$, show that:
+$$\sum_{d\mid n}\mu(d) = \begin{cases}
+1; & \text{if }n=1\\
+0; & \text{if }n>1
+\end{cases}$$
+
+Now, suppose $n>1$ and write the prime factorization:
+$$n = p_1^{\alpha_1}\cdots p_k^{\alpha_k}\text{, where }p_1,\cdots,p_k\text{ are distinct primes}$$
+
+Let $F(n) = \sum_{d\mid n}\mu(d)$
+
+[Continue with the rest of Problem 7 and Problem 8?]
