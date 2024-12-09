@@ -358,7 +358,7 @@ $$\begin{align*}
 Now, 
 $$\begin{align*}
 F(p^{\alpha}) =& \sum_{0\leq b_i\leq\alpha}\mu(p^{\beta_i})\\\\
-=&\sum_{b_{i}\in\{0,1,2\}}\mu(p^{\beta_i})+\sum_{2}\\\\\
+=&\sum_{0\leq b_{i}\leq 2}\mu(p^{\beta_i})+\sum_{2<\beta_i\leq}\\\\\
 =&\mu(1) + \mu(p) + \mu(p^2)+\dots +\mu(p^{\alpha})\text{,}
 \end{align*}$$
 
