@@ -162,4 +162,97 @@ $$bc = p_1^{b_1+c_1}\cdots p_k^{b_k+c_k}$$
 Therefore, $a\mid bc$ implies (is equivalent to, in fact) that:
 $$a_i \leq b_i+c_i,\cdots,a_k \leq b_k+c_k \text{ } (1)$$
 
-[Continue with the rest of Problem 4 and Problems 5-8?]
+Now, note that:
+$$\begin{align*}
+\gcd(a,b) =& p_1^{\min(a_1,b_1)}\cdots p_k^{\min(a_k,b_k)}\\
+\gcd(a,c) =& p_1^{\min(a_1,c_1)}\cdots p_k^{\min(a_k,c_k)}
+\end{align*}$$
+
+and therefore:
+$$\gcd(a,b)\gcd(a,c) = p_1^{\min(a_1,b_1)+\min(a_1,c_1)}\cdots p_k^{\min(a_k,b_k)+\min(a_k,c_k)}$$
+
+Therefore, to show that $a\mid\gcd(a,b)\gcd(a,c)$, we need to show that:
+$$\begin{align*}
+a_i \leq& \min(a_i,b_i)+\min(a_i,c_i)\\
+\vdots&\\
+a_k \leq& \min(a_k,b_k)+\min(a_k,c_k)
+\end{align*}$$
+
+Let $1\leq i\leq k$, and we consider two cases:
+
+Case 1: $\min(a_i,b_i) = a_i$ OR $\min(a_i,c_i) = a_i$
+$$\begin{align*}
+\text{In this case, }&\min(a_i,b_i)+\min(a_i,c_i) = a_i+x\text{, }x\geq0\\
+\Rightarrow& a_i \leq \min(a_i,b_i)+\min(a_i,c_i)
+\end{align*}$$
+
+Case 2: $\min(a_i,b_i) = b_i$ and $\min(a_i,c_i) = c_i$
+$$\begin{align*}
+\text{In this case, }&\min(a_i,b_i)+\min(a_i,c_i) = b_i+c_i \geq a_i\\
+&\text{by equation (1)}
+\end{align*}$$
+
+Therefore, $a\mid\gcd(a,b)\gcd(a,c)$. ■
+
+(2). There exists $m,n \in \mathbb{Z}$ such that:
+$$\begin{align*}
+\gcd(a,b) =& ma+nb\\
+\text{and }r,s \in \mathbb{Z}\text{ such that}\\
+\gcd(a,c) =& ra+sc
+\end{align*}$$
+
+Therefore:
+$$\begin{align*}
+\gcd(a,b)\gcd(a,c) =& (ma+nb)(ra+sc)\\
+=& mra^2 + msac + nrab + nsbc
+\end{align*}$$
+
+Since $a\mid mra^2$, $msac$ & $nrab$ obviously, and since we assume that $a\mid bc$,
+we have $a\mid\gcd(a,b)\gcd(a,c)$. ■
+
+## Problem 5.
+Suppose $x^2-5y^2=3$ has integer solutions $x,y$.
+
+Taking the equation modulo 5:
+$$x^2 \equiv 3 \pmod{5}$$
+
+Method 1: By trying out all possible $x \pmod{5}$, we see that this is impossible.
+
+Method 2:
+$$\begin{align*}
+x^2 \equiv 3 \pmod{5}\text{ implies that}&\text{ (is equivalent to, in fact) }(\frac{3}{5})=1\\\\
+\text{However, }(\frac{3}{5}) =& (\frac{5}{3}) = (\frac{2}{3}) = -1\\
+&\text{since }3 \equiv 3 \pmod{8}
+\end{align*}$$
+
+By contradiction, $x^2-5y^2=3$ has no integer solutions.
+
+## Problem 6.
+Define the Von Mangoldt function:
+$$\Lambda(n) := \begin{cases}
+\log p & \text{if }n=p^k\text{ for some prime }p, k\geq 1\\
+0 & \text{otherwise}
+\end{cases}$$
+
+(1). Compute the first 7 values of $\Lambda$:
+$$\begin{align*}
+\Lambda(1) =& 0\\
+\Lambda(2) = \Lambda(2^1) =& \log 2\\
+\Lambda(3) = \Lambda(3^1) =& \log 3\\
+\Lambda(4) = \Lambda(2^2) =& \log 2\\
+\Lambda(5) = \Lambda(5^1) =& \log 5\\
+\Lambda(6) = \Lambda(2\times3) =& 0\\
+\Lambda(7) = \Lambda(7^1) =& \log 7
+\end{align*}$$
+
+(2). Show that $\log(n) = \sum_{d\mid n} \Lambda(d)$ for all $n \geq 1$
+
+Write the prime factorization of $n$ as:
+$$n = p_1^{\alpha_1}\cdots p_k^{\alpha_k}$$
+where $p_1,\cdots,p_k$ are distinct primes & $\alpha_1\geq1,\cdots,\alpha_k\geq1$.
+
+Now, note that all divisors $d\mid n$ correspond to:
+$$d = p_1^{\beta_1}\cdots p_k^{\beta_k}$$ 
+with $0\leq\beta_1\leq\alpha_1,\cdots,0\leq\beta_k\leq\alpha_k$.
+
+[Should I continue with the rest of this problem and Problems 7-8?]
