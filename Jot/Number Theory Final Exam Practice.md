@@ -148,7 +148,16 @@ k+5 =& 5(m+1)+7n\\
 \end{align*}$$
 
 ## Problem 4.
-(1). We write:
+Let $a$, $b$ & $c$ be natural numbers such that $a\mid bc$.
+
+Show that $a\mid\gcd(a,b)\gcd(a,c)$.
+
+Note: I want you to do this in two ways:
+
+(1). Use prime factorizations and how the gcd can be written in terms of prime factorization.
+
+Solution:
+We write:
 $$\begin{align*}
 a =& p_1^{a_1}\cdots p_k^{a_k}\\
 b =& p_1^{b_1}\cdots p_k^{b_k}\\
@@ -157,6 +166,7 @@ c =& p_1^{c_1}\cdots p_k^{c_k}
 
 where $p_1,\cdots,p_k$ are distinct primes and $a_i,\cdots,a_k,b_1,\cdots,b_k,c_1,\cdots,c_k \geq 0$.
 
+Then:
 $$bc = p_1^{b_1+c_1}\cdots p_k^{b_k+c_k}$$
 
 Therefore, $a\mid bc$ implies (is equivalent to, in fact) that:
@@ -194,7 +204,10 @@ $$\begin{align*}
 
 Therefore, $a\mid\gcd(a,b)\gcd(a,c)$. ■
 
-(2). There exists $m,n \in \mathbb{Z}$ such that:
+(2). Do this using the "same ideas" as we proved that $p\mid bc \Rightarrow p\mid b$ or $p\mid c$ when $p$ is prime.
+
+Solution:
+There exists $m,n \in \mathbb{Z}$ such that:
 $$\begin{align*}
 \gcd(a,b) =& ma+nb\\
 \text{and }r,s \in \mathbb{Z}\text{ such that}\\
