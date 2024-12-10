@@ -17,4 +17,31 @@ $$U = \{(t,2t,3t,4t) \in \mathbb{R}^4 : t \in \mathbb{R}\}.$$
 $$T(x_1,x_2,x_3,x_4) = (0,x_2,2x_3,3x_4).$$
 List all eigenvalues and eigenvectors of $T$.
 
-[Should I continue with problems 8-18?]
+8. Let $U = span\{(1,1,1),(1,2,-1)\}$ and $v = (2,4,1)$. Find $x \in U$ such that $\|v-x\| \leq \|v-u\|$ for any $u \in U$.
+
+9. Determine if the following linear transform $T$ is invertible. If it is, find the inverse $T^{-1}$. If it is not, determine the kernel and image.
+$$T: \mathbb{R}^3 \rightarrow \mathbb{R}^3; \quad T(x,y,z) = (x+y, y+z, x+y+z).$$
+
+10. Give an example of a linear map $T: \mathbb{R}^4 \rightarrow \mathbb{R}^4$ such that
+$$range(T) = null(T)$$
+
+11. Suppose that $V$ is finite dimensional and $S,T \in \mathcal{L}(V)$. Prove that $Null(T)$ is a subspace of $Null(ST)$ and $Range(ST)$ is a subspace of $Range(S)$.
+
+12. Suppose $S,T \in \mathcal{L}(V)$ such that $ST = TS$. Prove that $Null(S)$ is invariant under $T$.
+
+13. Suppose that $u,v \in V$ a real inner product space. Prove that
+$$\|u+v\|^2 + \|u-v\|^2 = 2(\|u\|^2 + \|v\|^2).$$
+
+14. Find an orthonormal basis for the linear space spanned by
+$$v_1 = \begin{pmatrix} 1 \\ 1 \\ 1 \\ 1 \end{pmatrix}, \quad v_2 = \begin{pmatrix} 2 \\ 4 \\ 2 \\ 3 \end{pmatrix}.$$
+
+15. Suppose the eigenvalues of $T \in \mathcal{L}(\mathbb{C}^4)$ are $\{5,3\}$. Find all the possible Jordan forms of $T$ (There are 10 of them). Indicate which ones are diagonalizable.
+
+16. Let $V$ be a complex linear space and $A$ be a self-adjoint operator on $V$. Show that every eigenvalue of $A$ must be real.
+
+17. Suppose that the inner product on $\mathbb{R}^3$ is given by
+$$\langle(x_1,y_1,z_1),(x_2,y_2,z_2)\rangle = 3x_1x_2 + y_1y_2 + 2z_1z_2.$$
+Let $B = \{(1,1,1),(1,-1,1),(0,1,1)\}$. Use the Gram-Schmidt algorithm to transform $B$ into an orthonormal basis of $\mathbb{R}^3$.
+
+18. Let $T \in \mathcal{L}(\mathbb{C}^3)$. Suppose that all eigenvalues of $T$ are 7. Find all the Jordan forms of $T$ and write down the minimal polynomials.
+
