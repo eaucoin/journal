@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jot/Number Theory Final Exam Practice.md",
+                "file": "Jot/Linear Algebra Final Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Theory Final Exam Practice"
+              "title": "Linear Algebra Final Practice"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,9 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f1f2a969c0873dd",
+  "active": "fb9e8fff51934d02",
   "lastOpenFiles": [
     "Jot/Number Theory Final Exam Practice.md",
+    "Jot/Linear Algebra Final Practice.md",
     "Jot/Untitled.md",
     "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
     "Jot/Abstract Algebra Final Exam Practice.md",
@@ -226,7 +227,6 @@
     "Jot",
     "Math/Elementary Number Theory",
     "Math/Abstract Algebra",
-    "Math",
-    "4.2.3.md"
+    "Math"
   ]
 }
