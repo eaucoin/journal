@@ -1,6 +1,5 @@
-# Group Theory and Ring Theory Problems and Solutions
 
-## Problem 1(a): When is a non-empty set a group? Give examples.
+Problem 1(a): When is a non-empty set a group? Give examples.
 
 A non-empty set $G$ together with a binary operation $*$ is a group if and only if the following four axioms are satisfied:
 
@@ -28,7 +27,7 @@ Here are three examples of groups:
 
 
 
-## Problem 1(b): When is a non-empty subset *H* of a group *G* a subgroup? How many different subgroups does *S₃* have? Enumerate them.
+Problem 1(b): When is a non-empty subset *H* of a group *G* a subgroup? How many different subgroups does *S₃* have? Enumerate them.
 
 A non-empty subset $H$ of a group $G$ is a subgroup of $G$ (denoted $H \le G$) if $H$ itself forms a group under the same operation as $G$.  This means $H$ must satisfy the four group axioms using the operation inherited from $G$.  
 
@@ -52,7 +51,7 @@ The symmetric group $S_3$ has six subgroups:
 
 
 
-## Problem 1(c): When is $H$ a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
+Problem 1(c): When is $H$ a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
 A subgroup $H$ of a group $G$ is called a **normal subgroup** (denoted $H \trianglelefteq G$) if the left and right cosets of $H$ are equal for every element in $G$.  That is, $gH = Hg$ for all $g \in G$. This is equivalent to the condition $gHg^{-1} = H$ for all $g \in G$ (meaning conjugating H by any element of G leaves H unchanged) or $gHg^{-1} \subseteq H$ for all $g \in G$.
 
