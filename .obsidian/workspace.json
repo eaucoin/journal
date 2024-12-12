@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,10 +220,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c73088ede46af68",
+  "active": "0f1f2a969c0873dd",
   "lastOpenFiles": [
-    "Jot/Group Theory Problems and Solutions.md",
     "Untitled.md",
+    "Jot/Group Theory Problems and Solutions.md",
     "Jot/Abstract Algebra Final Exam Practice.md",
     "Math/Abstract Algebra/Abstract Algebra, Permutations.md",
     "Untitled 1.md",
