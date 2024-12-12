@@ -163,13 +163,19 @@ The subgroup lattice diagram, where a line upwards indicates containment:
 \begin{tikzpicture}[scale=1.0, node distance=1.5cm] \node (G) {$\mathbb{Z}/12\mathbb{Z} = \langle 1 \rangle$}; \node (2) [below of=G] {$\langle 2 \rangle$}; \node (3) [below left of=2] {$\langle 3 \rangle$}; \node (4) [below right of=2] {$\langle 4 \rangle$}; \node (6) [below left of=4] {$\langle 6 \rangle$}; \node (0) [below of=6] {$\langle 0 \rangle$}; \draw (G) -- (2); \draw (2) -- (3); \draw (2) -- (4); \draw (3) -- (6); \draw (4) -- (6); \draw (6) -- (0); \end{tikzpicture}```
 ```tikz
 \begin{document}
-  \begin{tikzpicture}[domain=0:4]
-    \draw[very thin,color=gray] (-0.1,-1.1) grid (3.9,3.9);
-    \draw[->] (-0.2,0) -- (4.2,0) node[right] {$x$};
-    \draw[->] (0,-1.2) -- (0,4.2) node[above] {$f(x)$};
-    \draw[color=red]    plot (\x,\x)             node[right] {$f(x) =x$};
-    \draw[color=blue]   plot (\x,{sin(\x r)})    node[right] {$f(x) = \sin x$};
-    \draw[color=orange] plot (\x,{0.05*exp(\x)}) node[right] {$f(x) = \frac{1}{20} \mathrm e^x$};
-  \end{tikzpicture}
+\begin{tikzpicture}
+\node at (0,4) {Z/12Z = <1>};
+\node at (0,3) {<2>};
+\node at (-1,2) {<3>};
+\node at (1,2) {<4>};
+\node at (0,1) {<6>};
+\node at (0,0) {<0>};
+\draw (0,4) -- (0,3);
+\draw (0,3) -- (-1,2);
+\draw (0,3) -- (1,2);
+\draw (-1,2) -- (0,1);
+\draw (1,2) -- (0,1);
+\draw (0,1) -- (0,0);
+\end{tikzpicture}
 \end{document}
 ```
