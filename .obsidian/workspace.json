@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jot/Linear Algebra Final Practice.md",
+                "file": "Jot/Abstract Algebra Final Exam Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Algebra Final Practice"
+              "title": "Abstract Algebra Final Exam Practice"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f1f2a969c0873dd",
+  "active": "fb9e8fff51934d02",
   "lastOpenFiles": [
     "Jot/Linear Algebra Final Practice.md",
-    "Jot/Number Theory Final Exam Practice.md",
     "Jot/Untitled.md",
+    "Jot/Number Theory Final Exam Practice.md",
     "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
     "Jot/Abstract Algebra Final Exam Practice.md",
     "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",

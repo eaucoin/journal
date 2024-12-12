@@ -5,17 +5,7 @@
 
 
 
-A nonempty set $G$ is a group is an only if
-$$(\exists 1\in G)(\forall a\in G)(a1=1a=a)\text{,}$$
-and for all $(a,\;b,\;c)\in G^3$,
-- $(ab)c=a(bc)$
-- $ab\in G$
-- $(\exists a^{-1}\in G)(aa^{-1}=1)$.
 
-Then:
-- For $n\in\mathbb{N}$, $(\mathbb{Z}_{n},\;+)$ is cyclic with order $n$. 
-- The group $(\mathbb{R},+)$ is obviously abelian, but obviously not cyclic.
-- For $n\geq 3$, the symmetric group $S_n$ is not abelian.
 
 
 
