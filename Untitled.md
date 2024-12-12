@@ -1,1 +1,1 @@
-Suppose that $\alpha(\sigma)=c^2$, $\alpha(\tau)=1$, $\sigma\tau\sigma=\tau$. Then $\alpha(\sigma\tau)=\alpha(\tau\sigma^{-1})\iff \alpha(\sigma\tau)=\alpha(\tau\sigma^{2})\iff a^21=1$ 
+Suppose that $\alpha(\sigma)=c^3$, $\alpha(\tau)=1$, $\sigma\tau\sigma=\tau$. Then $\alpha(\sigma\tau)=\alpha(\tau\sigma^{-1})\iff \alpha(\sigma\tau)=\alpha(\tau\sigma^{2})\iff c^21=1$ 
