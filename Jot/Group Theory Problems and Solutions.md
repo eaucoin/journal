@@ -144,7 +144,7 @@ Since $g^k \in H$ and $g^m \in H$ (and thus $(g^m)^q \in H$), we must have $g^r 
 Since $\langle g^m \rangle \subseteq H$ and $H \subseteq \langle g^m \rangle$, we have $H = \langle g^m \rangle$, proving that $H$ is cyclic.
 
 
-## Problem 2(d): Write down the subgroup lattice of $\mathbb{Z}/12\mathbb{Z}$.
+Problem 2(d): Write down the subgroup lattice of $\mathbb{Z}/12\mathbb{Z}$.
 
 The group $\mathbb{Z}/12\mathbb{Z}$ (the integers modulo 12 under addition) is a cyclic group of order 12, often written as $\mathbb{Z}_{12}$. By the Fundamental Theorem of Finite Cyclic Groups, the subgroups of $\mathbb{Z}_{12}$ correspond to the divisors of 12, which are 1, 2, 3, 4, 6, and 12.  We use additive notation. Recall that each $x$ in $\mathbb{Z}/12\mathbb{Z}$ is actually a coset $12\mathbb{Z}+x$, and we write it as $\bar{x}$ for convenience.
 
@@ -182,12 +182,9 @@ The subgroup lattice diagram, where a line upwards indicates containment:
 
 
 
-# Group Theory and Ring Theory Problems and Solutions
-
-**(Previous solutions for 1(a), 1(b), 1(c), 1(d), 1(e), 2(a), 2(b), and 2(c) remain unchanged.)**
 
 
-## Problem 3(a): What is a permutation group $S_n$? What is the parity of $\tau \in S_n$? $|S_n| =$ ?
+Problem 3(a): What is a permutation group $S_n$? What is the parity of $\tau \in S_n$? $|S_n| =$ ?
 
 A **permutation** of a set is a bijection (a one-to-one and onto function) from the set to itself.  The set of all permutations of the set $\{1, 2, ..., n\}$, denoted $S_n$, forms a group under the operation of function composition. This group is called the **symmetric group** of degree $n$.
 
@@ -197,7 +194,7 @@ The **order** of a group is the number of elements it contains.  The order of th
 
 
 
-## Problem 3(b): What is $A_n$? $|A_n| =$ ?
+Problem 3(b): What is $A_n$? $|A_n| =$ ?
 
 The **alternating group** of degree $n$, denoted $A_n$, is the subgroup of $S_n$ consisting of all *even* permutations.  That is, $A_n$ contains all permutations in $S_n$ that can be expressed as a product of an even number of transpositions.  $A_n$ is a normal subgroup of $S_n$ because it has index 2 (for n>1), meaning $|S_n:A_n| = 2$.
 
@@ -206,7 +203,7 @@ The order of the alternating group is given by:
 $|A_n| = \frac{n!}{2}$ for $n \ge 2$.  (Note that A₁ has only one element, the identity permutation; hence |*A₁*| = 1).
 
 
-## Problem 3(c): How to write a permutation in terms of a product of distinct cycles? Write $\tau = (1\;2\;3)(3\;5\;1\;6)$ as a product of disjoint cycles. What is the inverse of $\tau$? What is its order? Is it in $A_6$?
+Problem 3(c): How to write a permutation in terms of a product of distinct cycles? Write $\tau = (1\;2\;3)(3\;5\;1\;6)$ as a product of disjoint cycles. What is the inverse of $\tau$? What is its order? Is it in $A_6$?
 
 Any permutation can be written as a product of disjoint cycles.  **Disjoint cycles** are cycles that have no elements in common.  To decompose a permutation into disjoint cycles, follow these steps:
 
