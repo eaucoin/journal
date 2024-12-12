@@ -161,3 +161,22 @@ The subgroup lattice diagram, where a line upwards indicates containment:
 
 ```tikz
 \begin{tikzpicture}[scale=1.0, node distance=1.5cm] \node (G) {$\mathbb{Z}/12\mathbb{Z} = \langle 1 \rangle$}; \node (2) [below of=G] {$\langle 2 \rangle$}; \node (3) [below left of=2] {$\langle 3 \rangle$}; \node (4) [below right of=2] {$\langle 4 \rangle$}; \node (6) [below left of=4] {$\langle 6 \rangle$}; \node (0) [below of=6] {$\langle 0 \rangle$}; \draw (G) -- (2); \draw (2) -- (3); \draw (2) -- (4); \draw (3) -- (6); \draw (4) -- (6); \draw (6) -- (0); \end{tikzpicture}```
+```tikz
+\begin{document}
+	\begin{tikzpicture}
+	[scale=1.0, node distance=1.5cm] 
+	\node (G) {$\mathbb{Z}/12\mathbb{Z} = \langle 1 \rangle$}; 
+	\node (2) [below of=G] {$\langle 2 \rangle$}; 
+	\node (3) [below left of=2] {$\langle 3 \rangle$}; 
+	\node (4) [below right of=2] {$\langle 4 \rangle$}; 
+	\node (6) [below left of=4] {$\langle 6 \rangle$}; 
+	\node (0) [below of=6] {$\langle 0 \rangle$}; 
+	\draw (G) -- (2); 
+	\draw (2) -- (3); 
+	\draw (2) -- (4); 
+	\draw (3) -- (6); 
+	\draw (4) -- (6); 
+	\draw (6) -- (0); 
+	\end{tikzpicture}
+\end{document}
+```
