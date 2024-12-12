@@ -5,38 +5,13 @@
 
 
 
-
-
-
-
 (b). Let $G$ be a group. When is a non-empty subset $H$ of $G$ a subgroup? How many different subgroups does $S_3$ have? Enumerate them.
 
 
 
-(i). If $H\subseteq G$, then $(H,\;\star)<(G,\;\star)$ iff 
-- $1_G\in H$
-- $(\forall (a,\;b)\in H^2)(a\star b\in H)$
-- $(\forall a\in H)(\exists a^{-1}\in H)(aa^{-1}=1_G)$
-
-(ii). Let's find the subgroups of $S_3$. $S_3$, has $3!=6$ elements, and therefore subgroups can be of order $1$, $2$, or $3$. Now, 
-$$S_3=\{\epsilon, \begin{pmatrix}1&2\end{pmatrix},\begin{pmatrix}1&3\end{pmatrix},\begin{pmatrix}2&3\end{pmatrix},\begin{pmatrix}1&2&3\end{pmatrix},\begin{pmatrix}1&3&2\end{pmatrix}\}\text{.}$$
-From here, we can hash out some obvious groups:
-$$\begin{align*}
-
-H_1=&\{\epsilon\}\\
-H_2=&\{\epsilon,\begin{pmatrix}1&2\end{pmatrix}\}\\
-H_3=&\{\epsilon,\begin{pmatrix}1&3\end{pmatrix}\}\\
-H_4=&\{\epsilon,\begin{pmatrix}2&3\end{pmatrix}\}\\
-H_5=&\{\epsilon,\begin{pmatrix}1&2&3\end{pmatrix}\}\\
-H_6=&\{\epsilon,\begin{pmatrix}1&3&2\end{pmatrix}\}
-\text{.}
-
-\end{align*}$$
-
 (c). When $H$ is a normal subgroup? How many normal subgroups of $S_3$ and $S_4$ respectively?
 
-$H\triangleleft G$ iff 
-$$(\forall a\in G)(aH=Ha)\text{.}$$
+
 
 (d). Write down a group $G$, a normal subgroup $K$ of $G$ and a subgroup $H$ of $G$ which is not normal.
 

@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,13 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb9e8fff51934d02",
+  "active": "0f1f2a969c0873dd",
   "lastOpenFiles": [
+    "Jot/Abstract Algebra Final Exam Practice.md",
     "Jot/Linear Algebra Final Practice.md",
     "Jot/Untitled.md",
     "Jot/Number Theory Final Exam Practice.md",
     "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
-    "Jot/Abstract Algebra Final Exam Practice.md",
     "Math/Abstract Algebra/Abstract Algebra, Cyclic Groups and the Order of an Element.md",
     "Math/Abstract Algebra/Abstract Algebra, Normal Subgroups.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
