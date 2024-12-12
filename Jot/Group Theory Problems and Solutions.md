@@ -246,7 +246,7 @@ Therefore, $\tau$ as a product of disjoint cycles is (1 2 3 5).
 
 * **Order of $\tau$:** The order of a permutation written as a product of disjoint cycles is the least common multiple (lcm) of the lengths of the cycles.  Since $\tau = (1\;2\;3\;5)$ is a single cycle of length 4, its order is $o(\tau) = \text{lcm}(4) = 4$.  This means $\tau^4 = \epsilon$, where ε is the identity permutation.
 
-* **Is $\tau$ in $A_6$?** To determine if $\tau$ is in $A_6$ (the alternating group of degree 6), we check its parity. A cycle of length $r$ can be written as a product of $r-1$ transpositions.  Since $pppppppp$ has length 4, it can be written as a product of $4-1=3$ transpositions:  (1 2)(2 3)(3 5). This is an odd number of transpositions, so $\tau$ is an odd permutation.  Since $A_6$ contains only even permutations, $\tau$ is *not* an element of $A_6$. We can also calculate the parity from the original product: $\tau = (1\;2\;3)(3\;5\;1\;6) = (1\;2)(2\;3)(3\;5)(5\;1)(1\;6)$, which is 5 transpositions, hence τ is odd.
+* **Is $\tau$ in $A_6$?** To determine if $\tau$ is in $A_6$ (the alternating group of degree 6), we check its parity. A cycle of length $r$ can be written as a product of $r-1$ transpositions.  Since $\tau = (1\;2\;3\;5)$ has length 4, it can be written as a product of $4-1=3$ transpositions:  (1 2)(2 3)(3 5). This is an odd number of transpositions, so $\tau$ is an odd permutation.  Since $A_6$ contains only even permutations, $\tau$ is *not* an element of $A_6$. We can also calculate the parity from the original product: $\tau = (1\;2\;3)(3\;5\;1\;6) = (1\;2)(2\;3)(3\;5)(5\;1)(1\;6)$, which is 5 transpositions, hence τ is odd.
 
 
 ---
