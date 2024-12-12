@@ -392,14 +392,7 @@ $\alpha(G) \cong G/\text{ker}(\alpha)$.
 This theorem is fundamental in group theory, establishing a connection between homomorphisms, normal subgroups, and factor groups. It's used to show that two groups are isomorphic by constructing a homomorphism between them with a known kernel.
 
 
-
-
-# Group Theory and Ring Theory Problems and Solutions
-
-**(Previous solutions remain unchanged.)**
-
-
-## Problem 5(a): State Lagrange's Theorem.
+Problem 5(a): State Lagrange's Theorem.
 
 **Lagrange's Theorem** is a fundamental result in finite group theory. It states: If $G$ is a finite group and $H$ is a subgroup of $G$, then the order of $H$ (denoted $|H|$) divides the order of $G$ (denoted $|G|$).  Furthermore, $|G|/|H| = |G:H|$, where $|G:H|$ represents the index of $H$ in $G$, which is the number of distinct right (or left) cosets of $H$ in $G$.
 
