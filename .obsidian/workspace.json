@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,10 +234,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c73088ede46af68",
+  "active": "0f1f2a969c0873dd",
   "lastOpenFiles": [
-    "Jot/Group Theory Problems and Solutions.md",
     "Untitled.md",
+    "Jot/Group Theory Problems and Solutions.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
     "Jot/Abstract Algebra Final Exam Practice.md",

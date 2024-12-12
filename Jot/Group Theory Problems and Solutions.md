@@ -130,8 +130,8 @@ $5 \equiv 5 \cdot 1 \pmod{6}$
 The Fundamental Theorem of Finite Cyclic Groups (Theorem 9 §2.4) describes the subgroups of a finite cyclic group:
 
 Let $G = \langle g \rangle$ be a cyclic group of order $n$.
-1. **Every subgroup of G is cyclic.**  More precisely, if $H$ is a subgroup of $G$, then $H = \langle g^d \rangle$ for some divisor $d$ of $n$.
-2. **Unique Subgroups:** For each positive divisor $k$ of $n$, the group $G$ has exactly one subgroup of order $k$, namely $\langle g^{n/k} \rangle$. This means the subgroups of a finite cyclic group are in one-to-one correspondence with the divisors of the group order.
+	1. **Every subgroup of G is cyclic.**  More precisely, if $H$ is a subgroup of $G$, then $H = \langle g^d \rangle$ for some divisor $d$ of $n$.
+1. **Unique Subgroups:** For each positive divisor $k$ of $n$, the group $G$ has exactly one subgroup of order $k$, namely $\langle g^{n/k} \rangle$. This means the subgroups of a finite cyclic group are in one-to-one correspondence with the divisors of the group order.
 
 
 
