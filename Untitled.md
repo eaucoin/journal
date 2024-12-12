@@ -3,6 +3,6 @@
 $$\begin{align*}
 
 \tau&=\begin{pmatrix}1&2&3&4&5&6\\6&3&5&4&2&1\end{pmatrix}\\\\
-&=\begin{pmatrix}1&6\end{pmatrix}\begin{pmatrix}2&3&5\end{pmatrix}\begin{pmatrix}
+&=\begin{pmatrix}1&6\end{pmatrix}\begin{pmatrix}2&3&5\end{pmatrix}
 
 \end{align*}$$
