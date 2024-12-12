@@ -1,3 +1,7 @@
+
+# (I)
+
+
 Problem 1(a): When is a non-empty set a group? Give examples.
 
 A non-empty set $G$ together with a binary operation $*$ is a group if and only if the following four axioms are satisfied:
@@ -98,6 +102,7 @@ Since $gh=hg$ holds for all $g \in G$, we have that $h$ is in the center of $G$,
 
 
 ---
+# ()
 
 
 Problem 2(a): What is a cyclic group? Give examples.
