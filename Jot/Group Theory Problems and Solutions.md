@@ -164,12 +164,12 @@ The subgroup lattice diagram, where a line upwards indicates containment:
 ```tikz
 \begin{document}
 \begin{tikzpicture}
-\node at (0,4) {Z/12Z = <1>};
-\node at (0,3) {<2>};
-\node at (-1,2) {<3>};
-\node at (1,2) {<4>};
-\node at (0,1) {<6>};
-\node at (0,0) {<0>};
+\node at (0,4) {Z/12Z = [1]};
+\node at (0,3) {[2]};
+\node at (-1,2) {[3]};
+\node at (1,2) {[4]};
+\node at (0,1) {[6]};
+\node at (0,0) {[0]};
 \draw (0,4) -- (0,3);
 \draw (0,3) -- (-1,2);
 \draw (0,3) -- (1,2);
@@ -179,3 +179,60 @@ The subgroup lattice diagram, where a line upwards indicates containment:
 \end{tikzpicture}
 \end{document}
 ```
+
+
+
+# Group Theory and Ring Theory Problems and Solutions
+
+**(Previous solutions for 1(a), 1(b), 1(c), 1(d), 1(e), 2(a), 2(b), and 2(c) remain unchanged.)**
+
+
+## Problem 3(a): What is a permutation group $S_n$? What is the parity of $\tau \in S_n$? $|S_n| =$ ?
+
+A **permutation** of a set is a bijection (a one-to-one and onto function) from the set to itself.  The set of all permutations of the set $\{1, 2, ..., n\}$, denoted $S_n$, forms a group under the operation of function composition. This group is called the **symmetric group** of degree $n$.
+
+The **parity** of a permutation $\tau \in S_n$ is a way of classifying permutations as either even or odd.  A permutation is **even** if it can be written as a product of an even number of transpositions (2-cycles), and **odd** if it can be written as a product of an odd number of transpositions.  The **Parity Theorem** (Theorem 7 §1.4) is crucial here; it states that the parity of a permutation is well-defined—a permutation cannot be both even and odd. This is a surprising result because a given permutation can be written as a product of transpositions in many ways.
+
+The **order** of a group is the number of elements it contains.  The order of the symmetric group $S_n$ is given by $|S_n| = n!$. This is because there are $n$ choices for where to send 1, $n-1$ choices for where to send 2 (since it can't go to the same place as 1), and so on, down to 1 choice for where to send $n$.
+
+
+
+## Problem 3(b): What is $A_n$? $|A_n| =$ ?
+
+The **alternating group** of degree $n$, denoted $A_n$, is the subgroup of $S_n$ consisting of all *even* permutations.  That is, $A_n$ contains all permutations in $S_n$ that can be expressed as a product of an even number of transpositions.  $A_n$ is a normal subgroup of $S_n$ because it has index 2 (for n>1), meaning $|S_n:A_n| = 2$.
+
+
+The order of the alternating group is given by:
+$|A_n| = \frac{n!}{2}$ for $n \ge 2$.  (Note that A₁ has only one element, the identity permutation; hence |*A₁*| = 1).
+
+
+## Problem 3(c): How to write a permutation in terms of a product of distinct cycles? Write $\tau = (1\;2\;3)(3\;5\;1\;6)$ as a product of disjoint cycles. What is the inverse of $\tau$? What is its order? Is it in $A_6$?
+
+Any permutation can be written as a product of disjoint cycles.  **Disjoint cycles** are cycles that have no elements in common.  To decompose a permutation into disjoint cycles, follow these steps:
+
+1. Start with the smallest element, say 1.
+2. Determine where 1 is mapped under the permutation.
+3. Determine where that element is mapped, and continue this process until you return to 1.  This completes one cycle.
+4. If there are any elements not yet included in a cycle, choose the smallest such element and repeat steps 2 and 3.
+5. Continue this process until all elements are included in a cycle.
+
+The resulting product of disjoint cycles represents the original permutation. Disjoint cycles commute, so the order in which the cycles are written does not matter.
+
+
+Now, let's apply this to $\tau = (1\;2\;3)(3\;5\;1\;6)$:
+
+* 1 → 2 (from (1 2 3))
+* 2 → 3 (from (1 2 3))
+* 3 → 5 (from (3 5 1 6))
+* 5 → 1 (from (3 5 1 6)).  This closes the first cycle: (1 2 3 5).
+
+* 3 → 1 (from (1 2 3)), then 1 → 6 (from (3 5 1 6))
+* 6 is fixed by (1 2 3) and goes to itself in (3 5 1 6). Thus, we have the cycle (6), which is equivalent to the identity permutation.
+
+Therefore, $\tau$ as a product of disjoint cycles is (1 2 3 5).
+
+* **Inverse of $\tau$:** To find the inverse of a permutation written as a product of disjoint cycles, simply reverse the order of the elements within each cycle. Thus, $\tau^{-1} = (5\;3\;2\;1)$.
+
+* **Order of $\tau$:** The order of a permutation written as a product of disjoint cycles is the least common multiple (lcm) of the lengths of the cycles.  Since $\tau = (1\;2\;3\;5)$ is a single cycle of length 4, its order is $o(\tau) = \text{lcm}(4) = 4$.  This means $\tau^4 = \epsilon$, where ε is the identity permutation.
+
+* **Is $\tau$ in $A_6$?** To determine if $\tau$ is in $A_6$ (the alternating group of degree 6), we check its parity. A cycle of length $r$ can be written as a product of $r-1$ transpositions.  Since $\tau = (1\;2\;3\;5)$ has length 4, it can be written as a product of $4-1=3$ transpositions:  (1 2)(2 3)(3 5). This is an odd number of transpositions, so $\tau$ is an odd permutation.  Since $A_6$ contains only even permutations, $\tau$ is *not* an element of $A_6$. We can also calculate the parity from the original product: $\tau = (1\;2\;3)(3\;5\;1\;6) = (1\;2)(2\;3)(3\;5)(5\;1)(1\;6)$, which is 5 transpositions, hence τ is odd.
