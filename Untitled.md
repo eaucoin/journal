@@ -6,6 +6,8 @@ $$\begin{align*}
 
 \sigma r^{2k}\sigma^{-1}&=\sigma r^{2k}\sigma^2\\
 &=\sigma r^{2k}r^6\\
-&=\sigm
+&=\sigma r^6r^{2k}\\
+&=\sigma\sigma^{-1}r^{2k}\\
+&=^{2k}\text{,}
 
 \end{align*}$$
