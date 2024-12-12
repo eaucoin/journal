@@ -295,7 +295,7 @@ This definition respects the relations of $S_3$:
 
 * $\alpha(\sigma^3) = c^3 = 1 = \alpha(\epsilon)$
 * $\alpha(\tau^2) = 1^2 = 1 = \alpha(\epsilon)$
-* $\alpha(\sigma\tau) = c \cdot 1 = c$, and $\alpha(\tau\sigma^2) = 1 \cdot c^2 = c^2$. Since $\sigma \tau = \tau \sigma^2$, we must have $\alpha(\sigma\tau) = \alpha(\tau\sigma^2)$. In $S_3$, we have $\sigma\tau = (1\;2\;3)(1\;2) = (2\;3)$ and $\tau\sigma^2 = (1\;2)(1\;3\;2) = (1\;3)$\alpha(\sigma\tau)=\alpha(\tau\sigma^{-1}). Their images are $c$ and $c^2$ respectively. $c = c^2$ doesn't hold, but the equation $\sigma\tau = \tau\sigma^2$ is equivalent to $\sigma\tau = \tau\sigma^{-1}$ so we need $$, and indeed it does.
+* $\alpha(\sigma\tau) = c \cdot 1 = c$, and $\alpha(\tau\sigma^2) = 1 \cdot c^2 = c^2$. Since $\sigma \tau = \tau \sigma^2$, we must have $\alpha(\sigma\tau) = \alpha(\tau\sigma^2)$. In $S_3$, we have $\sigma\tau = (1\;2\;3)(1\;2) = (2\;3)$ and $\tau\sigma^2 = (1\;2)(1\;3\;2) = (1\;3)$. Their images are $c$ and $c^2$ respectively. $c = c^2$ doesn't hold, but the equation $\sigma\tau = \tau\sigma^2$ is equivalent to $\sigma\tau = \tau\sigma^{-1}$ so we need $\alpha(\sigma\tau)=\alpha(\tau\sigma^{-1})$, and indeed it does.
 
 Since $\alpha$ maps the generators of $S_3$ to elements of $C_3$ and preserves the relations of $S_3$, it is a well-defined homomorphism.  It is surjective (onto) because both $c$ and $c^2$, the non-identity elements of $C_3$, are in the image of $\alpha$.
 
