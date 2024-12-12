@@ -1,7 +1,3 @@
-
-
-
-
 Problem 1(a): When is a non-empty set a group? Give examples.
 
 A non-empty set $G$ together with a binary operation $*$ is a group if and only if the following four axioms are satisfied:
@@ -248,7 +244,7 @@ Therefore, $\tau$ as a product of disjoint cycles is (1 2 3 5).
 * **Is $\tau$ in $A_6$?** To determine if $\tau$ is in $A_6$ (the alternating group of degree 6), we check its parity. A cycle of length $r$ can be written as a product of $r-1$ transpositions.  Since $\tau = (1\;2\;3\;5)$ has length 4, it can be written as a product of $4-1=3$ transpositions:  (1 2)(2 3)(3 5). This is an odd number of transpositions, so $\tau$ is an odd permutation.  Since $A_6$ contains only even permutations, $\tau$ is *not* an element of $A_6$. We can also calculate the parity from the original product: $\tau = (1\;2\;3)(3\;5\;1\;6) = (1\;2)(2\;3)(3\;5)(5\;1)(1\;6)$, which is 5 transpositions, hence τ is odd.
 
 
-
+---
 
 
 Problem 4(a): Let $G$ and $H$ be groups, and $\alpha: G \to H$ be a map. Under what condition is $\alpha$ a homomorphism?
@@ -395,6 +391,7 @@ $\alpha(G) \cong G/\text{ker}(\alpha)$.
 This theorem is fundamental in group theory, establishing a connection between homomorphisms, normal subgroups, and factor groups. It's used to show that two groups are isomorphic by constructing a homomorphism between them with a known kernel.
 
 
+---
 
 
 Problem 5(a): State Lagrange's Theorem.
@@ -515,6 +512,7 @@ Let $x = K(1\;2\;3) = K_2$ and $y = K(1\;2) = K_4$.  From the Cayley table:
 * $xy = K_5$. Thus, $xyx = K_5K_4 = K_3$, and therefore, $xyx = y$, so since every element in *S₄/K* is expressible in terms of *x* and *y* and *S₄/K* has order 6, *S₄/K* is isomorphic to *S₃*.  This is a presentation for *S₃*.
 
 
+---
 
 
 Problem 6(a): What is a ring, a commutative ring, a division ring, an integral domain, or a field? Give an example of a division ring which is not commutative. Give an example of an integral domain which is not a field.
