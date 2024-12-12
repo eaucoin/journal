@@ -1,1 +1,1 @@
-Suppose that 
+Suppose that $\alpha(\sigma)=c^2$, $\alpha(\tau)=1$, $\sigma\tau\sigma=\tau$. Then $\$
