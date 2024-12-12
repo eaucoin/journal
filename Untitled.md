@@ -4,10 +4,6 @@ $$(\forall (g,\;h)\in\{\sigma,\tau\}\times H)(ghg^{-1}\in H)\text{.}$$
 We use the facts that $r^6=s^2=1$, $rsr=s$, and that elements in $H$ are of the form $r^{2k}$, where $k\leq 3$. Now:
 $$\begin{align*}
 
-\sigma r^{2k}\sigma^{-1}&=\sigma r^{2k}\sigma^2\\
-&=\sigma r^{2k}r^6\\
-&=\sigma r^6r^{2k}\\
-&=\sigma\sigma^{-1}r^{2k}\\
-&=^{2k}\text{}
+\sigma r^{2k}\sigma^{}
 
 \end{align*}$$
