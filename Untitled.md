@@ -6,4 +6,7 @@ Define $\alpha(\sigma)=c^2$, $\alpha(\tau)=1$. Then $\alpha(\sigma^2)=\alpha(\si
 so indeed, $\alpha(\sigma\tau)=\alpha(\tau\sigma^{-1})$.
 
 To compute the kernel, let's compute each output of $\alpha$ for each value in $S_3$:
-|Inpu||
+
+| Input   | Output |
+| ------- | ------ |
+| $\epsi$ |        |
