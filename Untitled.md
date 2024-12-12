@@ -8,6 +8,6 @@ $$\begin{align*}
 &=\sigma r^{2k}r^6\\
 &=\sigma r^6r^{2k}\\
 &=\sigma\sigma^{-1}r^{2k}\\
-&=^{2k}\text{,}
+&=^{2k}\text{}
 
 \end{align*}$$
