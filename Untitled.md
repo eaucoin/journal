@@ -5,4 +5,5 @@ Define $\alpha(\sigma)=c^2$, $\alpha(\tau)=1$. Then $\alpha(\sigma^2)=\alpha(\si
 - $\alpha(\tau\sigma^{-1})=\alpha(tau)\alpha(\sigma^{-1})=1c^2=c^2$,
 so indeed, $\alpha(\sigma\tau)=\alpha(\tau\sigma^{-1})$.
 
-To compute the kernel, let's compute each value of $$
+To compute the kernel, let's compute each output of $\alpha$ for each value in $S_3$:
+|Inpu||
