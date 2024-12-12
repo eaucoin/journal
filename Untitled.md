@@ -12,6 +12,6 @@ To compute the kernel, let's compute each output of $\alpha$ for each value in $
 | $\epsilon$     | $1$    |
 | $\sigma$       | $c^2$  |
 | $\sigma^{2}$   | $c$    |
-| $\tau$         |        |
-| $\tau\sigma$   |        |
-| $\tau\sigma^2$ |        |
+| $\tau$         | $1$    |
+| $\tau\sigma$   | $c^2$  |
+| $\tau\sigma^2$ | $c$    |
