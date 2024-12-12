@@ -1,5 +1,4 @@
-
-# (I)
+# (I.)
 
 
 Problem 1(a): When is a non-empty set a group? Give examples.
@@ -102,7 +101,7 @@ Since $gh=hg$ holds for all $g \in G$, we have that $h$ is in the center of $G$,
 
 
 ---
-# ()
+# (II.)
 
 
 Problem 2(a): What is a cyclic group? Give examples.
@@ -193,6 +192,7 @@ The subgroup lattice diagram, where a line upwards indicates containment:
 
 
 ---
+# (III.)
 
 
 Problem 3(a): What is a permutation group $S_n$? What is the parity of $\tau \in S_n$? $|S_n| =$ ?
@@ -250,6 +250,7 @@ Therefore, $\tau$ as a product of disjoint cycles is (1 2 3 5).
 
 
 ---
+# (IV.)
 
 
 Problem 4(a): Let $G$ and $H$ be groups, and $\alpha: G \to H$ be a map. Under what condition is $\alpha$ a homomorphism?
@@ -397,6 +398,7 @@ This theorem is fundamental in group theory, establishing a connection between h
 
 
 ---
+# (V.)
 
 
 Problem 5(a): State Lagrange's Theorem.
@@ -518,7 +520,7 @@ Let $x = K(1\;2\;3) = K_2$ and $y = K(1\;2) = K_4$.  From the Cayley table:
 
 
 ---
-
+# (VI.)
 
 Problem 6(a): What is a ring, a commutative ring, a division ring, an integral domain, or a field? Give an example of a division ring which is not commutative. Give an example of an integral domain which is not a field.
 
