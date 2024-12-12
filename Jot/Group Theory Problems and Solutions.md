@@ -68,10 +68,7 @@ An important result is that any subgroup of index 2 is normal.  That is, if $H \
     2. $K = \{\epsilon, (1\;2)(3\;4), (1\;3)(2\;4), (1\;4)(2\;3)\}$ (the Klein four-group). This is normal because conjugating any element of *K* by a permutation in *S₄* yields an element still in *K*.
     3. $A_4$ (the alternating group, normal because $|S_4:A_4|=2$).
     4. $S_4$.
-
-
-
-## Problem 1(d): Write down a group G, a normal subgroup K of G, and a subgroup H of G which is not normal.
+Problem 1(d): Write down a group G, a normal subgroup K of G, and a subgroup H of G which is not normal.
 
 We can use $S_3$ as our example here:
 
@@ -82,7 +79,7 @@ We can use $S_3$ as our example here:
 
 
 
-## Problem 1(e): If $H \trianglelefteq G$ and $|H|=2$, show that $H \subseteq Z(G)$.
+Problem 1(e): If $H \trianglelefteq G$ and $|H|=2$, show that $H \subseteq Z(G)$.
 
 Let $H$ be a normal subgroup of $G$ with $|H| = 2$. This means $H$ consists of the identity element $1$ and one other element, say $h$ ($h \ne 1$).  So $H = \{1, h\}$. Since the order of H is 2, h must have order 2; thus $h^2 = hh = 1$, or $h = h^{-1}$. 
 
