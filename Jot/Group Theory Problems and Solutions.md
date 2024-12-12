@@ -266,6 +266,10 @@ Let $\alpha: G \to H$ be a group homomorphism. The **kernel** of $\alpha$, denot
 $\text{ker}(\alpha) = \{g \in G \mid \alpha(g) = 1_H \}$.
 
 The kernel is a crucial concept in group theory.  It's not just a subset of $G$; it's a normal subgroup. This fact is part of Theorem 1 §2.10. The kernel measures the degree to which the homomorphism $\alpha$ fails to be injective (one-to-one). If the kernel contains only the identity element of $G$, then $\alpha$ is injective.
+
+
+
+
 Problem 4(c): Describe one onto homomorphism from $S_3$ to $C_3$ and compute the kernel of this homomorphism.
 
 Let $S_3$ be the symmetric group on three elements, and let $C_3 = \langle c \rangle = \{1, c, c^2\}$ be the cyclic group of order 3 (where $c^3 = 1$). We want to define a surjective (onto) homomorphism $\alpha: S_3 \to C_3$.
@@ -295,7 +299,9 @@ $\text{ker}(\alpha) = \{\epsilon, \sigma, \sigma^2\} = A_3$.
 As expected, the kernel is a normal subgroup of $S_3$.
 
 
-## Problem 4(d): What is an isomorphism?
+
+
+Problem 4(d): What is an isomorphism?
 
 An **isomorphism** is a bijective homomorphism between two groups (or rings, or other algebraic structures).  For groups, a map $\phi: G \to H$ is an isomorphism if:
 
@@ -312,7 +318,8 @@ For rings, the definition is analogous. A map $\sigma: R \to S$ between two ring
 
 
 
-## Problem 4(e): Is $S_3$ isomorphic to the Dihedral group $D_3 = \langle a, b \mid a^3 = b^2 = 1, aba = b \rangle$?
+
+Problem 4(e): Is $S_3$ isomorphic to the Dihedral group $D_3 = \langle a, b \mid a^3 = b^2 = 1, aba = b \rangle$?
 
 Yes, $S_3$ is isomorphic to $D_3$. We'll use their presentations to define an isomorphism.
 
@@ -340,7 +347,9 @@ We must show that $\phi$ is a bijection:
 Since $\phi$ is a bijective homomorphism, it is an isomorphism, so $S_3 \cong D_3$.
 
 
-## Problem 4(f): Decide whether the map $\alpha: \mathbb{R} \to GL_2(\mathbb{R})$ given by $\alpha(r) = \begin{pmatrix} 1 & r \\ 0 & 1 \end{pmatrix}$ is a group isomorphism.
+
+
+Problem 4(f): Decide whether the map $\alpha: \mathbb{R} \to GL_2(\mathbb{R})$ given by $\alpha(r) = \begin{pmatrix} 1 & r \\ 0 & 1 \end{pmatrix}$ is a group isomorphism.
 
 The map $\alpha$ is *not* an isomorphism $\mathbb{R} \to GL_2(\mathbb{R})$, although it is a homomorphism and is injective.
 
@@ -356,7 +365,9 @@ Since $\alpha$ is not surjective, it is not an isomorphism. However, it is an is
 $\alpha: \mathbb{R} \to S$ *is* an isomorphism, as it is a homomorphism, injective, and clearly surjective onto $S$.
 
 
-## Problem 4(g): What is an automorphism of $G$? Give a non-trivial automorphism of $S_3$.
+
+
+Problem 4(g): What is an automorphism of $G$? Give a non-trivial automorphism of $S_3$.
 
 An **automorphism** of a group $G$ is an isomorphism from $G$ to itself.  It is a bijective map $\phi: G \to G$ that preserves the group operation: $\phi(ab) = \phi(a)\phi(b)$ for all $a, b \in G$.
 
@@ -369,7 +380,9 @@ Consider $S_3$ with generators $\sigma = (1\;2\;3)$ and $\tau = (1\;2)$.  A non-
 This extends to all of $S_3$ because every element can be expressed in terms of σ and τ. This defines the inner automorphism given by conjugation by (2 3): $\phi(x) = (2\;3)x(2\;3)^{-1}$. It is non-trivial because it's not the identity map. Another nontrivial automorphism can be defined by conjugation by (1 3).
 
 
-## Problem 4(h): State the Isomorphism Theorem for groups.
+
+
+Problem 4(h): State the Isomorphism Theorem for groups.
 
 The **Isomorphism Theorem** (First Isomorphism Theorem) states:  If $\alpha: G \to H$ is a group homomorphism, then the image of $\alpha$ is isomorphic to the quotient group $G/\text{ker}(\alpha)$. Symbolically:
 
@@ -377,3 +390,7 @@ $\alpha(G) \cong G/\text{ker}(\alpha)$.
 
 
 This theorem is fundamental in group theory, establishing a connection between homomorphisms, normal subgroups, and factor groups. It's used to show that two groups are isomorphic by constructing a homomorphism between them with a known kernel.
+
+
+
+
