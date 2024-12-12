@@ -7,6 +7,11 @@ so indeed, $\alpha(\sigma\tau)=\alpha(\tau\sigma^{-1})$.
 
 To compute the kernel, let's compute each output of $\alpha$ for each value in $S_3$:
 
-| Input   | Output |
-| ------- | ------ |
-| $\epsi$ |        |
+| Input          | Output |
+| -------------- | ------ |
+| $\epsilon$     | $1$    |
+| $\sigma$       | $c^2$  |
+| $\sigma^{2}$   | $c$    |
+| $\tau$         |        |
+| $\tau\sigma$   |        |
+| $\tau\sigma^2$ |        |
