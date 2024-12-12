@@ -1,1 +1,1 @@
-$$S_3=\{\epsilon, \sigma, \sigma^2,\tau,\tau\sigma,\tau\sigma^2\}\text{, where} \sigma^3=\tau$$
+$$S_3=\{\epsilon, \sigma, \sigma^2,\tau,\tau\sigma,\tau\sigma^2\}\text{, where } \sigma^3=\tau^2=\epsilon,\sigma\tau\sig$$
