@@ -271,7 +271,11 @@ $$\begin{align*}
 \end{align*}$$
 
 **(3)** Let 
-$$\sigma=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}=\begin{pmatrix}1&2&4&3\end{pmatrix}\text{, and }\tau=\begin{pmatrix}1&2&3&4\\3&4&1&2\end{pmatrix}=\text{.}$$
+$$\begin{align*}
+
+\sigma&=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}=\begin{pmatrix}1&2&4&3\end{pmatrix}\text{, and }\\\\\tau&=\begin{pmatrix}1&2&3&4\\3&4&1&2\end{pmatrix}=\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\text{.}
+
+\end{align*}$$
 In **(a-f)**, we solve for $\chi$.
 
 **(a)**. 
