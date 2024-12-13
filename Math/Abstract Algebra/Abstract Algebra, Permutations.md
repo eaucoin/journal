@@ -276,4 +276,9 @@ In **(a-f)**, we solve for $\chi$.
 
 **(a)**. 
 
-$$$$
+$$\begin{align*}
+
+&\sigma\chi=\tau\\
+\iff & \chi=\sigma
+
+\end{align*}$$
