@@ -279,6 +279,7 @@ In **(a-f)**, we solve for $\chi$.
 $$\begin{align*}
 
 &\sigma\chi=\tau\\
-\iff & \chi=\sigma
+\iff & \chi=\sigma^{-1}\tau\\\\
+\iff & \chi=\begin{pmatrix}1&2&3&4\\2&4&1&3\end{pmatrix}^{-1}\begin{pmatrix}1&2&3&4\\3&4&1&2\end{pmatrix}
 
 \end{align*}$$
