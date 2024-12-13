@@ -285,6 +285,7 @@ $$\begin{align*}
 &\sigma\chi=\tau\\
 \iff & \chi=\sigma^{-1}\tau\\\\
 \iff & \chi=\begin{pmatrix}1&2&4&3\end{pmatrix}^{-1}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\\\\
-\iff &\chi=\begin{pmatrix}3&4&2&1\end{pmatrix}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}
+\iff &\chi=\begin{pmatrix}3&4&2&1\end{pmatrix}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\\\\
+\iff &\chi=\begin{pmatrix}3&4\end{pmatrix}\begin{pmatrix}4&2\end{pmatrix}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}
 
 \end{align*}$$
