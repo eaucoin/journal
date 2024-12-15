@@ -355,6 +355,7 @@ $$\begin{align*}
 **Solution**. Start by finding $\chi$ such that $\tau\sigma=\chi\sigma\tau$:
 $$\begin{align*}
 
-&\tau\sigma
+&\tau\sigma=\chi\sigma\tau\\
+\iff &\chi\
 
 \end{align*}$$
