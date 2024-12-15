@@ -317,8 +317,9 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-&\chi\tau\sigma=\epsilon
-\iff & \chi=
+&\chi\tau\sigma=\epsilon\\
+\iff & \chi=\sigma^{-1}\tau^{-1}\\
+\iff & \chi=\sigma^{-1}\tau\text{ (that is,)}
 
 \end{align*}$$
 
