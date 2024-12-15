@@ -295,7 +295,8 @@ $$\begin{align*}
 $$\begin{align*}
 
 &\chi\tau=\sigma\\
-\iff &
+\iff & \chi=\sigma\tau^{-1}\\\\
+\iff &\chi=
 
 \end{align*}$$
 
@@ -330,6 +331,7 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-\tau\chi\sigma^{-1}=
+&\tau\chi\sigma^{-1}=\sigma\\
+\iff &
 
 \end{align*}$$
