@@ -346,6 +346,7 @@ $$\begin{align*}
 &\tau\chi\sigma^{-1}=\sigma\\
 \iff & \chi=\tau^{-1}\sigma^{2}\\
 \iff & \chi=\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\begin{pmatrix}1&2&4&3\end{pmatrix}\begin{pmatrix}1&2&4&3\end{pmatrix}\\
-\iff &\chi=\begin{pmatrix}1&2\end{pmatrix}
+\iff &\chi=\begin{pmatrix}1&2\end{pmatrix}\begin{pmatrix}3&4\end{pmatrix}
 
 \end{align*}$$
+
