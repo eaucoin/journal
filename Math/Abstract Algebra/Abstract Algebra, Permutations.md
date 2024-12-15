@@ -270,6 +270,8 @@ $$\begin{align*}
 
 \end{align*}$$
 
+8
+
 **(3)** Let 
 $$\begin{align*}
 
