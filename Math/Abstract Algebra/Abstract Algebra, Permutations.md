@@ -354,3 +354,5 @@ $$\begin{align*}
 
 **Solution**. Decompose both of the cycles. 
 $$\tau\sigma=\begin{pmatrix}1&5\end{pmatrix}\begin{pmatrix}2&5\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\text{,}$$
+and
+$$\sigma\tau=\begin{pmatrix}1&2\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\begin{pmatrix}4\end{pmatrix}$$
