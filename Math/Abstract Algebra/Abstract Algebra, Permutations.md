@@ -357,6 +357,7 @@ $$\begin{align*}
 
 &\tau\sigma=\chi\sigma\tau\\
 \iff &\chi=\tau\sigma\tau^{-1}\sigma^{-1}=\tau\sigma(\sigma\tau)^{-1}\\
-\iff &\chi=\begin{pmatrix}1&5&2&3\end{pmatrix}\begin{pmatrix}5&4&2&\end{pmatrix}
+\iff &\chi=\begin{pmatrix}1&5&2&3\end{pmatrix}\begin{pmatrix}5&4&2&1\end{pmatrix}\\
+\iff &\chi=\begin{pmatrix}1&2&3&4\end{pmatrix}
 
 \end{align*}$$
