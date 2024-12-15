@@ -298,7 +298,7 @@ $$\begin{align*}
 \iff & \chi=\sigma\tau^{-1}\\\\
 \iff &\chi=\begin{pmatrix}1&2&4&3\end{pmatrix}\big[\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\big]^{-1}\\\\
 \iff &\chi=\begin{pmatrix}1&2&4&3\end{pmatrix}\begin{pmatrix}3&1\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\\\\
-\iff &\chi=\begin{pmatrix}2&3\end{pmatrix}\begin{pmatrix}\end{pmatrix}
+\iff &\chi=\begin{pmatrix}2&3\end{pmatrix}
 
 \end{align*}$$
 
@@ -307,7 +307,7 @@ $$\begin{align*}
 $$\begin{align*}
 
 &\sigma^{-1}\chi=\tau\\
-\iff &
+\iff & \chi
 
 \end{align*}$$
 
