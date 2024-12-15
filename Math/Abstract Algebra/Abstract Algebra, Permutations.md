@@ -317,4 +317,19 @@ $$\begin{align*}
 
 \end{align*}$$
 
-**()**
+**(e)**.
+
+$$\begin{align*}
+
+&\tau\chi\sigma=\epsilon\\
+\iff &
+
+\end{align*}$$
+
+**(f)**.
+
+$$\begin{align*}
+
+\tau\chi\sigma^{-1}=
+
+\end{align*}$$
