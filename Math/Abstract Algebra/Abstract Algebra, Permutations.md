@@ -273,7 +273,7 @@ $$\begin{align*}
 **(3)** Let 
 $$\begin{align*}
 
-\sigma&=\begin{pmatrix}1&2&4&3\end{pmatrix}\text{, and }\\\\\tau&=\begin{pmatrix}1&2&3&4\\3&4&1&2\end{pmatrix}=\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\text{.}
+\sigma=\begin{pmatrix}1&2&4&3\end{pmatrix}\text{, and }\tau=\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\text{.}
 
 \end{align*}$$
 In **(a-f)**, we solve for $\chi$.
@@ -285,7 +285,6 @@ $$\begin{align*}
 &\sigma\chi=\tau\\
 \iff & \chi=\sigma^{-1}\tau\\\\
 \iff & \chi=\begin{pmatrix}1&2&4&3\end{pmatrix}^{-1}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\\\\
-\iff &\chi=\begin{pmatrix}3&4&2&1\end{pmatrix}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\\\\
-\iff &\chi=\begin{pmatrix}3&4\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\begin{pmatrix}1&2\end{pmatrix}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}
+\iff 
 
 \end{align*}$$
