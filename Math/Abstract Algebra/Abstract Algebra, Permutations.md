@@ -352,4 +352,4 @@ $$\begin{align*}
 
 **(4)**. If $\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}$, $\sigma\tau=\begin{pmatrix}1&2&4&5\end{pmatrix}$, and $\sigma$ moves $1$ to $2$, then find $\sigma$ and $\tau$.
 
-**Solution**. Start by finding $\chi$ such that $\sigma\tau=\chi\tau\sigma$. The permutation $\chi$ in this case would be $\sigma\tau(\tau\sigma)^{-1}=\begin{pmatrix}1&\end{pmatrix}$
+**Solution**. Start by finding $\chi$ such that $\sigma\tau=\chi\tau\sigma$. The permutation $\chi$ in this case would be $\sigma\tau(\tau\sigma)^{-1}=\begin{pmatrix}1&3&4&5&2\end{pmatrix}$. 
