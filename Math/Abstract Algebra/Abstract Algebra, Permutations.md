@@ -309,7 +309,7 @@ $$\begin{align*}
 &\sigma^{-1}\chi=\tau\\
 \iff & \chi=\sigma\tau\\
 \iff & \chi=\begin{pmatrix}1&2&4&3\end{pmatrix}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\\
-
+\iff &\chi=\begin{pmatrix}2&3\end{pmatrix}
 
 \end{align*}$$
 
@@ -318,7 +318,7 @@ $$\begin{align*}
 $$\begin{align*}
 
 &\chi\tau\sigma=\epsilon
-\iff &
+\iff & \chi=
 
 \end{align*}$$
 
