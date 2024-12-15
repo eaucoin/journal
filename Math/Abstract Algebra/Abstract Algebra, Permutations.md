@@ -356,6 +356,6 @@ $$\begin{align*}
 $$\begin{align*}
 
 &\tau\sigma=\chi\sigma\tau\\
-\iff &\chi\
+\iff &\chi=\tau\sigma\tau^{-1}\sigma^{-1}=\tau\sigma(\sigma\tau)^{-1}
 
 \end{align*}$$
