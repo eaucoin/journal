@@ -344,6 +344,7 @@ $$\begin{align*}
 $$\begin{align*}
 
 &\tau\chi\sigma^{-1}=\sigma\\
-\iff & \chi=
+\iff & \chi=\tau^{-1}\sigma^{2}\\
+\iff & \chi=\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\begin{pmatrix}3&4&2&1\end{pmatrix}\begin{pmatrix}3&4&2&1\end{pmatrix}
 
 \end{align*}$$
