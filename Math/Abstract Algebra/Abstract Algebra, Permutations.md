@@ -296,7 +296,7 @@ $$\begin{align*}
 
 &\chi\tau=\sigma\\
 \iff & \chi=\sigma\tau^{-1}\\\\
-\iff &\chi=
+\iff &\chi=\begin{pmatrix}1&2&4&3\end{pmatrix}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}
 
 \end{align*}$$
 
