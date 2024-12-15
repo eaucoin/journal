@@ -331,7 +331,7 @@ $$\begin{align*}
 
 &\tau\chi\sigma=\epsilon\\
 \iff & \chi=\tau^{-1}\sigma^{-1}\\
-
+\iff & \chi=\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\begin{pmatrix}13&4&2\end{pmatrix}
 
 \end{align*}$$
 
