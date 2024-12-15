@@ -294,6 +294,18 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-&\chi\tau=\sigma
+&\chi\tau=\sigma\\
+\iff &
 
 \end{align*}$$
+
+**(c)**.
+
+$$\begin{align*}
+
+&\sigma^{-1}\chi=\tau\\
+\iff &
+
+\end{align*}$$
+
+**()**
