@@ -350,13 +350,13 @@ $$\begin{align*}
 
 \end{align*}$$
 
-**(4)**. If $\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}$, $\sigma\tau=\begin{pmatrix}1&2&4&5\end{pmatrix}$, then find $\sigma$ and $\tau$.
+**(4)**. If $\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}$, $\sigma\tau=\begin{pmatrix}1&2&4&5\end{pmatrix}$, and $\sigma$ moves $1$ to $2$, then find $\sigma$ and $\tau$.
 
 **Solution**. Start by finding $\chi$ such that $\tau\sigma=\chi\sigma\tau$:
 $$\begin{align*}
 
 &\tau\sigma=\chi\sigma\tau\\
 \iff &\chi=\tau\sigma\tau^{-1}\sigma^{-1}=\tau\sigma(\sigma\tau)^{-1}\\
-\iff &\chi=\begin{pmatrix}1&5&2&3\end{pmatrix}\begin{pmatrix}\end{pmatrix}
+\iff &\chi=\begin{pmatrix}1&5&2&3\end{pmatrix}\begin{pmatrix}5&4&2&\end{pmatrix}
 
 \end{align*}$$
