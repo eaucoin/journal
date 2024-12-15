@@ -308,4 +308,13 @@ $$\begin{align*}
 
 \end{align*}$$
 
+**(d)**.
+
+$$\begin{align*}
+
+&\chi\tau\sigma=\epsilon
+\iff &
+
+\end{align*}$$
+
 **()**
