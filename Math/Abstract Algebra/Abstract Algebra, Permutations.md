@@ -357,6 +357,7 @@ $$\begin{align*}
 $$\begin{align*}
 
 \tau\sigma&=\begin{pmatrix}1&5&2&3\end{pmatrix}\\
-&=\begin{pmatrix}5&2&\end{pmatrix}
+&=\begin{pmatrix}5&2&3&1\end{pmatrix}\\
+&=\begin{pmatrix}1&3&2&5\end{pmatrix}^{-1}
 
 \end{align*}$$
