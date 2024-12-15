@@ -270,7 +270,7 @@ $$\begin{align*}
 
 \end{align*}$$
 
-8
+Note: All completed exercises done above may be inaccurate; these were done at a time when I think I was computing the permutations in a different direction. 
 
 **(3)** Let 
 $$\begin{align*}
@@ -343,6 +343,6 @@ $$\begin{align*}
 $$\begin{align*}
 
 &\tau\chi\sigma^{-1}=\sigma\\
-\iff &
+\iff & 
 
 \end{align*}$$
