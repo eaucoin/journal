@@ -353,4 +353,8 @@ $$\begin{align*}
 **(4)**. If $\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}$ and $\sigma\tau=\begin{pmatrix}1&2&4&5\end{pmatrix}$, then find $\sigma$ and $\tau$.
 
 **Solution**. Start by finding $\chi$ such that $\tau\sigma=\chi\sigma\tau$:
+$$\begin{align*}
 
+&\tau\sigma
+
+\end{align*}$$
