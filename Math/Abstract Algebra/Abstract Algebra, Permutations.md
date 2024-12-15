@@ -307,7 +307,9 @@ $$\begin{align*}
 $$\begin{align*}
 
 &\sigma^{-1}\chi=\tau\\
-\iff & \chi
+\iff & \chi=\sigma\tau\\
+\iff & \chi=\begin{pmatrix}1&2&4&3\end{pmatrix}\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\\
+
 
 \end{align*}$$
 
