@@ -320,7 +320,7 @@ $$\begin{align*}
 &\chi\tau\sigma=\epsilon\\
 \iff & \chi=\sigma^{-1}\tau^{-1}\\
 \iff & \chi=\sigma^{-1}\tau\text{ (tau is composed of disjoint transpositions)}\\
-\iff & 
+\iff & \chi=\begin{pmatrix}1&4\end{pmatrix}
 
 
 \end{align*}$$
@@ -330,7 +330,8 @@ $$\begin{align*}
 $$\begin{align*}
 
 &\tau\chi\sigma=\epsilon\\
-\iff &
+\iff & \chi=\tau^{-1}\sigma^{-1}\\
+
 
 \end{align*}$$
 
