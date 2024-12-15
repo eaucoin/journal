@@ -333,8 +333,8 @@ $$\begin{align*}
 
 &\tau\chi\sigma=\epsilon\\
 \iff & \chi=\tau^{-1}\sigma^{-1}\\
-\iff & \chi=\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\begin{pmatrix}3&\end{pmatrix}\\
-\iff & \chi=\begin{pmatrix}1\end{pmatrix}\begin{pmatrix}2&3\end{pmatrix}\begin{pmatrix}3&2\end{pmatrix}\begin{pmatrix}4\end{pmatrix}
+\iff & \chi=\begin{pmatrix}1&3\end{pmatrix}\begin{pmatrix}2&4\end{pmatrix}\begin{pmatrix}3&4&2&1\end{pmatrix}\\
+\iff & \chi\begin{pmatrix}2&3\end{pmatrix}\begin{pmatrix}3&2\end{pmatrix}\begin{pmatrix}\end{pmatrix}
 
 \end{align*}$$
 
