@@ -319,7 +319,7 @@ $$\begin{align*}
 
 &\chi\tau\sigma=\epsilon\\
 \iff & \chi=\sigma^{-1}\tau^{-1}\\
-\iff & \chi=\sigma^{-1}\tau\text{ (that is,)}
+\iff & \chi=\sigma^{-1}\tau\hfill\text{ (tau is composed of disjoint transpositions)}
 
 \end{align*}$$
 
