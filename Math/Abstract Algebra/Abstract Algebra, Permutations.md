@@ -290,4 +290,10 @@ $$\begin{align*}
 
 \end{align*}$$
 
-**(b)**. $$
+**(b)**. 
+
+$$\begin{align*}
+
+&\chi\tau=\sigma
+
+\end{align*}$$
