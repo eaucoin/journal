@@ -352,12 +352,12 @@ $$\begin{align*}
 
 **(4)**. If $\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}$, $\sigma\tau=\begin{pmatrix}1&2&4&5\end{pmatrix}$, and $\sigma$ moves $1$ to $2$, then find $\sigma$ and $\tau$.
 
-**Solution**. Start by finding $\chi$ such that  $\tau\sigma=\sigma\tau$.
+**Solution**. Start by finding $\chi$ such that  $\tau\sigma=\sigma\tau\chi$.
 $$\begin{align*}
 
-&\tau\sigma=\chi\sigma\tau\\
-\iff &\chi=\tau\sigma(\sigma\tau)^{-1}\\
-\iff &\chi=\begin{pmatrix}1&2&5&4&3\end{pmatrix}
+&\tau\sigma=\sigma\tau\chi\\
+\iff &\chi=(\sigma\tau)^{-1}\tau\sigma\\
+\iff &\chi=\begin{pmatrix}1&4 2\end{pmatrix}
 
 \end{align*}$$
 Now, the order of $\begin{pmatrix}1&2&5&4&3\end{pmatrix}$ is $5$. Therefore,
