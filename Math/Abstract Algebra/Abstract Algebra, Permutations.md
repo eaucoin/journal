@@ -425,4 +425,4 @@ as required by the original problem.
 | $\sigma(\tau(3))$ | $4$            |
 | $\sigma(\tau(4))$ | $3$            |
 
-Now, suppose
+By definition, $\tau(1)\in\{\}$
