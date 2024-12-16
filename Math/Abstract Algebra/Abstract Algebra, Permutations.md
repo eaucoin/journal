@@ -383,10 +383,10 @@ And then we now have a new piece of information that allows us to fill in more o
 | The expression... | Is equal to... |
 | ----------------- | -------------- |
 | $\tau(2)$         | $5$            |
-| $\tau(\sigma(2))$ | $3$            |
-| $\tau(\sigma(3))$ | $1$            |
-| $\tau(\sigma(5))$ | $2$            |
+| $\tau(5)$         | $3$            |
+| $\tau($           | $1$            |
+| $\tau(4)$         | $2$            |
 | $\sigma(\tau(1))$ | $2$            |
-| $\sigma($         | $4$            |
-| $\sigma(\tau(4))$ | $5$            |
-| $\sigma(\tau(5))$ | $1$            |
+| $\sigma(5)$       | $4$            |
+| $\sigma(2)$       | $5$            |
+| $\sigma(3)$       | $1$            |
