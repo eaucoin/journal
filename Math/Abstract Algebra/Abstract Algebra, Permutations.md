@@ -352,4 +352,5 @@ $$\begin{align*}
 
 **(4)**. If $\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}$, $\sigma\tau=\begin{pmatrix}1&2&4&5\end{pmatrix}$, and $\sigma$ moves $1$ to $2$, then find $\sigma$ and $\tau$.
 
-**Solution**. The permutation $\tau\sigma=\begin{pmatrix}3&1&5&2\end{pmatrix}$, and the permutation $\sigma\tau=\begin{pmatrix}2&4&5&1\end{pmatrix}$. So the product of the two is 
+**Solution**. The permutation $\tau\sigma=\begin{pmatrix}3&1&5&2\end{pmatrix}$, and the permutation $\sigma\tau=\begin{pmatrix}2&4&5&1\end{pmatrix}$. So, the product of the two
+$$\tau\sigma\sigma\tau\begin{pmatrix}\end{pmatrix}$$
