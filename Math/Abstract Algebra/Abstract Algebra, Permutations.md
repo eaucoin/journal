@@ -432,4 +432,4 @@ We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases:
 | $\tau(1)=1$ | $\tau^{-1}(1)=1$ |               |
 | $\tau(1)=2$ | $\tau^{-1}(2)=1$ |               |
 | $\tau(1)=3$ | $\tau^{-1}(3)=1$ |               |
-| $\tau(1)=4$ | $\tau^{-1}(4)=1$ |               |
+| $\tau(1)=4$ |                  |               |
