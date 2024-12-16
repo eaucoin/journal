@@ -425,4 +425,6 @@ as required by the original problem.
 | $\sigma(\tau(3))$ | $4$            |
 | $\sigma(\tau(4))$ | $3$            |
 
-By definition, $\tau(1)\in\{\}$
+We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases:
+
+Case|Implication
