@@ -357,6 +357,7 @@ $$\begin{align*}
 
 &\tau\sigma=\chi\sigma\tau\\
 \iff &\chi=\tau\sigma(\sigma\tau)^{-1}\\
-\iff &\chi=()
+\iff &\chi=\begin{pmatrix}1&2&5&4&3\end{pmatrix}
 
 \end{align*}$$
+Now, the order of $\begin{pmatrix}1&2&5&4&3\end{pmatrix}$ is $$
