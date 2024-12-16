@@ -397,9 +397,10 @@ And of course, the missing elements are simply identity mappings. Therefore, the
 | ----------------- | -------------- |
 | $\tau(1)$         | $1$            |
 | $\tau(2)$         | $5$            |
-| $\tau(5)$         | $3$            |
+| $\tau(3)$         | $4$            |
 | $\tau(4)$         | $2$            |
+| $\tau(5)$         | $3$            |
 | $\sigma(1)$       | $2$            |
-| $\sigma(5)$       | $4$            |
 | $\sigma(2)$       | $5$            |
 | $\sigma(3)$       | $1$            |
+| $\sigma(5)$       | $4$            |
