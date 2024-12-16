@@ -368,4 +368,10 @@ $$\begin{align*}
 
 \end{align*}$$
 We can manipulate the expression for $\tau\sigma$ to account for the fact that we would like $1$ and $2$ to be "on the side of" the permutation $\sigma$, i.e.
-$$\tau\sigma=\begin{pmatrix}4&5\end{pmatrix}\begin{pmatrix}1&4&2&3&5\end{pmatrix}\text{.}$$
+$$\tau\sigma=\begin{pmatrix}4&5&1&2\end{pmatrix}\begin{pmatrix}1&4&2&3&5\end{pmatrix}\text{.}$$
+Now, do a cycle decomposition on $\tau\sigma$, then picking a grouping that we desire and hinting at $\tau$ and $\sigma$:
+$$\begin{align*}
+
+\tau\sigma
+
+\end{align*}$$
