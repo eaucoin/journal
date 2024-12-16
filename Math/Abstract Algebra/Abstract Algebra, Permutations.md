@@ -352,27 +352,4 @@ $$\begin{align*}
 
 **(4)**. If $\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}$, $\sigma\tau=\begin{pmatrix}1&2&4&5\end{pmatrix}$, and $\sigma$ moves $1$ to $2$, then find $\sigma$ and $\tau$.
 
-**Solution**. Start by finding $\chi$ such that  $\tau\sigma=\sigma\tau\chi$.
-$$\begin{align*}
-
-&\tau\sigma=\sigma\tau\chi\\
-\iff &\chi=(\sigma\tau)^{-1}\tau\sigma\\
-\iff &\chi=\begin{pmatrix}1&4&2&3&5\end{pmatrix}
-
-\end{align*}$$
-Now, we have that 
-$$\begin{align*}
-
-\sigma\tau&=\begin{pmatrix}1&2&4&5\end{pmatrix}\text{,}\\
-\tau\sigma&=\begin{pmatrix}1&2&4&5\end{pmatrix}\begin{pmatrix}1&4&2&3&5\end{pmatrix}\text{.}
-
-\end{align*}$$
-We can manipulate the expression for $\tau\sigma$ to account for the fact that we would like $1$ and $2$ to be "on the side of" the permutation $\sigma$, i.e.
-$$\tau\sigma=\begin{pmatrix}4&5&1&2\end{pmatrix}\begin{pmatrix}1&4&2&3&5\end{pmatrix}\text{.}$$
-Now, do a cycle decomposition on $\tau\sigma$, then picking a grouping that we desire and hinting at $\tau$ and $\sigma$:
-$$\begin{align*}
-
-\tau\sigma&=\begin{pmatrix}4&5\end{pmatrix}\begin{pmatrix}5&1\end{pmatrix}\big[\begin{pmatrix}1&2\end{pmatrix}\begin{pmatrix}1&4\end{pmatrix}\begin{pmatrix}4&2\end{pmatrix}\begin{pmatrix}2&3\end{pmatrix}\begin{pmatrix}3&5\end{pmatrix}\big]\\
-&=\begin{pmatrix}1&4&5\end{pmatrix}\big[\begin{pmatrix}1&2\end{pmatrix}\begin{pmatrix}1&4&2&\end{pmatrix}\big]
-
-\end{align*}$$
+**Solution**. 
