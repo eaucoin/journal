@@ -356,11 +356,11 @@ $$\begin{align*}
 
 | The expression... | Is equal to... |
 | ----------------- | -------------- |
-| $\tau(\sigma(1))$ | $$             |
-| $\tau(\sigma(2))$ | $$             |
-| $\tau(\sigma(3))$ | $$             |
-| $\tau(\sigma(5))$ | $$             |
-| $\sigma(\tau(1))$ | $$             |
+| $\tau(\sigma(1))$ | $5$            |
+| $\tau(\sigma(2))$ | $3$            |
+| $\tau(\sigma(3))$ | $1$            |
+| $\tau(\sigma(5))$ | $2$            |
+| $\sigma(\tau(1))$ | $2$            |
 | $\sigma(\tau(2))$ | $$             |
 | $\sigma(\tau(4))$ | $$             |
 | $\sigma(\tau(5))$ | $$             |
