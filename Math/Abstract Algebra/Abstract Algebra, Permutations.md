@@ -416,4 +416,11 @@ as required by the original problem.
 
 | The expression... | Is equal to... |
 | ----------------- | -------------- |
-| $\tau(\sigma())$  |                |
+| $\tau(\sigma(1))$ |                |
+| $\tau(\sigma(2))$ |                |
+| $\tau(\sigma(3))$ |                |
+| $\tau(\sigma(4))$ |                |
+| $\sigma(\tau(1))$ |                |
+| $\sigma(\tau(2))$ |                |
+| $\sigma(\tau(1))$ |                |
+| $\sigma(\tau(1))$ |                |
