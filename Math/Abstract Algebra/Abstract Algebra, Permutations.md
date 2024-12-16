@@ -357,8 +357,7 @@ $$\begin{align*}
 
 &\tau\sigma=\sigma\tau\chi\\
 \iff &\chi=(\sigma\tau)^{-1}\tau\sigma\\
-\iff &\chi=\begin{pmatrix}1&4 2\end{pmatrix}
+\iff &\chi=\begin{pmatrix}1&4&2&3&5\end{pmatrix}
 
 \end{align*}$$
-Now, the order of $\begin{pmatrix}1&2&5&4&3\end{pmatrix}$ is $5$. Therefore,
-$$(\tau\sigma)^5(\sigma\tau)^{-5}=\epsilon$$
+Now, 
