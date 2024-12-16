@@ -369,11 +369,24 @@ With the assumption that $\sigma(1)=2$, we can simplify the table:
 
 | The expression... | Is equal to... |
 | ----------------- | -------------- |
-| $\tau()$          | $5$            |
+| $\tau(2)$         | $5$            |
 | $\tau(\sigma(2))$ | $3$            |
 | $\tau(\sigma(3))$ | $1$            |
 | $\tau(\sigma(5))$ | $2$            |
 | $\sigma(\tau(1))$ | $2$            |
 | $\sigma(\tau(2))$ | $4$            |
+| $\sigma(\tau(4))$ | $5$            |
+| $\sigma(\tau(5))$ | $1$            |
+
+And then we now have a new piece of information that allows us to fill in more of the table. Repeating this process, we end up with the table:
+
+| The expression... | Is equal to... |
+| ----------------- | -------------- |
+| $\tau(2)$         | $5$            |
+| $\tau(\sigma(2))$ | $3$            |
+| $\tau(\sigma(3))$ | $1$            |
+| $\tau(\sigma(5))$ | $2$            |
+| $\sigma(\tau(1))$ | $2$            |
+| $\sigma($         | $4$            |
 | $\sigma(\tau(4))$ | $5$            |
 | $\sigma(\tau(5))$ | $1$            |
