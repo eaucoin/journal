@@ -354,6 +354,13 @@ $$\begin{align*}
 
 **Solution**. The extractable facts from the assumptions are given in a table:
 
-| Expression | I   |
-| ---------- | --- |
-|            |     |
+| Expression       | Equality |
+| ---------------- | -------- |
+| $\tau(\sigma())$ |          |
+| $$               |          |
+| $$               |          |
+| $$               |          |
+| $$               |          |
+| $$               |          |
+| $$               |          |
+| $$               |          |
