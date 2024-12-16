@@ -420,7 +420,8 @@ as required by the original problem.
 | $\tau(\sigma(2))$ | $3$            |
 | $\tau(\sigma(3))$ | $4$            |
 | $\tau(\sigma(4))$ | $1$            |
-| $\sigma(\tau(1))$ | $1$            |
-| $\sigma(\tau(2))$ | $$             |
-| $\sigma(\tau(3))$ | $$             |
-| $\sigma(\tau(4))$ | $$             |
+| $\sigma(\tau(1))$ | $2$            |
+| $\sigma(\tau(2))$ | $1$            |
+| $\sigma(\tau(3))$ | $4$            |
+| $\sigma(\tau(4))$ | $3$            |
+
