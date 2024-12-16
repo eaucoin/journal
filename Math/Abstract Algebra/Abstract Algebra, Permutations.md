@@ -352,4 +352,5 @@ $$\begin{align*}
 
 **(4)**. If $\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}$, $\sigma\tau=\begin{pmatrix}1&2&4&5\end{pmatrix}$, and $\sigma$ moves $1$ to $2$, then find $\sigma$ and $\tau$.
 
-**Solution**. Start by finding $n$ and $k$ such that $(\sigma\tau)^{n}=\epsilon$ and $(\tau\sigma)^{k}=\epsilon$. Testing, $(\sigma\tau)^{4}$ $(\tau\sigma)^{4}=\epsilon$
+**Solution**. Start by finding $n$ and $k$ such that $(\sigma\tau)^{n}=\epsilon$ and $(\tau\sigma)^{k}=\epsilon$. Testing, $(\sigma\tau)^{4}=\epsilon$, and $(\tau\sigma)^{4}=\epsilon$. Now, 
+$$(\sigma\tau)$$
