@@ -372,6 +372,6 @@ $$\tau\sigma=\begin{pmatrix}4&5&1&2\end{pmatrix}\begin{pmatrix}1&4&2&3&5\end{pma
 Now, do a cycle decomposition on $\tau\sigma$, then picking a grouping that we desire and hinting at $\tau$ and $\sigma$:
 $$\begin{align*}
 
-\tau\sigma=\begin{pmatrix}4&5\end{pmatrix}\begin{pmatrix}5&1\end{pmatrix}\big[(\big]
+\tau\sigma=\begin{pmatrix}4&5\end{pmatrix}\begin{pmatrix}5&1\end{pmatrix}\big[\begin{pmatrix}1&2\end{pmatrix}\begin{pmatrix}1&4\end{pmatrix}\begin{pmatrix}4&2\end{pmatrix}\big]
 
 \end{align*}$$
