@@ -427,4 +427,9 @@ as required by the original problem.
 
 We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases:
 
-Case|Implication
+| Case        | Implication 1 |
+| ----------- | ------------- |
+| $\tau(1)=1$ |               |
+| $\tau(1)=2$ |               |
+| $\tau(1)=3$ |               |
+| $\tau(1)=4$ |               |
