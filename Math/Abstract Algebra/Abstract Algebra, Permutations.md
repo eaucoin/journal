@@ -425,4 +425,4 @@ as required by the original problem.
 | $\sigma(\tau(3))$ | $4$            |
 | $\sigma(\tau(4))$ | $3$            |
 
-Now, suppose tha
+Now, suppose that we know that $\sigma(1)=a_1$, where $a\in\{1,2,3,4\}$. Then we would
