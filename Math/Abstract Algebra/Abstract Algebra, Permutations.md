@@ -412,4 +412,4 @@ The permutations $\tau$ and $\sigma$ can therefore be written in cycle notation 
 - $\sigma(1)=2$,
 as required by the original problem.
 
-**(5)**. We need to show that $\tau\sigma=\begin{pmatrix}1&2&3&4\end{pmatrix}$ and $\sigma\tau=\begin{pmatrix}1&2\end{pmatrix}\begin{pmatrix}3&4\end{pmatrix}$ is impossible fo
+**(5)**. We need to show that $\tau\sigma=\begin{pmatrix}1&2&3&4\end{pmatrix}$ and $\sigma\tau=\begin{pmatrix}1&2\end{pmatrix}\begin{pmatrix}3&4\end{pmatrix}$ is impossible for $\sigma,\;\tau\in S_4$. The
