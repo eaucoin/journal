@@ -425,4 +425,4 @@ as required by the original problem.
 | $\sigma(\tau(3))$ | $4$            |
 | $\sigma(\tau(4))$ | $3$            |
 
-Since  
+Since $\tau$ and $\sigma$ are invertible, this means that both $\sigma(1)=\tau^{-1}(2)$ and $\sigma^{-1}(1)$
