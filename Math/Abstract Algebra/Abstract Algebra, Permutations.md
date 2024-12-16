@@ -360,4 +360,6 @@ $$\begin{align*}
 \iff &\chi=\begin{pmatrix}1&4&2&3&5\end{pmatrix}
 
 \end{align*}$$
-Now, 
+Now, we have that 
+$$\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}\text{,}$$
+$$$$
