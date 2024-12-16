@@ -384,9 +384,22 @@ And then we now have a new piece of information that allows us to fill in more o
 | ----------------- | -------------- |
 | $\tau(2)$         | $5$            |
 | $\tau(5)$         | $3$            |
-| $\tau($           | $1$            |
+| $\tau(1)$         | $1$            |
 | $\tau(4)$         | $2$            |
-| $\sigma(\tau(1))$ | $2$            |
+| $\sigma(1)$       | $2$            |
+| $\sigma(5)$       | $4$            |
+| $\sigma(2)$       | $5$            |
+| $\sigma(3)$       | $1$            |
+
+And of course, the missing elements are simply identity mappings. Therefore, the full table is as follows:
+
+| The expression... | Is equal to... |
+| ----------------- | -------------- |
+| $\tau(1)$         | $1$            |
+| $\tau(2)$         | $5$            |
+| $\tau(5)$         | $3$            |
+| $\tau(4)$         | $2$            |
+| $\sigma(1)$       | $2$            |
 | $\sigma(5)$       | $4$            |
 | $\sigma(2)$       | $5$            |
 | $\sigma(3)$       | $1$            |
