@@ -427,9 +427,9 @@ as required by the original problem.
 
 We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases:
 
-| Case        | Fac | Implication from Case |     |
-| ----------- | --- | --------------------- | --- |
-| $\tau(1)=1$ |     | $\sigma(1)=2$         |     |
-| $\tau(1)=2$ |     | $\sigma(2)=2$         |     |
-| $\tau(1)=3$ |     | $\sigma(3)=2$         |     |
-| $\tau(1)=4$ |     | $\sigma(4)=2$         |     |
+| Case        | Implication 1. | Implication 2.           |
+| ----------- | -------------- | ------------------------ |
+| $\tau(1)=1$ | $\sigma(1)=2$  | $\sigma(1)=\tau^{-1}(2)$ |
+| $\tau(1)=2$ | $\sigma(2)=2$  |                          |
+| $\tau(1)=3$ | $\sigma(3)=2$  |                          |
+| $\tau(1)=4$ | $\sigma(4)=2$  |                          |
