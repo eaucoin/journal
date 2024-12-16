@@ -364,6 +364,7 @@ Now, we have that
 $$\begin{align*}
 
 \sigma\tau&=\begin{pmatrix}1&2&4&5\end{pmatrix}\text{,}\\
-\tau\sigma&=\begin{pmatrix}1&2&4&5\end{pmatrix}\begin{pmatrix}1&4&2&3&\end{pmatrix}
+\tau\sigma&=\begin{pmatrix}1&2&4&5\end{pmatrix}\begin{pmatrix}1&4&2&3&5\end{pmatrix}\text{.}
 
 \end{align*}$$
+We can manipulate the expression for 
