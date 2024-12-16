@@ -406,4 +406,5 @@ And now, only possible row remains for both of the mappings in the full table:
 | $\sigma(4)$       | $3$            |
 | $\sigma(5)$       | $4$            |
 
-The permutations $\tau$ and $\sigma$ can therefore be written in cycle notation as $\tau=\begin{pmatrix}2&5&3&4\end{pmatrix}$ and $\sig$
+The permutations $\tau$ and $\sigma$ can therefore be written in cycle notation as $\tau=\begin{pmatrix}2&5&3&4\end{pmatrix}$ and $\sigma=\begin{pmatrix}1&2&5&4&3\end{pmatrix}$, in which obviously
+- $\sigma\tau=\begin{pmatrix}1&2&5&4&3\end{pmatrix}$
