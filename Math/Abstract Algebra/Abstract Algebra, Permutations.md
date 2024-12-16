@@ -416,11 +416,11 @@ as required by the original problem.
 
 | The expression... | Is equal to... |
 | ----------------- | -------------- |
-| $\tau(\sigma(1))$ |                |
-| $\tau(\sigma(2))$ |                |
-| $\tau(\sigma(3))$ |                |
-| $\tau(\sigma(4))$ |                |
-| $\sigma(\tau(1))$ |                |
-| $\sigma(\tau(2))$ |                |
-| $\sigma(\tau(1))$ |                |
-| $\sigma(\tau(1))$ |                |
+| $\tau(\sigma(1))$ | $2$            |
+| $\tau(\sigma(2))$ | $3$            |
+| $\tau(\sigma(3))$ | $4$            |
+| $\tau(\sigma(4))$ | $1$            |
+| $\sigma(\tau(1))$ | $1$            |
+| $\sigma(\tau(2))$ | $$             |
+| $\sigma(\tau(3))$ | $$             |
+| $\sigma(\tau(4))$ | $$             |
