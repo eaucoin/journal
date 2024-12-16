@@ -361,5 +361,9 @@ $$\begin{align*}
 
 \end{align*}$$
 Now, we have that 
-$$\tau\sigma=\begin{pmatrix}1&5&2&3\end{pmatrix}\text{,}$$
-$$$$
+$$\begin{align*}
+
+\sigma\tau=\begin{pmatrix}1&2&4&5\end{pmatrix}\text{,}\\
+\tau\sigma&
+
+\end{align*}$$
