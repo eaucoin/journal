@@ -354,4 +354,4 @@ $$\begin{align*}
 
 **Solution**. Do the cycle decomposition.
 $$\tau\sigma=\begin{pmatrix}1&5\end{pmatrix}\begin{pmatrix}2&5\end{pmatrix}\begin{pmatrix}2&3\end{pmatrix}\begin{pmatrix}4\end{pmatrix}\text{,}$$
-$$\sigma\tau=$$
+$$\sigma\tau=\begin{pmatrix}2\end{pmatrix}$$
