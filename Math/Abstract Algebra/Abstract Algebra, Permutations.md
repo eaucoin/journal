@@ -367,4 +367,5 @@ $$\begin{align*}
 \tau\sigma&=\begin{pmatrix}1&2&4&5\end{pmatrix}\begin{pmatrix}1&4&2&3&5\end{pmatrix}\text{.}
 
 \end{align*}$$
-We can manipulate the expression for $\tau\sigma$ to account for the fact that we would like $1$ and $2$ to be "on the side of" the permutation $\sigma$, i.e
+We can manipulate the expression for $\tau\sigma$ to account for the fact that we would like $1$ and $2$ to be "on the side of" the permutation $\sigma$, i.e.
+$$\tau\sigma=\begin{pmatrix}4&5\end{pmatrix}\begin{pmatrix}1&4&2&3&5\end{pmatrix}\text{.}$$
