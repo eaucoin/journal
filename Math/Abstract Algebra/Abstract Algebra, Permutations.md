@@ -429,7 +429,7 @@ We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases:
 
 | Case        | Implication 1 | Implication 2 |
 | ----------- | ------------- | ------------- |
-| $\tau(1)=1$ | $\sigm$       |               |
-| $\tau(1)=2$ |               |               |
+| $\tau(1)=1$ | $\sigma(1)=2$ |               |
+| $\tau(1)=2$ | \             |               |
 | $\tau(1)=3$ |               |               |
 | $\tau(1)=4$ |               |               |
