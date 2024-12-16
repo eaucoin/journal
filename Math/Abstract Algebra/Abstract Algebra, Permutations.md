@@ -391,7 +391,7 @@ And then we now have a new piece of information that allows us to fill in more o
 | $\sigma(2)$       | $5$            |
 | $\sigma(3)$       | $1$            |
 
-And now, only one pair of input-ou
+And now, only possible row remains for both of the mappings in the full table:
 
 | The expression... | Is equal to... |
 | ----------------- | -------------- |
@@ -405,3 +405,5 @@ And now, only one pair of input-ou
 | $\sigma(3)$       | $1$            |
 | $\sigma(4)$       | $3$            |
 | $\sigma(5)$       | $4$            |
+
+The permutations $\tau$ and $\sigm$
