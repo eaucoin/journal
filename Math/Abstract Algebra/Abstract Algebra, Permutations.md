@@ -391,7 +391,7 @@ And then we now have a new piece of information that allows us to fill in more o
 | $\sigma(2)$       | $5$            |
 | $\sigma(3)$       | $1$            |
 
-And of course, the missing elements are simply identity mappings. Therefore, the full table is as follows:
+And now, only one pair of input-ou
 
 | The expression... | Is equal to... |
 | ----------------- | -------------- |
@@ -403,4 +403,5 @@ And of course, the missing elements are simply identity mappings. Therefore, the
 | $\sigma(1)$       | $2$            |
 | $\sigma(2)$       | $5$            |
 | $\sigma(3)$       | $1$            |
+| $\sigma(4)$       | $3$            |
 | $\sigma(5)$       | $4$            |
