@@ -360,4 +360,5 @@ $$\begin{align*}
 \iff &\chi=\begin{pmatrix}1&2&5&4&3\end{pmatrix}
 
 \end{align*}$$
-Now, the order of $\begin{pmatrix}1&2&5&4&3\end{pmatrix}$ is $$
+Now, the order of $\begin{pmatrix}1&2&5&4&3\end{pmatrix}$ is $5$. Therefore,
+$$()$$
