@@ -354,13 +354,13 @@ $$\begin{align*}
 
 **Solution**. The extractable facts from the assumptions are given in a table:
 
-| Expression       | Equality |
-| ---------------- | -------- |
-| $\tau(\sigma())$ |          |
-| $$               |          |
-| $$               |          |
-| $$               |          |
-| $$               |          |
-| $$               |          |
-| $$               |          |
-| $$               |          |
+| Expression        | Equality |
+| ----------------- | -------- |
+| $\tau(\sigma(1))$ |          |
+| $\tau(\sigma(2))$ |          |
+| $\tau(\sigma(3))$ |          |
+| $\tau(\sigma(1))$ |          |
+| $\sigma(\tau(1))$ |          |
+| $\sigma(\tau(1))$ |          |
+| $\sigma(\tau(1))$ |          |
+| $\sigma(\tau(1))$ |          |
