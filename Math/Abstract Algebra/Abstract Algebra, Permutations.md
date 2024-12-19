@@ -477,4 +477,6 @@ So, no matter the choice of $\tau(1)$, this situation is an impossibility, alway
 
 **(6)**. The permutations $\sigma$ and $\tau$ fix $k$ iff $\sigma(k)=\tau(k)=k$. Then 
 - $(\sigma\circ\tau)(k)=\sigma(\tau(k))=\sigma(k)=k$, so $\sigma\tau$ indeed fixes $k$, and
-- $\sigma(k)=k$
+- $\sigma(k)=k$ and $\sigma$ by definition being invertible implies that $\sigma^{-1}(k)=k$, so $\sigma^{-1}$ fixes $k$.
+
+**(7)**. 
