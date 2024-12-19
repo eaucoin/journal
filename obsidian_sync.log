@@ -1399,3 +1399,5 @@
 2024-12-19 11:33:05,100 - Unexpected error during sync: Command '['git', 'fetch', 'origin']' returned non-zero exit status 128.
 2024-12-19 12:29:33,895 - Git operation failed: b'ssh: Could not resolve hostname github.com: Temporary failure in name resolution\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n'
 2024-12-19 12:29:33,896 - Unexpected error during sync: Command '['git', 'fetch', 'origin']' returned non-zero exit status 128.
+2024-12-19 12:30:53,626 - Git operation failed: b'ssh: Could not resolve hostname github.com: Temporary failure in name resolution\r\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n'
+2024-12-19 12:30:53,626 - Unexpected error during sync: Command '['git', 'fetch', 'origin']' returned non-zero exit status 128.
