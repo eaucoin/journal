@@ -493,4 +493,5 @@ Likewise for those that fix $1$ *and* $2$: there exists $(5-2)!=3!$ of such perm
 
 **(10)**. To say that $\sigma$ and $\tau$ are disjoint is to say that for all $k\in X_n$, only one of the following is true:
 - $\sigma(k)=\tau(k)=k$ 
-- $\sigma$
+- $\sigma(k)\neq k\;\wedge\;\tau(k)=k$
+- $\sigma(k)= k\;\wedge\;\tau(k)=k$
