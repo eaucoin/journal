@@ -485,4 +485,4 @@ Likewise for those that fix $1$ *and* $2$: there exists $(5-2)!=3!$ of such perm
 
 **(8)**.
 
-**(a)**. For $\sigma,\;\tau\in X_n$, the permutation $\sigma\tau$ is equal to $\epsilon$ iff $(\forall k\in X_n)(\sigma(\tau(k))=k)$. 
+**(a)**. For $\sigma,\;\tau\in X_n$, the permutation $\sigma\tau$ is equal to $\epsilon$ iff $(\forall k\in X_n)(\sigma(\tau(k))=k)$. Now, suppose that $\sigma(a)=b$. For wha
