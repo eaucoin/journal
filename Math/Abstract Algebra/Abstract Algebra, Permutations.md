@@ -438,4 +438,26 @@ We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases, st
 | $\sigma(\tau(3))$ | $4$            |
 | $\sigma(\tau(4))$ | $3$            |
 
-Here, we've stopped at the point of implication where $\tau(1)=3$. We'll continue with the other cases of $\tau(1)=2$
+Here, we've stopped at the point of implication where $\tau(1)=3$. We'll continue with the other cases of $\tau(1)=2$, $\tau(1)=3$, and $\tau(1)=4$:
+
+| The expression... | Is equal to... |
+| ----------------- | -------------- |
+| $\tau(\sigma(1))$ | $2$            |
+| $\tau(2)$         | $3$            |
+| $\tau(1)$         | $4$            |
+| $\tau(\sigma(4))$ | $1$            |
+| $\sigma(2)$       | $2$            |
+| $\sigma(3)$       | $1$            |
+| $\sigma(\tau(3))$ | $4$            |
+| $\sigma(\tau(4))$ | $3$            |
+
+| The expression... | Is equal to... |
+| ----------------- | -------------- |
+| $\tau(2)$         | $2$            |
+| $\tau(1)$         | $3$            |
+| $\tau(\sigma(3))$ | $4$            |
+| $\tau(\sigma(4))$ | $1$            |
+| $\sigma(1)$       | $2$            |
+| $\sigma(2)$       | $1$            |
+| $\sigma(\tau(3))$ | $4$            |
+| $\sigma(\tau(4))$ | $3$            |
