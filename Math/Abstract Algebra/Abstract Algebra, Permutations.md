@@ -425,7 +425,7 @@ as required by the original problem.
 | $\sigma(\tau(3))$ | $4$            |
 | $\sigma(\tau(4))$ | $3$            |
 
-We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases, starting with 
+We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases, starting with $\tau(1)=1$. We construct this first table, stopping at the apparent impossibility:
 
 | The expression... | Is equal to... |
 | ----------------- | -------------- |
@@ -437,3 +437,5 @@ We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases, st
 | $\sigma(2)$       | $1$            |
 | $\sigma(\tau(3))$ | $4$            |
 | $\sigma(\tau(4))$ | $3$            |
+
+Here, we've stopped at the point of implication where $\tau(1)=3$. We'll continue with the other cases of $\tau(1)=2$
