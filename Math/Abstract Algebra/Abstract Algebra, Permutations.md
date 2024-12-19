@@ -427,9 +427,22 @@ as required by the original problem.
 
 We can safely assume that $\tau(1)\in\{1,2,3,4\}$. Consider those four cases:
 
-| Case        | Implication 1. |
-| ----------- | -------------- |
-| $\tau(1)=1$ | $\sigma(1)=2$  |
-| $\tau(1)=2$ | $\sigma(2)=2$  |
-| $\tau(1)=3$ | $\sigma(3)=2$  |
-| $\tau(1)=4$ | $\sigma(4)=2$  |
+| Case        | Implication   |
+| ----------- | ------------- |
+| $\tau(1)=1$ | $\sigma(1)=2$ |
+| $\tau(1)=2$ | $\sigma(2)=2$ |
+| $\tau(1)=3$ | $\sigma(3)=2$ |
+| $\tau(1)=4$ | $\sigma(4)=2$ |
+
+We show a resulting table for each of those cases:
+
+| The expression... | Is equal to... |
+| ----------------- | -------------- |
+| $\tau(\sigma(1))$ | $2$            |
+| $\tau(\sigma(2))$ | $3$            |
+| $\tau(\sigma(3))$ | $4$            |
+| $\tau(\sigma(4))$ | $1$            |
+| $\sigma($         | $2$            |
+| $\sigma(\tau(2))$ | $1$            |
+| $\sigma(\tau(3))$ | $4$            |
+| $\sigma(\tau(4))$ | $3$            |

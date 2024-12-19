@@ -1331,3 +1331,5 @@
 2024-12-16 11:45:09,416 - Successfully synced vault at 2024-12-16 11:45:05
 2024-12-16 11:46:07,894 - Successfully synced vault at 2024-12-16 11:46:05
 2024-12-16 11:47:12,202 - Successfully synced vault at 2024-12-16 11:47:10
+2024-12-19 08:27:41,441 - Rebase failed: b'error: cannot rebase: You have unstaged changes.\nerror: Please commit or stash them.\n'
+2024-12-19 08:27:43,466 - Successfully synced vault at 2024-12-19 08:27:25
