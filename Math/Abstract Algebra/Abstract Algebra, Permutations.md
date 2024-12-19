@@ -483,4 +483,4 @@ So, no matter the choice of $\tau(1)$, this situation is an impossibility, alway
 
 Likewise for those that fix $1$ *and* $2$: there exists $(5-2)!=3!$ of such permutations in $S_5$.
 
-**(8)**. 
+**(8)**.
