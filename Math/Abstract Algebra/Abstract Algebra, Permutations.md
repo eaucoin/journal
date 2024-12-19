@@ -479,4 +479,4 @@ So, no matter the choice of $\tau(1)$, this situation is an impossibility, alway
 - $(\sigma\circ\tau)(k)=\sigma(\tau(k))=\sigma(k)=k$, so $\sigma\tau$ indeed fixes $k$, and
 - $\sigma(k)=k$ and $\sigma$ by definition being invertible implies that $\sigma^{-1}(k)=k$, so $\sigma^{-1}$ fixes $k$.
 
-**(7)**. Permutations in $S_5$ that fix $1$ are simply of the form $\begin{pmatrix}1&2&3&4&5\\1&a&b&c&d\end{pmatrix}$. Since there are $4$
+**(7)**. Permutations in $S_5$ that fix $1$ are simply of the form $\begin{pmatrix}1&2&3&4&5\\1&a&b&c&d\end{pmatrix}$. Since there are $4$ different unknowns and they can be in any order, we have $4!$ possible choices for such a permutation, and therefore $4!$ permutations in $S_5$ that fix 
