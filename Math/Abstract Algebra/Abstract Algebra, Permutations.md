@@ -453,11 +453,22 @@ Here, we've stopped at the point of implication where $\tau(1)=3$. We'll continu
 
 | The expression... | Is equal to... |
 | ----------------- | -------------- |
-| $\tau(2)$         | $2$            |
-| $\tau(1)$         | $3$            |
+| $\tau(\sigma(1))$ | $2$            |
+| $\tau(\sigma(2))$ | $3$            |
 | $\tau(\sigma(3))$ | $4$            |
 | $\tau(\sigma(4))$ | $1$            |
-| $\sigma(1)$       | $2$            |
-| $\sigma(2)$       | $1$            |
+| $\sigma(\tau(1))$ | $2$            |
+| $\sigma(\tau(2))$ | $1$            |
+| $\sigma(\tau(3))$ | $4$            |
+| $\sigma(\tau(4))$ | $3$            |
+
+| The expression... | Is equal to... |
+| ----------------- | -------------- |
+| $\tau(\sigma(1))$ | $2$            |
+| $\tau(\sigma(2))$ | $3$            |
+| $\tau(\sigma(3))$ | $4$            |
+| $\tau(\sigma(4))$ | $1$            |
+| $\sigma(\tau(1))$ | $2$            |
+| $\sigma(\tau(2))$ | $1$            |
 | $\sigma(\tau(3))$ | $4$            |
 | $\sigma(\tau(4))$ | $3$            |
