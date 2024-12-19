@@ -479,4 +479,4 @@ So, no matter the choice of $\tau(1)$, this situation is an impossibility, alway
 - $(\sigma\circ\tau)(k)=\sigma(\tau(k))=\sigma(k)=k$, so $\sigma\tau$ indeed fixes $k$, and
 - $\sigma(k)=k$ and $\sigma$ by definition being invertible implies that $\sigma^{-1}(k)=k$, so $\sigma^{-1}$ fixes $k$.
 
-**(7)**. rrrrrrr
+**(7)**. Permutatio
