@@ -475,4 +475,6 @@ Here, we've stopped at the point of implication where $\tau(1)=3$. We'll continu
 
 So, no matter the choice of $\tau(1)$, this situation is an impossibility, always implying that $\tau(1)$ is not equal to our choice. Therefore, this situation is impossible.
 
-**(6)**. The permutations $\sigma$ and $\tau$ fix $k$ iff $\sigma(k)=\tau(k)=k$. Then $(\sigma\circ\tau)(k)=\sigma(\tau(k))=\s$
+**(6)**. The permutations $\sigma$ and $\tau$ fix $k$ iff $\sigma(k)=\tau(k)=k$. Then 
+- $(\sigma\circ\tau)(k)=\sigma(\tau(k))=\sigma(k)=k$, so $\sigma\tau$ indeed fixes $k$, and
+- $\sigma(k)=k$
