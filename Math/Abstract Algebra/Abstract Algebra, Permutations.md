@@ -481,4 +481,6 @@ So, no matter the choice of $\tau(1)$, this situation is an impossibility, alway
 
 **(7)**. Permutations in $S_5$ that fix $1$ are simply of the form $\begin{pmatrix}1&2&3&4&5\\1&a&b&c&d\end{pmatrix}$. Since there are $4$ different unknowns and they can be in any order, we have $4!$ possible choices for such a permutation, and therefore $4!$ permutations in $S_5$ that fix $1$.
 
-Likewise for those th
+Likewise for those that fix $1$ *and* $2$: there exists $(5-2)!=3!$ of such permutations in $S_5$.
+
+**(8)**. 
