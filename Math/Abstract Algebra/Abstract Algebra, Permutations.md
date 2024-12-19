@@ -473,4 +473,6 @@ Here, we've stopped at the point of implication where $\tau(1)=3$. We'll continu
 | $\sigma(\tau(3))$ | $4$            |
 | $\sigma(\tau(4))$ | $3$            |
 
-So, no matter the choice of $\tau(1)$, this situation is an impossibility, always implying that $\tau(1)$ is not
+So, no matter the choice of $\tau(1)$, this situation is an impossibility, always implying that $\tau(1)$ is not equal to our choice. Therefore, this situation is impossible.
+
+**(6)**
