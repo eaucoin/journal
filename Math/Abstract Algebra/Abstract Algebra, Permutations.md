@@ -489,4 +489,5 @@ Likewise for those that fix $1$ *and* $2$: there exists $(5-2)!=3!$ of such perm
 
 **(b)**. For $\sigma\in S_n$, the permutation $\sigma^2$ is equal to $\epsilon$ iff $(\forall k\in X_n)(\sigma(\sigma(k))=k)$. Since $\sigma$ is by definition invertible, this is the case iff $(\forall k\in X_n)(\sigma(k)=\sigma^{-1}(k))$, which is the case iff $\sigma=\epsilon$.
 
-**(9)**. For $\sigma,\;\tau\in X_n$, the permutation $\sigma$ is equal to $\tau$ iff $(\forall k\in X_n)(\sigma(k)=\tau(k))$. Since both $\sigma$ and $\tau$ are bijections, this is the case iff $(\forall k\in X_n)(\sigma^{-1}(k))=\tau^{-1}(k))$, which is the case iff $(\forall k\in X_n)(\sigma(\tau^{-1}(k))=k)$, which is the case iff $\$
+**(9)**. For $\sigma,\;\tau\in X_n$, the permutation $\sigma$ is equal to $\tau$ iff $(\forall k\in X_n)(\sigma(k)=\tau(k))$. Since both $\sigma$ and $\tau$ are bijections, this is the case iff $(\forall k\in X_n)(\sigma^{-1}(k))=\tau^{-1}(k))$, which is the case iff $(\forall k\in X_n)(\sigma(\tau^{-1}(k))=k)$, which is the case iff $\sigma\tau^{-1}=\epsilon$. Therefore, $\sigma=\tau\iff \sigma\tau^{-1}=\epsilon$.
+
