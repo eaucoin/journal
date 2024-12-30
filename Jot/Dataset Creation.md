@@ -8,13 +8,14 @@
 
 1. For `Handwritten English` identifiers:
 ```
-
-```
-1. For `Latin` identifiers:
+mediatype:(texts) and language:(Handwritten English)
 ```
 
+3. For `Latin` identifiers:
 ```
-1. For `Bureau` identifiers:
+mediatype:(texts) and language:(Latin)
 ```
-
+3. For `Office Document` identifiers:
+```
+mediatype:(texts) and collection:(nationalsecurityarchive)
 ```
