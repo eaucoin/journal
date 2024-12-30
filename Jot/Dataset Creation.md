@@ -6,7 +6,15 @@
 
 ## Queries Being Used
 
-1. 
+1. For `Handwritten English` identifiers:
+```
+
+```
+1. For `Latin` identifiers:
+```
+
+```
+1. For `Bureau` identifiers:
 ```
 
 ```
