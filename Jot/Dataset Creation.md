@@ -10,6 +10,7 @@
 ```
 mediatype:(texts) and language:(Handwritten English)
 ```
+- Running on Gizmo
 
 3. For `Latin` identifiers:
 ```
