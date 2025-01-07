@@ -10,13 +10,16 @@
 ```
 mediatype:(texts) and language:(Handwritten English)
 ```
-- Running on Gizmo
+- Running on `Gizmo` machine
 
-3. For `Latin` identifiers:
+2. For `Latin` identifiers:
 ```
 mediatype:(texts) and language:(Latin)
 ```
-3. For `Office Document` identifiers:
+- Running on `Gremlin` machine
+
+4. For `Office Document` identifiers:
 ```
 mediatype:(texts) and collection:(nationalsecurityarchive)
 ```
+- This proces
