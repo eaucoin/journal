@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Courses/MATH 4031/001. Syllabus.md",
+                "file": "Current Courses/MATH 4031/000B. Assignments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. Syllabus"
+              "title": "000B. Assignments"
             }
           }
         ],
@@ -193,8 +193,9 @@
   },
   "active": "e4a05cb7ddbb6b0b",
   "lastOpenFiles": [
+    "Current Courses/MATH 4031/000A. Syllabus.md",
+    "Current Courses/MATH 4031/000B. Assignments.md",
     "ReadMe.md",
-    "Current Courses/MATH 4031/001. Syllabus.md",
     "Current Courses/MATH 4031",
     "Current Courses/Untitled.md",
     "Untitled.md",
@@ -220,7 +221,6 @@
     "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
     "Math/Abstract Algebra/Abstract Algebra, Factor Groups.md",
     "Jot/Linear Algebra.md",
-    "Try.md",
     "W. Keith Nicholson - Introduction to Abstract Algebra-Wiley (2012).pdf",
     "Languages/Ancient Greek/Interphrasal Translations",
     "Languages/Ancient Greek",
