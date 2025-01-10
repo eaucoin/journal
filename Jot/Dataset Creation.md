@@ -22,4 +22,4 @@ mediatype:(texts) and language:(Latin)
 ```
 mediatype:(texts) and collection:(nationalsecurityarchive)
 ```
-- This proces
+- This process is on hold; I'm not sure when I'll get to them. 
