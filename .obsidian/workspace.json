@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "a44921645f7993c2",
@@ -194,6 +193,8 @@
   },
   "active": "e4a05cb7ddbb6b0b",
   "lastOpenFiles": [
+    "Current Courses/MATH 4031/00A. Syllabus.md",
+    "Current Courses/MATH 4031/00B. Assignments.md",
     "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
     "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
     "Math/Advanced Calculus/Advanced Calculus, Test Yourself II.md",
@@ -218,9 +219,7 @@
     "Math/Advanced Calculus/Advanced Calculus, Limits of Sequences & Cauchy Sequences.md",
     "Math/Elementary Number Theory/Elementary Number Theory, Chapter 4.md",
     "Math/Advanced Calculus",
-    "Current Courses/MATH 4031/00B. Assignments.md",
     "Math/Elementary Number Theory/Untitled",
-    "Current Courses/MATH 4031/00A. Syllabus.md",
     "Current Courses/00. Class Schedule.md",
     "Current Courses/MATH 4325",
     "Current Courses/MATH 4031",
