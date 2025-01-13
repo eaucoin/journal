@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Courses/00. Class Schedule.md",
+                "file": "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. Class Schedule"
+              "title": "Abstract Algebra, 00, Guide"
             }
           },
           {
@@ -193,11 +193,14 @@
   },
   "active": "b3562b6443d0a7b3",
   "lastOpenFiles": [
-    "Current Courses/MATH 4325/00A. Syllabus.md",
-    "Current Courses/00. Class Schedule.md",
-    "Current Courses/MATH 4325",
+    "Math/Elementary Number Theory/Elementary Number Theory, Chapter 4.md",
+    "Math/Advanced Calculus",
     "Current Courses/MATH 4031/00B. Assignments.md",
+    "Math/Elementary Number Theory/Untitled",
     "Current Courses/MATH 4031/00A. Syllabus.md",
+    "Current Courses/00. Class Schedule.md",
+    "Current Courses/MATH 4325/00A. Syllabus.md",
+    "Current Courses/MATH 4325",
     "Current Courses/Untitled.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
@@ -221,13 +224,10 @@
     "[[.md",
     "Math/Abstract Algebra/Abstract Algebra, The Isomorphism Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, Introduction to Groups.md",
-    "Math/Abstract Algebra/Abstract Algebra, Homomorphisms and Isomorphisms.md",
     "W. Keith Nicholson - Introduction to Abstract Algebra-Wiley (2012).pdf",
     "Languages/Ancient Greek/Interphrasal Translations",
     "Languages/Ancient Greek",
     "Languages",
-    "obsidian_sync.log",
-    "Jot",
-    "Math/Elementary Number Theory"
+    "obsidian_sync.log"
   ]
 }
