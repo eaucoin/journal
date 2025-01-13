@@ -1,8 +1,14 @@
-# Schedule
+# Updated Class Schedule
 
-| Course      | Code     | Section | Credits | Time      | Days   | Location    |
-|-------------|----------|---------|---------|-----------|--------|-------------|
-| Astronomy I | ASTR 1101| 003     | 3.0     | 9:00-10:30| T TH   | NICHOLSON 0130 |
-| Astronomy II| ASTR 1102| 001     | 3.0     | 10:30-11:30| M W F  | NICHOLSON 0130 |
-| Math I      | MATH 4031| 001     | 3.0     | 2:30-3:30 | M W F  | LOCKETT 0138   |
-| Math II     | MATH 4325| 001     | 3.0     | 1:30-3:00 | T TH   | LOCKETT 0119   |
+| Time       | Monday            | Tuesday           | Wednesday         | Thursday          | Friday            |
+|------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+| 8:30-9:30  | ASTR 1101         |                   | ASTR 1101         |                   | ASTR 1101         |
+|            | NICHOLSON         |                   | NICHOLSON         |                   | NICHOLSON         |
+| 9:00-10:30 |                   | MATH 4058         |                   | MATH 4058         |                   |
+|            |                   | LOCKETT           |                   | LOCKETT           |                   |
+| 10:30-11:30| ASTR 1102         |                   | ASTR 1102         |                   | ASTR 1102         |
+|            | NICHOLSON         |                   | NICHOLSON         |                   | NICHOLSON         |
+| 1:30-3:00  |                   | MATH 4325         |                   | MATH 4325         |                   |
+|            |                   | LOCKETT           |                   | LOCKETT           |                   |
+| 2:30-3:30  | MATH 4031         |                   | MATH 4031         |                   | MATH 4031         |
+|            | LOCKETT           |                   | LOCKETT           |                   | LOCKETT           |
