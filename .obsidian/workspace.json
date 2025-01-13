@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
+                "file": "Current Courses/Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract Algebra, Cosets and Lagrange's Theorem"
+              "title": "Schedule"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Courses/MATH 4031/000B. Assignments.md",
+                "file": "Current Courses/MATH 4031/00B. Assignments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000B. Assignments"
+              "title": "00B. Assignments"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,13 +191,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4a05cb7ddbb6b0b",
+  "active": "b3562b6443d0a7b3",
   "lastOpenFiles": [
-    "Current Courses/MATH 4031/000A. Syllabus.md",
-    "Current Courses/MATH 4031/000B. Assignments.md",
+    "Current Courses/MATH 4031/00B. Assignments.md",
+    "Current Courses/Schedule.md",
+    "Current Courses/MATH 4031/00A. Syllabus.md",
+    "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
+    "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
     "ReadMe.md",
     "Current Courses/MATH 4031",
-    "Current Courses/Untitled.md",
     "Untitled.md",
     "Jot/Dataset Creation.md",
     "Current Courses",
@@ -206,8 +208,6 @@
     "Jot/Linear Algebra Final Practice.md",
     "Jot/Group Theory Problems and Solutions.md",
     "Jot/Abstract Algebra Final Exam Practice.md",
-    "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
-    "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
     "Untitled 1.md",
     "Jot/Number Theory Final Exam Practice.md",
     "Math/Abstract Algebra/Abstract Algebra, Subgroups.md",
