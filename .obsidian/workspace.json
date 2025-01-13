@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Courses/Schedule.md",
+                "file": "Current Courses/MATH 4325/Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schedule"
+              "title": "Syllabus"
             }
           },
           {
@@ -191,13 +191,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c65025c657fa6d68",
+  "active": "b3562b6443d0a7b3",
   "lastOpenFiles": [
-    "Current Courses/Untitled",
-    "Current Courses/Untitled.md",
-    "Current Courses/Schedule.md",
+    "Current Courses/00. Schedule.md",
+    "Current Courses/MATH 4325/Syllabus.md",
+    "Current Courses/MATH 4325",
     "Current Courses/MATH 4031/00B. Assignments.md",
     "Current Courses/MATH 4031/00A. Syllabus.md",
+    "Current Courses/Untitled.md",
     "Math/Abstract Algebra/Abstract Algebra, Cosets and Lagrange's Theorem.md",
     "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
     "ReadMe.md",
@@ -227,7 +228,6 @@
     "Languages",
     "obsidian_sync.log",
     "Jot",
-    "Math/Elementary Number Theory",
-    "Math/Abstract Algebra"
+    "Math/Elementary Number Theory"
   ]
 }
