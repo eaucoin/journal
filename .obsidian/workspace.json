@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3562b6443d0a7b3",
+  "active": "e4a05cb7ddbb6b0b",
   "lastOpenFiles": [
+    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
     "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
     "Math/Advanced Calculus/Advanced Calculus, Test Yourself II.md",
     "Math/Advanced Calculus/Advanced Calculus, Test Yourself.md",
@@ -207,7 +208,6 @@
     "Math/Advanced Calculus/Advanced Calculus, Some Properties of Continuous Functions.md",
     "Math/Advanced Calculus/Advanced Calculus, Continuous Functions.md",
     "Math/Advanced Calculus/Advanced Calculus, Limits of Functions.md",
-    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
     "Math/Abstract Algebra/Abstract Algebra, 00, Guide.md",
     "Math/Advanced Calculus/Advanced Calculus, Countability of the Rational Numbers.md",
     "Math/Advanced Calculus/Advanced Calculus, The Heine-Borel Covering Theorem.md",
