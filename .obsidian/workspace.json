@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Courses/MATH 4031/Homeworks/01. Homework.md",
+                "file": "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Homework"
+              "title": "Advanced Calculus, The Real Number System"
             }
           }
         ],
@@ -193,8 +193,8 @@
   },
   "active": "e4a05cb7ddbb6b0b",
   "lastOpenFiles": [
-    "Current Courses/MATH 4031/00B. Assignments.md",
     "Current Courses/MATH 4031/Homeworks/01. Homework.md",
+    "Current Courses/MATH 4031/00B. Assignments.md",
     "Current Courses/MATH 4031/Homeworks",
     "Current Courses/MATH 4031/00A. Syllabus.md",
     "Current Courses/MATH 4325/00A. Syllabus.md",
