@@ -17,7 +17,6 @@ $$\begin{align*}
 \end{align*}$$
 
 **Three-Element Properties:**
-
 $$\begin{align*}
 
 \text{1. }\textbf{Associativity: }&\bigg(\forall(a,\;b,\;c)\in\mathbb{F}^{3}\bigg)\bigg((a+b)+c=a+(b+c)\bigg)
@@ -32,7 +31,7 @@ $$\begin{align*}
 
 \end{align*}$$
 
-**One-Element **
-$(\exists(0,\;1)\in\mathbb{F}^{2})(\forall a\in\mathbb{F})((0+a,\;1\cdot a)=(a,\;a))$
-$(\forall a\in\mathbb{F})(\exists(-a,\;a^{-1})\in\mathbb{F}^{2})((a+(-a),\;a\cdot a^{-1})=(0,\;1))$
+**One-Element Properties**
+$$(\exists(0,\;1)\in\mathbb{F}^{2})(\forall a\in\mathbb{F})((0+a,\;1\cdot a)=(a,\;a))
+$(\forall a\in\mathbb{F})(\exists(-a,\;a^{-1})\in\mathbb{F}^{2})((a+(-a),\;a\cdot a^{-1})=(0,\;1))$$
  
