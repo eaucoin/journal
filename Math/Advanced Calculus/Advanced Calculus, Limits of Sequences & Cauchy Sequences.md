@@ -13,6 +13,6 @@ $$\begin{align*}
 
 &x_n\rightarrow L\in\mathbb{R}\text{ as }n\rightarrow\infty\\\\
 
-\iff &\bigg(\forall()\bigg)\bigg(\bigg)
+\iff &\bigg(\forall\epsilon\in\mathbb{R}_{>0}\bigg)\bigg(\exists N\in N\bigg)\bigg()
 
 \end{align*}$$
