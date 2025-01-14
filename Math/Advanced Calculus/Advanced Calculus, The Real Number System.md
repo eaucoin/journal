@@ -12,12 +12,13 @@ $$\begin{align*}
 
 \\\\\text{3. }\textbf{Trichotomy: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(a<b\;\veebar\;a=b\;\veebar\;b<a\bigg)
 
-\\\\\text{4. }\textbf{: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(\exists n\in\mathbb{N}\bigg)\bigg(M<na\bigg)
+\\\\\text{4. }\textbf{Archimedian: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(\exists n\in\mathbb{N}\bigg)\bigg(M<na\bigg)
 
 \end{align*}$$
 
 **Three-Element Properties:**
-$(\forall(a,\;b,\;c)\in\mathbb{F}^{3})((a+b)+c=a+(b+c))$
+
+$$(\forall(a,\;b,\;c)\in\mathbb{F}^{3})((a+b)+c=a+(b+c))$
 $(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a(b+c)=ab+ac)$
 $(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\;\wedge\;b<c\implies a<c)$
 $(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\implies a+c<b+c)$
