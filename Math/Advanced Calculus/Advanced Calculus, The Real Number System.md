@@ -6,10 +6,10 @@ A field $(\mathbb{F},\;+,\;\cdot,\;<)$ is called an **Archimedian Ordered Field*
 **Two-Element Properties:**
 $$\begin{align*}
 
-&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg((a+b,a\cdot b)\in\mathbb{F}^{2}\bigg)
-\\&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg((a+b,a\cdot b)=(b+a,a\cdot b)\bigg)
-\\&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(a<b\;\veebar\;a=b\;\veebar\;b<a)
-\\&(\forall(a,\;b)\in\mathbb{F}^{2})(\exists n\in\mathbb{N})(M<na)
+&\text{}\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg((a+b,a\cdot b)\in\mathbb{F}^{2}\bigg)
+\\\\&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg((a+b,a\cdot b)=(b+a,a\cdot b)\bigg)
+\\\\&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(a<b\;\veebar\;a=b\;\veebar\;b<a\bigg)
+\\\\&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(\exists n\in\mathbb{N}\bigg)\bigg(M<na\bigg)
 
 \end{align*}$$
 
