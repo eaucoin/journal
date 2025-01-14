@@ -20,15 +20,15 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-\\\\\text{1. }\textbf{Associativity: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})((a+b)+c=a+(b+c))
+\\\\\text{1. }\textbf{Associativity: }&\bigg(\forall(a,\;b,\;c)\in\mathbb{F}^{3})((a+b)+c=a+(b+c))
 
 \\\\\text{2. }\textbf{Distributivity: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a(b+c)=ab+ac)
 
-\\\\\text{3. }\textbf{Transist: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\;\wedge\;b<c\implies a<c)
+\\\\\text{3. }\textbf{Transistivity: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\;\wedge\;b<c\implies a<c)
 
-\\\\\text{4. }\textbf{Order (}\cdot\textbf{): }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\implies a+c<b+c)
+\\\\\text{4. }\textbf{Order (}+\textbf{): }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\implies a+c<b+c)
 
-\\\\\text{5. }\textbf{Trichotomy: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(0<c\implies ac<bc)
+\\\\\textbf{Order (}\cdot\textbf{): }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(0<c\implies ac<bc)
 
 \end{align*}$$
 
