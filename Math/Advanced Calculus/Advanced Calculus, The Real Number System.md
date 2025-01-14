@@ -39,4 +39,6 @@ $$\begin{align*}
 
 \end{align*}$$
 
+## Definition 1.1.1. 
 
+$$|a|=\begin{cases}\end}|$$
