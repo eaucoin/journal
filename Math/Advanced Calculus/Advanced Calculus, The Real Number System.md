@@ -34,10 +34,10 @@ $$\begin{align*}
 **One-Element Properties**
 $$\begin{align*}
 
-&\bigg(\exists(0,\;1)\in\mathbb{F}^{2}\bigg)\bigg(\forall a\in\mathbb{F}\bigg)\bigg((0+a,\;1\cdot a)=(a,\;a)\bigg)
+\text{1. }\textbf{Identity: }&\bigg(\exists(0,\;1)\in\mathbb{F}^{2}\bigg)\bigg(\forall a\in\mathbb{F}\bigg)\bigg((0+a,\;1\cdot a)=(a,\;a)\bigg)
 
 
-\\\\&\bigg(\forall a\in\mathbb{F}\bigg)\bigg(\exists(-a,\;a^{-1})\in\mathbb{F}^{2})((a+(-a),\;a\cdot a^{-1})=(0,\;1))
+\\\\\text{}&\bigg(\forall a\in\mathbb{F}\bigg)\bigg(\exists(-a,\;a^{-1})\in\mathbb{F}^{2}\bigg)\bigg((a+(-a),\;a\cdot a^{-1})=(0,\;1)\bigg)
 
 \end{align*}$$
 
