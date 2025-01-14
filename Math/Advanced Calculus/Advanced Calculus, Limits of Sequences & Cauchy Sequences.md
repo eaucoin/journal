@@ -16,3 +16,5 @@ $$\begin{align*}
 \iff &\bigg(\forall\epsilon\in\mathbb{R}_{>0}\bigg)\bigg(\exists N\in N\bigg)\bigg(N\leq n\implies |x_n-L|<\epsilon\bigg)
 
 \end{align*}$$
+
+## Definition. 
