@@ -24,7 +24,7 @@ $$\begin{align*}
 
 \\\\\text{2. }\textbf{Distributivity: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a(b+c)=ab+ac)
 
-\\\\\text{3. }\textbf{Order Preservation (+): }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\;\wedge\;b<c\implies a<c)
+\\\\\text{3. }\textbf{Order Preservatin (+): }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\;\wedge\;b<c\implies a<c)
 
 \\\\\text{4. }\textbf{Trichotomy: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\implies a+c<b+c)
 
