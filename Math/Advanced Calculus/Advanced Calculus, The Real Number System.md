@@ -9,8 +9,10 @@ $$\begin{align*}
 \text{1. }\textbf{Closure: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg((a+b,a\cdot b)\in\mathbb{F}^{2}\bigg)
 
 \\\\\text{2. }\textbf{Commutativity: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg((a+b,a\cdot b)=(b+a,a\cdot b)\bigg)
-\\\\\text{3. }\textbf{: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(a<b\;\veebar\;a=b\;\veebar\;b<a\bigg)
-\\\\\text{4. }\textbf{Closure: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(\exists n\in\mathbb{N}\bigg)\bigg(M<na\bigg)
+
+\\\\\text{3. }\textbf{Trichotomy: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(a<b\;\veebar\;a=b\;\veebar\;b<a\bigg)
+
+\\\\\text{4. }\textbf{: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(\exists n\in\mathbb{N}\bigg)\bigg(M<na\bigg)
 
 \end{align*}$$
 
