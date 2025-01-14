@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,11 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee9e0759a79777d7",
+  "active": "73f34888b5eb5252",
   "lastOpenFiles": [
+    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
     "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
     "Math/Advanced Calculus/Advanced Calculus, Limits of Sequences & Cauchy Sequences.md",
-    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
     "Current Courses/5. Dates.md",
     "Current Courses/3. Office Hours.md",
     "Current Courses/2. Details.md",

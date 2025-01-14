@@ -12,7 +12,7 @@ $$\begin{align*}
 
 \\\\\text{3. }\textbf{Trichotomy: }&\bigg(\forall(a,\;b)\in\mathbb{F}^{2}\bigg)\bigg(a<b\;\veebar\;a=b\;\veebar\;b<a\bigg)
 
-\\\\\text{4. }\textbf{Archimedian: }&\bigg(\forall(a,\;M)\in\mathbb{F}_{>0}^{2}\bigg)\bigg(\exists n\in\mathbb{N}\bigg)\bigg(M<n\epsilon\bigg)
+\\\\\text{4. }\textbf{Archimedian: }&\bigg(\forall(a,\;b)\in\mathbb{F}_{>0}^{2}\bigg)\bigg(\exists n\in\mathbb{N}\bigg)\bigg(b<na\bigg)
 
 \end{align*}$$
 #### Three-Element Properties:
