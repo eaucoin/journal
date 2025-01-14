@@ -18,3 +18,6 @@ $$\begin{align*}
 \end{align*}$$
 
 ## Definition. 
+
+There are two mutually exclusive possibilities:
+- $(\exists L\in\mathbb{R})()$
