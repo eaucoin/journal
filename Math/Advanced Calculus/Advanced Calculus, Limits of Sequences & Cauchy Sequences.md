@@ -20,4 +20,5 @@ $$\begin{align*}
 ## Definition. 
 
 There are two mutually exclusive possibilities:
-- $(\exists L\in\mathbb{R})()$
+- The sequence $x_n$ is conv $(\exists L\in\mathbb{R})(x_n\rightarrow L)$
+- 
