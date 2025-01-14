@@ -27,4 +27,10 @@ There are two mutually exclusive possibilities. The sequence $x_n$ is:
 
 Let $x_n=\frac{1}{n}$. Then $x_n\rightarrow 0$.
 
-**Proof.** We need to show tha
+**Proof.** 
+$$\begin{align*}
+
+&\frac{1}{n}<\epsilon
+\\\iff &
+
+\end{align*}$$
