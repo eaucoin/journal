@@ -31,7 +31,7 @@ Let $x_n=\frac{1}{n}$. Then $x_n\rightarrow 0$.
 $$\begin{align*}
 
 &\frac{1}{n}<\epsilon
-\\\\\iff &1<\epsilon n
+\\\\\iff &1<\epsilon n\text{.}
 
 \end{align*}$$
-
+Then since $1$ and $\epsilon$ are elements of an [[A|Archimedian Ordered Field]]
