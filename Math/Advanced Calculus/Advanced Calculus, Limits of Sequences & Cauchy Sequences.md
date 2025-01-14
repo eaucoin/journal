@@ -13,6 +13,6 @@ $$\begin{align*}
 
 &x_n\rightarrow L\in\mathbb{R}\text{ as }n\rightarrow\infty\\\\
 
-\iff &\bigg(\forall\bigg)\bigg(\bigg)
+\iff &\bigg(\forall()\bigg)\bigg(\bigg)
 
 \end{align*}$$
