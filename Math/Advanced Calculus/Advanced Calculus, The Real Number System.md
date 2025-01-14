@@ -41,4 +41,6 @@ $$\begin{align*}
 
 ## Definition 1.1.1. 
 
-$$|a|=\begin{cases}\end}|$$
+$$|a|=\begin{cases}a&\text{if }a\geq 0\\ -a&\text{if }a<0\end{cases}$$
+
+## Theorem 1.1.1
