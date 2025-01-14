@@ -11,6 +11,8 @@ If a sequence $x_n$ approaches a real number $L$ as a natural number $n$ approac
 
 $$\begin{align*}
 
+&x_n\rightarrow L\in\mathbb{R}\text{ as }n\rightarrow\infty\\\\
 
+\iff &(\forall)()
 
 \end{align*}$$
