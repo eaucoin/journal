@@ -23,4 +23,6 @@ There are two mutually exclusive possibilities. The sequence $x_n$ is:
 -  *convergent*: $(\exists L\in\mathbb{R})(x_n\rightarrow L)$, or 
 - *divergent*.
 
-## Examp
+## Example 1.1.
+
+Let $x_n=\frac{1}{n}$. Then $x_n\rightar$
