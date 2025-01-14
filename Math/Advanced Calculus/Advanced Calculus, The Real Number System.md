@@ -4,8 +4,8 @@
 A field $(\mathbb{F},\;+,\;\cdot,\;<)$ is called an **Archimedian Ordered Field** iff all of the following properties are satisfied.
 
 **Two-Element Properties:**
-1. $(\forall(a,\;b)\in\mathbb{F}^{2})((a+b,a\cdot b)\in\mathbb{F}^{2})$
-2. $(\forall(a,\;b)\in\mathbb{F}^{2})((a+b,a\cdot b)=(b+a,a\cdot b))$
+1. **Closure:**: $(\forall(a,\;b)\in\mathbb{F}^{2})((a+b,a\cdot b)\in\mathbb{F}^{2})$
+2. **Commuta**$(\forall(a,\;b)\in\mathbb{F}^{2})((a+b,a\cdot b)=(b+a,a\cdot b))$
 3. $(\forall(a,\;b)\in\mathbb{F}^{2})(a<b\;\veebar\;a=b\;\veebar\;b<a)$
 4. $(\forall(a,\;b)\in\mathbb{F}^{2})(\exists n\in\mathbb{N})(M<na)$
 
