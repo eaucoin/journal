@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Courses/ASTR 1101/00. Syllabus.md",
+                "file": "Current Courses/ASTR 1102/00. Syllabus.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,8 +164,14 @@
   },
   "active": "b3562b6443d0a7b3",
   "lastOpenFiles": [
-    "Math/Elementary Stochastic Processes/00. Guide.md",
+    "Current Courses/MATH 4031/00B. Assignments.md",
+    "Current Courses/ASTR 1102/00. Syllabus.md",
+    "Current Courses/ASTR 1102",
+    "Current Courses/MATH 4031/00A. Syllabus.md",
+    "Current Courses/MATH 4325/00A. Syllabus.md",
     "Current Courses/ASTR 1101/00. Syllabus.md",
+    "Current Courses/00. Class Schedule.md",
+    "Math/Elementary Stochastic Processes/00. Guide.md",
     "Current Courses/ASTR 1101",
     "Math/Elementary Stochastic Processes/Application – MCMC Algorithms (Continuous).md",
     "Math/Elementary Stochastic Processes/Continuous-Space Markov Chains.md",
@@ -186,11 +192,6 @@
     "Math/Elementary Stochastic Processes/Mean Recurrence Times.md",
     "Math/Elementary Stochastic Processes/Application – Random Walks on Graphs.md",
     "Math/Elementary Stochastic Processes/Application – MCMC Algorithms (Discrete).md",
-    "Math/Elementary Stochastic Processes/Periodic Convergence.md",
-    "Math/Elementary Stochastic Processes/Convergence Theorem.md",
-    "Math/Elementary Stochastic Processes/Obstacles to Convergence.md",
-    "Math/Elementary Stochastic Processes/Searching for Stationarity.md",
-    "Math/Elementary Stochastic Processes/Stationary Distributions.md",
     "Math/Elementary Stochastic Processes",
     "Math/Fourier Analysis",
     "Current Courses/MATH 4058",
@@ -198,7 +199,6 @@
     "Math/Advanced Calculus",
     "Math/Elementary Number Theory/Untitled",
     "Current Courses/MATH 4325",
-    "Current Courses/MATH 4031",
-    "Current Courses"
+    "Current Courses/MATH 4031"
   ]
 }
