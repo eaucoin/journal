@@ -45,4 +45,4 @@ $$|a|=\begin{cases}a&\text{if }a\geq 0\\ -a&\text{if }a<0\end{cases}$$
 
 ## Theorem 1.1.1.
 
-$$(\forall(a,\;b)\in)()$$
+$$(\forall(a,\;b)\in\mathbb{R}^{2})(|a+b|\leq|a|+|b|)$$
