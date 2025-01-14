@@ -27,8 +27,5 @@ There are two mutually exclusive possibilities. The sequence $x_n$ is:
 
 Let $x_n=\frac{1}{n}$. Then $x_n\rightarrow 0$.
 
-**Proof.** 
-
-$$\begin{align*}
-
-\end{align*}$$
+**Proof.** We need to show that there exists $n\in\mathbb{N}$ such that $\frac{1}{n}<\epsilon$.
+$$\n=$$
