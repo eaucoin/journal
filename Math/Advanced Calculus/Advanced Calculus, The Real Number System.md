@@ -7,4 +7,4 @@ A field $(\mathbb{F},\;+,\;\cdot)$ is called an **Archimedian Ordered Field** if
 - $(\forall(a,\;b,\;c)\in\mathbb{F}^{3})((a+b)+c=a+(b+c))$
 - $(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a(b+c)=ab+ac)$
 - $(\exists(0,\;1)\in\mathbb{F}^{2})(\forall a\in\mathbb{F})((0+a,\;1\cdot a)=(a,\;a))$
-- 
+- $\$
