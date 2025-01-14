@@ -20,15 +20,15 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-\\\\\text{1. }\textbf{Associativity: }&\bigg(\forall(a,\;b,\;c)\in\mathbb{F}^{3})((a+b)+c=a+(b+c))
+\text{1. }\textbf{Associativity: }&\bigg(\forall(a,\;b,\;c)\in\mathbb{F}^{3}\bigg)\bigg((a+b)+c=a+(b+c)\bigg)
 
-\\\\\text{2. }\textbf{Distributivity: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a(b+c)=ab+ac)
+\\\\\text{2. }\textbf{Distributivity: }&\bigg(\forall(a,\;b,\;c)\in\mathbb{F}^{3}\bigg)\bigg(a(b+c)=ab+ac\bigg)
 
-\\\\\text{3. }\textbf{Transistivity: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\;\wedge\;b<c\implies a<c)
+\\\\\text{3. }\textbf{Transistivity: }&\bigg(\forall(a,\;b,\;c)\in\mathbb{F}^{3}\bigg)\bigg(a<b\;\wedge\;b<c\implies a<c\bigg)
 
-\\\\\text{4. }\textbf{Order (}+\textbf{): }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\implies a+c<b+c)
+\\\\\text{4. }\textbf{Order (}+\textbf{): }&\bigg(\forall(a,\;b,\;c)\in\mathbb{F}^{3}\bigg)\bigg(a<b\implies a+c<b+c\bigg)
 
-\\\\\textbf{Order (}\cdot\textbf{): }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(0<c\implies ac<bc)
+\\\\\textbf{Order (}\cdot\textbf{): }&\bigg(\forall(a,\;b,\;c)\in\mathbb{F}^{3}\bigg)\bigg(0<c\implies ac<bc\bigg)
 
 \end{align*}$$
 
