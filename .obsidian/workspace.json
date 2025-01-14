@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Courses/ASTR 1101/Syllabus.md",
+                "file": "Current Courses/ASTR 1101/00. Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "00. Syllabus"
             }
           }
         ]
@@ -165,7 +165,7 @@
   "active": "b3562b6443d0a7b3",
   "lastOpenFiles": [
     "Math/Elementary Stochastic Processes/00. Guide.md",
-    "Current Courses/ASTR 1101/Syllabus.md",
+    "Current Courses/ASTR 1101/00. Syllabus.md",
     "Current Courses/ASTR 1101",
     "Math/Elementary Stochastic Processes/Application – MCMC Algorithms (Continuous).md",
     "Math/Elementary Stochastic Processes/Continuous-Space Markov Chains.md",
