@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Courses/MATH 4325/00A. Syllabus.md",
+                "file": "Math/Fourier Analysis/00. Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00A. Syllabus"
+              "title": "00. Guide"
             }
           }
         ],
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "a44921645f7993c2",
@@ -194,6 +193,21 @@
   },
   "active": "e4a05cb7ddbb6b0b",
   "lastOpenFiles": [
+    "Current Courses/MATH 4325/00A. Syllabus.md",
+    "Math/Fourier Analysis/00. Guide.md",
+    "Math/Fourier Analysis/Numerical Method Using Fourier Analysis.md",
+    "Math/Fourier Analysis/Floquet-Bloch Theory for Periodic Media.md",
+    "Math/Fourier Analysis/Operator Theory Perspective.md",
+    "Math/Fourier Analysis/Fourier Transform.md",
+    "Math/Fourier Analysis/Fast Fourier Transform.md",
+    "Math/Fourier Analysis/Discrete Fourier Transform.md",
+    "Math/Fourier Analysis/Mardi Gras, One-Dimensional Motion.md",
+    "Math/Fourier Analysis/Boundary Value Problem.md",
+    "Math/Fourier Analysis/Orthogonal Functions, Hilbert Spaces.md",
+    "Math/Fourier Analysis/Inner Products.md",
+    "Math/Fourier Analysis/Application: Periodic Crystal Lattice Models.md",
+    "Math/Fourier Analysis/Calculus with the Fourier Series.md",
+    "Math/Fourier Analysis/Fourier Series of Periodic Functions.md",
     "Math/Fourier Analysis/New Class, Numerical Method Using Fourier Analysis.md",
     "Math/Fourier Analysis/New Class, Floquet-Bloch Theory for Periodic Media.md",
     "Math/Fourier Analysis/New Class, Operator Theory Perspective.md",
@@ -205,24 +219,9 @@
     "Math/Fourier Analysis/New Class, Orthogonal Functions, Hilbert Spaces.md",
     "Math/Fourier Analysis/New Class, Inner Products.md",
     "Math/Fourier Analysis/New Class, Application: Periodic Crystal Lattice Models.md",
-    "Math/Fourier Analysis/New Class, Calculus with the Fourier Series.md",
-    "Math/Fourier Analysis/New Class, Fourier Series of Periodic Functions.md",
     "Math/Fourier Analysis",
-    "Current Courses/Dates.md",
-    "Current Courses/00. Class Schedule.md",
-    "Current Courses/MATH 4031/Syllabus.md",
-    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
     "Current Courses/MATH 4058",
-    "Current Courses/MATH 4031/Homeworks/01. Homework.md",
-    "Current Courses/MATH 4031/00B. Assignments.md",
     "Current Courses/MATH 4031/Homeworks",
-    "Current Courses/MATH 4031/00A. Syllabus.md",
-    "Current Courses/MATH 4325/00A. Syllabus.md",
-    "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
-    "Math/Advanced Calculus/Advanced Calculus, Test Yourself II.md",
-    "Math/Advanced Calculus/Advanced Calculus, Test Yourself.md",
-    "Math/Advanced Calculus/Advanced Calculus, The Cauchy-Schwarz Inequality.md",
-    "Math/Advanced Calculus/Advanced Calculus, Integrals of Uniform Limits.md",
     "Math/Advanced Calculus",
     "Math/Elementary Number Theory/Untitled",
     "Current Courses/MATH 4325",
