@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current Courses/MATH 4031/Syllabus.md",
+                "file": "Current Courses/Dates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "Dates"
             }
           }
         ],
@@ -193,8 +193,10 @@
   },
   "active": "e4a05cb7ddbb6b0b",
   "lastOpenFiles": [
-    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
+    "Current Courses/00. Class Schedule.md",
+    "Current Courses/Dates.md",
     "Current Courses/MATH 4031/Syllabus.md",
+    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
     "Current Courses/MATH 4058",
     "Current Courses/MATH 4031/Homeworks/01. Homework.md",
     "Current Courses/MATH 4031/00B. Assignments.md",
@@ -219,8 +221,6 @@
     "Math/Advanced Calculus/Advanced Calculus, The Heine-Borel Covering Theorem.md",
     "Math/Advanced Calculus/Advanced Calculus, The Nested Intervals Theorem.md",
     "Math/Advanced Calculus/Advanced Calculus, The Bolzano-Weierstrass Theorem.md",
-    "Math/Advanced Calculus/Advanced Calculus, Algebraic Combinations of Sequences.md",
-    "Math/Advanced Calculus/Advanced Calculus, The Completeness Axiom and Some Consequences.md",
     "Math/Advanced Calculus",
     "Math/Elementary Number Theory/Untitled",
     "Current Courses/MATH 4325",
