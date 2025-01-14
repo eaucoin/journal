@@ -13,7 +13,7 @@ $$\begin{align*}
 
 &x_n\rightarrow L\in\mathbb{R}\text{ as }n\rightarrow\infty\\\\
 
-\iff &\bigg(\forall\epsilon\in\mathbb{R}_{>0}\bigg)\bigg(\exists N\in N\bigg)\bigg(N\leq n\implies |x_n-L|<\epsilon\bigg)
+\iff &\bigg(\forall\epsilon\in\mathbb{R}_{>0}\bigg)\bigg(\exists N\in \mathbb{}\bigg)\bigg(N\leq n\implies |x_n-L|<\epsilon\bigg)
 
 \end{align*}$$
 
@@ -25,4 +25,6 @@ There are two mutually exclusive possibilities. The sequence $x_n$ is:
 
 ## Example 1.1.
 
-Let $x_n=\frac{1}{n}$. Then $x_n\rightar$
+Let $x_n=\frac{1}{n}$. Then $x_n\rightarrow 0$.
+
+**Proof.** 
