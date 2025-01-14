@@ -4,10 +4,14 @@
 A field $(\mathbb{F},\;+,\;\cdot,\;<)$ is called an **Archimedian Ordered Field** iff all of the following properties are satisfied.
 
 **Two-Element Properties:**
-1. **Closure:** $(\forall(a,\;b)\in\mathbb{F}^{2})((a+b,a\cdot b)\in\mathbb{F}^{2})$
-2. **Commutativity:** $(\forall(a,\;b)\in\mathbb{F}^{2})((a+b,a\cdot b)=(b+a,a\cdot b))$
-3. **Trichotomy:** $(\forall(a,\;b)\in\mathbb{F}^{2})(a<b\;\veebar\;a=b\;\veebar\;b<a)$
-$(\forall(a,\;b)\in\mathbb{F}^{2})(\exists n\in\mathbb{N})(M<na)$
+$$\begin{align*}
+
+(\forall(a,\;b)\in\mathbb{F}^{2})((a+b,a\cdot b)\in\mathbb{F}^{2})
+\\(\forall(a,\;b)\in\mathbb{F}^{2})((a+b,a\cdot b)=(b+a,a\cdot b))
+(\forall(a,\;b)\in\mathbb{F}^{2})(a<b\;\veebar\;a=b\;\veebar\;b<a)
+(\forall(a,\;b)\in\mathbb{F}^{2})(\exists n\in\mathbb{N})(M<na)
+
+\end{align*}$$
 
 **Three-Element Properties:**
 $(\forall(a,\;b,\;c)\in\mathbb{F}^{3})((a+b)+c=a+(b+c))$
