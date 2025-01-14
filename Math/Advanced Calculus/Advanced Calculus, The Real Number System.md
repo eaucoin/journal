@@ -20,11 +20,15 @@ $$\begin{align*}
 
 $$\begin{align*}
 
-\\\\\text{3. }\textbf{Trichotomy: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})((a+b)+c=a+(b+c))
-\\\\&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a(b+c)=ab+ac)
-\\\\&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\;\wedge\;b<c\implies a<c)$
-\\\\&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\implies a+c<b+c)
-\\\\&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(0<c\implies ac<bc)
+\\\\\text{1. }\textbf{Associativity: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})((a+b)+c=a+(b+c))
+
+\\\\\text{2. }\textbf{Distributi: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a(b+c)=ab+ac)
+
+\\\\\text{3. }\textbf{Trichotomy: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\;\wedge\;b<c\implies a<c)$
+
+\\\\\text{4. }\textbf{Trichotomy: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(a<b\implies a+c<b+c)
+
+\\\\\text{5. }\textbf{Trichotomy: }&(\forall(a,\;b,\;c)\in\mathbb{F}^{3})(0<c\implies ac<bc)
 
 \end{align*}$$
 
