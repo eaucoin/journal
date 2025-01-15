@@ -28,16 +28,8 @@ Let $x_n=\frac{1}{n}$. Then $x_n\rightarrow 0$.
 
 **Proof.** We need to show that there exists $N\in\mathbb{N}$ such that 
 $$N\leq n\implies \frac{1}{n}<\epsilon\text{.}$$
-Consider the 
+Consider the RHS for $N$. This would be $1<\epsilon n$,
 
-
-We need to show that there exists $n\in\mathbb{N}$ such that $\frac{1}{n}<\epsilon$.
-$$\begin{align*}
-
-&\frac{1}{n}<\epsilon
-\\\\\iff &1<\epsilon n\text{.}
-
-\end{align*}$$
 Then since $1$ and $\epsilon$ are elements of an [[Advanced Calculus, The Real Number System#^3a5710|Archimedian Ordered Field]], the latter statement is indeed the case. 
 
 
