@@ -28,7 +28,7 @@ Let $x_n=\frac{1}{n}$. Then $x_n\rightarrow 0$.
 
 **Proof.** We need to show that there exists $N\in\mathbb{N}$ such that 
 $$N\leq n\implies \frac{1}{n}<\epsilon\text{.}$$
-
+Consider the 
 
 
 We need to show that there exists $n\in\mathbb{N}$ such that $\frac{1}{n}<\epsilon$.
