@@ -34,4 +34,6 @@ $$\begin{align*}
 \\\\\iff &1<\epsilon n\text{.}
 
 \end{align*}$$
-Then since $1$ and $\epsilon$ are elements of an [[Advanced Calculus, The Real Number System^|Archimedian Ordered Field]]
+Then since $1$ and $\epsilon$ are elements of an [[Advanced Calculus, The Real Number System#^3a5710|Archimedian Ordered Field]], the latter statement is indeed the case. 
+
+
