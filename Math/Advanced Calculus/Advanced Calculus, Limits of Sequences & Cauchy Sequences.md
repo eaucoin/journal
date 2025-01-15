@@ -27,7 +27,8 @@ There are two mutually exclusive possibilities. The sequence $x_n$ is:
 
 Let $x_n=\frac{1}{n}$. Then $x_n\rightarrow 0$.
 
-**Proof.** 
+**Proof.** We need to show that there exists $N\in\mathbb{N}$ such that 
+$$N\leq n\implies \frac{1}{n}<\epsilon\text{.}$$
 
 
 
