@@ -1,1 +1,1 @@
-Let $\delta = k$. Then our two statements are $-kb+b<a<kb+b$ and $-kb+b<c<kb+b$.
+Let $\delta = ka$. Then our two statements are $-ka+b<a<ka+b$ and $-ka+b<c<ka+b$, which is the case iff $-(ka+b<a<ka+b$
