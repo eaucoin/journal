@@ -2,3 +2,4 @@ Let $\delta = f(\epsilon)$; we'll find some expression involving epsilon for del
 
 $|a|+|-b|\leq|a-b|<\delta$, and $|c|+|-b|\leq|c-b|<\delta$ 
 
+$$
