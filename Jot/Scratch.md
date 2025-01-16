@@ -1,1 +1,1 @@
-Let $\epsilon = f(\delta)$; we'll find some expression involving delta for epsilon that sati
+Let $\delta = f(\epsilon)$; we'll find some expression involving epsilon for delta that sa
