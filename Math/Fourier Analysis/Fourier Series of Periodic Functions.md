@@ -1,3 +1,5 @@
 ## Definition.
 
-Let $u:\mathbb{R}^{n}\rightarrow \mathbb{R}$. Then the **Laplacian** of $u$ is written $\nabla^{2}$ 
+Let $u:\mathbb{R}^{n}\rightarrow \mathbb{R}$. Then the **Laplacian** of $u$ is written $\nabla^{2}u$ and defined as
+$$
+$$$$
