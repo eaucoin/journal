@@ -8,4 +8,6 @@ $\delta+b<a<\delta+b$ and $\delta+b<c<\delta+b$
 2. $|a-b|+|c-b|<2\delta$
 3. $|a+c|\leq|a-b|+|c-b|$
 4. $|a-c|\leq |a-b|-|c-b|$
-5.  $|a-c|\leq |a-b|-|c-b|$
+5.  $|a-c|\leq |a-b|-|c-b|<|a-b|+|c-b|<2\delta$
+
+So 
