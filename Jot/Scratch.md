@@ -1,1 +1,0 @@
-Let $\delta = ka$. Then our two statements are $-ka+b<a<ka+b$ and 

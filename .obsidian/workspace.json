@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,14 +206,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c59ffe44f150ecd",
+  "active": "0eabd139ccb5ecf5",
   "lastOpenFiles": [
-    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
-    "Current Courses/MATH 4031/Homeworks/01. Homework.md",
     "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
+    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
+    "Jot/Scratch.md",
+    "Current Courses/MATH 4031/Homeworks/01. Homework.md",
     "Current Courses/1. Schedule.md",
     "Current Courses/ASTR 1102/00. Syllabus.md",
-    "Jot/Scratch.md",
     "Jot/Dataset Creation.md",
     "Math/Advanced Calculus/Advanced Calculus, Limits of Sequences & Cauchy Sequences.md",
     "Math/Advanced Calculus/Advanced Calculus, Algebraic Combinations of Sequences.md",
