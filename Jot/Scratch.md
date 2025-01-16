@@ -1,0 +1,1 @@
+Let $\delta = kb$. Then our two statements are $-kb+b<a<kb+b$ and $$
