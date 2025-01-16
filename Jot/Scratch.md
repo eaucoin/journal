@@ -1,1 +1,1 @@
-Let $\delta = kb$. Then our two statements are $-kb+b<a<kb+b$ and $$
+Let $\delta = k$. Then our two statements are $-kb+b<a<kb+b$ and $-kb+b<c<kb+b$.
