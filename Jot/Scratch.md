@@ -10,4 +10,4 @@ $\delta+b<a<\delta+b$ and $\delta+b<c<\delta+b$
 4. $|a-c|\leq |a-b|-|c-b|$
 5.  $|a-c|\leq |a-b|-|c-b|\leq|a-b|+|c-b|<2\delta$
 
-So, if we let $\delta = \frac{\epsilon}{6}$, then $|a-c|<2\delta=\frac{\ep}{}$
+So, if we let $\delta = \frac{\epsilon}{6}$, then $|a-c|<2\delta=\frac{\epsilon}{3}<\epsilon$.

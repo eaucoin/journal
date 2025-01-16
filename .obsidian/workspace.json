@@ -68,7 +68,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "162838469e2dc216",
@@ -233,11 +233,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c59ffe44f150ecd",
+  "active": "0eabd139ccb5ecf5",
   "lastOpenFiles": [
-    "Current Courses/MATH 4031/Homeworks/01. Homework.md",
-    "Jot/Scratch.md",
     "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
+    "Jot/Scratch.md",
+    "Current Courses/MATH 4031/Homeworks/01. Homework.md",
     "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
     "Current Courses/1. Schedule.md",
     "Current Courses/ASTR 1102/00. Syllabus.md",
