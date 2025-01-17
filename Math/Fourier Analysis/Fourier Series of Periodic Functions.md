@@ -8,6 +8,7 @@ $$\nabla^{2}u=\partial_{x_1}^{2}u+\partial_{x_2}^{2}u+\dots\partial_{x_n}^{2}u\t
 Let:
 - $\mathbb{R}_{t}$ be a time line,
 - $\mathbb{R}_{s}$ be a space line,
-- $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$
+- $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
+- $c$ be a real constant.
 Then the **wave equation** is defined as 
-$$\partial_{t}^{}$$
+$$\partial_{t}^{2}u=c^2$$
