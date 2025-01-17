@@ -6,4 +6,6 @@ $$\nabla^{2}u=\partial_{x_1}^{2}u+\partial_{x_2}^{2}u+\dots\partial_{x_n}^{2}u\t
 ## Definition. 
 
 Let:
-- $\mathbb{R}_{t}$ be a time line,$\mathbb{R}$ be a space line. Let  
+- $\mathbb{R}_{t}$ be a time line,
+- $\mathbb{R}$ be a space line,
+- $u:\mathbb{R}_{t}\times\mathbb{R_s}^{3}\rightarrow \mathbb{R}$
