@@ -4,11 +4,11 @@ Let $u:\mathbb{R}^{n}\rightarrow \mathbb{R}$. Then the **Laplacian** of $u$ is w
 $$\nabla^{2}u=\partial_{x_1}^{2}u+\partial_{x_2}^{2}u+\dots\partial_{x_n}^{2}u\text{.}$$
 
 ## Definition. 
+*Defining three Equations*
 
 Let:
 - $\mathbb{R}_{t}$ be a time line,
 - $\mathbb{R}_{s}$ be a space line,
-- $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
 - $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
 - $c$ be a real constant.
 Then we have the following defined equations:
@@ -20,4 +20,6 @@ $$\begin{align*}
 \end{align*}$$
 
 ## Definition.
+*Generalized form of the three equations*
 
+Let 
