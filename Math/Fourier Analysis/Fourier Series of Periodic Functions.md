@@ -1,7 +1,7 @@
 ## Definition.
 
 Let $u:\mathbb{R}^{n}\rightarrow \mathbb{R}$. Then the **Laplacian** of $u$ is written $\nabla^{2}u$ and defined as
-$$\nabla^{2}u=\partial_{x_1}^{2}u+\partial_{x_2}^{2}u+\dots\partial_{x_n}^{2}u\text{.}$$
+$$\nabla^{2}u=\partial_{x_1}^{2}u+\partial_{x_2}^{2}u+\dots\partial_{x_n}^{2}u\text{.}$$ ^79a81f
 
 ## Definition. 
 *Defining three Equations*
@@ -22,4 +22,4 @@ $$\begin{align*}
 ## Definition.
 *Generalized form of the three equations*
 
-Let 
+Let $F:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$. Then a generalized form of the [[Fourier Series of Periodic Functions#^79a81f|three equations]]
