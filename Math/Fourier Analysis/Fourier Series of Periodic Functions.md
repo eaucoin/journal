@@ -10,8 +10,12 @@ Let:
 - $\mathbb{R}_{s}$ be a space line,
 - $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
 - $c$ be a real constant.
-Then we have the
-$$\partial_{t}^{2}u=c^2\nabla^2u\text{.}$$
+Then we have the following defined equations:
+$$\begin{align*}
+
+\text{1.}&\partial_{t}^{2}u=c^2\nabla^2u\text{.}
+
+\end{align*}$$
 
 ## Definition.
 
