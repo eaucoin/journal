@@ -13,8 +13,9 @@ Let:
 Then we have the following defined equations:
 $$\begin{align*}
 
-\text{1.}&\partial_{t}^{2}u=c^2\nabla^2u\text{.}
-
+\text{1.}\textbf{ Wave: }&\partial_{t}^{2}u=c^2\nabla^2u\text{.}\\\\
+\text{2.}&\textbf{ Heat: }\\\\
+\text{3.}&\textbf{}
 \end{align*}$$
 
 ## Definition.
