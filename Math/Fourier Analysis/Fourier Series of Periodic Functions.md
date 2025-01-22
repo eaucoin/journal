@@ -9,13 +9,14 @@ Let:
 - $\mathbb{R}_{t}$ be a time line,
 - $\mathbb{R}_{s}$ be a space line,
 - $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
+- $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
 - $c$ be a real constant.
 Then we have the following defined equations:
 $$\begin{align*}
 
 \text{1.}\textbf{ Wave: }&\partial_{t}^{2}u=c^2\nabla^2u\text{.}\\\\
 \text{2.}\textbf{ Heat: }&\partial_tu=k\nabla^{2}u\\\\
-\text{3.}\textbf{ Laplace: }&0=
+\text{3.}\textbf{ Laplace: }&0=\nabla^2u
 \end{align*}$$
 
 ## Definition.
