@@ -14,7 +14,7 @@ Let:
 Then we have the following defined equations:
 $$\begin{align*}
 
-\text{1.}\textbf{ Wave: }&\partial_{t}^{2}u=c^2\nabla^2u\text{.}\\\\
+\text{1.}\textbf{ Wave: }&\partial_{t}^{2}u=c^2\nabla^2u\\\\
 \text{2.}\textbf{ Heat: }&\partial_tu=k\nabla^{2}u\\\\
 \text{3.}\textbf{ Laplace: }&0=\nabla^2u
 \end{align*}$$
@@ -25,7 +25,7 @@ $$\begin{align*}
 Let $F:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$. Then a generalized forms of the [[Fourier Series of Periodic Functions#^79a81f|three equations above]] take:
 $$\begin{align*}
 
-\text{1.}\textbf{ Wave: }&\partial_{t}^{2}u=c^2\nabla^2u\\\\
-\text{2.}\textbf{ Heat: }&\partial_tu=k\nabla^{2}u\\\\
+\text{1.}\textbf{ Wave: }&\partial_{t}^{2}u-c^2\nabla^2u=F(\textbf{x},\;t)\\\\
+\text{2.}\textbf{ Heat: }&\partial_tu=\\\\
 \text{3.}\textbf{ Laplace: }&0=\nabla^2u
 \end{align*}$$
