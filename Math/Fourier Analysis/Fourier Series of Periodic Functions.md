@@ -30,3 +30,5 @@ $$\begin{align*}
 \text{3.}\textbf{ Laplace: }&\;\;\;\;\;\;\;\;\;\;\;\;\nabla^2u=F(\textbf{x},\;t)
 \end{align*}$$
 It can also be said that these are the *inhomogenous* forms for the [[Fourier Series of Periodic Functions#^79a81f|three equations above]]. 
+
+# Definition
