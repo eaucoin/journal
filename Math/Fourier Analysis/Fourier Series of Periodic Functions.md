@@ -16,7 +16,7 @@ $$\begin{align*}
 
 \text{1.}\textbf{ Wave: }&\partial_{t}^{2}u=c^2\nabla^2u\\\\
 \text{2.}\textbf{ Heat: }&\partial_tu=k\nabla^{2}u\\\\
-\text{3.}\textbf{ Laplace: }&0=\nabla^2u
+\text{3.}\textbf{ Laplace: }&\;\;\;0=\nabla^2u
 \end{align*}$$
 
 ## Definition.
@@ -26,6 +26,6 @@ Let $F:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$. Then a gen
 $$\begin{align*}
 
 \text{1.}\textbf{ Wave: }&\partial_{t}^{2}u-c^2\nabla^2u=F(\textbf{x},\;t)\\\\
-\text{2.}\textbf{ Heat: }&\partial_tu-k\nabla^{2}u=F(\textbf{x},\;t)\\\\
-\text{3.}\textbf{ Laplace: }&\nabla^2u=F(\textbf{x},\;t)
+\text{2.}\textbf{ Heat: }&\;\partial_tu-k\nabla^{2}u=F(\textbf{x},\;t)\\\\
+\text{3.}\textbf{ Laplace: }&\;\;\;\;\;\;\;\;\;\;\;\;\nabla^2u=F(\textbf{x},\;t)
 \end{align*}$$
