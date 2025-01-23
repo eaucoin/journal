@@ -41,5 +41,7 @@ Let:
 - $V:\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
 - $m$ be a real parameter representing mass.
 - $\hbar$ be Planck's constant.
+
 Then the *Schrodinger Equation* is defined as 
-$i\hbar\partial u+\frac{\hbar^{}}{}$
+$$i\hbar\partial_{t} u+\frac{\hbar^{2}}{2m}\nabla^{2}u=V(\textbf{x})u\text{.}$$
+
