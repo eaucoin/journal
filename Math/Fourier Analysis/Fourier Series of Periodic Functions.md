@@ -4,7 +4,7 @@ Let $u:\mathbb{R}^{n}\rightarrow \mathbb{R}$. Then the **Laplacian** of $u$ is w
 $$\nabla^{2}u=\partial_{x_1}^{2}u+\partial_{x_2}^{2}u+\dots\partial_{x_n}^{2}u\text{.}$$ ^79a81f
 
 ## Definition. 
-*Defining three Equations*
+*Defining three Equations.*
 
 Let:
 - $\mathbb{R}_{t}$ be a time line,
@@ -20,7 +20,7 @@ $$\begin{align*}
 \end{align*}$$
 
 ## Definition.
-*Generalized form of the three equations*
+*Generalized form of the three equations.*
 
 Let $F:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$. Then a generalized form of the [[Fourier Series of Periodic Functions#^79a81f|three equations above]] take:
 $$\begin{align*}
@@ -32,3 +32,6 @@ $$\begin{align*}
 It can also be said that these are the *inhomogenous* forms for the [[Fourier Series of Periodic Functions#^79a81f|three equations above]]. 
 
 # Definition
+*The Schrodinger Equation*.
+
+Let:
