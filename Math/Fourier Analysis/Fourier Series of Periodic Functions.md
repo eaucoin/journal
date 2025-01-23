@@ -41,4 +41,5 @@ Let:
 - $V:\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
 - $m$ be a real parameter representing mass.
 - $\hbar$ be Planck's constant.
-Then the *Chr*
+Then the *Schrodinger Equation* is defined as 
+$i\hbar\partial u+\frac{\hbar^{}}{}$
