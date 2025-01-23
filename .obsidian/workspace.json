@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "a44921645f7993c2",
@@ -205,10 +206,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3bd2872845938c7",
+  "active": "0c59ffe44f150ecd",
   "lastOpenFiles": [
-    "Current Courses/MATH 4031/Homeworks/01. Homework.md",
     "Current Courses/MATH 4031/Homeworks/02. Homework.md",
+    "Current Courses/MATH 4031/Homeworks/01. Homework.md",
     "Current Courses/5. Dates.md",
     "Math/Fourier Analysis/Fourier Series of Periodic Functions.md",
     "Current Courses/1. Schedule.md",
