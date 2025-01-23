@@ -39,4 +39,6 @@ Let:
 - $\mathbb{R}_{s}$ be a space line,
 - $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
 - $V:\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
-- $m$.
+- $m$ be a real parameter representing mass.
+- $\hbar$ be Planck's constant.
+Then the *Chr*
