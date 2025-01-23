@@ -35,3 +35,8 @@ It can also be said that these are the *inhomogenous* forms for the [[Fourier Se
 *The Schrodinger Equation*.
 
 Let:
+- $\mathbb{R}_{t}$ be a time line,
+- $\mathbb{R}_{s}$ be a space line,
+- $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
+- $V:\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
+- $m$.
