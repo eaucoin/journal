@@ -22,10 +22,10 @@ $$\begin{align*}
 ## Definition.
 *Generalized form of the three equations*
 
-Let $F:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$. Then a generalized forms of the [[Fourier Series of Periodic Functions#^79a81f|three equations above]] take:
+Let $F:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$. Then a generalized form of the [[Fourier Series of Periodic Functions#^79a81f|three equations above]] take:
 $$\begin{align*}
 
 \text{1.}\textbf{ Wave: }&\partial_{t}^{2}u-c^2\nabla^2u=F(\textbf{x},\;t)\\\\
-\text{2.}\textbf{ Heat: }&\partial_tu=\\\\
-\text{3.}\textbf{ Laplace: }&0=\nabla^2u
+\text{2.}\textbf{ Heat: }&\partial_tu-k\nabla^{2}u=F(\textbf{x},\;t)\\\\
+\text{3.}\textbf{ Laplace: }&\nabla^2u=F(\textbf{x},\;t)
 \end{align*}$$
