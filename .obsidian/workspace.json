@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
+                "file": "Current Courses/MATH 4031/Homeworks/02. Homework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced Calculus, 00, Guide"
+              "title": "02. Homework"
+            }
+          },
+          {
+            "id": "5496d4f40f6362ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advanced Calculus, The Real Number System"
             }
           },
           {
@@ -36,48 +50,6 @@
             }
           },
           {
-            "id": "e3bd2872845938c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Courses/2. Details.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Details"
-            }
-          },
-          {
-            "id": "cc1f439ca139d7f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Courses/5. Dates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Dates"
-            }
-          },
-          {
-            "id": "fb0d6a6270095300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Courses/MATH 4031/Homeworks/02. Homework.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02. Homework"
-            }
-          },
-          {
             "id": "31106fa31fa8a1c4",
             "type": "leaf",
             "state": {
@@ -91,8 +63,7 @@
               "title": "6. Books"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "a44921645f7993c2",
@@ -233,22 +205,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb0d6a6270095300",
+  "active": "b3562b6443d0a7b3",
   "lastOpenFiles": [
+    "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
+    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
+    "Math/Fourier Analysis/Fourier Series of Periodic Functions.md",
+    "Current Courses/2. Details.md",
+    "Current Courses/5. Dates.md",
+    "Math/Advanced Calculus/Advanced Calculus, Algebraic Combinations of Sequences.md",
+    "Current Courses/MATH 4031/Homeworks/02. Homework.md",
     "Current Courses/MATH 4031/Homeworks/01. Homework.md",
     "Current Courses/6. Books.md",
-    "Current Courses/5. Dates.md",
-    "Current Courses/2. Details.md",
-    "Current Courses/MATH 4031/Homeworks/02. Homework.md",
-    "Math/Fourier Analysis/Fourier Series of Periodic Functions.md",
     "Current Courses/1. Schedule.md",
     "Math/Fourier Analysis/00. Guide.md",
     "Podcast Conversion.canvas",
     "Current Courses/MATH 4031/00A. Syllabus.md",
     "Current Courses/MATH 4058/00. Syllabus.md",
     "Current Courses/MATH 4031/00B. Assignments.md",
-    "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
-    "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
     "Jot/Scratch.md",
     "~/Textbooks/Present/AdvancedCalculus.pdf.md",
     "~/Textbooks/Present",
@@ -258,7 +231,6 @@
     "Current Courses/ASTR 1102/00. Syllabus.md",
     "Jot/Dataset Creation.md",
     "Math/Advanced Calculus/Advanced Calculus, Limits of Sequences & Cauchy Sequences.md",
-    "Math/Advanced Calculus/Advanced Calculus, Algebraic Combinations of Sequences.md",
     "Current Courses/ASTR 1101/00. Syllabus.md",
     "Current Courses/3. Office Hours.md",
     "Current Courses/4. Grading.md",
