@@ -79,7 +79,7 @@ $$L(u)=F\text{.}$$
 ## Theorem.
 *The Superposition Principle.*
 
-Let 
+Suppose that the the sets
 $$\begin{align*}
 
 &U=\{u_1,\;u_2,\dots,\;u_k\}\text{,}\\\\
@@ -88,7 +88,7 @@ $$\begin{align*}
 
 \end{align*}$$
 
-all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that act on some element of $U$ or $\phi$, respectively. Suppose that the elements of $U$ satisfy the set of linear differential equations
+are all composed of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that act on some element of $U$. Suppose that the elements of $U$ satisfy the set of linear differential equations
 $$\begin{align*}
 
 L(u_1)&=F_1\text{,}\\
@@ -99,8 +99,8 @@ L(u_k)&=F_k\text{,}
 and satisfy the set of boundary conditions:
 $$\begin{align*}
 
-L(u_1)&=F_1\text{,}\\
-L(u_2)&=F_2\text{,}\\
+B(u_1)&=f_1\text{,}\\
+B(u_2)&=f_2\text{,}\\
 &\vdots\\
-L(u_k)&=F_k\text{,}
+B(u_k)&=f_k\text{.}
 \end{align*}$$
