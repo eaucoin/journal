@@ -126,8 +126,8 @@ L(u)&=F\\
 and we know that their exists a particular function $v$ such that
 $$\begin{align*}
 
-L(u_p)&=F\\
-\;\wedge\;B(u_p)&=f\text{.}
+L(v)&=F\\
+\;\wedge\;B(v)&=f\text{.}
 
 \end{align*}$$
 Then if we can find a general solution to 
@@ -138,4 +138,4 @@ L(u_g)&=0\\
 
 \end{align*}$$
 then by the superposition principle,
-$$u=u+p$$
+$$L(u_p+u_g)=$$
