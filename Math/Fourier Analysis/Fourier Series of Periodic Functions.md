@@ -126,15 +126,16 @@ L(u)&=F\\
 and we know that their exists a particular function $v$ such that
 $$\begin{align*}
 
-L(v)&=F\\
-\;\wedge\;B(v)&=f\text{.}
+L(u_p)&=F\\
+\;\wedge\;B(u_p)&=f\text{.}
 
 \end{align*}$$
 Then if we can find a general solution to 
 $$\begin{align*}
 
-L(u)&=0\\
-\;\wedge\;B(u)&=0\text{,}
+L(u_g)&=0\\
+\;\wedge\;B(u_g)&=0\text{,}
 
 \end{align*}$$
 then by the superposition principle,
+$$u=u+p$$
