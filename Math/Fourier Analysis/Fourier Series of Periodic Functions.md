@@ -31,7 +31,7 @@ $$\begin{align*}
 \end{align*}$$
 It can also be said that these are the *inhomogenous* forms for the [[Fourier Series of Periodic Functions#^79a81f|three equations above]]. 
 
-# Definition
+# Definition.
 *The Schrodinger Equation*.
 
 Let:
@@ -45,5 +45,7 @@ Let:
 Then the *Schrodinger Equation* is defined as 
 $$i\hbar\;\partial_{t} u+\frac{\hbar^{2}}{2m}\nabla^{2}u=V(\textbf{x})u\text{.}$$
 
-## Definition
-*The Differential Operator.*
+## Definition.
+*The $D^{\alpha}$ operator.*
+
+Let:
