@@ -114,4 +114,5 @@ L(u)&=c_1F_1+c_2F_2+\dots+c_kF_k\\\\
 
 \end{align*}$$
 
-## 
+## Corollary.
+
