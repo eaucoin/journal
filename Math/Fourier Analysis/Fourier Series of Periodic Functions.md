@@ -66,15 +66,14 @@ $$L(u)=\sum_{|\alpha|\leq m}u_\alpha(D^{\alpha}u)$$
 ## Remark.
 
 The index of the sum of a *Linear Differential Operator* is of importance. On a basic level, we are summing over the combinations of multi-indices whose sum is less than or equal to $m$. Whether any two combinations are distinct is governed by some rules of the partial derivative. Most notably,
-- Repeated partial deff with respect to a single partial derivative commute, but:
-- Partial derivatives of distinct variables do not commute.
+- Repeated partial differential operators with respect to a single variable commute, but:
+- Partial differential operators of distinct variables do not commute.
 
 ## Definition.
 *Linear Partial Differential Equations*
 
 Let $L(u)$ be a linear differential operator on $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$, and let $F:\mathbb{R}^{n}\rightarrow\mathbb{R}$. A linear partial differential equation is of the form
 $$L(u)=F\text{.}$$
-
 
 
 
