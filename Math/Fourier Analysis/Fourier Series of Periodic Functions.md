@@ -116,4 +116,10 @@ L(u)&=c_1F_1+c_2F_2+\dots+c_kF_k\\\\
 
 ## Corollary.
 
-Suppose that we want to find all solutions of the linear differential equation $L(u)=F$ with boundary condition $B(u)=f$, and we know that a particul
+Suppose that we want to find all solutions of the linear differential equation $L(u)=F$ with boundary condition $B(u)=f$, and we know that their exists a particular function $v$ such that
+$$\begin{align*}
+
+L(v)&=f\\
+\;\wedge\;b
+
+\end{align*}$$
