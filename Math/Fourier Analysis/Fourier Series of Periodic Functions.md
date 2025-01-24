@@ -61,4 +61,5 @@ $$D^{\alpha}=\partial^{\alpha_1}_{x_1}\partial^{\alpha_2}_{x_2}\dots\partial^{\a
 *The Linear Differential Operator.*
 
 Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. For a function $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$, the *Linear Differential Operator* $L(u)$ of order $m$ is defined by
-$$L(u)=\sum_{\alpha\leq m}u_\alpha()$$
+$$L(u)=\sum_{|\alpha|\leq m}D^{\alpha}u_\alpha$$
+This is t
