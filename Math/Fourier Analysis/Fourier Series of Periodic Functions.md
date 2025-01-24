@@ -58,7 +58,6 @@ Then the $D^{\alpha}$ operator is defined by
 $$D^{\alpha}=\partial^{\alpha_1}_{x_1}\partial^{\alpha_2}_{x_2}\dots\partial^{\alpha_n}_{x_n}$$
 
 ## Definition.
-*The Differential Operator.*
+*The Linear Differential Operator.*
 
-Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. For a function $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$,
-$$$$
+Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. For a function $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$, the *Linear Differential Operator* $L(u)$ is defined y
