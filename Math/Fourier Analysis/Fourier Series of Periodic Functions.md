@@ -61,7 +61,7 @@ $$D^{\alpha}=\partial^{\alpha_1}_{x_1}\partial^{\alpha_2}_{x_2}\dots\partial^{\a
 *The Linear Differential Operator.*
 
 Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. For a function $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$, the *Linear Differential Operator* $L(u)$ of order $m$ is defined by
-$$L(u)=\sum_{|\alpha|\leq m}u_\alpha(D^{\alpha}u)$$
+$$L(u)=\sum_{|\alpha|\leq m}u_\alpha(D^{\alpha}u)\text{,}$$
 
 ## Remark.
 
@@ -74,6 +74,9 @@ The index of the sum of a *Linear Differential Operator* is of importance. On a 
 
 Let $L(u)$ be a linear differential operator on $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$, and let $F:\mathbb{R}^{n}\rightarrow\mathbb{R}$. A linear partial differential equation is of the form
 $$L(u)=F\text{.}$$
+
+## Theorem.
+*The Superposition Principle.*
 
 
 
