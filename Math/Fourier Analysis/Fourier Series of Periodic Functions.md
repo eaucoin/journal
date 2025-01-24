@@ -71,5 +71,5 @@ The index of the sum of a *Linear Differential Operator* is of importance. On a 
 
 ## Definition.
 
-Let $L(u)$ be a linear differential operator. A
+Let $L(u)$ be a linear differential operator
 
