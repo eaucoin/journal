@@ -46,7 +46,7 @@ Then the *Schrodinger Equation* is defined as
 $$i\hbar\;\partial_{t} u+\frac{\hbar^{2}}{2m}\nabla^{2}u=V(\textbf{x})u\text{.}$$
 
 ## Definition.
-*The $D^{\alpha}$ operator.*
+*The $D^{\alpha}$ operator.* ^50927c
 
 Let:
 - $(\alpha_1,\;\alpha_2,\dots,\;\alpha_n)\in\mathbb{N}^{n}$,
@@ -60,4 +60,4 @@ $$D^{\alpha}=\partial^{\alpha_1}_{x_1}\partial^{\alpha_2}_{x_2}\dots\partial^{\a
 ## Definition.
 *The Differential Operator.*
 
-Take the as
+Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. Then the differe
