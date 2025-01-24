@@ -51,7 +51,7 @@ $$i\hbar\;\partial_{t} u+\frac{\hbar^{2}}{2m}\nabla^{2}u=V(\textbf{x})u\text{.}$
 Let:
 - $(\alpha_1,\;\alpha_2,\dots,\;\alpha_n)\in\mathbb{N}^{n}$,
 - $(x_1,\;x_2,\dots,\;x_n)\in\mathbb{R}^{n}$,
-- $\alpha=\alpha_1+\alpha_2+\dots+\alpha_n$,
+- $|\alpha|=\alpha_1+\alpha_2+\dots+\alpha_n$,
 - $\partial_x^k$ be the $k$th partial derivative operator with respect to the independent variable $x$.
 
 Then the $D^{\alpha}$ operator is defined by 
@@ -61,4 +61,4 @@ $$D^{\alpha}=\partial^{\alpha_1}_{x_1}\partial^{\alpha_2}_{x_2}\dots\partial^{\a
 *The Linear Differential Operator.*
 
 Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. For a function $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$, the *Linear Differential Operator* $L(u)$ of order $m$ is defined by
-$$L(u)=\sum_{\alpha\leq m}u_\alpha(\text{})$$
+$$L(u)=\sum_{\alpha\leq m}u_\alpha()$$
