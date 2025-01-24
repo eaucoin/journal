@@ -140,6 +140,9 @@ L(u_g)&=0\\
 then by the superposition principle,
 $$\begin{align*}
 
-L(u_p+u_g)=1F+1()
+L(u_p+u_g)&=1(F)+1(0)\\
+&=F
 
 \end{align*}$$
+implies that $u=u_p+u_g$ is the general solution to the linear partial differential equation.
+
