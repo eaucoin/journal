@@ -83,9 +83,9 @@ Let
 $$\begin{align*}
 
 &U=\{u_1,\;u_2,\dots,\;u_n\}\text{,}\\\\
-&\{F_1,\;F_2,\dots,\;F_n\}\text{,}\\\\
-&\{f_1,\;f_2,\dots,\;f_n\}
+&F=\{F_1,\;F_2,\dots,\;F_n\}\text{,}\\\\
+&\phi=\{f_1,\;f_2,\dots,\;f_n\}
 
 \end{align*}$$
 
-all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential
+all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that a
