@@ -79,4 +79,10 @@ $$L(u)=F\text{.}$$
 ## Theorem.
 *The Superposition Principle.*
 
-Let $\{u_1,\;u_2,\dots,\;u_n\}$, $\{F_1,\;F_2,\dots,\;F_n\}$, and $\{f_1,\;f_2,\dots,\;f_n\}$, all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$
+Let 
+$
+\{u_1,\;u_2,\dots,\;u_n\}
+\{F_1,\;F_2,\dots,\;F_n\}
+\{f_1,\;f_2,\dots,\;f_n\}
+$
+all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential
