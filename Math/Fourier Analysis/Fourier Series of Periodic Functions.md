@@ -88,4 +88,4 @@ $$\begin{align*}
 
 \end{align*}$$
 
-all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that a
+all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that act on some element of $U$ or $\phi$, respectively. Suppose that 
