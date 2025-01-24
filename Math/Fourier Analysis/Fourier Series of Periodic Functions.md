@@ -79,4 +79,4 @@ $$L(u)=F\text{.}$$
 ## Theorem.
 *The Superposition Principle.*
 
-Let 
+Let $\{u_1,\;u_2,\dots,\;u_n\}$, be a set of functions  
