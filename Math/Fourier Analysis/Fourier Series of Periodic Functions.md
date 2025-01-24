@@ -65,4 +65,4 @@ $$L(u)=\sum_{|\alpha|\leq m}u_\alpha(D^{\alpha}u)$$
 
 ## Remark.
 
-The index of the sum of a *Linear Differential Operator* is of importance. On a basic level, we are summing over the number of wa
+The index of the sum of a *Linear Differential Operator* is of importance. On a basic level, we are summing over the combinations of multi-indices whose sum is less than or equal to $m$. Whether a combination is distinct is governed by the
