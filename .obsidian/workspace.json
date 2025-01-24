@@ -77,8 +77,7 @@
               "title": "6. Books"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +218,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c59ffe44f150ecd",
+  "active": "b3562b6443d0a7b3",
   "lastOpenFiles": [
+    "Math/Fourier Analysis/Fourier Series of Periodic Functions.md",
     "Current Courses/MATH 4031/Homeworks/02. Homework.md",
     "Current Courses/5. Dates.md",
     "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
     "Math/Advanced Calculus/Advanced Calculus, The Real Number System.md",
-    "Math/Fourier Analysis/Fourier Series of Periodic Functions.md",
     "Current Courses/2. Details.md",
     "Math/Advanced Calculus/Advanced Calculus, Algebraic Combinations of Sequences.md",
     "Current Courses/MATH 4031/Homeworks/01. Homework.md",

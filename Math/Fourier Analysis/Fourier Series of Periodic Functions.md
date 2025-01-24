@@ -130,4 +130,12 @@ L(v)&=F\\
 \;\wedge\;B(v)&=f\text{.}
 
 \end{align*}$$
-Then if we ca
+Then if we can find a general solution to 
+$$\begin{align*}
+
+L(u)&=0\\
+\;\wedge\;B(u)&=0\text{,}
+
+\end{align*}$$
+then by the superposition principle,
+$$$$
