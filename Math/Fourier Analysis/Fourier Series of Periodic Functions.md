@@ -104,4 +104,4 @@ B(u_2)&=f_2\text{,}\\
 &\vdots\\
 B(u_k)&=f_k\text{.}
 \end{align*}$$
-Then for all $(c_1,\;c_2,\dots,\;c_k)\in\mathbb{R}^{k}$,
+Then the following statement is tfor all $(c_1,\;c_2,\dots,\;c_k)\in\mathbb{R}^{k}$,
