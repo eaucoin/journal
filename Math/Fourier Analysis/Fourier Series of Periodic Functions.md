@@ -88,4 +88,10 @@ $$\begin{align*}
 
 \end{align*}$$
 
-all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that act on some element of $U$ or $\phi$, respectively. Suppose that 
+all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that act on some element of $U$ or $\phi$, respectively. Suppose that the elements of $U$ satisfy both the set of linear differential equations
+$$\begin{align*}
+
+&L(u)
+&
+
+\end{align*}$$
