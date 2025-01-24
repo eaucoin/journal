@@ -39,7 +39,7 @@ Let:
 - $\mathbb{R}_{s}$ be a space line,
 - $u:\mathbb{R}_{t}\times\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
 - $V:\mathbb{R}_{s}^{3}\rightarrow \mathbb{R}$,
-- $m$ be a real parameter representing mass.
+- $m$ be a real parameter representing mass,
 - $\hbar$ be Planck's constant.
 
 Then the *Schrodinger Equation* is defined as 
@@ -49,4 +49,5 @@ $$i\hbar\;\partial_{t} u+\frac{\hbar^{2}}{2m}\nabla^{2}u=V(\textbf{x})u\text{.}$
 *The $D^{\alpha}$ operator.*
 
 Let:
-- $(\alpha_1,\;\alpha_2,\dots,\;\alpha_2)\in\mathbb{N}^{n}$ be a multii
+- $(\alpha_1,\;\alpha_2,\dots,\;\alpha_2)\in\mathbb{N}^{n}$,
+- $\partial_x^k$ be the $k$th partial derivative operator with respect to the independent variable $x$
