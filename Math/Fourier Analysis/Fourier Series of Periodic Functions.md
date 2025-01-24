@@ -62,6 +62,7 @@ $$D^{\alpha}=\partial^{\alpha_1}_{x_1}\partial^{\alpha_2}_{x_2}\dots\partial^{\a
 
 Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. For a function $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$, the *Linear Differential Operator* $L(u)$ of order $m$ is defined by
 $$L(u)=\sum_{|\alpha|\leq m}u_\alpha(D^{\alpha}u)\text{,}$$
+where all $u_{\alpha}$ are functions from $\mathbb{R}^{n}$ to $\mathbb{R}$.
 
 ## Remark.
 
@@ -78,5 +79,4 @@ $$L(u)=F\text{.}$$
 ## Theorem.
 *The Superposition Principle.*
 
-
-
+Let 
