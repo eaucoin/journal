@@ -44,3 +44,5 @@ Let:
 
 Then the *Schrodinger Equation* is defined as 
 $$i\hbar\;\partial_{t} u+\frac{\hbar^{2}}{2m}\nabla^{2}u=V(\textbf{x})u\text{.}$$
+
+## Definition
