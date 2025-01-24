@@ -55,4 +55,4 @@ Let:
 - $\partial_x^k$ be the $k$th partial derivative operator with respect to the independent variable $x$.
 
 Then the $D^{\alpha}$ operator is defined by 
-$$\partial^{\alpha_1}$$
+$$\partial^{\alpha_1}_{x_1}\partial^{\alpha_2}_{x_2}\dots\parti$$
