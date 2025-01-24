@@ -65,6 +65,7 @@ $$L(u)=\sum_{|\alpha|\leq m}u_\alpha(D^{\alpha}u)$$
 
 ## Remark.
 
-The index of the sum of a *Linear Differential Operator* is of importance. On a basic level, we are summing over the combinations of multi-indices whose sum is less than or equal to $m$. Whether a combination is distinct is governed by some rules of the partial derivative. Most notably,
+The index of the sum of a *Linear Differential Operator* is of importance. On a basic level, we are summing over the combinations of multi-indices whose sum is less than or equal to $m$. Whether any two combination is distinct is governed by some rules of the partial derivative. Most notably,
 - Repeated partial derivatives with respect to a single partial derivative commute, but:
 - Partial derivatives of distinct variables do not commute.
+
