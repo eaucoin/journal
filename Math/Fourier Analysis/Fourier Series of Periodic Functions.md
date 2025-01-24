@@ -49,3 +49,4 @@ $$i\hbar\;\partial_{t} u+\frac{\hbar^{2}}{2m}\nabla^{2}u=V(\textbf{x})u\text{.}$
 *The $D^{\alpha}$ operator.*
 
 Let:
+- $(\alpha_1,\;\alpha_2,\dots,\;\alpha_2)\in\mathbb{N}^{n}$ be a multii
