@@ -50,7 +50,8 @@ $$i\hbar\;\partial_{t} u+\frac{\hbar^{2}}{2m}\nabla^{2}u=V(\textbf{x})u\text{.}$
 
 Let:
 - $(\alpha_1,\;\alpha_2,\dots,\;\alpha_n)\in\mathbb{N}^{n}$,
-- $\alpha=a_1+a_2+\dots+a_n$
-- $\partial_x^k$ be the $k$th partial derivative operator with respect to the independent variable $x$,
+- $\alpha=a_1+a_2+\dots+a_n$,
+- $\partial_x^k$ be the $k$th partial derivative operator with respect to the independent variable $x$.
 
-Then the *$D^{\alpha}$ operator is defi
+Then the $D^{\alpha}$ operator is defined by 
+$$\partial$$
