@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Fourier Analysis/Fourier Series of Periodic Functions.md",
+                "file": "Current Courses/MATH 4325/Homeworks/01. Homework, Emile Aucoin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fourier Series of Periodic Functions"
+              "title": "01. Homework, Emile Aucoin"
             }
           },
           {
@@ -207,8 +207,10 @@
   },
   "active": "0c59ffe44f150ecd",
   "lastOpenFiles": [
-    "Current Courses/6. Books.md",
     "Math/Fourier Analysis/Fourier Series of Periodic Functions.md",
+    "Current Courses/MATH 4325/Homeworks/01. Homework, Emile Aucoin.md",
+    "Current Courses/MATH 4325/Homeworks",
+    "Current Courses/6. Books.md",
     "Current Courses/MATH 4031/Homeworks/02. Homework.md",
     "Current Courses/5. Dates.md",
     "Math/Advanced Calculus/Advanced Calculus, 00, Guide.md",
@@ -236,14 +238,12 @@
     "Current Courses/4. Grading.md",
     "Math/Elementary Stochastic Processes/Stationary Distributions.md",
     "Math/Elementary Stochastic Processes/00. Guide.md",
-    "Math/Elementary Stochastic Processes/Application – Queueing Theory.md",
     "Untitled 1.canvas",
     "Current Courses/ASTR 1102",
     "Current Courses/ASTR 1101",
     "Math/Elementary Stochastic Processes",
     "Math/Fourier Analysis",
     "Current Courses/MATH 4058",
-    "Current Courses/MATH 4031/Homeworks",
-    "Math/Advanced Calculus"
+    "Current Courses/MATH 4031/Homeworks"
   ]
 }
