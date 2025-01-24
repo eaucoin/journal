@@ -104,4 +104,11 @@ B(u_2)&=f_2\text{,}\\
 &\vdots\\
 B(u_k)&=f_k\text{.}
 \end{align*}$$
-Then the following statement is tfor all $(c_1,\;c_2,\dots,\;c_k)\in\mathbb{R}^{k}$,
+Then the following statement is true for all $(c_1,\;c_2,\dots,\;c_k)\in\mathbb{R}^{k}$.
+
+**Statement:** If $u=c_1u_1+c_2u_2+\dots+c_ku_k$, then 
+$$\begin{align*}
+
+
+
+\end{align*}$$
