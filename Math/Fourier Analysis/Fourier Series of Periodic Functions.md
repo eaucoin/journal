@@ -138,4 +138,3 @@ L(u)&=0\\
 
 \end{align*}$$
 then by the superposition principle,
-$$$$
