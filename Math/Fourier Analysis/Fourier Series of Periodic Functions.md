@@ -88,7 +88,15 @@ $$\begin{align*}
 
 \end{align*}$$
 
-all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that act on some element of $U$ or $\phi$, respectively. Suppose that the elements of $U$ satisfy both the set of linear differential equations
+all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that act on some element of $U$ or $\phi$, respectively. Suppose that the elements of $U$ satisfy the set of linear differential equations
+$$\begin{align*}
+
+L(u_1)&=F_1\text{,}\\
+L(u_2)&=F_2\text{,}\\
+&\vdots\\
+L(u_k)&=F_k\text{,}
+\end{align*}$$
+and satisfy the set of boundary conditions:
 $$\begin{align*}
 
 L(u_1)&=F_1\text{,}\\
