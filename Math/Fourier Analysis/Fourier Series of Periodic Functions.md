@@ -50,4 +50,7 @@ $$i\hbar\;\partial_{t} u+\frac{\hbar^{2}}{2m}\nabla^{2}u=V(\textbf{x})u\text{.}$
 
 Let:
 - $(\alpha_1,\;\alpha_2,\dots,\;\alpha_2)\in\mathbb{N}^{n}$,
-- $\partial_x^k$ be the $k$th partial derivative operator with respect to the independent variable $x$
+- $\alpha=\sum_{}$
+- $\partial_x^k$ be the $k$th partial derivative operator with respect to the independent variable $x$,
+
+Then the *$D^{\alpha}$
