@@ -82,16 +82,16 @@ $$L(u)=F\text{.}$$
 Let 
 $$\begin{align*}
 
-&U=\{u_1,\;u_2,\dots,\;u_n\}\text{,}\\\\
-&F=\{F_1,\;F_2,\dots,\;F_n\}\text{,}\\\\
-&\phi=\{f_1,\;f_2,\dots,\;f_n\}
+&U=\{u_1,\;u_2,\dots,\;u_k\}\text{,}\\\\
+&F=\{F_1,\;F_2,\dots,\;F_k\}\text{,}\\\\
+&\phi=\{f_1,\;f_2,\dots,\;f_k\}
 
 \end{align*}$$
 
 all be sets of functions from $\mathbb{R}^{n}$ to $\mathbb{R}$, and let $L$ and $B$ be differential operators that act on some element of $U$ or $\phi$, respectively. Suppose that the elements of $U$ satisfy both the set of linear differential equations
 $$\begin{align*}
 
-&L(u)
-&
-
+&L(u_1)=F_1\text{,}\\\\
+&L(u_2)=F_2
+&L(u_k)=F_
 \end{align*}$$
