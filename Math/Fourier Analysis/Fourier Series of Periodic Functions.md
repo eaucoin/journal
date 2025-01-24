@@ -62,3 +62,7 @@ $$D^{\alpha}=\partial^{\alpha_1}_{x_1}\partial^{\alpha_2}_{x_2}\dots\partial^{\a
 
 Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. For a function $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$, the *Linear Differential Operator* $L(u)$ of order $m$ is defined by
 $$L(u)=\sum_{|\alpha|\leq m}u_\alpha(D^{\alpha}u)$$
+
+## Remark.
+
+The index of the sum of a *Linear Differential Operator* is of importance. On a basic level, we are summing over the number of wa
