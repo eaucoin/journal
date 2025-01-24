@@ -60,4 +60,4 @@ $$D^{\alpha}=\partial^{\alpha_1}_{x_1}\partial^{\alpha_2}_{x_2}\dots\partial^{\a
 ## Definition.
 *The Differential Operator.*
 
-Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. Then the differential operator of a function 
+Take the assumptions of the [[Fourier Series of Periodic Functions#^50927c|definition above]]. Then the differential operator of a function $u$
