@@ -110,6 +110,8 @@ Then the following statement is true for all $(c_1,\;c_2,\dots,\;c_k)\in\mathbb{
 $$\begin{align*}
 
 L(u)&=c_1F_1+c_2F_2+\dots+c_kF_k\\\\
-\;\wedge\;B(u)&=
+\;\wedge\;B(u)&=c_1f_1+c_2f_2+\dots+c_kf_k\text{.}
 
 \end{align*}$$
+
+## 
