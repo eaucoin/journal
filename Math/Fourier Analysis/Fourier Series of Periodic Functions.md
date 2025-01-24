@@ -71,5 +71,6 @@ The index of the sum of a *Linear Differential Operator* is of importance. On a 
 
 ## Definition.
 
-Let $L(u)$ be a linear differential operator
+Let $L(u)$ be a linear differential operator on $u:\mathbb{R}^{n}\rightarrow\mathbb{R}$, and let $F:\mathbb{R}^{n}\rightarrow\mathbb{R}$. A linear partial differential equation is of the form
+$L(u)=F$
 
