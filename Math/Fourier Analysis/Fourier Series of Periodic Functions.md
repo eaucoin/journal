@@ -109,6 +109,4 @@ Then the following statement is true for all $(c_1,\;c_2,\dots,\;c_k)\in\mathbb{
 **Statement:** If $u=c_1u_1+c_2u_2+\dots+c_ku_k$, then 
 $$\begin{align*}
 
-
-
-\end{align*}$$
+L(u)&=c_1F_1+c_2F_2+\dots+c_kF_k\text{,}$$
